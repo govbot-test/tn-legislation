@@ -1,0 +1,79 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+SENATE BILL 2627
+By Yager
+AN ACT to amend Tennessee Code Annotated, Title 49,
+relative to the Individualized Education Act.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Title 49, Chapter 10, Part 14, is amended by
+adding the following as a new section:
+(a) By July 1, 2026, and by each July 1 thereafter, the department of education
+shall provide a report to the chairs of the finance, ways, and means committees of the
+senate and house of representatives, the chairs of the education committees of the
+senate and house of representatives, and the directors of the office of legislative budget
+analysis to assist the general assembly in evaluating the availability of the program.
+(b) Except as provided in subsection (c), the report must include the following
+information for the immediately preceding fiscal year:
+(1) The number of:
+(A) Eligible students statewide;
+(B) Participating students; and
+(C) Students the program had the capacity to serve; and
+(2) The process developed and implemented by the department to notify
+parents of their child's potential eligibility to participate in the program.
+(c) The first report provided by the department pursuant to this section must
+include the information identified in subsection (b) for each of the five (5) immediately
+preceding fiscal years, as well as the total annual amount expended by the department
+for the program for each of the five (5) immediately preceding years.
+
+Section 3:
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+SB2627
+008964
+- 1 -
+[DELETED: S((((((((S]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+SENATE BILL 2627
+By Yager
+AN ACT to amend Tennessee Code Annotated, Title 49,
+relative to the Individualized Education Act.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Title 49, Chapter 10, Part 14, is amended by
+adding the following as a new section:
+(a) By July 1, 2026, and by each July 1 thereafter, the department of education
+shall provide a report to the chairs of the finance, ways, and means committees of the
+senate and house of representatives, the chairs of the education committees of the
+senate and house of representatives, and the directors of the office of legislative budget
+analysis to assist the general assembly in evaluating the availability of the program.
+(b) Except as provided in subsection (c), the report must include the following
+information for the immediately preceding fiscal year:
+(1) The number of:
+(A) Eligible students statewide;
+(B) Participating students; and
+(C) Students the program had the capacity to serve; and
+(2) The process developed and implemented by the department to notify
+parents of their child's potential eligibility to participate in the program.
+(c) The first report provided by the department pursuant to this section must
+include the information identified in subsection (b) for each of the five (5) immediately
+preceding fiscal years, as well as the total annual amount expended by the department
+for the program for each of the five (5) immediately preceding years.
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+SB2627
+008964
+- 1 -
+
+[DELETED: S((((((((S]

@@ -1,0 +1,67 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+SENATE JOINT RESOLUTION 1051
+By Johnson
+A RESOLUTION to honor Veterans Month.
+WHEREAS, the State of Tennessee is home to more than 440,000 men and women
+who have earned the honored title of "veteran"; and
+WHEREAS, the State of Tennessee is also home to more than 82,000 veterans who
+suffer from service-connected disabilities; and
+WHEREAS, veterans from the State of Tennessee have earned thirty-three Medals of
+Honor, our nation's highest military honor for heroism in battle; and
+WHEREAS, Tennesseans are proud to honor our veterans on November 11 of each
+year in accordance with federal law; and
+WHEREAS, a single day of special observance is not sufficient to express our
+admiration and gratitude to the courageous men and women who have sacrificed greatly in
+service to their country; now, therefore,
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE HOUSE OF
+REPRESENTATIVES CONCURRING, that we honor Veterans Month in November 2026.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy and upon proper request made to
+the appropriate clerk, the language appearing immediately following the State seal appear
+without House or Senate designation.
+SJR1051
+017085
+- 1 -
+[DELETED: WWWWWBB]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+SENATE JOINT RESOLUTION 1051
+By Johnson
+A RESOLUTION to honor Veterans Month.
+WHEREAS, the State of Tennessee is home to more than 440,000 men and women
+who have earned the honored title of "veteran"; and
+WHEREAS, the State of Tennessee is also home to more than 82,000 veterans who
+suffer from service-connected disabilities; and
+WHEREAS, veterans from the State of Tennessee have earned thirty-three Medals of
+Honor, our nation's highest military honor for heroism in battle; and
+WHEREAS, Tennesseans are proud to honor our veterans on November 11 of each
+year in accordance with federal law; and
+WHEREAS, a single day of special observance is not sufficient to express our
+admiration and gratitude to the courageous men and women who have sacrificed greatly in
+service to their country; now, therefore,
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE HOUSE OF
+REPRESENTATIVES CONCURRING, that we honor Veterans Month in November 2026.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy and upon proper request made to
+the appropriate clerk, the language appearing immediately following the State seal appear
+without House or Senate designation.
+SJR1051
+017085
+- 1 -
+
+[DELETED: WWWWWBB]

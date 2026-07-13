@@ -1,0 +1,77 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+SENATE JOINT RESOLUTION 856
+By Southerland
+A RESOLUTION to honor and congratulate Isaac Drinnon on
+winning the 2025-2026 Hamblen County
+Spelling Bee.
+WHEREAS, our super spellers and their impressive accomplishments are rightfully
+included in the pantheon of Tennessee champions; and
+WHEREAS, Isaac Drinnon, an eighth-grade student at East Ridge Middle School, has
+earned inclusion among this select group by winning the 2025-2026 Hamblen County Spelling
+Bee; and
+WHEREAS, renowned throughout Hamblen County as a spelling phenomenon, Isaac
+Drinnon clinched the title with the winning word "maladaptive"; and
+WHEREAS, spellers of Isaac's quality are not born but made, as they combine academic
+excellence, intensive practice, and composure under pressure to produce a unique competitor;
+and
+WHEREAS, Isaac Drinnon has truly earned his laurels as a champion speller, and it is
+most appropriate that he "bee" recognized; now, therefore,
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE HOUSE OF
+REPRESENTATIVES CONCURRING, that we honor and congratulate Isaac Drinnon on
+winning the 2025-2026 Hamblen County Spelling Bee and extend to him our best wishes for
+much continued success and happiness in his future endeavors.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy and upon proper request made to
+the appropriate clerk, the language appearing immediately following the State seal appear
+without House or Senate designation.
+SJR0856
+013439
+- 1 -
+[DELETED: WWWWWBB]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+SENATE JOINT RESOLUTION 856
+By Southerland
+A RESOLUTION to honor and congratulate Isaac Drinnon on
+winning the 2025-2026 Hamblen County
+Spelling Bee.
+WHEREAS, our super spellers and their impressive accomplishments are rightfully
+included in the pantheon of Tennessee champions; and
+WHEREAS, Isaac Drinnon, an eighth-grade student at East Ridge Middle School, has
+earned inclusion among this select group by winning the 2025-2026 Hamblen County Spelling
+Bee; and
+WHEREAS, renowned throughout Hamblen County as a spelling phenomenon, Isaac
+Drinnon clinched the title with the winning word "maladaptive"; and
+WHEREAS, spellers of Isaac's quality are not born but made, as they combine academic
+excellence, intensive practice, and composure under pressure to produce a unique competitor;
+and
+WHEREAS, Isaac Drinnon has truly earned his laurels as a champion speller, and it is
+most appropriate that he "bee" recognized; now, therefore,
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE HOUSE OF
+REPRESENTATIVES CONCURRING, that we honor and congratulate Isaac Drinnon on
+winning the 2025-2026 Hamblen County Spelling Bee and extend to him our best wishes for
+much continued success and happiness in his future endeavors.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy and upon proper request made to
+the appropriate clerk, the language appearing immediately following the State seal appear
+without House or Senate designation.
+SJR0856
+013439
+- 1 -
+
+[DELETED: WWWWWBB]

@@ -1,0 +1,71 @@
+Title: AMEND S e n ate Bill No. 2291 House Bill No. 1985*
+Official Title: AMEND S e n ate Bill No. 2291 House Bill No. 1985*
+Number of Sections: 3
+Source: versions - Amendment HA0960
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+House Commerce 1
+Amendment No. 1 to HB1985
+Vaughan
+Signature of Sponsor
+by deleting all language after the enacting clause and substituting:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 62-32-305, is amended by adding
+the following as a new subdivision:
+(16)
+(A) A managed services provider that:
+(i) Provides direct sales, installation, or maintenance service for
+an IP camera connected to the managed services provider's network;
+(ii) Derives less than twenty-five percent (25%) of the managed
+services provider's gross annual revenue from those services; and
+(iii) Provides proof of employee vetting satisfactory to the
+commissioner;
+(B) This subdivision (16) does not apply to a managed services provider
+that offers monitoring services; and
+(C) As used in this subdivision (16), "managed services provider" means
+a business entity that manages and maintains a customer's information
+technology systems.
+
+Section 3:
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+HA0960
+015754
+- 1 -
+[DELETED:  a HS(((((((S]
+
+
+================================================================================
+
+Raw Text:
+House Commerce 1
+Amendment No. 1 to HB1985
+Vaughan
+Signature of Sponsor
+AMEND S e n ate Bill No. 2291 House Bill No. 1985*
+by deleting all language after the enacting clause and substituting:
+SECTION 1. Tennessee Code Annotated, Section 62-32-305, is amended by adding
+the following as a new subdivision:
+(16)
+(A) A managed services provider that:
+(i) Provides direct sales, installation, or maintenance service for
+an IP camera connected to the managed services provider's network;
+(ii) Derives less than twenty-five percent (25%) of the managed
+services provider's gross annual revenue from those services; and
+(iii) Provides proof of employee vetting satisfactory to the
+commissioner;
+(B) This subdivision (16) does not apply to a managed services provider
+that offers monitoring services; and
+(C) As used in this subdivision (16), "managed services provider" means
+a business entity that manages and maintains a customer's information
+technology systems.
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+HA0960
+015754
+- 1 -
+
+[DELETED:  a HS(((((((S]

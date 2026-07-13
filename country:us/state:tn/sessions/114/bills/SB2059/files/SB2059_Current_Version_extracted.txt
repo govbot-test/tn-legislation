@@ -1,0 +1,53 @@
+Title: HOUSE BILL 2593
+Official Title: HOUSE BILL 2593
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+By Vaughan
+SENATE BILL 2059
+By Taylor
+AN ACT to amend Tennessee Code Annotated, Title 4;
+Title 5; Title 6; Title 7; Title 8; Title 12; Title 13;
+Title 54; Title 64; Title 65; Title 68 and Title 69,
+relative to utilities.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 65-1-111, is amended by adding the
+following after "of all of its meetings.":
+The report may be provided electronically.
+
+Section 3:
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+SB2059
+011291
+- 1 -
+[DELETED: S]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 2593
+By Vaughan
+SENATE BILL 2059
+By Taylor
+AN ACT to amend Tennessee Code Annotated, Title 4;
+Title 5; Title 6; Title 7; Title 8; Title 12; Title 13;
+Title 54; Title 64; Title 65; Title 68 and Title 69,
+relative to utilities.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 65-1-111, is amended by adding the
+following after "of all of its meetings.":
+The report may be provided electronically.
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+SB2059
+011291
+- 1 -
+
+[DELETED: S]

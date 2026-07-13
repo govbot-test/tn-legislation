@@ -1,0 +1,120 @@
+Title: HOUSE BILL 1761
+Official Title: HOUSE BILL 1761
+Number of Sections: 7
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+By Gant
+SENATE BILL 2216
+By Walley
+AN ACT to amend Tennessee Code Annotated, Section 8-
+50-119 and Title 68, Chapter 102, relative to public
+safety employees.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Title 68, Chapter 102, Part 1, is amended by
+adding the following as a new section:
+(a) Participation in the state's employee assistance program, including
+components for mental health and wellness, is available for all active members of a
+volunteer fire department and all active volunteer members of a combination fire
+department recognized under the Fire Department Recognition Act, compiled in part 3 of
+this chapter. This state shall pay all costs associated with such access.
+(b) For purposes of this section, "employee assistance program" means a
+program that provides counseling, problem identification, intervention, assessment, or
+referral for appropriate diagnosis and treatment, and follow-up services to assist
+employees who are impaired by personal concerns, including, but not limited to, health,
+marital, family, financial, alcohol, drug, legal, emotional, stress, or other personal
+concerns that may adversely affect employee job performance.
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 68-102-304(2), is amended by
+deleting the language "as determined by the Tennessee Fire Incident Reporting System
+(TFIRS)".
+
+Section 4:
+SECTION 3. Tennessee Code Annotated, Section 68-102-304(4), is amended by
+deleting the language "by certified mail".
+SB2216
+011316
+- 1 -
+
+Section 5:
+SECTION 4. Tennessee Code Annotated, Section 68-102-304, is amended by adding
+the following as a new subdivision (2) and redesignating the existing subdivisions accordingly:
+(2) A fire department shall submit with an application, in a format prescribed by
+the state fire marshal's office, a list of active members of the department that includes,
+but is not limited to, name, mailing address, rank, public safety identification number
+(PSID), and birth date. The state fire marshal's office may require a more frequent
+periodic update of the department's membership list through electronic means of those
+departments participating in state grant programs, training or training incentive
+programs, or other state-related opportunities.
+
+Section 6:
+SECTION 5. Tennessee Code Annotated, Section 8-50-119(b)(3), is amended by
+deleting "full-time" and substituting "full-time or part-time".
+
+Section 7:
+SECTION 6. Section 1 and Section 5 take effect January 1, 2027, the public welfare
+requiring it. The remaining sections take effect upon becoming a law, the public welfare
+requiring it.
+- 2 - 011316
+[DELETED: S((SS]
+[DELETED:  -0S(SS]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 1761
+By Gant
+SENATE BILL 2216
+By Walley
+AN ACT to amend Tennessee Code Annotated, Section 8-
+50-119 and Title 68, Chapter 102, relative to public
+safety employees.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Title 68, Chapter 102, Part 1, is amended by
+adding the following as a new section:
+(a) Participation in the state's employee assistance program, including
+components for mental health and wellness, is available for all active members of a
+volunteer fire department and all active volunteer members of a combination fire
+department recognized under the Fire Department Recognition Act, compiled in part 3 of
+this chapter. This state shall pay all costs associated with such access.
+(b) For purposes of this section, "employee assistance program" means a
+program that provides counseling, problem identification, intervention, assessment, or
+referral for appropriate diagnosis and treatment, and follow-up services to assist
+employees who are impaired by personal concerns, including, but not limited to, health,
+marital, family, financial, alcohol, drug, legal, emotional, stress, or other personal
+concerns that may adversely affect employee job performance.
+SECTION 2. Tennessee Code Annotated, Section 68-102-304(2), is amended by
+deleting the language "as determined by the Tennessee Fire Incident Reporting System
+(TFIRS)".
+SECTION 3. Tennessee Code Annotated, Section 68-102-304(4), is amended by
+deleting the language "by certified mail".
+SB2216
+011316
+- 1 -
+
+SECTION 4. Tennessee Code Annotated, Section 68-102-304, is amended by adding
+the following as a new subdivision (2) and redesignating the existing subdivisions accordingly:
+(2) A fire department shall submit with an application, in a format prescribed by
+the state fire marshal's office, a list of active members of the department that includes,
+but is not limited to, name, mailing address, rank, public safety identification number
+(PSID), and birth date. The state fire marshal's office may require a more frequent
+periodic update of the department's membership list through electronic means of those
+departments participating in state grant programs, training or training incentive
+programs, or other state-related opportunities.
+SECTION 5. Tennessee Code Annotated, Section 8-50-119(b)(3), is amended by
+deleting "full-time" and substituting "full-time or part-time".
+SECTION 6. Section 1 and Section 5 take effect January 1, 2027, the public welfare
+requiring it. The remaining sections take effect upon becoming a law, the public welfare
+requiring it.
+- 2 - 011316
+
+[DELETED: S((SS]
+[DELETED:  -0S(SS]

@@ -1,0 +1,96 @@
+Title: SENATE BILL 2335
+Official Title: SENATE BILL 2335
+Number of Sections: 5
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+By Gardenhire
+HOUSE BILL 2065
+By Todd
+AN ACT to amend Tennessee Code Annotated, Title 39,
+relative to criminal offenses.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 39-14-406(a), is amended by
+deleting the subsection and substituting:
+(a) A person commits aggravated criminal trespass who enters or remains on
+property when:
+(1) The person knows the person does not have the property owner's
+effective consent to do so; and
+(2)
+(A) The person intends, knows, or is reckless about whether such
+person's presence will cause fear for the safety of another;
+(B) The person, in order to gain entry to the property, destroys,
+cuts, vandalizes, alters, or removes a gate, signage, fencing, lock, chain
+or other barrier designed to keep trespassers from entering the property;
+(C) The person, while on the property, recklessly damages the
+property or personal property thereon; or
+(D) The person disrupts a religious assembly within a structure on
+the property.
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 39-14-406(c), is amended by adding
+the following as a new subdivision:
+(4) Aggravated criminal trespass that involves disruption of a religious assembly
+is a Class A misdemeanor.
+HB2065
+012006
+- 1 -
+
+Section 4:
+SECTION 3. Tennessee Code Annotated, Section 39-14-406(c)(1), is amended by
+deleting the language "subdivisions (c)(2) and (3)" and substituting "subdivisions (c)(2)-(4)".
+
+Section 5:
+SECTION 4. This act takes effect July 1, 2026, the public welfare requiring it.
+- 2 - 012006
+[DELETED: S(((((((S(]
+[DELETED:  -0SS]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 2335
+By Gardenhire
+HOUSE BILL 2065
+By Todd
+AN ACT to amend Tennessee Code Annotated, Title 39,
+relative to criminal offenses.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 39-14-406(a), is amended by
+deleting the subsection and substituting:
+(a) A person commits aggravated criminal trespass who enters or remains on
+property when:
+(1) The person knows the person does not have the property owner's
+effective consent to do so; and
+(2)
+(A) The person intends, knows, or is reckless about whether such
+person's presence will cause fear for the safety of another;
+(B) The person, in order to gain entry to the property, destroys,
+cuts, vandalizes, alters, or removes a gate, signage, fencing, lock, chain
+or other barrier designed to keep trespassers from entering the property;
+(C) The person, while on the property, recklessly damages the
+property or personal property thereon; or
+(D) The person disrupts a religious assembly within a structure on
+the property.
+SECTION 2. Tennessee Code Annotated, Section 39-14-406(c), is amended by adding
+the following as a new subdivision:
+(4) Aggravated criminal trespass that involves disruption of a religious assembly
+is a Class A misdemeanor.
+HB2065
+012006
+- 1 -
+
+SECTION 3. Tennessee Code Annotated, Section 39-14-406(c)(1), is amended by
+deleting the language "subdivisions (c)(2) and (3)" and substituting "subdivisions (c)(2)-(4)".
+SECTION 4. This act takes effect July 1, 2026, the public welfare requiring it.
+- 2 - 012006
+
+[DELETED: S(((((((S(]
+[DELETED:  -0SS]

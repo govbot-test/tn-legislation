@@ -1,0 +1,204 @@
+Title: SENATE BILL 2055
+Official Title: SENATE BILL 2055
+Number of Sections: 4
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+By Walley
+HOUSE BILL 2327
+By Martin B
+AN ACT to amend Tennessee Code Annotated, Title 49;
+Title 68 and Title 71, relative to student services.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Title 49, Chapter 10, is amended by adding
+the following as a new part:
+49-10-1501. Definitions.
+As used in this part:
+(1) "Applied behavior analysis" has the same meaning as "practice of
+applied behavior analysis" as that term is defined in § 63-11-302;
+(2) "IEP" means the individualized education program developed,
+reviewed, and revised by an IEP team for a child with a disability in accordance
+with the Individuals with Disabilities Education Act (20 U.S.C. 1400 et seq.);
+(3) "Licensed assistant behavior analyst" has the same meaning as
+defined in § 63-11-302;
+(4) "Licensed behavior analyst" has the same meaning as defined in §
+63-11-302;
+(5) "Private pay provider" means a licensed behavior analyst or licensed
+assistant behavior analyst who provides applied behavior analysis to a student, is
+not employed or contracted directly by the LEA or public charter school in which
+the student receiving applied behavior analysis is enrolled, and is compensated
+privately by the student's family or by an external entity; and
+HB2327
+010486
+- 1 -
+(6) "Private pay services" means applied behavior analysis provided by a
+private pay provider on the grounds of the LEA or public charter school in which
+the student receiving the applied behavior analysis is enrolled.
+49-10-1502. Student access to private pay services during the school day.
+(a) LEAs and public charter schools shall allow a private pay provider who is
+under contract with a parent or legal guardian of a student with autism spectrum disorder
+or developmental delays who is enrolled in the LEA or public charter school, access to
+the student during the school day to provide the student with private pay services in
+educational settings that provide the least restrictive environment, including, but not
+limited to, classroom settings, as determined by the student's IEP or service agreement.
+(b) A private pay provider must coordinate with the student's IEP team and
+school staff to ensure that private pay services only include the services specifically
+required under the student's IEP and that private pay services are integrated effectively
+into the student's school day without disrupting the overall classroom environment.
+(c) Written consent from the student's parent or legal guardian is required for the
+provision of private pay services during the school day. The parent or legal guardian
+has the right to choose the private pay provider that provides services to the student.
+(d) A licensed behavior analyst shall supervise private pay services delivered
+during the school day, including, but not limited to, those delivered by a licensed
+assistant behavior analyst, in accordance with national certification standards, and shall
+ensure the quality and fidelity of the private pay services delivered.
+(e) LEAs and public charter schools shall provide accommodations necessary
+for private pay providers to deliver private pay services to a student during the school
+day, including, but not limited to, providing classroom access, appropriate space, and
+facilitating coordination between the private pay provider and school personnel.
+- 2 - 010486
+(f) An LEA or public charter school shall not:
+(1) Charge a fee or otherwise impose conditions or place barriers that
+may hinder or prevent private pay providers from accessing a student during the
+school day; provided, that the private pay services are aligned with the student's
+educational and developmental needs;
+(2) Discriminate against or deny educational benefits or rights to a
+student who receives private pay services during the school day;
+(3) Retaliate against a student, parent or legal guardian, or private pay
+provider for seeking or delivering private pay services on school premises; or
+(4) Be held responsible for the costs of any private pay services provided
+to a student pursuant to this section, unless otherwise agreed to or required as
+part of a student's IEP or other legal agreement.
+(g) If an LEA or public charter school disagrees with a private pay provider or
+with a parent or legal guardian regarding access or the provision of private pay services
+during the school day that cannot be resolved between the respective parties, then the
+department shall appoint an impartial hearing officer to resolve the dispute. The hearing
+officer shall give primary consideration to what is in the best interests of the student.
+(h) A private pay provider shall comply with the background investigation
+requirements in § 49-5-413, and shall provide proof of licensure and certification to the
+LEA or public charter school before providing any services on school premises.
+(i) The department shall, in consultation with relevant agencies and
+stakeholders, develop guidelines and best practices to facilitate the implementation of
+this section, including model agreements for private pay providers with LEAs and public
+charter schools. The department shall distribute the guidelines and best practices to
+each LEA and public charter school and post the same on the department's website.
+- 3 - 010486
+
+Section 3:
+SECTION 2. The headings in this act are for reference purposes only and do not
+constitute a part of the law enacted by this act. However, the Tennessee Code Commission is
+requested to include the headings in any compilation or publication containing this act.
+
+Section 4:
+SECTION 3. This act takes effect upon becoming a law, the public welfare requiring it,
+and applies to the 2026-2027 school year and each school year thereafter.
+- 4 - 010486
+[DELETED: S4A(((((]
+[DELETED:  -0(4(((((]
+[DELETED:  -0((((((((]
+[DELETED:  -0SS]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 2055
+By Walley
+HOUSE BILL 2327
+By Martin B
+AN ACT to amend Tennessee Code Annotated, Title 49;
+Title 68 and Title 71, relative to student services.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Title 49, Chapter 10, is amended by adding
+the following as a new part:
+49-10-1501. Definitions.
+As used in this part:
+(1) "Applied behavior analysis" has the same meaning as "practice of
+applied behavior analysis" as that term is defined in § 63-11-302;
+(2) "IEP" means the individualized education program developed,
+reviewed, and revised by an IEP team for a child with a disability in accordance
+with the Individuals with Disabilities Education Act (20 U.S.C. 1400 et seq.);
+(3) "Licensed assistant behavior analyst" has the same meaning as
+defined in § 63-11-302;
+(4) "Licensed behavior analyst" has the same meaning as defined in §
+63-11-302;
+(5) "Private pay provider" means a licensed behavior analyst or licensed
+assistant behavior analyst who provides applied behavior analysis to a student, is
+not employed or contracted directly by the LEA or public charter school in which
+the student receiving applied behavior analysis is enrolled, and is compensated
+privately by the student's family or by an external entity; and
+HB2327
+010486
+- 1 -
+
+(6) "Private pay services" means applied behavior analysis provided by a
+private pay provider on the grounds of the LEA or public charter school in which
+the student receiving the applied behavior analysis is enrolled.
+49-10-1502. Student access to private pay services during the school day.
+(a) LEAs and public charter schools shall allow a private pay provider who is
+under contract with a parent or legal guardian of a student with autism spectrum disorder
+or developmental delays who is enrolled in the LEA or public charter school, access to
+the student during the school day to provide the student with private pay services in
+educational settings that provide the least restrictive environment, including, but not
+limited to, classroom settings, as determined by the student's IEP or service agreement.
+(b) A private pay provider must coordinate with the student's IEP team and
+school staff to ensure that private pay services only include the services specifically
+required under the student's IEP and that private pay services are integrated effectively
+into the student's school day without disrupting the overall classroom environment.
+(c) Written consent from the student's parent or legal guardian is required for the
+provision of private pay services during the school day. The parent or legal guardian
+has the right to choose the private pay provider that provides services to the student.
+(d) A licensed behavior analyst shall supervise private pay services delivered
+during the school day, including, but not limited to, those delivered by a licensed
+assistant behavior analyst, in accordance with national certification standards, and shall
+ensure the quality and fidelity of the private pay services delivered.
+(e) LEAs and public charter schools shall provide accommodations necessary
+for private pay providers to deliver private pay services to a student during the school
+day, including, but not limited to, providing classroom access, appropriate space, and
+facilitating coordination between the private pay provider and school personnel.
+- 2 - 010486
+
+(f) An LEA or public charter school shall not:
+(1) Charge a fee or otherwise impose conditions or place barriers that
+may hinder or prevent private pay providers from accessing a student during the
+school day; provided, that the private pay services are aligned with the student's
+educational and developmental needs;
+(2) Discriminate against or deny educational benefits or rights to a
+student who receives private pay services during the school day;
+(3) Retaliate against a student, parent or legal guardian, or private pay
+provider for seeking or delivering private pay services on school premises; or
+(4) Be held responsible for the costs of any private pay services provided
+to a student pursuant to this section, unless otherwise agreed to or required as
+part of a student's IEP or other legal agreement.
+(g) If an LEA or public charter school disagrees with a private pay provider or
+with a parent or legal guardian regarding access or the provision of private pay services
+during the school day that cannot be resolved between the respective parties, then the
+department shall appoint an impartial hearing officer to resolve the dispute. The hearing
+officer shall give primary consideration to what is in the best interests of the student.
+(h) A private pay provider shall comply with the background investigation
+requirements in § 49-5-413, and shall provide proof of licensure and certification to the
+LEA or public charter school before providing any services on school premises.
+(i) The department shall, in consultation with relevant agencies and
+stakeholders, develop guidelines and best practices to facilitate the implementation of
+this section, including model agreements for private pay providers with LEAs and public
+charter schools. The department shall distribute the guidelines and best practices to
+each LEA and public charter school and post the same on the department's website.
+- 3 - 010486
+
+SECTION 2. The headings in this act are for reference purposes only and do not
+constitute a part of the law enacted by this act. However, the Tennessee Code Commission is
+requested to include the headings in any compilation or publication containing this act.
+SECTION 3. This act takes effect upon becoming a law, the public welfare requiring it,
+and applies to the 2026-2027 school year and each school year thereafter.
+- 4 - 010486
+
+[DELETED: S4A(((((]
+[DELETED:  -0(4(((((]
+[DELETED:  -0((((((((]
+[DELETED:  -0SS]

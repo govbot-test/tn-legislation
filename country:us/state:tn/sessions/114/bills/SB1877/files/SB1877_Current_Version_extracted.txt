@@ -1,0 +1,53 @@
+Title: HOUSE BILL 1641
+Official Title: HOUSE BILL 1641
+Number of Sections: 4
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+By Lamberth
+SENATE BILL 1877
+By Johnson
+AN ACT to amend Tennessee Code Annotated, Title 55
+and Title 65, relative to transportation.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 65-3-124, is amended by deleting the
+language "2022--2026" and substituting the language "2022--2027".
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 65-3-124, is further amended by
+deleting the language "July 1, 2027" and substituting instead the language "July 1, 2028".
+
+Section 4:
+SECTION 3. This act takes effect upon becoming a law, the public welfare requiring it.
+SB1877
+010049
+- 1 -
+[DELETED: SSS]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 1641
+By Lamberth
+SENATE BILL 1877
+By Johnson
+AN ACT to amend Tennessee Code Annotated, Title 55
+and Title 65, relative to transportation.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 65-3-124, is amended by deleting the
+language "2022--2026" and substituting the language "2022--2027".
+SECTION 2. Tennessee Code Annotated, Section 65-3-124, is further amended by
+deleting the language "July 1, 2027" and substituting instead the language "July 1, 2028".
+SECTION 3. This act takes effect upon becoming a law, the public welfare requiring it.
+SB1877
+010049
+- 1 -
+
+[DELETED: SSS]
