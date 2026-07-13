@@ -1,0 +1,84 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+SENATE RESOLUTION 334
+By Walley
+A RESOLUTION to honor and congratulate Lieutenant Shaun
+Phinnessee upon being named Haywood
+County Deputy of the Year.
+WHEREAS, the Volunteer State is especially proud to be the home of so many valiant
+men and women who continue the time-honored tradition of public service in law enforcement,
+dedicating their time and efforts to aiding those in emergency situations and apprehending
+those who have broken the law; and
+WHEREAS, Lieutenant Shaun Phinnessee of the Haywood County Sheriff's Office is
+one such courageous public servant, who was recently named Haywood County Deputy of the
+Year by Sheriff Billy Garrett, Jr.; and
+WHEREAS, Lieutenant Phinnessee has contributed greatly to the safety of the citizens
+of Haywood County, serving with tremendous courage, fortitude, and professionalism and
+making a significant impact for the betterment of his community; and
+WHEREAS, Lieutenant Phinnessee epitomizes the spirit and commitment that are
+characteristic of a true Tennessean, and his professionalism and dedication to Haywood County
+are evident to all who know him; and
+WHEREAS, we find it appropriate to acknowledge and applaud Lieutenant Shaun
+Phinnessee for his dedication to the State of Tennessee and its citizens; now, therefore,
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, that we honor and congratulate
+Lieutenant Shaun Phinnessee upon being named Haywood County Deputy of the Year, thank
+him for his meritorious service to the citizens of Haywood County and the State of Tennessee,
+and extend to him our best wishes for every future success.
+SR0334
+015320
+- 1 -
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy.
+- 2 - 015320
+[DELETED: WWWWWB]
+[DELETED:  -0B]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+SENATE RESOLUTION 334
+By Walley
+A RESOLUTION to honor and congratulate Lieutenant Shaun
+Phinnessee upon being named Haywood
+County Deputy of the Year.
+WHEREAS, the Volunteer State is especially proud to be the home of so many valiant
+men and women who continue the time-honored tradition of public service in law enforcement,
+dedicating their time and efforts to aiding those in emergency situations and apprehending
+those who have broken the law; and
+WHEREAS, Lieutenant Shaun Phinnessee of the Haywood County Sheriff's Office is
+one such courageous public servant, who was recently named Haywood County Deputy of the
+Year by Sheriff Billy Garrett, Jr.; and
+WHEREAS, Lieutenant Phinnessee has contributed greatly to the safety of the citizens
+of Haywood County, serving with tremendous courage, fortitude, and professionalism and
+making a significant impact for the betterment of his community; and
+WHEREAS, Lieutenant Phinnessee epitomizes the spirit and commitment that are
+characteristic of a true Tennessean, and his professionalism and dedication to Haywood County
+are evident to all who know him; and
+WHEREAS, we find it appropriate to acknowledge and applaud Lieutenant Shaun
+Phinnessee for his dedication to the State of Tennessee and its citizens; now, therefore,
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, that we honor and congratulate
+Lieutenant Shaun Phinnessee upon being named Haywood County Deputy of the Year, thank
+him for his meritorious service to the citizens of Haywood County and the State of Tennessee,
+and extend to him our best wishes for every future success.
+SR0334
+015320
+- 1 -
+
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy.
+- 2 - 015320
+
+[DELETED: WWWWWB]
+[DELETED:  -0B]

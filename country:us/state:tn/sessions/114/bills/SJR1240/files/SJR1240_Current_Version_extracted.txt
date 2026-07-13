@@ -1,0 +1,86 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+SENATE JOINT RESOLUTION 1240
+By Bailey
+A RESOLUTION to commend Aaron Sullivan for exemplary
+service as a legislative intern.
+WHEREAS, each legislative session, this body is pleased to recognize certain persons
+who have committed themselves, through their adroit service, to the betterment of the legislative
+process; and
+WHEREAS, Aaron Sullivan is one such individual, who has distinguished himself in his
+role as a legislative intern for Senator Paul Bailey and the Senate Commerce and Labor
+Committee; Mr. Sullivan's work has resulted in innumerable benefits for the legislators he
+assisted and the General Assembly as a whole; and
+WHEREAS, originally from Columbia, Aaron Sullivan is a student at Tennessee
+Technological University, where he is highly regarded by his peers; he has achieved academic
+success while pursuing a degree in criminology with a minor in cybercrime; and
+WHEREAS, eager to familiarize himself with the characteristics and complexities of
+Tennessee State government and to further his studies, Aaron Sullivan brought his many
+abilities and singular expertise to Capitol Hill for the 2026 session of the One Hundred
+Fourteenth General Assembly; and
+WHEREAS, throughout the 2026 legislative session, Mr. Sullivan has surpassed all
+criteria that define a devoted and conscientious legislative intern; and
+WHEREAS, Aaron Sullivan has performed his many duties with extraordinary insight
+and rare decorum; now, therefore,
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, that we hereby commend Aaron
+SJR1240
+018415
+- 1 -
+Sullivan for outstanding service as a legislative intern for Senator Paul Bailey and the Senate
+Commerce and Labor Committee and extend to him our best wishes for every future success.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy.
+- 2 - 018415
+[DELETED: WWWWWWB]
+[DELETED:  -0B]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+SENATE JOINT RESOLUTION 1240
+By Bailey
+A RESOLUTION to commend Aaron Sullivan for exemplary
+service as a legislative intern.
+WHEREAS, each legislative session, this body is pleased to recognize certain persons
+who have committed themselves, through their adroit service, to the betterment of the legislative
+process; and
+WHEREAS, Aaron Sullivan is one such individual, who has distinguished himself in his
+role as a legislative intern for Senator Paul Bailey and the Senate Commerce and Labor
+Committee; Mr. Sullivan's work has resulted in innumerable benefits for the legislators he
+assisted and the General Assembly as a whole; and
+WHEREAS, originally from Columbia, Aaron Sullivan is a student at Tennessee
+Technological University, where he is highly regarded by his peers; he has achieved academic
+success while pursuing a degree in criminology with a minor in cybercrime; and
+WHEREAS, eager to familiarize himself with the characteristics and complexities of
+Tennessee State government and to further his studies, Aaron Sullivan brought his many
+abilities and singular expertise to Capitol Hill for the 2026 session of the One Hundred
+Fourteenth General Assembly; and
+WHEREAS, throughout the 2026 legislative session, Mr. Sullivan has surpassed all
+criteria that define a devoted and conscientious legislative intern; and
+WHEREAS, Aaron Sullivan has performed his many duties with extraordinary insight
+and rare decorum; now, therefore,
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, that we hereby commend Aaron
+SJR1240
+018415
+- 1 -
+
+Sullivan for outstanding service as a legislative intern for Senator Paul Bailey and the Senate
+Commerce and Labor Committee and extend to him our best wishes for every future success.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy.
+- 2 - 018415
+
+[DELETED: WWWWWWB]
+[DELETED:  -0B]

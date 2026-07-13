@@ -1,0 +1,73 @@
+Title: SENATE BILL 2050
+Official Title: SENATE BILL 2050
+Number of Sections: 4
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+By Seal
+HOUSE BILL 2153
+By Davis
+AN ACT to amend Tennessee Code Annotated, Title 39,
+relative to criminal offenses.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. This act is known and may be cited as "Katherine's Law."
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Title 39, Chapter 13, Part 1, is amended by
+adding the following new section:
+(a) A person commits aggravated domestic assault who, intentionally or
+knowingly, commits an assault as defined in § 39-13-101, against a domestic abuse
+victim, as defined in § 36-3-601, and the assault:
+(1)
+(A) Involves the use or display of a deadly weapon; or
+(B) Involves strangulation; and
+(2)
+(A) Results in serious bodily injury to another; or
+(B) Results in the death of another.
+(b) Aggravated domestic assault is a Class B felony.
+
+Section 4:
+SECTION 3. This act takes effect July 1, 2026, the public welfare requiring it, and
+applies to offenses occurring on or after that date.
+HB2153
+011905
+- 1 -
+[DELETED: SS((((((((S]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 2050
+By Seal
+HOUSE BILL 2153
+By Davis
+AN ACT to amend Tennessee Code Annotated, Title 39,
+relative to criminal offenses.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. This act is known and may be cited as "Katherine's Law."
+SECTION 2. Tennessee Code Annotated, Title 39, Chapter 13, Part 1, is amended by
+adding the following new section:
+(a) A person commits aggravated domestic assault who, intentionally or
+knowingly, commits an assault as defined in § 39-13-101, against a domestic abuse
+victim, as defined in § 36-3-601, and the assault:
+(1)
+(A) Involves the use or display of a deadly weapon; or
+(B) Involves strangulation; and
+(2)
+(A) Results in serious bodily injury to another; or
+(B) Results in the death of another.
+(b) Aggravated domestic assault is a Class B felony.
+SECTION 3. This act takes effect July 1, 2026, the public welfare requiring it, and
+applies to offenses occurring on or after that date.
+HB2153
+011905
+- 1 -
+
+[DELETED: SS((((((((S]

@@ -1,0 +1,106 @@
+Title: HOUSE BILL 2597
+Official Title: HOUSE BILL 2597
+Number of Sections: 4
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+By Camper
+SENATE BILL 2287
+By Lamar
+AN ACT to amend Tennessee Code Annotated, Title 68
+and Title 71, relative to maternal health.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Title 71, Chapter 5, Part 1, is amended by
+adding the following as a new section:
+(a) As used in this section:
+(1) "Birthing center" has the same meaning as defined in § 68-11-201;
+and
+(2) "Hospital" has the same meaning as defined in § 68-11-201(31)(A)
+and (B).
+(b) The bureau of TennCare shall:
+(1) Create a methodology to determine medicaid facility fee
+reimbursement rates for birthing centers that are comparable to rates for similar
+services provided at a hospital; and
+(2) Require annual increases to birthing center medicaid facility fee
+reimbursement rates that are equivalent to hospital medicaid reimbursement rate
+increases.
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Title 68, Chapter 1, Part 1, is amended by
+adding the following as a new section:
+(a)
+(1) "Birthing center" has the same meaning as defined in § 68-11-201;
+and
+SB2287
+012327
+- 1 -
+(2) "Hospital" has the same meaning as defined in § 68-11-201(31)(A)
+and (B).
+(b) In making decisions as to the allocation of the federal rural health
+transportation program grant funds received by the department from the centers for
+medicare and medicaid services (CMS), the department of health shall give funding
+priority to birthing centers in this state, with first priority to birthing centers in rural
+counties, and second priority to birthing centers in urban counties that provide services
+to residents of rural counties that do not have a birthing center or hospital with a
+maternity ward.
+
+Section 4:
+SECTION 3. This act takes effect upon becoming a law, the public welfare requiring it.
+- 2 - 012327
+[DELETED: S(]
+[DELETED:  -0]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 2597
+By Camper
+SENATE BILL 2287
+By Lamar
+AN ACT to amend Tennessee Code Annotated, Title 68
+and Title 71, relative to maternal health.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Title 71, Chapter 5, Part 1, is amended by
+adding the following as a new section:
+(a) As used in this section:
+(1) "Birthing center" has the same meaning as defined in § 68-11-201;
+and
+(2) "Hospital" has the same meaning as defined in § 68-11-201(31)(A)
+and (B).
+(b) The bureau of TennCare shall:
+(1) Create a methodology to determine medicaid facility fee
+reimbursement rates for birthing centers that are comparable to rates for similar
+services provided at a hospital; and
+(2) Require annual increases to birthing center medicaid facility fee
+reimbursement rates that are equivalent to hospital medicaid reimbursement rate
+increases.
+SECTION 2. Tennessee Code Annotated, Title 68, Chapter 1, Part 1, is amended by
+adding the following as a new section:
+(a)
+(1) "Birthing center" has the same meaning as defined in § 68-11-201;
+and
+SB2287
+012327
+- 1 -
+
+(2) "Hospital" has the same meaning as defined in § 68-11-201(31)(A)
+and (B).
+(b) In making decisions as to the allocation of the federal rural health
+transportation program grant funds received by the department from the centers for
+medicare and medicaid services (CMS), the department of health shall give funding
+priority to birthing centers in this state, with first priority to birthing centers in rural
+counties, and second priority to birthing centers in urban counties that provide services
+to residents of rural counties that do not have a birthing center or hospital with a
+maternity ward.
+SECTION 3. This act takes effect upon becoming a law, the public welfare requiring it.
+- 2 - 012327
+
+[DELETED: S(]
+[DELETED:  -0]

@@ -1,0 +1,53 @@
+Title: HOUSE BILL 2538
+Official Title: HOUSE BILL 2538
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+By Lamberth
+SENATE BILL 2226
+By Johnson
+AN ACT to amend Tennessee Code Annotated, Title 64,
+Chapter 9, relative to the Megasite Authority of
+West Tennessee.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 64-9-109(f)(1), is amended by
+deleting the last sentence of the subdivision and substituting:
+The authority shall provide each adverse party not less than fourteen (14) days'
+written notice prior to assessing a penalty under this subdivision (f)(1).
+
+Section 3:
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+SB2226
+012527
+- 1 -
+[DELETED: SS]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 2538
+By Lamberth
+SENATE BILL 2226
+By Johnson
+AN ACT to amend Tennessee Code Annotated, Title 64,
+Chapter 9, relative to the Megasite Authority of
+West Tennessee.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 64-9-109(f)(1), is amended by
+deleting the last sentence of the subdivision and substituting:
+The authority shall provide each adverse party not less than fourteen (14) days'
+written notice prior to assessing a penalty under this subdivision (f)(1).
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+SB2226
+012527
+- 1 -
+
+[DELETED: SS]

@@ -1,0 +1,118 @@
+Title: SENATE BILL 2308
+Official Title: SENATE BILL 2308
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+By Pody
+HOUSE BILL 2168
+By Barrett
+AN ACT to amend Tennessee Code Annotated, Title 10,
+Chapter 7, relative to public records.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 10-7-504, is amended by deleting
+subsection (h) and substituting:
+(h)
+(1) Notwithstanding another law to the contrary, the names of persons
+directly involved in carrying out a sentence of death are confidential and are
+exempt from public disclosure.
+(2) The identity of a supplier that compounds, distributes, or
+manufactures the drugs obtained and used by the department of correction to
+carry out an execution by lethal injection is not confidential, is open to public
+inspection, and may be subject to discovery or introduction as evidence in a civil
+proceeding. The qualifications, evidence of competency, and relevant
+experience of an officer or employee of the supplier, and a person or contractor
+used by the supplier to obtain equipment or substances to facilitate the
+compounding, distribution, or manufacturing of the drugs used by the department
+of correction in carrying out a sentence of death are not confidential and are
+open to public inspection. However, the residential and office addresses,
+residential and office telephone numbers, social security numbers, and tax
+identification numbers of officers and employees of the supplier and any person
+or contractor used by the supplier to obtain equipment or substances to facilitate
+HB2168
+012171
+- 1 -
+the compounding of such drugs are confidential and are exempt from public
+disclosure.
+(3) Records related to remuneration to a person or a supplier in
+connection with the person's or supplier's participation in or preparation for the
+execution of a sentence of death are not confidential and are open to public
+inspection. Payments must be made in accordance with a memorandum of
+understanding between the commissioner of correction and the commissioner of
+finance and administration. If a contractor is employed to participate in or
+prepare for the execution of a sentence of death, then the amount of the special
+payment made to the contractor pursuant to the contract must be reported by the
+commissioner of correction to the comptroller of the treasury and the amount is
+not confidential.
+(4) Information made confidential by this subsection (h) must be redacted
+wherever possible, and nothing in this subsection (h) limits or denies access to
+otherwise public information because a file, a document, or data file contains
+confidential information.
+
+Section 3:
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+- 2 - 012171
+[DELETED: S(((]
+[DELETED:  -0((S]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 2308
+By Pody
+HOUSE BILL 2168
+By Barrett
+AN ACT to amend Tennessee Code Annotated, Title 10,
+Chapter 7, relative to public records.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 10-7-504, is amended by deleting
+subsection (h) and substituting:
+(h)
+(1) Notwithstanding another law to the contrary, the names of persons
+directly involved in carrying out a sentence of death are confidential and are
+exempt from public disclosure.
+(2) The identity of a supplier that compounds, distributes, or
+manufactures the drugs obtained and used by the department of correction to
+carry out an execution by lethal injection is not confidential, is open to public
+inspection, and may be subject to discovery or introduction as evidence in a civil
+proceeding. The qualifications, evidence of competency, and relevant
+experience of an officer or employee of the supplier, and a person or contractor
+used by the supplier to obtain equipment or substances to facilitate the
+compounding, distribution, or manufacturing of the drugs used by the department
+of correction in carrying out a sentence of death are not confidential and are
+open to public inspection. However, the residential and office addresses,
+residential and office telephone numbers, social security numbers, and tax
+identification numbers of officers and employees of the supplier and any person
+or contractor used by the supplier to obtain equipment or substances to facilitate
+HB2168
+012171
+- 1 -
+
+the compounding of such drugs are confidential and are exempt from public
+disclosure.
+(3) Records related to remuneration to a person or a supplier in
+connection with the person's or supplier's participation in or preparation for the
+execution of a sentence of death are not confidential and are open to public
+inspection. Payments must be made in accordance with a memorandum of
+understanding between the commissioner of correction and the commissioner of
+finance and administration. If a contractor is employed to participate in or
+prepare for the execution of a sentence of death, then the amount of the special
+payment made to the contractor pursuant to the contract must be reported by the
+commissioner of correction to the comptroller of the treasury and the amount is
+not confidential.
+(4) Information made confidential by this subsection (h) must be redacted
+wherever possible, and nothing in this subsection (h) limits or denies access to
+otherwise public information because a file, a document, or data file contains
+confidential information.
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+- 2 - 012171
+
+[DELETED: S(((]
+[DELETED:  -0((S]

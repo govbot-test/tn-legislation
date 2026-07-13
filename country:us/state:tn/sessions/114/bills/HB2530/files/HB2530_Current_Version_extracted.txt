@@ -1,0 +1,1462 @@
+Title: SENATE BILL 2224
+Official Title: SENATE BILL 2224
+Number of Sections: 71
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 24 sections found
+
+================================================================================
+
+Section 1:
+By Johnson
+HOUSE BILL 2530
+By Lamberth
+AN ACT to amend Tennessee Code Annotated, Title 4,
+Chapter 29, Part 2; Title 20, Chapter 9, Part 6;
+Title 55, Chapter 17, Part 1; Title 62, Chapter 13;
+Title 62, Chapter 18; Title 62, Chapter 2; Title 62,
+Chapter 20; Title 62, Chapter 27; Title 62, Chapter
+35; Title 62, Chapter 4; Title 62, Chapter 6; Title
+62, Chapter 76; Title 68, Chapter 102 and Title 68,
+Chapter 105, relative to professions regulated by
+the department of commerce and insurance.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 4-29-248(a), is amended by deleting
+subdivision (43).
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 20-9-606(a), is amended by deleting
+the subsection and substituting:
+(a) All complaints must be in writing, signed by the person making the complaint,
+and addressed to the commissioner. All complaints must contain the name and address
+of the person against whom the complaint is brought and a description of the conduct
+giving rise to the complaint. Complaints must be submitted within ninety (90) days of the
+conduct complained about, and a copy must be provided to the licensed court reporter.
+The copy may be sent by electronic mail or by such other means of delivery to ensure
+that the licensed court reporter charged in the complaint receives actual notice. After
+investigation of the charges, the commissioner shall determine if a hearing is warranted,
+dismiss the complaint, or take other action the commissioner deems appropriate. Any
+hearing deemed warranted must be conducted in accordance with the contested cases
+provisions of the Uniform Administrative Procedures Act, compiled in title 4, chapter 5.
+HB2530
+012417
+- 1 -
+
+Section 4:
+SECTION 3. Tennessee Code Annotated, Section 55-17-103(b), is amended by
+deleting the subsection and substituting:
+(b) Each of the members of the commission must, at the time of appointment, be
+a resident of this state and be of good moral character. Industry members must have
+been actually engaged in the manufacture, distribution, or sale of motor vehicles in this
+state for at least five (5) consecutive years preceding the appointment, and each must
+have the necessary qualifications for the applicable license under this part, and be the
+holder of such license at all times while a member of the commission. Being engaged in
+more than one (1) licensed activity does not disqualify a person from serving as an
+industry member of the commission.
+
+Section 5:
+SECTION 4. Tennessee Code Annotated, Section 55-17-106, is amended by deleting
+subsection (b).
+
+Section 6:
+SECTION 5. Tennessee Code Annotated, Section 62-2-101, is amended by deleting the
+
+Section 7:
+section and substituting:
+In order to safeguard life, health, and property and to promote public welfare, by
+requiring that only properly qualified persons may practice architecture, engineering,
+land surveying, and landscape architecture, any person practicing architecture,
+engineering, land surveying, or landscape architecture must be registered as provided in
+this chapter and chapter 18, part 1 of this title, as appropriate, and it is unlawful for a
+person to practice or offer to practice architecture, engineering, land surveying, or
+landscape architecture unless the person has been duly registered under this chapter
+and chapter 18, part 1 of this title, as appropriate, except as otherwise provided.
+
+Section 8:
+SECTION 6. Tennessee Code Annotated, Section 62-2-105, is amended by deleting the
+
+Section 9:
+section and substituting:
+(a)
+- 2 - 012417
+(1) A person shall not:
+(A) Present or attempt to file as the person's own the certificate of
+registration of another;
+(B) Give forged or willfully false evidence of any kind to the state
+board of examiners for architects, engineers, and land surveyors or any
+member of the board for the purpose of obtaining a certificate;
+(C) Falsely impersonate any other practitioner; or
+(D) Use or attempt to use an expired or revoked certificate of
+registration.
+(2) A violation of subdivision (a)(1) is a Class B misdemeanor.
+(b)
+(1) A person shall not practice or offer to practice engineering,
+architecture, land surveying, or landscape architecture in this state in violation of
+this chapter.
+(2) A violation of subdivision (b)(1) is a Class B misdemeanor.
+(3) Each day's violation of subdivision (b)(1) is a separate offense.
+(c) A person is construed to practice or offer to practice engineering,
+architecture, land surveying, or landscape architecture who, by verbal claim, sign,
+advertisement, letterhead, card, or in any other way, represents that person to be an
+architect, engineer, land surveyor, or landscape architect, with or without qualifying
+adjective, or through the use of some other title implies that the person is an architect,
+engineer, land surveyor, or landscape architect.
+(d) It is the duty of the members of the board to report any violations of this
+chapter to the proper authorities.
+- 3 - 012417
+
+Section 10:
+SECTION 7. Tennessee Code Annotated, Section 62-2-106, is amended by deleting the
+
+Section 11:
+section and substituting:
+(a) It is the duty of the state board of examiners for architects, engineers, and
+land surveyors to inquire into the identity of a person claiming to be an architect,
+engineer, land surveyor, or landscape architect and to prosecute any person violating
+this chapter.
+(b) The board may, when it deems appropriate, seek civil remedies at law or
+equity to restrain or enjoin any unauthorized practice or other violation of this chapter or
+chapter 18, part 1 of this title.
+
+Section 12:
+SECTION 8. Tennessee Code Annotated, Section 62-2-201, is amended by deleting the
+
+Section 13:
+section and substituting:
+(a)
+(1) There is created a state board of examiners for architects, engineers,
+and land surveyors called the board in this part, parts 1 and 3-8 of this chapter,
+and chapter 18, part 1 of this title.
+(2) The board consists of eleven (11) members as follows:
+(A) Ten (10) professional members to be appointed by the
+governor; three (3) of whom are registered architects who may be
+appointed from lists of qualified persons submitted by interested architect
+groups, including, but not limited to, the representative professional
+architects of this state; three (3) of whom are registered engineers who
+may be appointed from lists of qualified persons submitted by interested
+engineering groups, including, but not limited to, the representative
+professional engineering society of this state; three (3) of whom are
+registered land surveyors who may be appointed from lists of qualified
+- 4 - 012417
+persons submitted by interested land surveyor groups, including, but not
+limited to, the Tennessee association of professional surveyors; and one
+(1) of whom is a registered landscape architect who may be appointed
+from lists of qualified persons submitted by interested landscape architect
+groups, including, but not limited to, the representative professional
+landscape architecture society of this state. The governor shall consult
+with interested statewide architect, engineering, land surveying, and
+landscape architect groups, including, but not limited to, the professional
+societies listed in this subdivision (a)(2)(A) to determine qualified persons
+to fill the positions;
+(B) One (1) member to be appointed by the governor who is not
+engaged in the practice of architecture, engineering, land surveying, or
+landscape architecture and who is a resident of this state and possesses
+good moral character. Except as provided in § 62-2-302 and § 62-18-
+112, the member appointed pursuant to this subdivision (a)(2)(B) is a
+participating member of the board in all board matters; and
+(C) The members serving on the board of architects and
+engineers as of June 30, 2026 shall serve the remainder of their terms.
+(3) In the event of a vacancy on the board for any reason and the
+governor failing to appoint a successor within three (3) months after the vacancy
+occurs, the board may fill the vacancy from the lists of qualified persons
+submitted by the interested groups, including, but not limited to, the respective
+societies, until the governor makes an appointment as provided in subdivision
+(a)(2).
+(4)
+- 5 - 012417
+(A) The governor shall appoint one (1) architect member from
+each grand division of this state to serve for a term of four (4) years.
+(B) The governor shall appoint one (1) engineer member from
+each grand division of this state to serve for a term of four (4) years.
+(C) The governor shall appoint one (1) land surveyor member
+from each grand division of this state to serve for a term of four (4) years,
+except for the initial three (3) land surveyors appointed to the board, who
+must be appointed to staggered terms as follows:
+(i) One (1) for a term of two (2) years;
+(ii) One (1) for a term of three (3) years; and
+(iii) One (1) for a term of four (4) years.
+(D) The successor to any architect, engineer, or land surveyor
+member must be appointed from the same grand division as that
+member.
+(E) The governor shall appoint the member who is a landscape
+architect to serve for a term of four (4) years. The successor of that
+member must be appointed from a different grand division than the
+member's predecessor.
+(F) The governor shall appoint the public member required by
+subdivision (a)(2)(B) to serve a term of four (4) years.
+(5) Appointments to the board must be in such manner that the terms of
+members in the same profession expire at different times.
+(6) Terms of office begin on July 1 of the year of appointment, except
+that successors may, at any time, qualify and serve for the remainder of the
+given term.
+- 6 - 012417
+(b)
+(1) In addition to members serving on the board under the authority of
+subsection (a), the board also includes three (3) registered engineers as
+associate members, who may be appointed by the governor from lists of qualified
+persons submitted by interested engineering groups, including, but not limited to,
+the representative professional engineering society of this state. The governor
+shall consult with such interested engineering groups to determine qualified
+persons to fill the positions.
+(2) An associate engineer member is appointed from each grand division
+of the state, to serve for a term of four (4) years. The successor of any associate
+engineer member must be appointed from the grand division of the member.
+(3) Appointments to the board under this subsection (b) must be in a
+manner that the terms of the associate engineer members expire at different
+times.
+(4) Terms of office begin on July 1 of the year of appointment, except
+that successors may, at any time, qualify and serve for the remainder of the
+given term.
+(5) Associate engineer board members appointed under this subsection
+(b) are subject to § 62-2-202.
+(6) Associate engineer members approved under this subsection (b)
+shall assist the board with routine matters and responsibilities as requested by
+the board. Associate engineer members shall attend board meetings, committee
+meetings, and other board functions only as required by the board. The
+associate engineer members have no voting privileges and are not to be
+considered as members for quorum or election purposes.
+- 7 - 012417
+(7) Associate engineer members shall render technical assistance to the
+board and staff as authorized by the board.
+
+Section 14:
+SECTION 9. Tennessee Code Annotated, Section 62-2-202(a), is amended by deleting
+the subsection and substituting:
+(a) Each of the members of the board appointed under § 62-2-201(a) must
+possess at least ten (10) years' experience in their respective practices as either a
+registered architect, a registered engineer, a registered land surveyor, or a registered
+landscape architect, as applicable, with no record of any formal disciplinary action. Such
+members must each have been in responsible charge of work for at least five (5) years,
+and must each have demonstrated an interest in improving the profession by their
+involvement in a statewide association directly related to their profession for at least five
+(5) years. Each member must be a citizen of the United States and must have been a
+resident of this state for five (5) years at the time of their appointment.
+
+Section 15:
+SECTION 10. Tennessee Code Annotated, Section 62-2-203, is amended by deleting
+the section and substituting:
+(a) Each member appointed under § 62-2-201(a) must receive a letter of
+appointment from the governor, and a person is not eligible for appointment who does
+not, at such the time, hold an unexpired certificate to practice architecture, engineering,
+land surveying, or landscape architecture issued under this chapter or other applicable
+law. Before beginning a term of office, each appointed member must file the oath of
+office with the secretary of state.
+(b) The board or any committee of the board shall utilize the services of an
+assistant attorney general in connection with the affairs of the board, and the board shall
+compel the attendance of witnesses on behalf of the state or any party having issue
+- 8 - 012417
+before the board, shall administer oaths, and shall take testimony concerning all matters
+within its jurisdiction.
+(c) The board shall adopt and have an official seal, which must be affixed to all
+certificates of registration granted, and shall make all bylaws and rules consistent with
+the law.
+(d) The board may establish continuing professional education requirements for
+architects, engineers, land surveyors, and landscape architects. Any rules promulgated
+relative to such continuing professional education requirements under this subsection (d)
+must be promulgated in compliance with the Uniform Administrative Procedures Act,
+compiled in title 4, chapter 5.
+
+Section 16:
+SECTION 11. Tennessee Code Annotated, Section 62-2-204(c), is amended by
+deleting the subsection and substituting:
+(c) A quorum of the board must consist of at least six (6) members. For the
+purpose of formal disciplinary matters involving an architect, engineer, land surveyor, or
+landscape architect, at least one (1) board member from the respective profession must
+be present as part of the six-member quorum.
+
+Section 17:
+SECTION 12. Tennessee Code Annotated, Section 62-2-206, is amended by deleting
+the language "three (3) board members" and substituting "four (4) board members".
+
+Section 18:
+SECTION 13. Tennessee Code Annotated, Title 62, Chapter 2, Part 2, is amended by
+adding the following as a new section:
+62-2-208. Funds.
+(a) All moneys collected pursuant to this chapter and chapter 18, part 1 of this
+title must be deposited in the state treasury in a separate account for the board and for
+the administration of this chapter and chapter 18, part 1, which is governed by § 56-1-
+
+Section 19:
+310.
+- 9 - 012417
+(b) Notwithstanding subsection (a), disbursements from the account may be
+made for the purpose of defraying expenses incurred in the implementation and
+enforcement of this chapter and chapter 18, part 1.
+
+Section 20:
+SECTION 14. Tennessee Code Annotated, Section 62-2-301, is amended by deleting
+the section and substituting:
+(a) The board shall, upon application for a certificate of registration, on the
+prescribed form and the payment by the applicant of a fee as prescribed by the board,
+consider the application, and, in proper cases, issue a certificate of registration, either as
+an architect, engineer, land surveyor, or landscape architect, to a person who submits
+evidence satisfactory to the board that the person is fully qualified to practice
+architecture, engineering, land surveying, or landscape architecture.
+(b) A person must not be granted any combination of licenses as an architect,
+engineer, land surveyor pursuant to chapter 18, part 1 of this title, or landscape architect
+unless the person makes a separate application and pays a separate fee for each
+profession, both the original fee and the annual renewal fee, and is found by the board to
+be qualified for a license in each profession.
+
+Section 21:
+SECTION 15. Tennessee Code Annotated, Section 62-2-302, is amended by deleting
+the section and substituting:
+(a)
+(1) In determining the qualifications of applicants for registration as
+architects, the executive director of the board may assign the application to two
+(2) or more of the architect members to review individually. If two (2) reviewing
+members approve the application and full board review is not otherwise required
+by this subdivision (a)(1), the application is approved. If any reviewing member
+requests full board review, or if the executive director determines that the level of
+- 10 - 012417
+complexity of the application needs full board review, the application must be
+reviewed at a board meeting and approval only requires the affirmative vote of a
+majority of the architect members.
+(2) In determining the qualifications of applicants for registration as
+engineers, the executive director of the board may assign the application to two
+(2) or more of the engineer members, or associate engineer members, to review
+individually. If two (2) reviewing members approve the application and full board
+review is not otherwise required by this subdivision (a)(2), the application is
+approved. If any reviewing member requests full board review, or if the executive
+director determines that the level of complexity of the application requires a full
+review, the application must be reviewed at a board meeting and approval only
+requires the affirmative vote of a majority of the engineer members.
+(3) In determining the qualifications of applicants for registration as a
+landscape architect, the executive director of the board may assign the
+application to the one (1) landscape architect board member and at least one (1)
+architect or one (1) engineer board member. If the two (2) reviewing members
+approve the application and full board review is not otherwise required by this
+subdivision (a)(3), the application is approved. If any reviewing member requests
+full board review, or if the executive director determines that the level of
+complexity of the application requires a full board review, the application must be
+reviewed at a board meeting and approval only requires the affirmative vote from
+the one (1) landscape architect member and a majority of the voting architect and
+engineer members; provided, however, that at least one (1) architect or one (1)
+engineer member vote is required for approval.
+(b)
+- 11 - 012417
+(1) Applicants for registration as architects must be examined by
+architect members of the board only; applicants for registration as engineers
+must be examined by the engineer members of the board only; and applicants for
+registration as land surveyors must be examined by land surveying members of
+the board only.
+(2) Applicants for registration as landscape architects must be examined
+by the landscape architect member and one (1) architect or one (1) engineer
+member of the board.
+(c) If the board denies issuance of a certificate to an applicant, a refund of any
+part of the application fee must not be returned to the applicant.
+(d) For purposes of this section, the public member of the board appointed under
+the authority of § 62-2-201(b) is not a voting member of the board.
+
+Section 22:
+SECTION 16. Tennessee Code Annotated, Section 62-2-304(a), is amended by
+deleting the language "registered interior designer" and substituting "land surveyor,".
+
+Section 23:
+SECTION 17. Tennessee Code Annotated, Section 62-2-307, is amended by deleting
+the section and substituting:
+(a) Certificates of registration expire two (2) years following the date of issuance
+or renewal and are invalid on that date unless renewed.
+(b) It is the duty of the board to notify every person registered under this chapter
+of the date of the expiration of that person's certificate and the amount of the fee
+required for its two-year renewal. The notice must be sent at least one (1) month in
+advance of the date of the expiration of the certificate. Notice may be sent by electronic
+mail if the licensee maintains an electronic mailing address on file with the board.
+- 12 - 012417
+(c) Renewal may be affected at any time during the thirty (30) days preceding
+the certificate expiration date by the payment of the renewal fee determined by and
+payable to the board.
+(d) Certificates of registration are subject to late renewal for six (6) months
+following their expiration date by payment of the renewal fee plus a penalty as set by the
+board for each month or fraction of a month that elapses before payment is tendered.
+(e) A person who renews a certificate later than six (6) months after its expiration
+date must reapply for certification. The board may, in its discretion, waive any further
+examination of the applicant and any further education and experience beyond that
+obtained at the time of the applicant's original registration in this state.
+(f) Notwithstanding this chapter to the contrary, the board may establish, by rule,
+procedures and criteria pursuant to which persons who are retired may continue to use
+the titles of "architect," "engineer," or "landscape architect" without the payment of a
+registration renewal fee.
+
+Section 24:
+SECTION 18. Tennessee Code Annotated, Section 62-2-308, is amended by deleting
+the section and substituting:
+(a)
+(1) The board may refuse to issue or renew, and may revoke or suspend,
+the certificate of registration of any architect, engineer, land surveyor, or
+landscape architect registered under this chapter who is convicted, placed on
+pretrial probation, found liable, or found to have committed the following:
+(A) Fraud or deceit in obtaining a certificate of registration;
+(B) Gross negligence, incompetency, or misconduct in the
+practice of architecture, engineering, land surveying, or landscape
+architecture;
+- 13 - 012417
+(C) Failure to obtain, keep, and utilize the registrant's seal as
+provided in this chapter;
+(D) Breach of contract for professional services as ruled by a
+court of competent jurisdiction;
+(E) Any violation of the rules adopted by the board;
+(F) An act that resulted in the suspension or revocation of the
+person's right to practice architecture, engineering, or landscape
+architecture by another state or national registration board; or
+(G) Any felony as ruled by a court of competent jurisdiction.
+However, an action taken under this subdivision (a)(1)(G) is subject to the
+applicable provisions of the Fresh Start Act, compiled in chapter 76, part
+1 of this title.
+(2) A person may prefer charges in writing to the board against an
+architect, engineer, landscape architect, or land surveyor registered under this
+chapter or chapter 18 part 1 of this title, on any of the grounds listed in
+subdivision (a)(1).
+(3) The affirmative vote of six (6) or more members of the board is
+required to revoke or suspend the certificate of registration of an architect,
+engineer, or landscape architect registered under this chapter, or of a land
+surveyor registered under chapter 18, part 1 of this title.
+(b) The board may reissue a certificate of registration to a person whose
+certificate has been revoked; provided, that six (6) or more members of the board vote in
+favor of reissuance for reasons the board may deem sufficient.
+- 14 - 012417
+(c) The board members are officers of the state in carrying out the duties
+imposed by this chapter and chapter 18 part 1 of this title, and as such have the full
+measure of governmental immunity provided by law.
+
+Section 25:
+SECTION 19. Tennessee Code Annotated, Title 62, Chapter 2, Part 9, is amended by
+deleting the part in its entirety.
+
+Section 26:
+SECTION 20. Tennessee Code Annotated, Section 62-4-139, is amended by deleting
+the section and substituting instead:
+The board shall provide written notice of the requirements of §§ 62-4-110(f), 62-
+4-118(m), 62-4-120(i), and 62-4-120(k) to all applicable licensees and schools under the
+jurisdiction of the board through the board's website, e-blasts, print mailings, electronic
+mail, license renewal communications, or any other reasonable methods to provide
+notice of these requirements, as determined by the board.
+
+Section 27:
+SECTION 21. Tennessee Code Annotated, Section 62-6-111(b), is amended by adding
+the following as a new subdivision:
+(5) In lieu of providing a financial statement, an applicant may obtain a surety
+bond in an amount that is equal to at least fifty percent (50%) of the monetary limitation
+that is requested by the applicant. The bond must be continuous in form and must be
+maintained in effect for as long as the applicant maintains a license or until the applicant
+provides a financial statement that meets the requirements of subdivisions (b)(3) or
+(b)(4). The applicant shall submit proof of the surety bond with the application. The
+bond is for the benefit of a person who is damaged by an act or omission of the applicant
+constituting a breach of a construction contract or by an unlawful act or omission of the
+applicant in the performance of contracting. A person so damaged may sue directly on
+the bond without assignment thereof. The bond may not be construed to require any
+surety to be responsible for the completion of a construction contract entered into by the
+- 15 - 012417
+principal on the bond. The liability of the surety under any bond may not exceed in the
+aggregate the amount of the bond. If the bond ceases to be in effect, the contractor's
+license becomes invalid.
+
+Section 28:
+SECTION 22. Tennessee Code Annotated, Section 62-6-111(h), is amended by
+deleting the subsection and substituting instead:
+(h) Notwithstanding § 56-1-302(a)(7) to the contrary, all revenues generated
+from licensing fees, penalties, or interest must be allocated solely to the board for
+licensing contractors to be utilized for the administration and enforcement of this part.
+
+Section 29:
+SECTION 23. Tennessee Code Annotated, Section 62-6-111(k), is amended by adding
+the following as a new subdivision:
+(5) In lieu of providing a financial statement for the request in a change of
+monetary limitation as required by subdivisions (k)(1) and (2), an applicant may provide
+a surety bond that meets the requirements of subdivision (b)(5).
+
+Section 30:
+SECTION 24. Tennessee Code Annotated, Section 62-6-116(b), is amended by
+deleting the subsection and substituting:
+(b) Renewal notices must be sent ninety (90) days prior to the expiration date of
+the license. Renewal notices may be sent by electronic mail if the licensee maintains an
+electronic mailing address on file with the board.
+
+Section 31:
+SECTION 25. Tennessee Code Annotated, Section 62-6-116(c), is amended by adding
+the following language immediately following the last sentence:
+In lieu of submitting a financial statement, the renewal applicant may submit proof of a
+surety bond that meets the requirements of § 62-6-111(b)(5) with the renewal
+application.
+
+Section 32:
+SECTION 26. Tennessee Code Annotated, Section 62-6-116(d), is amended by adding
+the following language immediately following the last sentence:
+- 16 - 012417
+If the renewal applicant submits proof of a surety bond with the renewal application or
+maintains an effective surety bond on file with the board that meets the requirements of
+
+Section 33:
+§ 62-6-111(b)(5), then the renewal applicant is not required to provide a financial
+statement.
+
+Section 34:
+SECTION 27. Tennessee Code Annotated, Section 62-6-116(e), is amended by
+deleting the subsection and substituting:
+(e) It is the duty of the executive director to notify every person licensed under
+this part of the date of expiration of this certificate of license and the amount of the fee
+required for its two-year renewal. Notice may be accomplished by electronic mail or by
+any other reasonable method determined by the board, in accordance with this section.
+
+Section 35:
+SECTION 28. Tennessee Code Annotated, Section 62-6-124, is amended by adding
+the following as a new subsection:
+(c) The board may provide a bond, surety, or personal guaranty that is submitted
+to the board to a person requesting a copy of such document. The board must provide
+any financial records submitted by an applicant or licensee to any law enforcement
+agency, state or federal agency, or any other governmental agency having jurisdiction
+over an applicant or licensee upon request from such agency or by the board's own
+recommendation.
+
+Section 36:
+SECTION 29. Tennessee Code Annotated, Section 62-6-131(c), is amended by
+deleting the subsection and substituting:
+(c) The board shall prescribe fees for the issuance and renewal of licenses of
+limited licensed electricians.
+
+Section 37:
+SECTION 30. Tennessee Code Annotated, Section 62-6-131, is amended by adding
+the following as a new subsection:
+- 17 - 012417
+(e) Effective July 1, 2026, all funds held by the state treasurer in the limited
+licensed electricians fund must be deposited in the fund for the state board for licensing
+contractors pursuant to § 56-1-310(a), to be used for any lawful purpose of the board,
+and the separate limited licensed electricians fund no longer exists upon such transfer of
+funds. All fees, penalties, and any other payments received regarding limited licensed
+electricians must be deposited in the fund for the board and may be used for any lawful
+purpose of the board.
+
+Section 38:
+SECTION 31. Tennessee Code Annotated, Section 62-6-408(a), is amended by
+deleting the subsection and substituting:
+(a) The board shall prescribe fees for the application, examination, issuance,
+and renewal of licenses of limited licensed plumbers.
+
+Section 39:
+SECTION 32. Tennessee Code Annotated, Section 62-6-408, is amended by adding
+the following as a new subsection:
+(c) Effective July 1, 2026, all funds held by the state treasurer in the limited
+licensed plumbers fund must be deposited in the fund for the state board for licensing
+contractors pursuant to § 56-1-310(a), to be used for any lawful purpose of the board,
+and the separate limited licensed plumbers fund no long exists upon such transfer of
+funds. All fees, penalties, and any other payments received regarding limited licensed
+plumbers must be deposited in the fund for the board and may be used for any lawful
+purpose of the board.
+
+Section 40:
+SECTION 33. Tennessee Code Annotated, Section 62-6-411, is amended by deleting
+subsections (b) and (c) and substituting:
+(b) It is the duty of the board to notify every person licensed under this part of
+the date of expiration of the license and the amount of fee required for its renewal.
+Renewal notices must be sent ninety (90) days prior to the expiration date of the license.
+- 18 - 012417
+Renewal notices may be sent by electronic mail if the licensee maintains an electronic
+mailing address on file with the board. The renewal notice must be accompanied by a
+renewal fee.
+
+Section 41:
+SECTION 34. Tennessee Code Annotated, Section 62-13-104(b)(8)(B), is amended by
+deleting the subdivision and substituting:
+(B) All notices and answers required or authorized to be made or filed under this
+subsection (b) may be served or filed personally, by electronic mail, or by registered mail
+to the last known business address of the addressee. If served personally or by
+electronic mail, the time runs from the date of service and if by registered mail, from the
+postmarked date of the letter enclosing the document.
+
+Section 42:
+SECTION 35. Tennessee Code Annotated, Section 62-13-112(j)(2), is amended by
+deleting the subdivision and substituting:
+(2) The commission shall send notification of the license suspension by regular
+or electronic mail:
+(A) To the licensee at the last known business address or electronic mail
+business address and home address or electronic mail home address of the
+licensee as registered with the commission; and
+(B) To the licensee's broker at the broker's address or electronic mail
+address as registered with the commission.
+
+Section 43:
+SECTION 36. Tennessee Code Annotated, Section 62-13-112(l)(2), is amended by
+deleting the subdivision and substituting:
+(2) The commission shall send notification of the license revocation by regular
+mail or electronic mail:
+- 19 - 012417
+(A) To the licensee at the last known business address or electronic mail
+business address and home address or electronic mail home address of the
+licensee as registered with the commission; and
+(B) To the licensee's broker at the broker's address or electronic mail
+address as registered with the commission.
+
+Section 44:
+SECTION 37. Tennessee Code Annotated, Section 62-13-303(h)(1), is amended by
+deleting the language "three (3) years" and substituting "four (4) years".
+
+Section 45:
+SECTION 38. Tennessee Code Annotated, Section 62-13-309(a)(1)(A), is amended by
+deleting the language ", located to conform with zoning laws and ordinances".
+
+Section 46:
+SECTION 39. Tennessee Code Annotated, Section 62-13-309(b)(1), is amended by
+deleting the language ", which shall clearly state that the broker is engaged in the real estate
+business".
+
+Section 47:
+SECTION 40. Tennessee Code Annotated, Section 62-13-309(b)(2), is amended by
+deleting the subdivision.
+
+Section 48:
+SECTION 41. Tennessee Code Annotated, Section 62-13-312(b)(12), is amended by
+deleting the subdivision and substituting instead:
+(12) Being convicted in a court of competent jurisdiction of this or any other state
+or federal court of a felony or misdemeanor related to homicide, assault, battery, force,
+or any other act of violence against persons or property, forgery, embezzlement,
+obtaining money under false pretenses, bribery, larceny, extortion, conspiracy to
+defraud, any crime requiring registration on the Tennessee Sexual Offender and Violent
+Sexual Offender Registration, Verification and Tracking Act of 2004, compiled in title 40,
+chapter 39, part 2, or any crime or any similar offense or offenses, or pleading guilty or
+nolo contendere to any such offense or offenses;
+- 20 - 012417
+
+Section 49:
+SECTION 42. Tennessee Code Annotated, Section 62-13-312(f), is amended by
+inserting the language "or guilty plea" immediately following "conviction" wherever it appears.
+
+Section 50:
+SECTION 43. Tennessee Code Annotated, Section 62-13-313(b), is amended by
+deleting the subsection and substituting:
+(b) All notices and answers required or authorized to be made or filed under this
+
+Section 51:
+section may be served or filed personally, by electronic mail, or by first-class mail to the
+last known business address or electronic business mail address of the addressee. If
+served personally or by electronic mail, the time runs from the date of service and if by
+registered mail, from the postmarked date of the letter enclosing the document.
+
+Section 52:
+SECTION 44. Tennessee Code Annotated, Section 62-13-317(b), is amended by
+adding the language "or electronically mailed" immediately following the word "mailed".
+
+Section 53:
+SECTION 45. Tennessee Code Annotated, Section 62-13-319(c), is amended by
+deleting the language "more than two (2) years" and substituting "more than one (1) year, but
+less than two (2) years,".
+
+Section 54:
+SECTION 46. Tennessee Code Annotated, Section 62-18-102(1), is amended by
+deleting the subdivision and substituting:
+(1) "Board" means the state board of examiners for architects, engineers, and
+land surveyors created by § 62-2-201;
+
+Section 55:
+SECTION 47. Tennessee Code Annotated, Title 62, Chapter 18, Part 1, is amended by
+deleting sections 62-18-103, 62-18-104, 62-18-105, 62-18-107, and 62-18-108.
+
+Section 56:
+SECTION 48. Tennessee Code Annotated, Section 62-18-106, is amended by deleting
+the section and substituting:
+(a) The board shall, in compliance with the Uniform Administrative Procedures
+Act, compiled in title 4, chapter 5, promulgate rules that incorporate and establish
+minimum acceptable standards of practice for licensed land surveyors.
+- 21 - 012417
+(b) The board may establish continuing educational requirements and standards
+for land surveyors. Any rules promulgated to effect this subsection (b) must be
+promulgated in compliance with the Uniform Administrative Procedures Act.
+
+Section 57:
+SECTION 49. Tennessee Code Annotated, Section 62-18-112, is amended by deleting
+the section and substituting instead:
+(a) In determining the qualifications of applicants for registration as land
+surveyors, the executive director of the board may assign the application to two (2) or
+more of the land surveying members to review individually. If two (2) reviewing
+members approve the application and full board review is not otherwise required by this
+subsection (a), the application is approved. If any reviewing member requests full board
+review, or if the executive director determines that the level of complexity of the
+application needs full board review, the application must be reviewed at a board meeting
+and approval requires only the affirmative vote of a majority of the land surveying
+members. Applicants for registration as land surveyors must be examined by land
+surveyor members of the board only.
+(b) If the board denies the issuance of a certificate to an applicant, a refund of
+any part of the application fee must not be returned by the board to the applicant.
+(c) For purposes of this section, the public member of the board appointed under
+the authority of § 62-2-201(b) is not a voting member of the board.
+
+Section 58:
+SECTION 50. Tennessee Code Annotated, Section 62-18-116(a)(1)(D), is amended by
+deleting the language "§ 62-18-106(c)" and substituting "§ 62-18-106(a)".
+
+Section 59:
+SECTION 51. Tennessee Code Annotated, Section 62-20-115(a)(2), is amended by
+deleting the subdivision and substituting:
+(2) The board shall transmit any such complaint to the accused licensee. The
+board may transmit any such complaint by electronic mail or first-class mail.
+- 22 - 012417
+
+Section 60:
+SECTION 52.
+(a) Tennessee Code Annotated, Title 62, Chapter 27, is amended by deleting
+the chapter.
+(b) Tennessee Code Annotated, Section 62-76-203(a)(7), is amended by
+deleting the subdivision.
+
+Section 61:
+SECTION 53. Tennessee Code Annotated, Section 62-35-143(a), is amended by
+deleting the subsection and substituting:
+(a)
+(1) The detection services licensing program includes the commissioner's
+implementation of the requirements of this chapter, chapter 26 of this title, and
+the Alarm Contractors Licensing Act of 1991, compiled in chapter 32, part 3 of
+this title.
+(2) All moneys collected pursuant to this chapter, chapter 26 of this title,
+and the Alarm Contractors Licensing Act of 1991 must be deposited in the state
+treasury in a separate account governed by § 56-1-310 for the administration of
+this chapter, chapter 26 of this title, and the Alarm Contractors Licensing Act of
+
+Section 62:
+1991.
+
+Section 63:
+SECTION 54. Tennessee Code Annotated, Section 62-35-143(c), is amended by
+deleting the subsection and substituting:
+(c) If the commissioner establishes the committee pursuant to subsection (b),
+then the committee must include ten (10) members as follows:
+(1) Three (3) members representing the alarm industry;
+(2) Three (3) members representing the private investigation industry;
+(3) Three (3) members representing the private security industry; and
+- 23 - 012417
+(4) One (1) public member who is not eligible for membership under
+subdivisions (c)(1)-(3).
+
+Section 64:
+SECTION 55. Tennessee Code Annotated, Section 68-102-602(a)(2), is amended by
+deleting the language ". In the event that a deficiency is found during a safety inspection, any
+subsequent inspection that is required for the inspection of repairs that are made to address
+such deficiency shall be conducted by a deputy electrical inspector who is commissioned under
+
+Section 65:
+§ 68-102-143".
+
+Section 66:
+SECTION 56. Tennessee Code Annotated, Section 68-105-103(b)(7), is amended by
+deleting the subdivision.
+
+Section 67:
+SECTION 57. All moneys of boards, commissions, and regulatory funds eliminated by
+
+Section 68:
+Sections 46 through 50 of this act shall be transferred to the account for the state board of
+examiners for architects, engineers, and land surveyors created in Section 13 of this act.
+
+Section 69:
+SECTION 58. All moneys and regulatory funds eliminated by the deletion of title 62,
+chapter 27, remain in the account created by § 62-35-143, and shall be used for the
+administration of the detection services licensing program.
+
+Section 70:
+SECTION 59. All members, excluding public members, of boards created by §§ 62-2-
+201 and 62-18-103, shall continue to serve out their existing term on the state board for
+architects, engineers, and land surveyors created by Section 5 of this act. New members shall
+be appointed, in accordance with § 62-2-203(a), immediately to fill any vacant seats. A public
+member shall be appointed, in accordance with § 62-2-203(b), to the state board for architects,
+engineers, and land surveyors created by Section 5 of this act.
+
+Section 71:
+SECTION 60. For the purpose of promulgating rules, this act takes effect upon
+becoming a law, the public welfare requiring it. For all other purposes, this act takes effect July
+1, 2026, the public welfare requiring it.
+- 24 - 012417
+[DELETED: SS(]
+[DELETED:  -0S(SSIS(]
+[DELETED:  -0((((((((((((]
+[DELETED:  -0S((S((((]
+[DELETED:  -0((((]
+[DELETED:  -0(((((((((((]
+[DELETED:  -0(((((((]
+[DELETED:  -0(S(S((]
+[DELETED:  -0((S(SS6(]
+[DELETED:  -0(S((S((]
+[DELETED:  -0(((]
+[DELETED:  -0((((SS((]
+[DELETED:  -0((((S((((]
+[DELETED:  -0((((((((]
+[DELETED:  -0(SSTS(]
+[DELETED:  -0S(S(S(SS]
+[DELETED:  -0S(S(S(S]
+[DELETED:  -0(S(S(S(]
+[DELETED:  -0S(S(((S(]
+[DELETED:  -0((SSSSS(]
+[DELETED:  -0SS(SSS(SS(]
+[DELETED:  -0(S(((SS(]
+[DELETED:  -0S((S(((S((((]
+[DELETED:  -0(SSSSSS]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 2224
+By Johnson
+HOUSE BILL 2530
+By Lamberth
+AN ACT to amend Tennessee Code Annotated, Title 4,
+Chapter 29, Part 2; Title 20, Chapter 9, Part 6;
+Title 55, Chapter 17, Part 1; Title 62, Chapter 13;
+Title 62, Chapter 18; Title 62, Chapter 2; Title 62,
+Chapter 20; Title 62, Chapter 27; Title 62, Chapter
+35; Title 62, Chapter 4; Title 62, Chapter 6; Title
+62, Chapter 76; Title 68, Chapter 102 and Title 68,
+Chapter 105, relative to professions regulated by
+the department of commerce and insurance.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 4-29-248(a), is amended by deleting
+subdivision (43).
+SECTION 2. Tennessee Code Annotated, Section 20-9-606(a), is amended by deleting
+the subsection and substituting:
+(a) All complaints must be in writing, signed by the person making the complaint,
+and addressed to the commissioner. All complaints must contain the name and address
+of the person against whom the complaint is brought and a description of the conduct
+giving rise to the complaint. Complaints must be submitted within ninety (90) days of the
+conduct complained about, and a copy must be provided to the licensed court reporter.
+The copy may be sent by electronic mail or by such other means of delivery to ensure
+that the licensed court reporter charged in the complaint receives actual notice. After
+investigation of the charges, the commissioner shall determine if a hearing is warranted,
+dismiss the complaint, or take other action the commissioner deems appropriate. Any
+hearing deemed warranted must be conducted in accordance with the contested cases
+provisions of the Uniform Administrative Procedures Act, compiled in title 4, chapter 5.
+HB2530
+012417
+- 1 -
+
+SECTION 3. Tennessee Code Annotated, Section 55-17-103(b), is amended by
+deleting the subsection and substituting:
+(b) Each of the members of the commission must, at the time of appointment, be
+a resident of this state and be of good moral character. Industry members must have
+been actually engaged in the manufacture, distribution, or sale of motor vehicles in this
+state for at least five (5) consecutive years preceding the appointment, and each must
+have the necessary qualifications for the applicable license under this part, and be the
+holder of such license at all times while a member of the commission. Being engaged in
+more than one (1) licensed activity does not disqualify a person from serving as an
+industry member of the commission.
+SECTION 4. Tennessee Code Annotated, Section 55-17-106, is amended by deleting
+subsection (b).
+SECTION 5. Tennessee Code Annotated, Section 62-2-101, is amended by deleting the
+section and substituting:
+In order to safeguard life, health, and property and to promote public welfare, by
+requiring that only properly qualified persons may practice architecture, engineering,
+land surveying, and landscape architecture, any person practicing architecture,
+engineering, land surveying, or landscape architecture must be registered as provided in
+this chapter and chapter 18, part 1 of this title, as appropriate, and it is unlawful for a
+person to practice or offer to practice architecture, engineering, land surveying, or
+landscape architecture unless the person has been duly registered under this chapter
+and chapter 18, part 1 of this title, as appropriate, except as otherwise provided.
+SECTION 6. Tennessee Code Annotated, Section 62-2-105, is amended by deleting the
+section and substituting:
+(a)
+- 2 - 012417
+
+(1) A person shall not:
+(A) Present or attempt to file as the person's own the certificate of
+registration of another;
+(B) Give forged or willfully false evidence of any kind to the state
+board of examiners for architects, engineers, and land surveyors or any
+member of the board for the purpose of obtaining a certificate;
+(C) Falsely impersonate any other practitioner; or
+(D) Use or attempt to use an expired or revoked certificate of
+registration.
+(2) A violation of subdivision (a)(1) is a Class B misdemeanor.
+(b)
+(1) A person shall not practice or offer to practice engineering,
+architecture, land surveying, or landscape architecture in this state in violation of
+this chapter.
+(2) A violation of subdivision (b)(1) is a Class B misdemeanor.
+(3) Each day's violation of subdivision (b)(1) is a separate offense.
+(c) A person is construed to practice or offer to practice engineering,
+architecture, land surveying, or landscape architecture who, by verbal claim, sign,
+advertisement, letterhead, card, or in any other way, represents that person to be an
+architect, engineer, land surveyor, or landscape architect, with or without qualifying
+adjective, or through the use of some other title implies that the person is an architect,
+engineer, land surveyor, or landscape architect.
+(d) It is the duty of the members of the board to report any violations of this
+chapter to the proper authorities.
+- 3 - 012417
+
+SECTION 7. Tennessee Code Annotated, Section 62-2-106, is amended by deleting the
+section and substituting:
+(a) It is the duty of the state board of examiners for architects, engineers, and
+land surveyors to inquire into the identity of a person claiming to be an architect,
+engineer, land surveyor, or landscape architect and to prosecute any person violating
+this chapter.
+(b) The board may, when it deems appropriate, seek civil remedies at law or
+equity to restrain or enjoin any unauthorized practice or other violation of this chapter or
+chapter 18, part 1 of this title.
+SECTION 8. Tennessee Code Annotated, Section 62-2-201, is amended by deleting the
+section and substituting:
+(a)
+(1) There is created a state board of examiners for architects, engineers,
+and land surveyors called the board in this part, parts 1 and 3-8 of this chapter,
+and chapter 18, part 1 of this title.
+(2) The board consists of eleven (11) members as follows:
+(A) Ten (10) professional members to be appointed by the
+governor; three (3) of whom are registered architects who may be
+appointed from lists of qualified persons submitted by interested architect
+groups, including, but not limited to, the representative professional
+architects of this state; three (3) of whom are registered engineers who
+may be appointed from lists of qualified persons submitted by interested
+engineering groups, including, but not limited to, the representative
+professional engineering society of this state; three (3) of whom are
+registered land surveyors who may be appointed from lists of qualified
+- 4 - 012417
+
+persons submitted by interested land surveyor groups, including, but not
+limited to, the Tennessee association of professional surveyors; and one
+(1) of whom is a registered landscape architect who may be appointed
+from lists of qualified persons submitted by interested landscape architect
+groups, including, but not limited to, the representative professional
+landscape architecture society of this state. The governor shall consult
+with interested statewide architect, engineering, land surveying, and
+landscape architect groups, including, but not limited to, the professional
+societies listed in this subdivision (a)(2)(A) to determine qualified persons
+to fill the positions;
+(B) One (1) member to be appointed by the governor who is not
+engaged in the practice of architecture, engineering, land surveying, or
+landscape architecture and who is a resident of this state and possesses
+good moral character. Except as provided in § 62-2-302 and § 62-18-
+112, the member appointed pursuant to this subdivision (a)(2)(B) is a
+participating member of the board in all board matters; and
+(C) The members serving on the board of architects and
+engineers as of June 30, 2026 shall serve the remainder of their terms.
+(3) In the event of a vacancy on the board for any reason and the
+governor failing to appoint a successor within three (3) months after the vacancy
+occurs, the board may fill the vacancy from the lists of qualified persons
+submitted by the interested groups, including, but not limited to, the respective
+societies, until the governor makes an appointment as provided in subdivision
+(a)(2).
+(4)
+- 5 - 012417
+
+(A) The governor shall appoint one (1) architect member from
+each grand division of this state to serve for a term of four (4) years.
+(B) The governor shall appoint one (1) engineer member from
+each grand division of this state to serve for a term of four (4) years.
+(C) The governor shall appoint one (1) land surveyor member
+from each grand division of this state to serve for a term of four (4) years,
+except for the initial three (3) land surveyors appointed to the board, who
+must be appointed to staggered terms as follows:
+(i) One (1) for a term of two (2) years;
+(ii) One (1) for a term of three (3) years; and
+(iii) One (1) for a term of four (4) years.
+(D) The successor to any architect, engineer, or land surveyor
+member must be appointed from the same grand division as that
+member.
+(E) The governor shall appoint the member who is a landscape
+architect to serve for a term of four (4) years. The successor of that
+member must be appointed from a different grand division than the
+member's predecessor.
+(F) The governor shall appoint the public member required by
+subdivision (a)(2)(B) to serve a term of four (4) years.
+(5) Appointments to the board must be in such manner that the terms of
+members in the same profession expire at different times.
+(6) Terms of office begin on July 1 of the year of appointment, except
+that successors may, at any time, qualify and serve for the remainder of the
+given term.
+- 6 - 012417
+
+(b)
+(1) In addition to members serving on the board under the authority of
+subsection (a), the board also includes three (3) registered engineers as
+associate members, who may be appointed by the governor from lists of qualified
+persons submitted by interested engineering groups, including, but not limited to,
+the representative professional engineering society of this state. The governor
+shall consult with such interested engineering groups to determine qualified
+persons to fill the positions.
+(2) An associate engineer member is appointed from each grand division
+of the state, to serve for a term of four (4) years. The successor of any associate
+engineer member must be appointed from the grand division of the member.
+(3) Appointments to the board under this subsection (b) must be in a
+manner that the terms of the associate engineer members expire at different
+times.
+(4) Terms of office begin on July 1 of the year of appointment, except
+that successors may, at any time, qualify and serve for the remainder of the
+given term.
+(5) Associate engineer board members appointed under this subsection
+(b) are subject to § 62-2-202.
+(6) Associate engineer members approved under this subsection (b)
+shall assist the board with routine matters and responsibilities as requested by
+the board. Associate engineer members shall attend board meetings, committee
+meetings, and other board functions only as required by the board. The
+associate engineer members have no voting privileges and are not to be
+considered as members for quorum or election purposes.
+- 7 - 012417
+
+(7) Associate engineer members shall render technical assistance to the
+board and staff as authorized by the board.
+SECTION 9. Tennessee Code Annotated, Section 62-2-202(a), is amended by deleting
+the subsection and substituting:
+(a) Each of the members of the board appointed under § 62-2-201(a) must
+possess at least ten (10) years' experience in their respective practices as either a
+registered architect, a registered engineer, a registered land surveyor, or a registered
+landscape architect, as applicable, with no record of any formal disciplinary action. Such
+members must each have been in responsible charge of work for at least five (5) years,
+and must each have demonstrated an interest in improving the profession by their
+involvement in a statewide association directly related to their profession for at least five
+(5) years. Each member must be a citizen of the United States and must have been a
+resident of this state for five (5) years at the time of their appointment.
+SECTION 10. Tennessee Code Annotated, Section 62-2-203, is amended by deleting
+the section and substituting:
+(a) Each member appointed under § 62-2-201(a) must receive a letter of
+appointment from the governor, and a person is not eligible for appointment who does
+not, at such the time, hold an unexpired certificate to practice architecture, engineering,
+land surveying, or landscape architecture issued under this chapter or other applicable
+law. Before beginning a term of office, each appointed member must file the oath of
+office with the secretary of state.
+(b) The board or any committee of the board shall utilize the services of an
+assistant attorney general in connection with the affairs of the board, and the board shall
+compel the attendance of witnesses on behalf of the state or any party having issue
+- 8 - 012417
+
+before the board, shall administer oaths, and shall take testimony concerning all matters
+within its jurisdiction.
+(c) The board shall adopt and have an official seal, which must be affixed to all
+certificates of registration granted, and shall make all bylaws and rules consistent with
+the law.
+(d) The board may establish continuing professional education requirements for
+architects, engineers, land surveyors, and landscape architects. Any rules promulgated
+relative to such continuing professional education requirements under this subsection (d)
+must be promulgated in compliance with the Uniform Administrative Procedures Act,
+compiled in title 4, chapter 5.
+SECTION 11. Tennessee Code Annotated, Section 62-2-204(c), is amended by
+deleting the subsection and substituting:
+(c) A quorum of the board must consist of at least six (6) members. For the
+purpose of formal disciplinary matters involving an architect, engineer, land surveyor, or
+landscape architect, at least one (1) board member from the respective profession must
+be present as part of the six-member quorum.
+SECTION 12. Tennessee Code Annotated, Section 62-2-206, is amended by deleting
+the language "three (3) board members" and substituting "four (4) board members".
+SECTION 13. Tennessee Code Annotated, Title 62, Chapter 2, Part 2, is amended by
+adding the following as a new section:
+62-2-208. Funds.
+(a) All moneys collected pursuant to this chapter and chapter 18, part 1 of this
+title must be deposited in the state treasury in a separate account for the board and for
+the administration of this chapter and chapter 18, part 1, which is governed by § 56-1-
+310.
+- 9 - 012417
+
+(b) Notwithstanding subsection (a), disbursements from the account may be
+made for the purpose of defraying expenses incurred in the implementation and
+enforcement of this chapter and chapter 18, part 1.
+SECTION 14. Tennessee Code Annotated, Section 62-2-301, is amended by deleting
+the section and substituting:
+(a) The board shall, upon application for a certificate of registration, on the
+prescribed form and the payment by the applicant of a fee as prescribed by the board,
+consider the application, and, in proper cases, issue a certificate of registration, either as
+an architect, engineer, land surveyor, or landscape architect, to a person who submits
+evidence satisfactory to the board that the person is fully qualified to practice
+architecture, engineering, land surveying, or landscape architecture.
+(b) A person must not be granted any combination of licenses as an architect,
+engineer, land surveyor pursuant to chapter 18, part 1 of this title, or landscape architect
+unless the person makes a separate application and pays a separate fee for each
+profession, both the original fee and the annual renewal fee, and is found by the board to
+be qualified for a license in each profession.
+SECTION 15. Tennessee Code Annotated, Section 62-2-302, is amended by deleting
+the section and substituting:
+(a)
+(1) In determining the qualifications of applicants for registration as
+architects, the executive director of the board may assign the application to two
+(2) or more of the architect members to review individually. If two (2) reviewing
+members approve the application and full board review is not otherwise required
+by this subdivision (a)(1), the application is approved. If any reviewing member
+requests full board review, or if the executive director determines that the level of
+- 10 - 012417
+
+complexity of the application needs full board review, the application must be
+reviewed at a board meeting and approval only requires the affirmative vote of a
+majority of the architect members.
+(2) In determining the qualifications of applicants for registration as
+engineers, the executive director of the board may assign the application to two
+(2) or more of the engineer members, or associate engineer members, to review
+individually. If two (2) reviewing members approve the application and full board
+review is not otherwise required by this subdivision (a)(2), the application is
+approved. If any reviewing member requests full board review, or if the executive
+director determines that the level of complexity of the application requires a full
+review, the application must be reviewed at a board meeting and approval only
+requires the affirmative vote of a majority of the engineer members.
+(3) In determining the qualifications of applicants for registration as a
+landscape architect, the executive director of the board may assign the
+application to the one (1) landscape architect board member and at least one (1)
+architect or one (1) engineer board member. If the two (2) reviewing members
+approve the application and full board review is not otherwise required by this
+subdivision (a)(3), the application is approved. If any reviewing member requests
+full board review, or if the executive director determines that the level of
+complexity of the application requires a full board review, the application must be
+reviewed at a board meeting and approval only requires the affirmative vote from
+the one (1) landscape architect member and a majority of the voting architect and
+engineer members; provided, however, that at least one (1) architect or one (1)
+engineer member vote is required for approval.
+(b)
+- 11 - 012417
+
+(1) Applicants for registration as architects must be examined by
+architect members of the board only; applicants for registration as engineers
+must be examined by the engineer members of the board only; and applicants for
+registration as land surveyors must be examined by land surveying members of
+the board only.
+(2) Applicants for registration as landscape architects must be examined
+by the landscape architect member and one (1) architect or one (1) engineer
+member of the board.
+(c) If the board denies issuance of a certificate to an applicant, a refund of any
+part of the application fee must not be returned to the applicant.
+(d) For purposes of this section, the public member of the board appointed under
+the authority of § 62-2-201(b) is not a voting member of the board.
+SECTION 16. Tennessee Code Annotated, Section 62-2-304(a), is amended by
+deleting the language "registered interior designer" and substituting "land surveyor,".
+SECTION 17. Tennessee Code Annotated, Section 62-2-307, is amended by deleting
+the section and substituting:
+(a) Certificates of registration expire two (2) years following the date of issuance
+or renewal and are invalid on that date unless renewed.
+(b) It is the duty of the board to notify every person registered under this chapter
+of the date of the expiration of that person's certificate and the amount of the fee
+required for its two-year renewal. The notice must be sent at least one (1) month in
+advance of the date of the expiration of the certificate. Notice may be sent by electronic
+mail if the licensee maintains an electronic mailing address on file with the board.
+- 12 - 012417
+
+(c) Renewal may be affected at any time during the thirty (30) days preceding
+the certificate expiration date by the payment of the renewal fee determined by and
+payable to the board.
+(d) Certificates of registration are subject to late renewal for six (6) months
+following their expiration date by payment of the renewal fee plus a penalty as set by the
+board for each month or fraction of a month that elapses before payment is tendered.
+(e) A person who renews a certificate later than six (6) months after its expiration
+date must reapply for certification. The board may, in its discretion, waive any further
+examination of the applicant and any further education and experience beyond that
+obtained at the time of the applicant's original registration in this state.
+(f) Notwithstanding this chapter to the contrary, the board may establish, by rule,
+procedures and criteria pursuant to which persons who are retired may continue to use
+the titles of "architect," "engineer," or "landscape architect" without the payment of a
+registration renewal fee.
+SECTION 18. Tennessee Code Annotated, Section 62-2-308, is amended by deleting
+the section and substituting:
+(a)
+(1) The board may refuse to issue or renew, and may revoke or suspend,
+the certificate of registration of any architect, engineer, land surveyor, or
+landscape architect registered under this chapter who is convicted, placed on
+pretrial probation, found liable, or found to have committed the following:
+(A) Fraud or deceit in obtaining a certificate of registration;
+(B) Gross negligence, incompetency, or misconduct in the
+practice of architecture, engineering, land surveying, or landscape
+architecture;
+- 13 - 012417
+
+(C) Failure to obtain, keep, and utilize the registrant's seal as
+provided in this chapter;
+(D) Breach of contract for professional services as ruled by a
+court of competent jurisdiction;
+(E) Any violation of the rules adopted by the board;
+(F) An act that resulted in the suspension or revocation of the
+person's right to practice architecture, engineering, or landscape
+architecture by another state or national registration board; or
+(G) Any felony as ruled by a court of competent jurisdiction.
+However, an action taken under this subdivision (a)(1)(G) is subject to the
+applicable provisions of the Fresh Start Act, compiled in chapter 76, part
+1 of this title.
+(2) A person may prefer charges in writing to the board against an
+architect, engineer, landscape architect, or land surveyor registered under this
+chapter or chapter 18 part 1 of this title, on any of the grounds listed in
+subdivision (a)(1).
+(3) The affirmative vote of six (6) or more members of the board is
+required to revoke or suspend the certificate of registration of an architect,
+engineer, or landscape architect registered under this chapter, or of a land
+surveyor registered under chapter 18, part 1 of this title.
+(b) The board may reissue a certificate of registration to a person whose
+certificate has been revoked; provided, that six (6) or more members of the board vote in
+favor of reissuance for reasons the board may deem sufficient.
+- 14 - 012417
+
+(c) The board members are officers of the state in carrying out the duties
+imposed by this chapter and chapter 18 part 1 of this title, and as such have the full
+measure of governmental immunity provided by law.
+SECTION 19. Tennessee Code Annotated, Title 62, Chapter 2, Part 9, is amended by
+deleting the part in its entirety.
+SECTION 20. Tennessee Code Annotated, Section 62-4-139, is amended by deleting
+the section and substituting instead:
+The board shall provide written notice of the requirements of §§ 62-4-110(f), 62-
+4-118(m), 62-4-120(i), and 62-4-120(k) to all applicable licensees and schools under the
+jurisdiction of the board through the board's website, e-blasts, print mailings, electronic
+mail, license renewal communications, or any other reasonable methods to provide
+notice of these requirements, as determined by the board.
+SECTION 21. Tennessee Code Annotated, Section 62-6-111(b), is amended by adding
+the following as a new subdivision:
+(5) In lieu of providing a financial statement, an applicant may obtain a surety
+bond in an amount that is equal to at least fifty percent (50%) of the monetary limitation
+that is requested by the applicant. The bond must be continuous in form and must be
+maintained in effect for as long as the applicant maintains a license or until the applicant
+provides a financial statement that meets the requirements of subdivisions (b)(3) or
+(b)(4). The applicant shall submit proof of the surety bond with the application. The
+bond is for the benefit of a person who is damaged by an act or omission of the applicant
+constituting a breach of a construction contract or by an unlawful act or omission of the
+applicant in the performance of contracting. A person so damaged may sue directly on
+the bond without assignment thereof. The bond may not be construed to require any
+surety to be responsible for the completion of a construction contract entered into by the
+- 15 - 012417
+
+principal on the bond. The liability of the surety under any bond may not exceed in the
+aggregate the amount of the bond. If the bond ceases to be in effect, the contractor's
+license becomes invalid.
+SECTION 22. Tennessee Code Annotated, Section 62-6-111(h), is amended by
+deleting the subsection and substituting instead:
+(h) Notwithstanding § 56-1-302(a)(7) to the contrary, all revenues generated
+from licensing fees, penalties, or interest must be allocated solely to the board for
+licensing contractors to be utilized for the administration and enforcement of this part.
+SECTION 23. Tennessee Code Annotated, Section 62-6-111(k), is amended by adding
+the following as a new subdivision:
+(5) In lieu of providing a financial statement for the request in a change of
+monetary limitation as required by subdivisions (k)(1) and (2), an applicant may provide
+a surety bond that meets the requirements of subdivision (b)(5).
+SECTION 24. Tennessee Code Annotated, Section 62-6-116(b), is amended by
+deleting the subsection and substituting:
+(b) Renewal notices must be sent ninety (90) days prior to the expiration date of
+the license. Renewal notices may be sent by electronic mail if the licensee maintains an
+electronic mailing address on file with the board.
+SECTION 25. Tennessee Code Annotated, Section 62-6-116(c), is amended by adding
+the following language immediately following the last sentence:
+In lieu of submitting a financial statement, the renewal applicant may submit proof of a
+surety bond that meets the requirements of § 62-6-111(b)(5) with the renewal
+application.
+SECTION 26. Tennessee Code Annotated, Section 62-6-116(d), is amended by adding
+the following language immediately following the last sentence:
+- 16 - 012417
+
+If the renewal applicant submits proof of a surety bond with the renewal application or
+maintains an effective surety bond on file with the board that meets the requirements of
+§ 62-6-111(b)(5), then the renewal applicant is not required to provide a financial
+statement.
+SECTION 27. Tennessee Code Annotated, Section 62-6-116(e), is amended by
+deleting the subsection and substituting:
+(e) It is the duty of the executive director to notify every person licensed under
+this part of the date of expiration of this certificate of license and the amount of the fee
+required for its two-year renewal. Notice may be accomplished by electronic mail or by
+any other reasonable method determined by the board, in accordance with this section.
+SECTION 28. Tennessee Code Annotated, Section 62-6-124, is amended by adding
+the following as a new subsection:
+(c) The board may provide a bond, surety, or personal guaranty that is submitted
+to the board to a person requesting a copy of such document. The board must provide
+any financial records submitted by an applicant or licensee to any law enforcement
+agency, state or federal agency, or any other governmental agency having jurisdiction
+over an applicant or licensee upon request from such agency or by the board's own
+recommendation.
+SECTION 29. Tennessee Code Annotated, Section 62-6-131(c), is amended by
+deleting the subsection and substituting:
+(c) The board shall prescribe fees for the issuance and renewal of licenses of
+limited licensed electricians.
+SECTION 30. Tennessee Code Annotated, Section 62-6-131, is amended by adding
+the following as a new subsection:
+- 17 - 012417
+
+(e) Effective July 1, 2026, all funds held by the state treasurer in the limited
+licensed electricians fund must be deposited in the fund for the state board for licensing
+contractors pursuant to § 56-1-310(a), to be used for any lawful purpose of the board,
+and the separate limited licensed electricians fund no longer exists upon such transfer of
+funds. All fees, penalties, and any other payments received regarding limited licensed
+electricians must be deposited in the fund for the board and may be used for any lawful
+purpose of the board.
+SECTION 31. Tennessee Code Annotated, Section 62-6-408(a), is amended by
+deleting the subsection and substituting:
+(a) The board shall prescribe fees for the application, examination, issuance,
+and renewal of licenses of limited licensed plumbers.
+SECTION 32. Tennessee Code Annotated, Section 62-6-408, is amended by adding
+the following as a new subsection:
+(c) Effective July 1, 2026, all funds held by the state treasurer in the limited
+licensed plumbers fund must be deposited in the fund for the state board for licensing
+contractors pursuant to § 56-1-310(a), to be used for any lawful purpose of the board,
+and the separate limited licensed plumbers fund no long exists upon such transfer of
+funds. All fees, penalties, and any other payments received regarding limited licensed
+plumbers must be deposited in the fund for the board and may be used for any lawful
+purpose of the board.
+SECTION 33. Tennessee Code Annotated, Section 62-6-411, is amended by deleting
+subsections (b) and (c) and substituting:
+(b) It is the duty of the board to notify every person licensed under this part of
+the date of expiration of the license and the amount of fee required for its renewal.
+Renewal notices must be sent ninety (90) days prior to the expiration date of the license.
+- 18 - 012417
+
+Renewal notices may be sent by electronic mail if the licensee maintains an electronic
+mailing address on file with the board. The renewal notice must be accompanied by a
+renewal fee.
+SECTION 34. Tennessee Code Annotated, Section 62-13-104(b)(8)(B), is amended by
+deleting the subdivision and substituting:
+(B) All notices and answers required or authorized to be made or filed under this
+subsection (b) may be served or filed personally, by electronic mail, or by registered mail
+to the last known business address of the addressee. If served personally or by
+electronic mail, the time runs from the date of service and if by registered mail, from the
+postmarked date of the letter enclosing the document.
+SECTION 35. Tennessee Code Annotated, Section 62-13-112(j)(2), is amended by
+deleting the subdivision and substituting:
+(2) The commission shall send notification of the license suspension by regular
+or electronic mail:
+(A) To the licensee at the last known business address or electronic mail
+business address and home address or electronic mail home address of the
+licensee as registered with the commission; and
+(B) To the licensee's broker at the broker's address or electronic mail
+address as registered with the commission.
+SECTION 36. Tennessee Code Annotated, Section 62-13-112(l)(2), is amended by
+deleting the subdivision and substituting:
+(2) The commission shall send notification of the license revocation by regular
+mail or electronic mail:
+- 19 - 012417
+
+(A) To the licensee at the last known business address or electronic mail
+business address and home address or electronic mail home address of the
+licensee as registered with the commission; and
+(B) To the licensee's broker at the broker's address or electronic mail
+address as registered with the commission.
+SECTION 37. Tennessee Code Annotated, Section 62-13-303(h)(1), is amended by
+deleting the language "three (3) years" and substituting "four (4) years".
+SECTION 38. Tennessee Code Annotated, Section 62-13-309(a)(1)(A), is amended by
+deleting the language ", located to conform with zoning laws and ordinances".
+SECTION 39. Tennessee Code Annotated, Section 62-13-309(b)(1), is amended by
+deleting the language ", which shall clearly state that the broker is engaged in the real estate
+business".
+SECTION 40. Tennessee Code Annotated, Section 62-13-309(b)(2), is amended by
+deleting the subdivision.
+SECTION 41. Tennessee Code Annotated, Section 62-13-312(b)(12), is amended by
+deleting the subdivision and substituting instead:
+(12) Being convicted in a court of competent jurisdiction of this or any other state
+or federal court of a felony or misdemeanor related to homicide, assault, battery, force,
+or any other act of violence against persons or property, forgery, embezzlement,
+obtaining money under false pretenses, bribery, larceny, extortion, conspiracy to
+defraud, any crime requiring registration on the Tennessee Sexual Offender and Violent
+Sexual Offender Registration, Verification and Tracking Act of 2004, compiled in title 40,
+chapter 39, part 2, or any crime or any similar offense or offenses, or pleading guilty or
+nolo contendere to any such offense or offenses;
+- 20 - 012417
+
+SECTION 42. Tennessee Code Annotated, Section 62-13-312(f), is amended by
+inserting the language "or guilty plea" immediately following "conviction" wherever it appears.
+SECTION 43. Tennessee Code Annotated, Section 62-13-313(b), is amended by
+deleting the subsection and substituting:
+(b) All notices and answers required or authorized to be made or filed under this
+section may be served or filed personally, by electronic mail, or by first-class mail to the
+last known business address or electronic business mail address of the addressee. If
+served personally or by electronic mail, the time runs from the date of service and if by
+registered mail, from the postmarked date of the letter enclosing the document.
+SECTION 44. Tennessee Code Annotated, Section 62-13-317(b), is amended by
+adding the language "or electronically mailed" immediately following the word "mailed".
+SECTION 45. Tennessee Code Annotated, Section 62-13-319(c), is amended by
+deleting the language "more than two (2) years" and substituting "more than one (1) year, but
+less than two (2) years,".
+SECTION 46. Tennessee Code Annotated, Section 62-18-102(1), is amended by
+deleting the subdivision and substituting:
+(1) "Board" means the state board of examiners for architects, engineers, and
+land surveyors created by § 62-2-201;
+SECTION 47. Tennessee Code Annotated, Title 62, Chapter 18, Part 1, is amended by
+deleting sections 62-18-103, 62-18-104, 62-18-105, 62-18-107, and 62-18-108.
+SECTION 48. Tennessee Code Annotated, Section 62-18-106, is amended by deleting
+the section and substituting:
+(a) The board shall, in compliance with the Uniform Administrative Procedures
+Act, compiled in title 4, chapter 5, promulgate rules that incorporate and establish
+minimum acceptable standards of practice for licensed land surveyors.
+- 21 - 012417
+
+(b) The board may establish continuing educational requirements and standards
+for land surveyors. Any rules promulgated to effect this subsection (b) must be
+promulgated in compliance with the Uniform Administrative Procedures Act.
+SECTION 49. Tennessee Code Annotated, Section 62-18-112, is amended by deleting
+the section and substituting instead:
+(a) In determining the qualifications of applicants for registration as land
+surveyors, the executive director of the board may assign the application to two (2) or
+more of the land surveying members to review individually. If two (2) reviewing
+members approve the application and full board review is not otherwise required by this
+subsection (a), the application is approved. If any reviewing member requests full board
+review, or if the executive director determines that the level of complexity of the
+application needs full board review, the application must be reviewed at a board meeting
+and approval requires only the affirmative vote of a majority of the land surveying
+members. Applicants for registration as land surveyors must be examined by land
+surveyor members of the board only.
+(b) If the board denies the issuance of a certificate to an applicant, a refund of
+any part of the application fee must not be returned by the board to the applicant.
+(c) For purposes of this section, the public member of the board appointed under
+the authority of § 62-2-201(b) is not a voting member of the board.
+SECTION 50. Tennessee Code Annotated, Section 62-18-116(a)(1)(D), is amended by
+deleting the language "§ 62-18-106(c)" and substituting "§ 62-18-106(a)".
+SECTION 51. Tennessee Code Annotated, Section 62-20-115(a)(2), is amended by
+deleting the subdivision and substituting:
+(2) The board shall transmit any such complaint to the accused licensee. The
+board may transmit any such complaint by electronic mail or first-class mail.
+- 22 - 012417
+
+SECTION 52.
+(a) Tennessee Code Annotated, Title 62, Chapter 27, is amended by deleting
+the chapter.
+(b) Tennessee Code Annotated, Section 62-76-203(a)(7), is amended by
+deleting the subdivision.
+SECTION 53. Tennessee Code Annotated, Section 62-35-143(a), is amended by
+deleting the subsection and substituting:
+(a)
+(1) The detection services licensing program includes the commissioner's
+implementation of the requirements of this chapter, chapter 26 of this title, and
+the Alarm Contractors Licensing Act of 1991, compiled in chapter 32, part 3 of
+this title.
+(2) All moneys collected pursuant to this chapter, chapter 26 of this title,
+and the Alarm Contractors Licensing Act of 1991 must be deposited in the state
+treasury in a separate account governed by § 56-1-310 for the administration of
+this chapter, chapter 26 of this title, and the Alarm Contractors Licensing Act of
+1991.
+SECTION 54. Tennessee Code Annotated, Section 62-35-143(c), is amended by
+deleting the subsection and substituting:
+(c) If the commissioner establishes the committee pursuant to subsection (b),
+then the committee must include ten (10) members as follows:
+(1) Three (3) members representing the alarm industry;
+(2) Three (3) members representing the private investigation industry;
+(3) Three (3) members representing the private security industry; and
+- 23 - 012417
+
+(4) One (1) public member who is not eligible for membership under
+subdivisions (c)(1)-(3).
+SECTION 55. Tennessee Code Annotated, Section 68-102-602(a)(2), is amended by
+deleting the language ". In the event that a deficiency is found during a safety inspection, any
+subsequent inspection that is required for the inspection of repairs that are made to address
+such deficiency shall be conducted by a deputy electrical inspector who is commissioned under
+§ 68-102-143".
+SECTION 56. Tennessee Code Annotated, Section 68-105-103(b)(7), is amended by
+deleting the subdivision.
+SECTION 57. All moneys of boards, commissions, and regulatory funds eliminated by
+Sections 46 through 50 of this act shall be transferred to the account for the state board of
+examiners for architects, engineers, and land surveyors created in Section 13 of this act.
+SECTION 58. All moneys and regulatory funds eliminated by the deletion of title 62,
+chapter 27, remain in the account created by § 62-35-143, and shall be used for the
+administration of the detection services licensing program.
+SECTION 59. All members, excluding public members, of boards created by §§ 62-2-
+201 and 62-18-103, shall continue to serve out their existing term on the state board for
+architects, engineers, and land surveyors created by Section 5 of this act. New members shall
+be appointed, in accordance with § 62-2-203(a), immediately to fill any vacant seats. A public
+member shall be appointed, in accordance with § 62-2-203(b), to the state board for architects,
+engineers, and land surveyors created by Section 5 of this act.
+SECTION 60. For the purpose of promulgating rules, this act takes effect upon
+becoming a law, the public welfare requiring it. For all other purposes, this act takes effect July
+1, 2026, the public welfare requiring it.
+- 24 - 012417
+
+[DELETED: SS(]
+[DELETED:  -0S(SSIS(]
+[DELETED:  -0((((((((((((]
+[DELETED:  -0S((S((((]
+[DELETED:  -0((((]
+[DELETED:  -0(((((((((((]
+[DELETED:  -0(((((((]
+[DELETED:  -0(S(S((]
+[DELETED:  -0((S(SS6(]
+[DELETED:  -0(S((S((]
+[DELETED:  -0(((]
+[DELETED:  -0((((SS((]
+[DELETED:  -0((((S((((]
+[DELETED:  -0((((((((]
+[DELETED:  -0(SSTS(]
+[DELETED:  -0S(S(S(SS]
+[DELETED:  -0S(S(S(S]
+[DELETED:  -0(S(S(S(]
+[DELETED:  -0S(S(((S(]
+[DELETED:  -0((SSSSS(]
+[DELETED:  -0SS(SSS(SS(]
+[DELETED:  -0(S(((SS(]
+[DELETED:  -0S((S(((S((((]
+[DELETED:  -0(SSSSSS]

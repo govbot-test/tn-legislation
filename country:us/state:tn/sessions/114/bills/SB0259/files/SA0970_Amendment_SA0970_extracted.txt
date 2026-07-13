@@ -1,0 +1,197 @@
+Title: AMEND S e n ate Bill No. 259* House Bill No. 853
+Official Title: AMEND S e n ate Bill No. 259* House Bill No. 853
+Number of Sections: 9
+Source: versions - Amendment SA0970
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+Senate Health and Welfare 1
+Amendment No. 2 to SB0259
+Crowe
+Signature of Sponsor
+by deleting all language after the enacting clause and substituting:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 33-8-202(c), is amended by deleting
+the subsection and substituting:
+(c) Notwithstanding subsections (a) and (b), and to the extent allowable by
+federal privacy laws and regulations:
+(1) As used in this subsection (c):
+(A) "Prescription records" mean documents, data, or other
+recorded information created, maintained, or transmitted by a licensed
+healthcare provider, pharmacy, or other authorized entity that relate to
+prescribing, dispensing, or administering of medication to a patient,
+including written, electronic, or verbal prescriptions, medication orders,
+dosage instructions, refill authorizations, dispensing logs, pharmacy
+records, and modifications, renewals, or cancellations of a prescription;
+and
+(B) "Rehabilitation records":
+(i) Mean records concerning a diagnosis, treatment
+recommendation, discharge summary, or prescribed course of
+action provided by a healthcare provider to a patient in connection
+with rehabilitation services; and
+(ii) Does not include personal notes, statements, or
+communications originating from the patient that are documented,
+SA0970
+016740
+- 1 -
+interpreted, or formalized by the provider as part of the medical
+record.
+(2) A child's parent, legal guardian, or legal custodian may access
+prescription records and rehabilitation records resulting from treatment provided
+to an unemancipated minor pursuant to this section.
+(3) Notwithstanding subdivision (c)(2), a child's parent, legal guardian, or
+legal custodian shall not access prescription records or rehabilitation records
+resulting from treatment provided to an unemancipated minor pursuant to this
+
+Section 3:
+section if the treating professional is required to report abuse of the
+unemancipated minor pursuant to § 37-1-403 or § 37-1-605, and the treating
+professional believes that access to prescription records or rehabilitation records
+is reasonably likely to endanger the life or physical safety of the minor.
+(4) If an unemancipated minor communicates suicidal ideations to the
+treating professional, and the professional, using the reasonable skill, knowledge,
+and care ordinarily possessed and exercised by the professional's specialty
+under similar circumstances, has determined or reasonably should have
+determined that the unemancipated minor has the apparent ability to attempt
+suicide and is likely to attempt suicide unless prevented from doing so, then the
+treating professional shall, in addition to any other duties required by law, report
+such suicidal ideations to the unemancipated minor's parent, legal guardian, or
+legal custodian.
+
+Section 4:
+SECTION 2. Tennessee Code Annotated, Section 36-8-103(c)(4), is amended by
+deleting the subdivision and substituting:
+(4) To access and review a child's medical records, as defined in § 63-2-101,
+including prescription records and rehabilitation records as defined in § 33-8-202;
+
+Section 5:
+SECTION 3. Tennessee Code Annotated, Section 68-11-304(i), is amended by deleting
+the subsection and substituting:
+- 2 - 016740
+(i) A parent, legal guardian, legal custodian, or other person with medical
+decision-making authority for an unemancipated minor may access, and a healthcare
+provider or healthcare facility shall provide access, in accordance with § 36-8-103, to the
+unemancipated minor's medical records resulting from medical treatment provided
+without parental consent, including treatment provided pursuant to § 68-10-104(c), § 68-
+34-107, § 63-6-220, § 63-6-222, or § 63-6-223.
+
+Section 6:
+SECTION 4. Tennessee Code Annotated, Section 68-11-304(j), is amended by deleting
+the subsection and substituting:
+(j) Notwithstanding subsection (i), a child's parent, legal guardian, or legal
+custodian shall not access, in accordance with § 36-8-103, the unemancipated minor's
+medical records resulting from treatment provided without parental consent, including
+treatment provided pursuant to § 68-10-104(c), § 68-34-107, § 63-6-220, § 63-6-222, or
+
+Section 7:
+§ 63-6-223, if the treating professional is required to report abuse of the unemancipated
+minor pursuant to § 37-1-403 or § 37-1-605, and the treating professional believes that
+access to medical records is reasonably likely to endanger the life or physical safety of
+the minor.
+
+Section 8:
+SECTION 5. Tennessee Code Annotated, Section 63-1-176(c)(6), is amended by
+deleting subdivision and substituting:
+(6) An employee of a local education agency or public institution of higher
+education acts to control bleeding using a bleeding control kit pursuant to § 49-2-137;
+
+Section 9:
+SECTION 6. This act takes effect upon becoming a law, the public welfare requiring it.
+- 3 - 016740
+[DELETED:  a HS((((((]
+[DELETED:  -0(((S(S]
+[DELETED:  -0(S(S(S]
+
+
+================================================================================
+
+Raw Text:
+Senate Health and Welfare 1
+Amendment No. 2 to SB0259
+Crowe
+Signature of Sponsor
+AMEND S e n ate Bill No. 259* House Bill No. 853
+by deleting all language after the enacting clause and substituting:
+SECTION 1. Tennessee Code Annotated, Section 33-8-202(c), is amended by deleting
+the subsection and substituting:
+(c) Notwithstanding subsections (a) and (b), and to the extent allowable by
+federal privacy laws and regulations:
+(1) As used in this subsection (c):
+(A) "Prescription records" mean documents, data, or other
+recorded information created, maintained, or transmitted by a licensed
+healthcare provider, pharmacy, or other authorized entity that relate to
+prescribing, dispensing, or administering of medication to a patient,
+including written, electronic, or verbal prescriptions, medication orders,
+dosage instructions, refill authorizations, dispensing logs, pharmacy
+records, and modifications, renewals, or cancellations of a prescription;
+and
+(B) "Rehabilitation records":
+(i) Mean records concerning a diagnosis, treatment
+recommendation, discharge summary, or prescribed course of
+action provided by a healthcare provider to a patient in connection
+with rehabilitation services; and
+(ii) Does not include personal notes, statements, or
+communications originating from the patient that are documented,
+SA0970
+016740
+- 1 -
+
+interpreted, or formalized by the provider as part of the medical
+record.
+(2) A child's parent, legal guardian, or legal custodian may access
+prescription records and rehabilitation records resulting from treatment provided
+to an unemancipated minor pursuant to this section.
+(3) Notwithstanding subdivision (c)(2), a child's parent, legal guardian, or
+legal custodian shall not access prescription records or rehabilitation records
+resulting from treatment provided to an unemancipated minor pursuant to this
+section if the treating professional is required to report abuse of the
+unemancipated minor pursuant to § 37-1-403 or § 37-1-605, and the treating
+professional believes that access to prescription records or rehabilitation records
+is reasonably likely to endanger the life or physical safety of the minor.
+(4) If an unemancipated minor communicates suicidal ideations to the
+treating professional, and the professional, using the reasonable skill, knowledge,
+and care ordinarily possessed and exercised by the professional's specialty
+under similar circumstances, has determined or reasonably should have
+determined that the unemancipated minor has the apparent ability to attempt
+suicide and is likely to attempt suicide unless prevented from doing so, then the
+treating professional shall, in addition to any other duties required by law, report
+such suicidal ideations to the unemancipated minor's parent, legal guardian, or
+legal custodian.
+SECTION 2. Tennessee Code Annotated, Section 36-8-103(c)(4), is amended by
+deleting the subdivision and substituting:
+(4) To access and review a child's medical records, as defined in § 63-2-101,
+including prescription records and rehabilitation records as defined in § 33-8-202;
+SECTION 3. Tennessee Code Annotated, Section 68-11-304(i), is amended by deleting
+the subsection and substituting:
+- 2 - 016740
+
+(i) A parent, legal guardian, legal custodian, or other person with medical
+decision-making authority for an unemancipated minor may access, and a healthcare
+provider or healthcare facility shall provide access, in accordance with § 36-8-103, to the
+unemancipated minor's medical records resulting from medical treatment provided
+without parental consent, including treatment provided pursuant to § 68-10-104(c), § 68-
+34-107, § 63-6-220, § 63-6-222, or § 63-6-223.
+SECTION 4. Tennessee Code Annotated, Section 68-11-304(j), is amended by deleting
+the subsection and substituting:
+(j) Notwithstanding subsection (i), a child's parent, legal guardian, or legal
+custodian shall not access, in accordance with § 36-8-103, the unemancipated minor's
+medical records resulting from treatment provided without parental consent, including
+treatment provided pursuant to § 68-10-104(c), § 68-34-107, § 63-6-220, § 63-6-222, or
+§ 63-6-223, if the treating professional is required to report abuse of the unemancipated
+minor pursuant to § 37-1-403 or § 37-1-605, and the treating professional believes that
+access to medical records is reasonably likely to endanger the life or physical safety of
+the minor.
+SECTION 5. Tennessee Code Annotated, Section 63-1-176(c)(6), is amended by
+deleting subdivision and substituting:
+(6) An employee of a local education agency or public institution of higher
+education acts to control bleeding using a bleeding control kit pursuant to § 49-2-137;
+SECTION 6. This act takes effect upon becoming a law, the public welfare requiring it.
+- 3 - 016740
+
+[DELETED:  a HS((((((]
+[DELETED:  -0(((S(S]
+[DELETED:  -0(S(S(S]
