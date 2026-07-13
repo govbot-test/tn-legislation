@@ -1,0 +1,501 @@
+Title: AMEND S e n ate Bill No. 2642 House Bill No. 2112*
+Official Title: AMEND S e n ate Bill No. 2642 House Bill No. 2112*
+Number of Sections: 3
+Source: versions - Amendment HA0720
+Media Type: application/pdf
+Strikethrough Detection: 9 sections found
+
+================================================================================
+
+Section 1:
+House Judiciary 1
+Amendment No. 1 to HB2112
+Farmer
+Signature of Sponsor
+by deleting all language after the enacting clause and substituting:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Title 48, Chapter 101, is amended by adding
+the following as a new part:
+48-101-401.
+As used in this part:
+(1) "Beneficiary designation" means the provision in an instrument
+designating a beneficiary, other than in a will or an instrument creating a trust,
+and may also mean the instrument itself, including:
+(A) An account with a designation for payment on death;
+(B) A security registered in beneficiary form;
+(C) A pension, profit-sharing, retirement, or other employment-
+related benefit plan; or
+(D) Any other non-probate transfer at death;
+(2) "Charitable organization":
+(A) Means:
+(i) A person that is determined by the internal revenue
+service to be a tax-exempt organization pursuant to section
+501(c)(3) of the Internal Revenue Code (26 U.S.C. § 501(c)(3)); or
+(ii) A person who is or holds itself out to be:
+HA0720
+016112
+- 1 -
+(a) A benevolent, educational, voluntary health,
+philanthropic, humane, patriotic, religious, or eleemosynary
+organization;
+(b) For the benefit of law enforcement personnel,
+firefighters, veterans, or other persons who protect the
+public safety; or
+(c) A person who solicits or obtains contributions
+solicited from the public for charitable purposes;
+(B) Includes a chapter, branch, area, office, or similar affiliate or
+person soliciting contributions within this state for a charitable
+organization that has its principal place of business outside this state; and
+(C) Does not include an authorized individual who solicits, by
+authority of the organization, solely on behalf of a registered or exempt
+organization or on behalf of an organization excluded from the definition
+of charitable organization; and
+(3) "Charitable purpose":
+(A) Means:
+(i) A purpose described in section 501(c)(3) of the Internal
+Revenue Code (26 U.S.C. § 501(c)(3)); or
+(ii) A purpose to achieve:
+(a) A benevolent, philanthropic, patriotic,
+educational, humane, scientific, public health,
+environmental conservation, civic, or other eleemosynary
+objective; or
+(b) An objective that benefits law enforcement
+personnel, firefighters, veterans, or other persons who
+protect the public safety; and
+- 2 - 016112
+(B) Is not limited to only those purposes for which contributions
+are tax deductible under section 170 of the Internal Revenue Code (26
+U.S.C. § 170).
+48-101-402.
+If the holder of property that has a beneficiary designation has been notified of
+the death of the owner of the property, then the holder of the property shall, within ten
+(10) business days, use reasonable efforts to provide to each charitable organization
+listed under the beneficiary designation:
+(1) Notice that the charitable organization may have a right to the
+property; and
+(2) The contact information of the holder of the property.
+48-101-403.
+(a) If a charitable organization is a beneficiary of an interest in property created
+by beneficiary designation, then the charitable organization may present an affidavit to
+the holder of the property or to another person with information about the property for the
+purpose of obtaining the property or information regarding the property. The affidavit
+must:
+(1) State all of the following:
+(A) The decedent's name and last known address;
+(B) A general description of the property to the extent known;
+(C) The charitable organization's name, address, and primary
+contact information;
+(D) The charitable organization is a charitable organization;
+(E) A request that the property be paid or transferred to the
+charitable organization or that information about the property be given to
+the charitable organization;
+- 3 - 016112
+(F) An entity or individual other than the charitable organization
+does not have a right to the interest in the property listed in the affidavit;
+(G) The affidavit has been signed by a duly authorized
+representative of the charitable organization under penalty of perjury
+before a notary public; and
+(H) The information in the affidavit is true and correct; and
+(2) Be accompanied by all of the following, unless voluntarily waived by
+the holder of the property:
+(A) A copy of the charitable organization's determination letter
+from the internal revenue service recognizing its tax-exempt status;
+(B) A copy of the charitable organization's certificate of existence
+issued by the secretary of state as conclusive evidence that the domestic
+or foreign corporation is in good standing; provided, however, that if the
+charitable organization is a church or religious organization that is not
+required under state law to obtain or maintain a certificate of existence,
+the organization may instead provide a sworn statement attesting to its
+status as a church or religious organization and its authority to act as
+beneficiary;
+(C) A statement that on information or belief of the affiant, the
+property owner is deceased, supported by one (1) or more of the
+following forms of reasonably reliable documentation:
+(i) A certified or uncertified copy of the decedent's death
+certificate;
+(ii) Probate notice published by the personal
+representative of the decedent's estate; or
+(iii) Other official or governmental documentation
+evidencing the decedent's death;
+- 4 - 016112
+(D) A corporate resolution or similar statement of authority of the
+affiant to act on behalf of the charitable organization; and
+(E) Internal Revenue Service Form W-9 completed by an
+authorized representative of the charitable organization.
+(b) The holder of the property shall not:
+(1) Request any additional personal information from an individual
+employed by, or serving on the board of, the charitable organization, including
+the individual's:
+(A) Social security number;
+(B) Driver license number; provided, that if an individual appears
+in person to deliver or present an affidavit under subsection (a) for the
+purpose of claiming or receiving property, the holder of the property may
+request presentation of a valid government-issued photo identification
+solely to verify the identity of the individual presenting the affidavit and the
+individual's authority to act on behalf of the charitable organization;
+identification is not required for claims submitted by mail, electronic
+transmission, or other non-in-person means;
+(C) Date of birth;
+(D) Passport;
+(E) Home address or phone number;
+(F) Annual income, including child support;
+(G) Value of personal assets or sources of income;
+(H) Marital status;
+(I) Number of dependents;
+(J) Spouse's maiden name;
+(K) Contact information; or
+(L) Other personal financial information;
+- 5 - 016112
+(2) Require an individual employed by or serving on the board of a
+charitable organization to undergo a credit check or criminal background check;
+(3) Require the charitable organization to open an account or otherwise
+become a customer of a specific financial institution; or
+(4) Require co-beneficiaries to submit claims simultaneously or impose
+coordination deadlines among co-beneficiaries; provided, that this subdivision
+(b)(4) does not prohibit a holder of property from requiring simultaneous
+submission or disbursement where the holder's standard account administration
+practices require full and final distribution for the property at one (1) time in order
+to close the account or avoid ongoing administrative, regulatory, or financial risk;
+provided, that the holder of the property has used commercially reasonable
+efforts to notify each of the charitable beneficiaries that they are an account
+beneficiary and that the holder of the property has provided to each of the
+charitable beneficiaries the forms necessary to claim the proceeds.
+Notwithstanding another law to the contrary, a holder of property may disclose
+the name of each entity named as a charitable co-beneficiary to the other
+charitable co-beneficiaries solely for the purpose of this subdivision (b)(4);
+provided, that an individually named beneficiary's identity must not be disclosed.
+(c)
+(1) Except as provided in subdivision (c)(2), where one (1) or more
+charitable beneficiaries have submitted a complete affidavit under this section,
+the holder of property shall distribute the proceeds no later than the following,
+whichever occurs first:
+(A) Ninety (90) days after the receipt of the first complete affidavit;
+or
+(B) Sixty (60) days after receipt of all required affidavits from
+identifiable beneficiaries.
+- 6 - 016112
+(2) If there is a good faith dispute or uncertainty regarding who is entitled
+to receive the decedent's property, then the holder has an additional sixty (60)
+days to distribute the proceeds if the holder sends notice to all potential
+beneficiaries within the applicable time period specified in subdivision (c)(1).
+(d) If the requirements of this section are satisfied, then all of the following apply:
+(1) The decedent's property must be paid, delivered, or transferred to or
+for the benefit of the charitable organization if the affidavit has requested the
+transfer of ownership of the property to the charitable organization;
+(2) A transfer agent of a security described in the affidavit shall change
+registered ownership on the books of the corporation from the decedent to or for
+the benefit of the charitable organization if the affidavit has requested the transfer
+of ownership of the property to the charitable organization; and
+(3) The information requested in the affidavit must be delivered to the
+organization.
+48-101-404.
+(a) The holder of the property or a person who in good faith delivers the property
+or information requested in reliance on information a charitable organization provides
+under § 48-101-403 and who does not have knowledge that the representations
+contained in the affidavit are incorrect, is not liable to any person for delivering the
+property or information, and may assume without inquiry the existence of the facts
+contained in the affidavit. This subsection (a) does not create a presumption that a
+holder of property who in good faith delivers property or information to a charitable
+organization named as a beneficiary based on less than the full documentation listed
+above has been negligent.
+(b) An entity or individual who receives a request for property or information from
+a charitable organization in accordance with § 48-101-403 shall verify the charitable
+organization's authority within sixty (60) days from the date of delivery of the affidavit.
+- 7 - 016112
+(c) A right or title acquired from the charitable organization in consideration of
+the provision of property or information under this section is not invalid in consequence
+of misapplication by the charitable organization. A transaction or lien created by a
+transaction entered into by the charitable organization and a person acting in reliance on
+the affidavit provided by the charitable organization is enforceable against the property
+that the charitable organization has requested.
+48-101-405.
+(a) If the holder of a property refuses to provide the requested property or
+information within sixty (60) days after receiving a complete affidavit and all required
+accompanying documentation from a charitable organization in accordance with § 48-
+101-403, or sixty (60) days thereafter if there is a good faith dispute as provided in § 48-
+101-403(c)(2), then the charitable organization may bring an action against the holder of
+the property to recover the property, receive the information, or compel the delivery of
+the property. An action brought under this section must be brought within one (1) year
+after the date of the act or failure to provide the requested property or information. If the
+court finds that the holder of the property acted unreasonably in failing to deliver the
+property or information as requested in the affidavit, then the court may award to the
+charitable organization any or all of the following:
+(1) Actual damages;
+(2) Punitive damages of not less than five hundred dollars ($500) nor
+more than ten thousand dollars ($10,000); and
+(3) Court costs and reasonable attorney fees.
+(b) For purposes of this section, an affidavit is deemed complete when the
+charitable organization has provided all information and documentation expressly
+required under § 48-101-403(a), and the holder has not notified the charitable
+organization in writing of any specific deficiency within sixty (60) days from the date of
+delivery of the affidavit and required information and documentation.
+- 8 - 016112
+48-101-406.
+This part does not apply to any insurance policy, annuity contract, or other
+product regulated under title 56.
+
+Section 3:
+SECTION 2. This act takes effect July 1, 2026, the public welfare requiring it, and
+applies to conduct occurring and causes of action arising on or after that date.
+- 9 - 016112
+[DELETED:  a H]
+[DELETED:  -0)))))]
+[DELETED:  -0]
+[DELETED:  -0]
+[DELETED:  -0]
+[DELETED:  -0((((]
+[DELETED:  -0(]
+[DELETED:  -0]
+[DELETED:  -0]
+
+
+================================================================================
+
+Raw Text:
+House Judiciary 1
+Amendment No. 1 to HB2112
+Farmer
+Signature of Sponsor
+AMEND S e n ate Bill No. 2642 House Bill No. 2112*
+by deleting all language after the enacting clause and substituting:
+SECTION 1. Tennessee Code Annotated, Title 48, Chapter 101, is amended by adding
+the following as a new part:
+48-101-401.
+As used in this part:
+(1) "Beneficiary designation" means the provision in an instrument
+designating a beneficiary, other than in a will or an instrument creating a trust,
+and may also mean the instrument itself, including:
+(A) An account with a designation for payment on death;
+(B) A security registered in beneficiary form;
+(C) A pension, profit-sharing, retirement, or other employment-
+related benefit plan; or
+(D) Any other non-probate transfer at death;
+(2) "Charitable organization":
+(A) Means:
+(i) A person that is determined by the internal revenue
+service to be a tax-exempt organization pursuant to section
+501(c)(3) of the Internal Revenue Code (26 U.S.C. § 501(c)(3)); or
+(ii) A person who is or holds itself out to be:
+HA0720
+016112
+- 1 -
+
+(a) A benevolent, educational, voluntary health,
+philanthropic, humane, patriotic, religious, or eleemosynary
+organization;
+(b) For the benefit of law enforcement personnel,
+firefighters, veterans, or other persons who protect the
+public safety; or
+(c) A person who solicits or obtains contributions
+solicited from the public for charitable purposes;
+(B) Includes a chapter, branch, area, office, or similar affiliate or
+person soliciting contributions within this state for a charitable
+organization that has its principal place of business outside this state; and
+(C) Does not include an authorized individual who solicits, by
+authority of the organization, solely on behalf of a registered or exempt
+organization or on behalf of an organization excluded from the definition
+of charitable organization; and
+(3) "Charitable purpose":
+(A) Means:
+(i) A purpose described in section 501(c)(3) of the Internal
+Revenue Code (26 U.S.C. § 501(c)(3)); or
+(ii) A purpose to achieve:
+(a) A benevolent, philanthropic, patriotic,
+educational, humane, scientific, public health,
+environmental conservation, civic, or other eleemosynary
+objective; or
+(b) An objective that benefits law enforcement
+personnel, firefighters, veterans, or other persons who
+protect the public safety; and
+- 2 - 016112
+
+(B) Is not limited to only those purposes for which contributions
+are tax deductible under section 170 of the Internal Revenue Code (26
+U.S.C. § 170).
+48-101-402.
+If the holder of property that has a beneficiary designation has been notified of
+the death of the owner of the property, then the holder of the property shall, within ten
+(10) business days, use reasonable efforts to provide to each charitable organization
+listed under the beneficiary designation:
+(1) Notice that the charitable organization may have a right to the
+property; and
+(2) The contact information of the holder of the property.
+48-101-403.
+(a) If a charitable organization is a beneficiary of an interest in property created
+by beneficiary designation, then the charitable organization may present an affidavit to
+the holder of the property or to another person with information about the property for the
+purpose of obtaining the property or information regarding the property. The affidavit
+must:
+(1) State all of the following:
+(A) The decedent's name and last known address;
+(B) A general description of the property to the extent known;
+(C) The charitable organization's name, address, and primary
+contact information;
+(D) The charitable organization is a charitable organization;
+(E) A request that the property be paid or transferred to the
+charitable organization or that information about the property be given to
+the charitable organization;
+- 3 - 016112
+
+(F) An entity or individual other than the charitable organization
+does not have a right to the interest in the property listed in the affidavit;
+(G) The affidavit has been signed by a duly authorized
+representative of the charitable organization under penalty of perjury
+before a notary public; and
+(H) The information in the affidavit is true and correct; and
+(2) Be accompanied by all of the following, unless voluntarily waived by
+the holder of the property:
+(A) A copy of the charitable organization's determination letter
+from the internal revenue service recognizing its tax-exempt status;
+(B) A copy of the charitable organization's certificate of existence
+issued by the secretary of state as conclusive evidence that the domestic
+or foreign corporation is in good standing; provided, however, that if the
+charitable organization is a church or religious organization that is not
+required under state law to obtain or maintain a certificate of existence,
+the organization may instead provide a sworn statement attesting to its
+status as a church or religious organization and its authority to act as
+beneficiary;
+(C) A statement that on information or belief of the affiant, the
+property owner is deceased, supported by one (1) or more of the
+following forms of reasonably reliable documentation:
+(i) A certified or uncertified copy of the decedent's death
+certificate;
+(ii) Probate notice published by the personal
+representative of the decedent's estate; or
+(iii) Other official or governmental documentation
+evidencing the decedent's death;
+- 4 - 016112
+
+(D) A corporate resolution or similar statement of authority of the
+affiant to act on behalf of the charitable organization; and
+(E) Internal Revenue Service Form W-9 completed by an
+authorized representative of the charitable organization.
+(b) The holder of the property shall not:
+(1) Request any additional personal information from an individual
+employed by, or serving on the board of, the charitable organization, including
+the individual's:
+(A) Social security number;
+(B) Driver license number; provided, that if an individual appears
+in person to deliver or present an affidavit under subsection (a) for the
+purpose of claiming or receiving property, the holder of the property may
+request presentation of a valid government-issued photo identification
+solely to verify the identity of the individual presenting the affidavit and the
+individual's authority to act on behalf of the charitable organization;
+identification is not required for claims submitted by mail, electronic
+transmission, or other non-in-person means;
+(C) Date of birth;
+(D) Passport;
+(E) Home address or phone number;
+(F) Annual income, including child support;
+(G) Value of personal assets or sources of income;
+(H) Marital status;
+(I) Number of dependents;
+(J) Spouse's maiden name;
+(K) Contact information; or
+(L) Other personal financial information;
+- 5 - 016112
+
+(2) Require an individual employed by or serving on the board of a
+charitable organization to undergo a credit check or criminal background check;
+(3) Require the charitable organization to open an account or otherwise
+become a customer of a specific financial institution; or
+(4) Require co-beneficiaries to submit claims simultaneously or impose
+coordination deadlines among co-beneficiaries; provided, that this subdivision
+(b)(4) does not prohibit a holder of property from requiring simultaneous
+submission or disbursement where the holder's standard account administration
+practices require full and final distribution for the property at one (1) time in order
+to close the account or avoid ongoing administrative, regulatory, or financial risk;
+provided, that the holder of the property has used commercially reasonable
+efforts to notify each of the charitable beneficiaries that they are an account
+beneficiary and that the holder of the property has provided to each of the
+charitable beneficiaries the forms necessary to claim the proceeds.
+Notwithstanding another law to the contrary, a holder of property may disclose
+the name of each entity named as a charitable co-beneficiary to the other
+charitable co-beneficiaries solely for the purpose of this subdivision (b)(4);
+provided, that an individually named beneficiary's identity must not be disclosed.
+(c)
+(1) Except as provided in subdivision (c)(2), where one (1) or more
+charitable beneficiaries have submitted a complete affidavit under this section,
+the holder of property shall distribute the proceeds no later than the following,
+whichever occurs first:
+(A) Ninety (90) days after the receipt of the first complete affidavit;
+or
+(B) Sixty (60) days after receipt of all required affidavits from
+identifiable beneficiaries.
+- 6 - 016112
+
+(2) If there is a good faith dispute or uncertainty regarding who is entitled
+to receive the decedent's property, then the holder has an additional sixty (60)
+days to distribute the proceeds if the holder sends notice to all potential
+beneficiaries within the applicable time period specified in subdivision (c)(1).
+(d) If the requirements of this section are satisfied, then all of the following apply:
+(1) The decedent's property must be paid, delivered, or transferred to or
+for the benefit of the charitable organization if the affidavit has requested the
+transfer of ownership of the property to the charitable organization;
+(2) A transfer agent of a security described in the affidavit shall change
+registered ownership on the books of the corporation from the decedent to or for
+the benefit of the charitable organization if the affidavit has requested the transfer
+of ownership of the property to the charitable organization; and
+(3) The information requested in the affidavit must be delivered to the
+organization.
+48-101-404.
+(a) The holder of the property or a person who in good faith delivers the property
+or information requested in reliance on information a charitable organization provides
+under § 48-101-403 and who does not have knowledge that the representations
+contained in the affidavit are incorrect, is not liable to any person for delivering the
+property or information, and may assume without inquiry the existence of the facts
+contained in the affidavit. This subsection (a) does not create a presumption that a
+holder of property who in good faith delivers property or information to a charitable
+organization named as a beneficiary based on less than the full documentation listed
+above has been negligent.
+(b) An entity or individual who receives a request for property or information from
+a charitable organization in accordance with § 48-101-403 shall verify the charitable
+organization's authority within sixty (60) days from the date of delivery of the affidavit.
+- 7 - 016112
+
+(c) A right or title acquired from the charitable organization in consideration of
+the provision of property or information under this section is not invalid in consequence
+of misapplication by the charitable organization. A transaction or lien created by a
+transaction entered into by the charitable organization and a person acting in reliance on
+the affidavit provided by the charitable organization is enforceable against the property
+that the charitable organization has requested.
+48-101-405.
+(a) If the holder of a property refuses to provide the requested property or
+information within sixty (60) days after receiving a complete affidavit and all required
+accompanying documentation from a charitable organization in accordance with § 48-
+101-403, or sixty (60) days thereafter if there is a good faith dispute as provided in § 48-
+101-403(c)(2), then the charitable organization may bring an action against the holder of
+the property to recover the property, receive the information, or compel the delivery of
+the property. An action brought under this section must be brought within one (1) year
+after the date of the act or failure to provide the requested property or information. If the
+court finds that the holder of the property acted unreasonably in failing to deliver the
+property or information as requested in the affidavit, then the court may award to the
+charitable organization any or all of the following:
+(1) Actual damages;
+(2) Punitive damages of not less than five hundred dollars ($500) nor
+more than ten thousand dollars ($10,000); and
+(3) Court costs and reasonable attorney fees.
+(b) For purposes of this section, an affidavit is deemed complete when the
+charitable organization has provided all information and documentation expressly
+required under § 48-101-403(a), and the holder has not notified the charitable
+organization in writing of any specific deficiency within sixty (60) days from the date of
+delivery of the affidavit and required information and documentation.
+- 8 - 016112
+
+48-101-406.
+This part does not apply to any insurance policy, annuity contract, or other
+product regulated under title 56.
+SECTION 2. This act takes effect July 1, 2026, the public welfare requiring it, and
+applies to conduct occurring and causes of action arising on or after that date.
+- 9 - 016112
+
+[DELETED:  a H]
+[DELETED:  -0)))))]
+[DELETED:  -0]
+[DELETED:  -0]
+[DELETED:  -0]
+[DELETED:  -0((((]
+[DELETED:  -0(]
+[DELETED:  -0]
+[DELETED:  -0]

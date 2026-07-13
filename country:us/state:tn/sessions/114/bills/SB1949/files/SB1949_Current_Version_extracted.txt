@@ -1,0 +1,134 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 4
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+SENATE BILL 1949
+By Bowling
+AN ACT to amend Tennessee Code Annotated, Title 8;
+Title 14; Title 39; Title 40; Title 53; Title 63 and
+Title 68, relative to mRNA products.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. This act is known and may be cited as the "mRNA Bioweapons Prohibition
+Act."
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Title 39, Chapter 13, Part 8, is amended by
+adding the following as a new section:
+(a) It is the intent of the general assembly to designate mRNA injections and
+products as weapons of mass destruction and to prohibit possession or distribution of
+mRNA injections and products in this state.
+(b) As used in this section:
+(1) "mRNA injections and products":
+(A) Means:
+(i) With regard to COVID-19 injections, mRNA or modified
+messenger RNA as related to gene altering agents, with a
+structure altered by substituting two N-methyl-pseudouridine
+amino acids for the usual uridine components so as to elude
+immune destruction of the mRNA, allowing the mRNA that
+produces the pathogenic spike protein to exist within cells for a
+longer period of time;
+(ii) All other injections or products containing mRNA or
+modified messenger RNA;
+SB1949
+010821
+- 1 -
+(iii) Any human gene therapy product for any infectious
+disease indication, regardless of whether the administration is
+described as an immunization, vaccine, or otherwise; and
+(iv) Nanotechnology or nanoparticles that alter genes and
+create a biosynthetic cell replication; and
+(B) Does not mean naturally occurring messenger ribonucleic
+acid that is a single-stranded molecule of RNA that corresponds to the
+genetic sequence of a gene; and
+(2) "State or local government official" means the governor, attorney
+general and reporter, district attorneys general, county sheriffs, and state and
+local law enforcement officers.
+(c)
+(1) It is an offense for a person to knowingly manufacture, acquire,
+possess, or make accessible to another mRNA injections and products.
+(2) It is an offense for a state or local government official to fail or refuse
+to use all lawful means necessary to investigate or enforce a violation of
+subdivision (c)(1) after being provided with reasonable evidence of a violation.
+(d) A violation of subdivision (c)(1) or (c)(2) is punishable as a violation of § 39-
+13-806.
+(e) A resident of this state may seek injunctive relief, declaratory relief, and
+economic, non-economic, and punitive damages from the state or a state and local
+government official for lack of enforcement of this section.
+
+Section 4:
+SECTION 3. This act takes effect July 1, 2026, the public welfare requiring it, and
+applies to conduct occurring on or after that date.
+- 2 - 010821
+[DELETED: SS((((((]
+[DELETED:  -0(((((((((S]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+SENATE BILL 1949
+By Bowling
+AN ACT to amend Tennessee Code Annotated, Title 8;
+Title 14; Title 39; Title 40; Title 53; Title 63 and
+Title 68, relative to mRNA products.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. This act is known and may be cited as the "mRNA Bioweapons Prohibition
+Act."
+SECTION 2. Tennessee Code Annotated, Title 39, Chapter 13, Part 8, is amended by
+adding the following as a new section:
+(a) It is the intent of the general assembly to designate mRNA injections and
+products as weapons of mass destruction and to prohibit possession or distribution of
+mRNA injections and products in this state.
+(b) As used in this section:
+(1) "mRNA injections and products":
+(A) Means:
+(i) With regard to COVID-19 injections, mRNA or modified
+messenger RNA as related to gene altering agents, with a
+structure altered by substituting two N-methyl-pseudouridine
+amino acids for the usual uridine components so as to elude
+immune destruction of the mRNA, allowing the mRNA that
+produces the pathogenic spike protein to exist within cells for a
+longer period of time;
+(ii) All other injections or products containing mRNA or
+modified messenger RNA;
+SB1949
+010821
+- 1 -
+
+(iii) Any human gene therapy product for any infectious
+disease indication, regardless of whether the administration is
+described as an immunization, vaccine, or otherwise; and
+(iv) Nanotechnology or nanoparticles that alter genes and
+create a biosynthetic cell replication; and
+(B) Does not mean naturally occurring messenger ribonucleic
+acid that is a single-stranded molecule of RNA that corresponds to the
+genetic sequence of a gene; and
+(2) "State or local government official" means the governor, attorney
+general and reporter, district attorneys general, county sheriffs, and state and
+local law enforcement officers.
+(c)
+(1) It is an offense for a person to knowingly manufacture, acquire,
+possess, or make accessible to another mRNA injections and products.
+(2) It is an offense for a state or local government official to fail or refuse
+to use all lawful means necessary to investigate or enforce a violation of
+subdivision (c)(1) after being provided with reasonable evidence of a violation.
+(d) A violation of subdivision (c)(1) or (c)(2) is punishable as a violation of § 39-
+13-806.
+(e) A resident of this state may seek injunctive relief, declaratory relief, and
+economic, non-economic, and punitive damages from the state or a state and local
+government official for lack of enforcement of this section.
+SECTION 3. This act takes effect July 1, 2026, the public welfare requiring it, and
+applies to conduct occurring on or after that date.
+- 2 - 010821
+
+[DELETED: SS((((((]
+[DELETED:  -0(((((((((S]

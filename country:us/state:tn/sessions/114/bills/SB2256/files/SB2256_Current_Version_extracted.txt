@@ -1,0 +1,53 @@
+Title: HOUSE BILL 2240
+Official Title: HOUSE BILL 2240
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+By Hurt
+SENATE BILL 2256
+By Walley
+AN ACT to amend Tennessee Code Annotated, Title 44,
+relative to animals used in agriculture.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 44-14-115, is amended by
+designating the existing language as subsection (a) and adding the following as a new
+subsection:
+(b) An association may submit the annual report required by subsection (a) in
+electronic form.
+
+Section 3:
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+SB2256
+012132
+- 1 -
+[DELETED: S(S]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 2240
+By Hurt
+SENATE BILL 2256
+By Walley
+AN ACT to amend Tennessee Code Annotated, Title 44,
+relative to animals used in agriculture.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 44-14-115, is amended by
+designating the existing language as subsection (a) and adding the following as a new
+subsection:
+(b) An association may submit the annual report required by subsection (a) in
+electronic form.
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+SB2256
+012132
+- 1 -
+
+[DELETED: S(S]

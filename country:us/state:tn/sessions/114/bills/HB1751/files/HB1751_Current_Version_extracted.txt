@@ -1,0 +1,49 @@
+Title: SENATE BILL 1477
+Official Title: SENATE BILL 1477
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+By Massey
+HOUSE BILL 1751
+By Howell
+AN ACT to amend Tennessee Code Annotated, Title 55,
+Chapter 4, relative to license plates.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 55-4-251(b), is amended by adding
+the following at the end of the subsection:
+The department may permit a holder to submit the proof electronically.
+
+Section 3:
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+HB1751
+009699
+- 1 -
+[DELETED: S]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 1477
+By Massey
+HOUSE BILL 1751
+By Howell
+AN ACT to amend Tennessee Code Annotated, Title 55,
+Chapter 4, relative to license plates.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 55-4-251(b), is amended by adding
+the following at the end of the subsection:
+The department may permit a holder to submit the proof electronically.
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+HB1751
+009699
+- 1 -
+
+[DELETED: S]
