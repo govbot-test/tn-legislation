@@ -1,0 +1,151 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+SENATE JOINT RESOLUTION 1234
+By Watson
+A RESOLUTION to honor the memory of Deputy Landon
+Christopher Faulkner of the Hamilton County
+Sheriff's Office.
+WHEREAS, our nation was conceived by individuals who were willing to sacrifice their
+own concerns to ensure our collective freedom and personal safety; in providing for the
+domestic tranquility of the community as a whole, society recognizes the need for a system of
+laws; and
+WHEREAS, the enforcement of the law has been entrusted to a small number of
+dedicated individuals who daily face the rigors of human conflict in protecting those whom they
+so selflessly serve; and
+WHEREAS, the people of Tennessee are fortunate to be served by the brave and
+dedicated law enforcement officers who put their lives on the line while carrying out their
+essential duties; and
+WHEREAS, Deputy Landon Faulkner of the Hamilton County Sheriff's Office was one
+such outstanding public servant, and the members of this General Assembly were greatly
+saddened to learn of his untimely death in a traffic accident while on duty; and
+WHEREAS, born on September 13, 2001, in Knoxville to Chad Faulkner and the late
+Kristal Nicole Faulkner, Landon Faulkner was a devoted son, husband, father, and brother; and
+WHEREAS, reflecting a family tradition of public service, Deputy Faulkner was the son
+of former Representative Chad Faulkner, who served in the 106th General Assembly
+representing District 36, composed of Campbell and Union counties; and
+WHEREAS, Deputy Faulkner began his service with the Hamilton County Sheriff's Office
+in 2022, following nearly three years of service as a deputy and corrections deputy with the
+Grundy County Sheriff's Office; and
+SJR1234
+018312
+- 1 -
+WHEREAS, demonstrating an early commitment to law enforcement, he was a graduate
+of the Knoxville Police Department's Explorer Cadet Program in 2017; and
+WHEREAS, a dedicated public servant and guardian of the community, Deputy Landon
+Faulkner served the citizens of Tennessee with professionalism, courage, and a steadfast
+commitment to duty; and
+WHEREAS, a faithful servant of Christ who was deeply devoted to his family, Landon
+Faulkner is survived by his loving wife, Megan; his cherished children, Malachi, Breylee, Mia,
+and Lillee; his father and stepmother, Chad and Jeanna Faulkner; his brother and sister-in-law,
+Logan and Grace Faulkner; his sister and brother-in-law, Mattie Faulkner Dyer and Draven
+Dyer; his sister, Marlei Chandler; and numerous nieces and nephews; and
+WHEREAS, he is also survived by members of his extended family, including his aunt,
+Kathy (Larry) Drummer; in-laws, Mike (Jeria) Fults and Christie (James) Meeks; brothers- and
+sisters-in-law, Logan Fults, Gracie Fults, Isabella Fults, and Victoria (Hunter) Pigg; and special
+cousin, Jeremy Householder; he also shared a special bond of friendship and brotherhood with
+Jerry Green, Mason Meeks, and Carter Roberts; and
+WHEREAS, Deputy Faulkner was preceded in death by his mother; grandparents,
+Johnny Kenneth Faulkner and Yvonne Chadwell Faulkner; and uncle, Jimmy Householder; and
+WHEREAS, Landon Faulkner leaves behind an enduring legacy of service, integrity, and
+devotion to the protection of others; and
+WHEREAS, it is fitting that this General Assembly should pause to remember the life
+and service of this exceptional public servant and human being; now, therefore,
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE HOUSE OF
+REPRESENTATIVES CONCURRING, that we honor the memory of Deputy Landon
+Christopher Faulkner, reflecting fondly upon his impeccable character and his stalwart
+commitment to living the examined life with courage and conviction.
+- 2 - 018312
+BE IT FURTHER RESOLVED, that we express our sympathy and offer our condolences
+to the family of Deputy Faulkner.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy and upon proper request made to
+the appropriate clerk, the language appearing immediately following the State seal appear
+without House or Senate designation.
+- 3 - 018312
+[DELETED: WWWWWW6 W]
+[DELETED:  -0WWWWWWWB]
+[DELETED:  -0BB]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+SENATE JOINT RESOLUTION 1234
+By Watson
+A RESOLUTION to honor the memory of Deputy Landon
+Christopher Faulkner of the Hamilton County
+Sheriff's Office.
+WHEREAS, our nation was conceived by individuals who were willing to sacrifice their
+own concerns to ensure our collective freedom and personal safety; in providing for the
+domestic tranquility of the community as a whole, society recognizes the need for a system of
+laws; and
+WHEREAS, the enforcement of the law has been entrusted to a small number of
+dedicated individuals who daily face the rigors of human conflict in protecting those whom they
+so selflessly serve; and
+WHEREAS, the people of Tennessee are fortunate to be served by the brave and
+dedicated law enforcement officers who put their lives on the line while carrying out their
+essential duties; and
+WHEREAS, Deputy Landon Faulkner of the Hamilton County Sheriff's Office was one
+such outstanding public servant, and the members of this General Assembly were greatly
+saddened to learn of his untimely death in a traffic accident while on duty; and
+WHEREAS, born on September 13, 2001, in Knoxville to Chad Faulkner and the late
+Kristal Nicole Faulkner, Landon Faulkner was a devoted son, husband, father, and brother; and
+WHEREAS, reflecting a family tradition of public service, Deputy Faulkner was the son
+of former Representative Chad Faulkner, who served in the 106th General Assembly
+representing District 36, composed of Campbell and Union counties; and
+WHEREAS, Deputy Faulkner began his service with the Hamilton County Sheriff's Office
+in 2022, following nearly three years of service as a deputy and corrections deputy with the
+Grundy County Sheriff's Office; and
+SJR1234
+018312
+- 1 -
+
+WHEREAS, demonstrating an early commitment to law enforcement, he was a graduate
+of the Knoxville Police Department's Explorer Cadet Program in 2017; and
+WHEREAS, a dedicated public servant and guardian of the community, Deputy Landon
+Faulkner served the citizens of Tennessee with professionalism, courage, and a steadfast
+commitment to duty; and
+WHEREAS, a faithful servant of Christ who was deeply devoted to his family, Landon
+Faulkner is survived by his loving wife, Megan; his cherished children, Malachi, Breylee, Mia,
+and Lillee; his father and stepmother, Chad and Jeanna Faulkner; his brother and sister-in-law,
+Logan and Grace Faulkner; his sister and brother-in-law, Mattie Faulkner Dyer and Draven
+Dyer; his sister, Marlei Chandler; and numerous nieces and nephews; and
+WHEREAS, he is also survived by members of his extended family, including his aunt,
+Kathy (Larry) Drummer; in-laws, Mike (Jeria) Fults and Christie (James) Meeks; brothers- and
+sisters-in-law, Logan Fults, Gracie Fults, Isabella Fults, and Victoria (Hunter) Pigg; and special
+cousin, Jeremy Householder; he also shared a special bond of friendship and brotherhood with
+Jerry Green, Mason Meeks, and Carter Roberts; and
+WHEREAS, Deputy Faulkner was preceded in death by his mother; grandparents,
+Johnny Kenneth Faulkner and Yvonne Chadwell Faulkner; and uncle, Jimmy Householder; and
+WHEREAS, Landon Faulkner leaves behind an enduring legacy of service, integrity, and
+devotion to the protection of others; and
+WHEREAS, it is fitting that this General Assembly should pause to remember the life
+and service of this exceptional public servant and human being; now, therefore,
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE HOUSE OF
+REPRESENTATIVES CONCURRING, that we honor the memory of Deputy Landon
+Christopher Faulkner, reflecting fondly upon his impeccable character and his stalwart
+commitment to living the examined life with courage and conviction.
+- 2 - 018312
+
+BE IT FURTHER RESOLVED, that we express our sympathy and offer our condolences
+to the family of Deputy Faulkner.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy and upon proper request made to
+the appropriate clerk, the language appearing immediately following the State seal appear
+without House or Senate designation.
+- 3 - 018312
+
+[DELETED: WWWWWW6 W]
+[DELETED:  -0WWWWWWWB]
+[DELETED:  -0BB]

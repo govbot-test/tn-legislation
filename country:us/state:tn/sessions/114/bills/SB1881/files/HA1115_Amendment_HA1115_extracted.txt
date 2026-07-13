@@ -1,0 +1,43 @@
+Title: AMEND S e n ate Bill No. 1881 House Bill No. 1640*
+Official Title: AMEND S e n ate Bill No. 1881 House Bill No. 1640*
+Number of Sections: 1
+Source: versions - Amendment HA1115
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+Amendment No. 2 to HB1640
+Jones J
+Signature of Sponsor
+by adding the following new subdivision (vi) in SECTION 1(a)(2)(D):
+(vi) Notwithstanding this subdivision (a)(2)(D), the office of homeland security shall
+provide any information, record, or other documentation to a member of the general assembly
+upon request, including information, records, and documentation relating to critical
+infrastructure. A member who receives such information, records, or documentation shall
+maintain such information, records, or documentation confidentially.
+HA1115
+017789
+- 1 -
+[DELETED:  a H(]
+
+
+================================================================================
+
+Raw Text:
+Amendment No. 2 to HB1640
+Jones J
+Signature of Sponsor
+AMEND S e n ate Bill No. 1881 House Bill No. 1640*
+by adding the following new subdivision (vi) in SECTION 1(a)(2)(D):
+(vi) Notwithstanding this subdivision (a)(2)(D), the office of homeland security shall
+provide any information, record, or other documentation to a member of the general assembly
+upon request, including information, records, and documentation relating to critical
+infrastructure. A member who receives such information, records, or documentation shall
+maintain such information, records, or documentation confidentially.
+HA1115
+017789
+- 1 -
+
+[DELETED:  a H(]

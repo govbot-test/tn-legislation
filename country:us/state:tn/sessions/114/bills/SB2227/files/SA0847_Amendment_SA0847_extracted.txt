@@ -1,0 +1,163 @@
+Title: AMEND S e n ate Bill No. 2227* House Bill No. 2539
+Official Title: AMEND S e n ate Bill No. 2227* House Bill No. 2539
+Number of Sections: 4
+Source: versions - Amendment SA0847
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+Senate Government Operations 1
+Amendment No. 3 to SB2227
+Jackson
+Signature of Sponsor
+by deleting "(5), (34), and (35)" in SECTION 2 and substituting "(34) and (35)".
+AND FURTHER AMEND by deleting SECTION 7 and substituting:
+
+Section 2:
+SECTION 7. Tennessee Code Annotated, Section 33-3-114, is amended by deleting
+"63-11-213" and substituting "63-11-211".
+AND FURTHER AMEND by deleting SECTION 11 and substituting:
+
+Section 3:
+SECTION 11. Tennessee Code Annotated, Section 52-3-114, is amended by deleting
+"63-11-213" and substituting "63-11-211".
+AND FURTHER AMEND by deleting subdivision (b)(16) in SECTION 43 and substituting:
+(16) A professional counselor, marital and family therapist, and clinical pastoral
+therapist, regulated pursuant to chapter 22 of this title;
+AND FURTHER AMEND by deleting "22," from § 63-33-111 in SECTION 45.
+AND FURTHER AMEND by deleting § 63-33-112(a)(6)-(8) in SECTION 45 and substituting:
+(6) All rules promulgated by the [former] professional art therapist advisory committee of
+the board of examiners in psychology [repealed]; and
+(7) All rules promulgated by the [former] professional music therapy advisory committee
+of the board of examiners in psychology [repealed].
+AND FURTHER AMEND by deleting § 63-33-505(b)(3)-(6) in SECTION 49 and substituting:
+(3) A professional counselor licensed under chapter 22 of this title;
+(4) A professional counselor designated as a mental health service provider under
+chapter 22 of this title;
+(5) A marital and family therapist licensed under chapter 22 of this title;
+SA0847
+015829
+- 1 -
+(6) A pastoral counselor licensed under chapter 22 of this title;
+AND FURTHER AMEND by deleting SECTION 57 and substituting:
+
+Section 4:
+SECTION 57. Tennessee Code Annotated, Section 68-1-101(a)(8), is amended by
+deleting the subdivision and substituting:
+(8) The division of health related boards for all administrative, fiscal,
+inspectional, and secretarial functions of the following boards, agencies, and
+commissions:
+(A) Board of alcohol and drug abuse counselors;
+(B) Board for professional counselors, marital and family therapists, and
+clinical pastoral therapists;
+(C) Board of chiropractic examiners;
+(D) Board of communication disorders and sciences;
+(E) Board of dentistry;
+(F) Board of dietitians/nutritionists examiners;
+(G) Board of examiners for nursing home administrators;
+(H) Board of examiners in psychology;
+(I) Board of medical examiners;
+(J) Board of physician assistants;
+(K) Board of nursing;
+(L) Board of occupational therapy;
+(M) Board of optometry;
+(N) Board of osteopathic examination;
+(O) Board of osteopathic examination's council of certified professional
+midwifery;
+(P) Board of pharmacy;
+(Q) Board of physical therapy;
+(R) Board of podiatric medical examiners;
+- 2 - 015829
+(S) Board of social worker licensure;
+(T) Tennessee medical laboratory board;
+(U) Board of veterinary medical examiners; and
+(V) Agency of commissioner issued licenses.
+AND FURTHER AMEND by deleting SECTION 69(c) and substituting:
+(c) The Tennessee Code Commission is requested to reserve parts 7, 10, 11,
+13, 14, 16, 17, 18, and 19 in title 63, chapter 33.
+AND FURTHER AMEND by deleting SECTIONS 5, 6, 8, 14, 18, 19, 25, 27, 40, 54, 55, 56, and
+66, and renumbering the remaining sections accordingly.
+- 3 - 015829
+[DELETED:  a HSS((((((]
+[DELETED:  -0(S(((((((((((((((((((]
+[DELETED:  -0(((((]
+
+
+================================================================================
+
+Raw Text:
+Senate Government Operations 1
+Amendment No. 3 to SB2227
+Jackson
+Signature of Sponsor
+AMEND S e n ate Bill No. 2227* House Bill No. 2539
+by deleting "(5), (34), and (35)" in SECTION 2 and substituting "(34) and (35)".
+AND FURTHER AMEND by deleting SECTION 7 and substituting:
+SECTION 7. Tennessee Code Annotated, Section 33-3-114, is amended by deleting
+"63-11-213" and substituting "63-11-211".
+AND FURTHER AMEND by deleting SECTION 11 and substituting:
+SECTION 11. Tennessee Code Annotated, Section 52-3-114, is amended by deleting
+"63-11-213" and substituting "63-11-211".
+AND FURTHER AMEND by deleting subdivision (b)(16) in SECTION 43 and substituting:
+(16) A professional counselor, marital and family therapist, and clinical pastoral
+therapist, regulated pursuant to chapter 22 of this title;
+AND FURTHER AMEND by deleting "22," from § 63-33-111 in SECTION 45.
+AND FURTHER AMEND by deleting § 63-33-112(a)(6)-(8) in SECTION 45 and substituting:
+(6) All rules promulgated by the [former] professional art therapist advisory committee of
+the board of examiners in psychology [repealed]; and
+(7) All rules promulgated by the [former] professional music therapy advisory committee
+of the board of examiners in psychology [repealed].
+AND FURTHER AMEND by deleting § 63-33-505(b)(3)-(6) in SECTION 49 and substituting:
+(3) A professional counselor licensed under chapter 22 of this title;
+(4) A professional counselor designated as a mental health service provider under
+chapter 22 of this title;
+(5) A marital and family therapist licensed under chapter 22 of this title;
+SA0847
+015829
+- 1 -
+
+(6) A pastoral counselor licensed under chapter 22 of this title;
+AND FURTHER AMEND by deleting SECTION 57 and substituting:
+SECTION 57. Tennessee Code Annotated, Section 68-1-101(a)(8), is amended by
+deleting the subdivision and substituting:
+(8) The division of health related boards for all administrative, fiscal,
+inspectional, and secretarial functions of the following boards, agencies, and
+commissions:
+(A) Board of alcohol and drug abuse counselors;
+(B) Board for professional counselors, marital and family therapists, and
+clinical pastoral therapists;
+(C) Board of chiropractic examiners;
+(D) Board of communication disorders and sciences;
+(E) Board of dentistry;
+(F) Board of dietitians/nutritionists examiners;
+(G) Board of examiners for nursing home administrators;
+(H) Board of examiners in psychology;
+(I) Board of medical examiners;
+(J) Board of physician assistants;
+(K) Board of nursing;
+(L) Board of occupational therapy;
+(M) Board of optometry;
+(N) Board of osteopathic examination;
+(O) Board of osteopathic examination's council of certified professional
+midwifery;
+(P) Board of pharmacy;
+(Q) Board of physical therapy;
+(R) Board of podiatric medical examiners;
+- 2 - 015829
+
+(S) Board of social worker licensure;
+(T) Tennessee medical laboratory board;
+(U) Board of veterinary medical examiners; and
+(V) Agency of commissioner issued licenses.
+AND FURTHER AMEND by deleting SECTION 69(c) and substituting:
+(c) The Tennessee Code Commission is requested to reserve parts 7, 10, 11,
+13, 14, 16, 17, 18, and 19 in title 63, chapter 33.
+AND FURTHER AMEND by deleting SECTIONS 5, 6, 8, 14, 18, 19, 25, 27, 40, 54, 55, 56, and
+66, and renumbering the remaining sections accordingly.
+- 3 - 015829
+
+[DELETED:  a HSS((((((]
+[DELETED:  -0(S(((((((((((((((((((]
+[DELETED:  -0(((((]

@@ -1,0 +1,65 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+SENATE BILL 2617
+By Yarbro
+AN ACT to amend Tennessee Code Annotated, Title 2;
+Title 4; Title 8; Title 29; Title 38; Title 39; Title 47;
+Title 62 and Title 65, relative to consumer
+protection.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1.
+The district attorneys general conference shall collect and analyze data on the
+number of prosecutions, and the number of convictions, made pursuant to Tennessee
+Code Annotated, Section 47-18-1509. To prepare the report, the district attorneys
+general conference may consult with the Tennessee bureau of investigation, the
+department of safety, the department of correction, and other law enforcement agencies,
+to the extent those agencies may provide information in compliance with state and
+federal law. On or before December 15, 2026, the district attorneys general conference
+shall submit a report on such prosecutions and convictions to the governor, the speakers
+of the senate and the house of representatives, and the legislative librarian.
+
+Section 3:
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+SB2617
+012052
+- 1 -
+[DELETED: STS]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+SENATE BILL 2617
+By Yarbro
+AN ACT to amend Tennessee Code Annotated, Title 2;
+Title 4; Title 8; Title 29; Title 38; Title 39; Title 47;
+Title 62 and Title 65, relative to consumer
+protection.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1.
+The district attorneys general conference shall collect and analyze data on the
+number of prosecutions, and the number of convictions, made pursuant to Tennessee
+Code Annotated, Section 47-18-1509. To prepare the report, the district attorneys
+general conference may consult with the Tennessee bureau of investigation, the
+department of safety, the department of correction, and other law enforcement agencies,
+to the extent those agencies may provide information in compliance with state and
+federal law. On or before December 15, 2026, the district attorneys general conference
+shall submit a report on such prosecutions and convictions to the governor, the speakers
+of the senate and the house of representatives, and the legislative librarian.
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+SB2617
+012052
+- 1 -
+
+[DELETED: STS]

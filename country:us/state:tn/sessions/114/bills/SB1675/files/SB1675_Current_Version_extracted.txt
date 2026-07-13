@@ -1,0 +1,63 @@
+Title: HOUSE BILL 1670
+Official Title: HOUSE BILL 1670
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+By Rudd
+SENATE BILL 1675
+By Massey
+AN ACT to amend Tennessee Code Annotated, Title 67,
+Chapter 5, relative to property classification and
+assessment.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 67-5-508(a)(3), is amended by
+deleting the following sentence:
+Such notification shall be sent by United States mail, addressed to the last known
+address of the taxpayer, and shall be effective when mailed.
+and substituting instead:
+Such notification must be sent by United States mail, addressed to the last
+known address of the taxpayer, and is effective when mailed. If the notification is
+sent by email pursuant to subsection (c) in lieu of United States mail, then the
+notification is effective when electronically sent.
+
+Section 3:
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+SB1675
+011104
+- 1 -
+[DELETED: SS]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 1670
+By Rudd
+SENATE BILL 1675
+By Massey
+AN ACT to amend Tennessee Code Annotated, Title 67,
+Chapter 5, relative to property classification and
+assessment.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 67-5-508(a)(3), is amended by
+deleting the following sentence:
+Such notification shall be sent by United States mail, addressed to the last known
+address of the taxpayer, and shall be effective when mailed.
+and substituting instead:
+Such notification must be sent by United States mail, addressed to the last
+known address of the taxpayer, and is effective when mailed. If the notification is
+sent by email pursuant to subsection (c) in lieu of United States mail, then the
+notification is effective when electronically sent.
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+SB1675
+011104
+- 1 -
+
+[DELETED: SS]

@@ -1,0 +1,98 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 4
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+HOUSE BILL 2324
+By Miller
+AN ACT to amend Tennessee Code Annotated, Title 10,
+Chapter 7; Title 67, Chapter 1, Part 17; Title 67,
+Chapter 1, Part 18; Title 67, Chapter 1, Part 8 and
+Title 67, Chapter 4, Part 21, relative to audits of
+refunds claimed for franchise taxes.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 67-4-2122, is amended by adding
+the following as new subsections:
+(e) Notwithstanding § 67-1-1702, subdivision (a)(4) or (8), or another law to the
+contrary:
+(1) A refund paid pursuant to this section is open to public inspection as
+a public record under the public records laws compiled in title 10, chapter 7.
+Upon written request to the department, a copy of a record, document, or other
+information, including the name of the taxpayer and total amount refunded,
+pertaining to a refund paid pursuant to this section must be forwarded to the
+requesting party.
+(2)
+(A) The comptroller of the treasury shall conduct or contract for at
+least one (1) annual financial audit of all franchise tax refunds claimed
+and all such tax refunds issued to taxpayers for the prior fiscal year under
+the authority granted in § 8-4-109. The audit must include any other
+information the comptroller deems relevant in making such
+determinations.
+HB2324
+011930
+- 1 -
+(B) All audits conducted under subdivision (e)(2)(A) must be
+made available on the comptroller's website no later than December 31 of
+the subsequent fiscal year.
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 67-1-1709(d), is amended by
+deleting "§ 67-4-2122(a)(8)" and substituting instead the language "§ 67-4-2122(a)(8) or (e)".
+
+Section 4:
+SECTION 3. This act takes effect upon becoming a law, the public welfare requiring it.
+- 2 - 011930
+[DELETED: S((((]
+[DELETED:  -0(S]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+HOUSE BILL 2324
+By Miller
+AN ACT to amend Tennessee Code Annotated, Title 10,
+Chapter 7; Title 67, Chapter 1, Part 17; Title 67,
+Chapter 1, Part 18; Title 67, Chapter 1, Part 8 and
+Title 67, Chapter 4, Part 21, relative to audits of
+refunds claimed for franchise taxes.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 67-4-2122, is amended by adding
+the following as new subsections:
+(e) Notwithstanding § 67-1-1702, subdivision (a)(4) or (8), or another law to the
+contrary:
+(1) A refund paid pursuant to this section is open to public inspection as
+a public record under the public records laws compiled in title 10, chapter 7.
+Upon written request to the department, a copy of a record, document, or other
+information, including the name of the taxpayer and total amount refunded,
+pertaining to a refund paid pursuant to this section must be forwarded to the
+requesting party.
+(2)
+(A) The comptroller of the treasury shall conduct or contract for at
+least one (1) annual financial audit of all franchise tax refunds claimed
+and all such tax refunds issued to taxpayers for the prior fiscal year under
+the authority granted in § 8-4-109. The audit must include any other
+information the comptroller deems relevant in making such
+determinations.
+HB2324
+011930
+- 1 -
+
+(B) All audits conducted under subdivision (e)(2)(A) must be
+made available on the comptroller's website no later than December 31 of
+the subsequent fiscal year.
+SECTION 2. Tennessee Code Annotated, Section 67-1-1709(d), is amended by
+deleting "§ 67-4-2122(a)(8)" and substituting instead the language "§ 67-4-2122(a)(8) or (e)".
+SECTION 3. This act takes effect upon becoming a law, the public welfare requiring it.
+- 2 - 011930
+
+[DELETED: S((((]
+[DELETED:  -0(S]
