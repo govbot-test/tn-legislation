@@ -1,0 +1,328 @@
+Title: HOUSE BILL 2475
+Official Title: HOUSE BILL 2475
+Number of Sections: 7
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+By Alexander
+SENATE BILL 2346
+By Haile
+AN ACT to amend Tennessee Code Annotated, Title 10,
+Chapter 7, Part 5; Title 37; Title 49 and Title 71,
+relative to background investigations.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 49-5-413, is amended by deleting
+subsection (e) and substituting:
+(e)
+(1) The department of education, the state board of education, local
+boards of education, public charter schools, LEAs, participating schools, and
+private schools that enroll recipients shall not hire or retain, and the state board
+of education shall not grant a license, reactivate an expired license, restore a
+revoked license, or grant a temporary teaching permit to, an individual found by
+the department of children's services to have committed child abuse, severe child
+abuse, child sexual abuse, or child neglect pursuant to title 37. The department
+of children's services shall not report an individual or employee as a perpetrator
+unless the department of children's services has first determined that the due
+process rights of the individual or employee were either offered but not accepted
+or fully exhausted or concluded, pursuant to the department of children's services
+rules and pursuant to state and federal law.
+(2) Any individual who is currently employed with, or has been
+conditionally offered employment with, the department of education, the state
+board of education, any local board of education, public charter school, LEA,
+participating school, or private school that enrolls a recipient and has ever been
+SB2346
+011960
+- 1 -
+found by the department of children's services to have committed child abuse,
+severe child abuse, child sexual abuse, or child neglect, shall be offered due
+process rights. Once the due process rights of the individual or employee have
+either been offered but not accepted, or have been fully concluded and the
+finding upheld, the department of children's services shall disclose such finding to
+the department of education, the state board of education, local board of
+education, public charter school, LEA, participating school, or private school.
+(3) If an individual is currently employed with, or has been conditionally
+offered employment with, the department of education, the state board of
+education, any local board of education, public charter school, LEA, participating
+school, or private school that enrolls a recipient, and the department of children's
+services has ever found the individual to have committed child abuse, severe
+child abuse, child sexual abuse, or child neglect, but the due process rights of the
+individual or employee have not yet been offered or are still pending, the
+department of children's services shall conduct an emergency file review to
+determine if the individual poses an immediate threat to the health, safety, or
+welfare of children. If the emergency file review results in a finding that the
+individual poses an immediate threat to the health, safety, or welfare of children,
+then the department of children's services shall disclose the threat to the
+department of education, the state board of education, local board of education,
+public charter school, LEA, participating school, or private school.
+(4) If an individual is currently employed with, or has been conditionally
+offered employment with, the department of education, the state board of
+education, any local board of education, public charter school, LEA, participating
+school, or private school that enrolls a recipient, and the department of children's
+- 2 - 011960
+services has commenced an investigation of the individual that has not yet been
+concluded, then the department of children's services shall conduct an
+emergency file review to determine if the individual poses an immediate threat to
+the health, safety, or welfare of children. If the emergency file review results in a
+finding that the individual poses an immediate threat to the health, safety, or
+welfare of children, then the department of children's services shall disclose the
+threat to the department of education, the state board of education, local board of
+education, public charter school, LEA, participating school, or private school.
+(5) If due process proceedings have been stayed due to a pending
+criminal charge against an individual who is currently employed or has been
+conditionally offered employment by the department of education, the state board
+of education, any local board of education, public charter school, LEA,
+participating school, or private school that enrolls a recipient, then the
+department of children's services shall notify the department of education, the
+state board of education, local board of education, public charter school, LEA,
+participating school, or private school of the pending criminal charge.
+(6) The department of education, the state board of education and the
+department of children's services, in consultation, shall develop a procedure
+whereby local boards of education, public charter schools, LEAs, participating
+schools, and private schools that enroll recipients may submit to the department
+of children's services the names of current employees and individuals who have
+been conditionally offered employment with the local board of education, public
+charter school, LEA, participating school, or private school, to determine if the
+employee or individual has been found by the department of children's services
+to have committed child abuse, severe child abuse, child sexual abuse, or child
+- 3 - 011960
+neglect, or to pose an immediate threat to the health, safety, or welfare of
+children. Upon submission by the local board of education, public charter school,
+LEA, participating school, or private school of the names of current employees
+and individuals who have been conditionally offered employment, the department
+of children's services shall timely provide the local board of education, public
+charter school, LEA, participating school, or private school with the information in
+subdivisions (e)(2)-(5).
+(7) The department of education, the state board of education, local
+boards of education, public charter schools, LEAs, participating schools, and
+private schools that enroll recipients shall not hire or retain, and the state board
+of education shall not grant a license, reactivate an expired license, restore a
+revoked license, or grant a temporary teaching permit to, an individual whose
+name has been placed on the state's vulnerable person's registry, the state's sex
+offender registry, or on a registry similar to this state's vulnerable person's
+registry or this state's sex offender registry in another jurisdiction.
+(8) The department of children's services may promulgate rules to
+effectuate the procedures described in subdivisions (e)(2)-(5). The rules must be
+promulgated in accordance with the Uniform Administrative Procedures Act,
+compiled in title 4, chapter 5.
+(9) As used in this subsection (e):
+(A) "Participating school" has the same meaning as defined in §§
+49-6-2602 and 49-10-1402;
+(B) "Private school" has the same meaning as defined in § 49-6-
+3502; and
+(C) "Recipient" has the same meaning as defined in § 49-6-3502.
+- 4 - 011960
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 49-6-2607(e), is amended by adding
+the following as a new subdivision:
+(6) Comply with § 49-5-413(e).
+
+Section 4:
+SECTION 3. Tennessee Code Annotated, Title 49, Chapter 6, Part 35, is amended by
+adding the following as a new section:
+A private school that enrolls recipients shall comply with § 49-5-413(e).
+
+Section 5:
+SECTION 4. Tennessee Code Annotated, Section 49-10-1404(b), is amended by
+adding the following as a new subdivision:
+(4) Comply with § 49-5-413(e).
+
+Section 6:
+SECTION 5. Tennessee Code Annotated, Section 71-3-503, is amended by adding the
+following as a new subsection:
+(g)
+(1) A child care agency that is exempt from licensing pursuant to
+subsection (b) may request that the department of human services conduct a
+review of an employee or potential employee of the exempt child care agency to
+determine whether the employee or potential employee has a record of
+perpetrating the abuse or neglect of children or adults, as indicated in the records
+of the department of children's services or the department of human services.
+(2) The department of human services, in consultation with the
+department of children's services, shall create a form for an exempt child care
+agency to request a review pursuant to this subsection (g).
+(3) The department of human services shall conduct a review requested
+in accordance with this subsection (g).
+(4) The department of human services may promulgate rules to
+effectuate the purposes of this subsection (g), including rules to identify the
+- 5 - 011960
+information the department must release to an exempt child care agency after a
+review is conducted pursuant to this subsection (g) to ensure compliance with all
+relevant privacy laws. The rules must be promulgated in accordance with the
+Uniform Administrative Procedures Act, compiled in title 4, chapter 5.
+
+Section 7:
+SECTION 6. For purposes of promulgating rules, this act takes effect upon becoming a
+law, the public welfare requiring it. For all other purposes, this act takes effect July 1, 2026, the
+public welfare requiring it.
+- 6 - 011960
+[DELETED: S(((]
+[DELETED:  -0((]
+[DELETED:  -0((]
+[DELETED:  -0((((((]
+[DELETED:  -0S(SAS(S(((((]
+[DELETED:  -0S]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 2475
+By Alexander
+SENATE BILL 2346
+By Haile
+AN ACT to amend Tennessee Code Annotated, Title 10,
+Chapter 7, Part 5; Title 37; Title 49 and Title 71,
+relative to background investigations.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 49-5-413, is amended by deleting
+subsection (e) and substituting:
+(e)
+(1) The department of education, the state board of education, local
+boards of education, public charter schools, LEAs, participating schools, and
+private schools that enroll recipients shall not hire or retain, and the state board
+of education shall not grant a license, reactivate an expired license, restore a
+revoked license, or grant a temporary teaching permit to, an individual found by
+the department of children's services to have committed child abuse, severe child
+abuse, child sexual abuse, or child neglect pursuant to title 37. The department
+of children's services shall not report an individual or employee as a perpetrator
+unless the department of children's services has first determined that the due
+process rights of the individual or employee were either offered but not accepted
+or fully exhausted or concluded, pursuant to the department of children's services
+rules and pursuant to state and federal law.
+(2) Any individual who is currently employed with, or has been
+conditionally offered employment with, the department of education, the state
+board of education, any local board of education, public charter school, LEA,
+participating school, or private school that enrolls a recipient and has ever been
+SB2346
+011960
+- 1 -
+
+found by the department of children's services to have committed child abuse,
+severe child abuse, child sexual abuse, or child neglect, shall be offered due
+process rights. Once the due process rights of the individual or employee have
+either been offered but not accepted, or have been fully concluded and the
+finding upheld, the department of children's services shall disclose such finding to
+the department of education, the state board of education, local board of
+education, public charter school, LEA, participating school, or private school.
+(3) If an individual is currently employed with, or has been conditionally
+offered employment with, the department of education, the state board of
+education, any local board of education, public charter school, LEA, participating
+school, or private school that enrolls a recipient, and the department of children's
+services has ever found the individual to have committed child abuse, severe
+child abuse, child sexual abuse, or child neglect, but the due process rights of the
+individual or employee have not yet been offered or are still pending, the
+department of children's services shall conduct an emergency file review to
+determine if the individual poses an immediate threat to the health, safety, or
+welfare of children. If the emergency file review results in a finding that the
+individual poses an immediate threat to the health, safety, or welfare of children,
+then the department of children's services shall disclose the threat to the
+department of education, the state board of education, local board of education,
+public charter school, LEA, participating school, or private school.
+(4) If an individual is currently employed with, or has been conditionally
+offered employment with, the department of education, the state board of
+education, any local board of education, public charter school, LEA, participating
+school, or private school that enrolls a recipient, and the department of children's
+- 2 - 011960
+
+services has commenced an investigation of the individual that has not yet been
+concluded, then the department of children's services shall conduct an
+emergency file review to determine if the individual poses an immediate threat to
+the health, safety, or welfare of children. If the emergency file review results in a
+finding that the individual poses an immediate threat to the health, safety, or
+welfare of children, then the department of children's services shall disclose the
+threat to the department of education, the state board of education, local board of
+education, public charter school, LEA, participating school, or private school.
+(5) If due process proceedings have been stayed due to a pending
+criminal charge against an individual who is currently employed or has been
+conditionally offered employment by the department of education, the state board
+of education, any local board of education, public charter school, LEA,
+participating school, or private school that enrolls a recipient, then the
+department of children's services shall notify the department of education, the
+state board of education, local board of education, public charter school, LEA,
+participating school, or private school of the pending criminal charge.
+(6) The department of education, the state board of education and the
+department of children's services, in consultation, shall develop a procedure
+whereby local boards of education, public charter schools, LEAs, participating
+schools, and private schools that enroll recipients may submit to the department
+of children's services the names of current employees and individuals who have
+been conditionally offered employment with the local board of education, public
+charter school, LEA, participating school, or private school, to determine if the
+employee or individual has been found by the department of children's services
+to have committed child abuse, severe child abuse, child sexual abuse, or child
+- 3 - 011960
+
+neglect, or to pose an immediate threat to the health, safety, or welfare of
+children. Upon submission by the local board of education, public charter school,
+LEA, participating school, or private school of the names of current employees
+and individuals who have been conditionally offered employment, the department
+of children's services shall timely provide the local board of education, public
+charter school, LEA, participating school, or private school with the information in
+subdivisions (e)(2)-(5).
+(7) The department of education, the state board of education, local
+boards of education, public charter schools, LEAs, participating schools, and
+private schools that enroll recipients shall not hire or retain, and the state board
+of education shall not grant a license, reactivate an expired license, restore a
+revoked license, or grant a temporary teaching permit to, an individual whose
+name has been placed on the state's vulnerable person's registry, the state's sex
+offender registry, or on a registry similar to this state's vulnerable person's
+registry or this state's sex offender registry in another jurisdiction.
+(8) The department of children's services may promulgate rules to
+effectuate the procedures described in subdivisions (e)(2)-(5). The rules must be
+promulgated in accordance with the Uniform Administrative Procedures Act,
+compiled in title 4, chapter 5.
+(9) As used in this subsection (e):
+(A) "Participating school" has the same meaning as defined in §§
+49-6-2602 and 49-10-1402;
+(B) "Private school" has the same meaning as defined in § 49-6-
+3502; and
+(C) "Recipient" has the same meaning as defined in § 49-6-3502.
+- 4 - 011960
+
+SECTION 2. Tennessee Code Annotated, Section 49-6-2607(e), is amended by adding
+the following as a new subdivision:
+(6) Comply with § 49-5-413(e).
+SECTION 3. Tennessee Code Annotated, Title 49, Chapter 6, Part 35, is amended by
+adding the following as a new section:
+A private school that enrolls recipients shall comply with § 49-5-413(e).
+SECTION 4. Tennessee Code Annotated, Section 49-10-1404(b), is amended by
+adding the following as a new subdivision:
+(4) Comply with § 49-5-413(e).
+SECTION 5. Tennessee Code Annotated, Section 71-3-503, is amended by adding the
+following as a new subsection:
+(g)
+(1) A child care agency that is exempt from licensing pursuant to
+subsection (b) may request that the department of human services conduct a
+review of an employee or potential employee of the exempt child care agency to
+determine whether the employee or potential employee has a record of
+perpetrating the abuse or neglect of children or adults, as indicated in the records
+of the department of children's services or the department of human services.
+(2) The department of human services, in consultation with the
+department of children's services, shall create a form for an exempt child care
+agency to request a review pursuant to this subsection (g).
+(3) The department of human services shall conduct a review requested
+in accordance with this subsection (g).
+(4) The department of human services may promulgate rules to
+effectuate the purposes of this subsection (g), including rules to identify the
+- 5 - 011960
+
+information the department must release to an exempt child care agency after a
+review is conducted pursuant to this subsection (g) to ensure compliance with all
+relevant privacy laws. The rules must be promulgated in accordance with the
+Uniform Administrative Procedures Act, compiled in title 4, chapter 5.
+SECTION 6. For purposes of promulgating rules, this act takes effect upon becoming a
+law, the public welfare requiring it. For all other purposes, this act takes effect July 1, 2026, the
+public welfare requiring it.
+- 6 - 011960
+
+[DELETED: S(((]
+[DELETED:  -0((]
+[DELETED:  -0((]
+[DELETED:  -0((((((]
+[DELETED:  -0S(SAS(S(((((]
+[DELETED:  -0S]

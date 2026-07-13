@@ -1,0 +1,375 @@
+Title: HOUSE BILL 2392
+Official Title: HOUSE BILL 2392
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 7 sections found
+
+================================================================================
+
+Section 1:
+By Reneau
+SENATE BILL 2653
+By Taylor
+AN ACT to amend Tennessee Code Annotated, Title 5;
+Title 6; Title 7; Title 10; Title 62; Title 65; Title 68
+and Title 69, relative to the Tennessee Data
+Center Impact Review Act.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Title 68, Chapter 221, is amended by adding
+the following as a new part:
+68-221-1401.
+This act is known and may be cited as the "Tennessee Data Center Impact
+Review Act."
+68-221-1402.
+As used in this part:
+(1) "Applicant" means a person, including, but not limited to, a
+prospective owner or operator of a data center seeking a permit to operate a data
+center in this state;
+(2) "Board" means the water and wastewater operator board of
+certification, created by § 68-221-905;
+(3) "Commissioner" means the commissioner of environment and
+conservation;
+(4) "Data center" means a privately owned and operated physical facility
+housing computer servers, storage, and networking equipment to store, process,
+and distribute data and applications, and that has a power capacity of more than
+twenty megawatts (20 MW);
+SB2653
+010790
+- 1 -
+(5) "Department" means the department of environment and
+conservation; and
+(6) "Water utility" means:
+(A) A utility, as defined in § 7-51-2301, that provides water
+service to customers; and
+(B) A public utility that provides water service to customers.
+68-221-1403.
+(a) Beginning January 1, 2027, a person shall not operate a data center in this
+state without first being issued a permit by the board pursuant to the review of such
+person's application under this section.
+(b) To apply for a permit to operate a data center in this state, an applicant shall
+submit the following to the board, in a form prescribed by the board:
+(1) The data center's physical address;
+(2) The name, mailing address, telephone number, and email address of
+the persons having responsible charge for the data center's operation;
+(3) An approximation of the data center's power capacity;
+(4) The name of each water utility, and any governmental entity if
+applicable, that will provide service to the data center;
+(5) The source of water to be used by the data center, including, but not
+limited to, the name of the body of water or groundwater source;
+(6) The projected daily, peak, and annual water usage by the data
+center;
+(7) The impact of such water usage on the effected residential,
+agricultural, emergency, and public water supplies;
+- 2 - 010790
+(8) Any drought response plan and other contingency planning to be
+implemented by the data center;
+(9) The cumulative impacts on local and regional water systems to be
+caused by the operation of the data center;
+(10) All conservation, reuse, recycling, or closed-loop system measures
+to be implemented by the data center;
+(11) Proof that the data center will not materially impair, degrade,
+deplete, contaminate, or adversely affect the availability, quality, reliability,
+pressure, or reasonable and beneficial use of water for residential or public
+purposes; and
+(12) Any additional information required by the board by rule.
+(c) The requirements under subsection (b) apply to all prospective owners and
+operators of data centers, including, but not limited to, data centers that source their
+water through municipal or private utilities.
+(d)
+(1) After the submission but prior to the approval of the application for a
+permit to operate a data center by the board, the applicant shall notify the chair of
+the board of a change in any information provided pursuant to subsection (b)
+within thirty (30) days of the change.
+(2) Following the issuance of a permit to operate a data center, and for
+as long as the permit is valid, the owner or operator shall notify the board of any
+changes in the information provided under subsection (b) within thirty (30) days
+of the change.
+68-221-1404.
+- 3 - 010790
+(a) In addition to its review of the information submitted by the applicant for a
+permit under § 68-221-1403, the board shall evaluate the following as part of the
+application process:
+(1) Wastewater, blowdown, and discharge associated with cooling or
+operations of the proposed data center;
+(2) Chemical composition and thermal impacts of the wastewater,
+blowdown, and discharge described in subdivision (a)(1);
+(3) The compatibility of the proposed data center's wastewater,
+blowdown, and discharge with municipal treatment systems; and
+(4) The potential effects of the proposed data center's wastewater,
+blowdown, and discharge on consumers of water downstream of the data center.
+(b) The board may deny an application for a data center, or place conditions on
+an application that has been approved if the data center that is the subject of the
+application is the source of wastewater, blowdown, or discharges that, in the board's
+opinion, are reasonably likely to:
+(1) Degrade water quality;
+(2) Interfere with treatment processes; or
+(3) Impose additional treatment or infrastructure burdens without
+mitigation.
+(c) In determining whether an application to operate a data center in this state is
+approved, the board shall presume that residential water access and the public need for
+water access take precedence over industrial and speculative uses of water.
+68-221-1405.
+The board shall:
+- 4 - 010790
+(1) Hold public hearings to receive testimony from members of the public
+and local governmental entities that may be affected by the approval of an
+application under this part, with appropriate notice of such hearings being posted
+on the department website and in newspapers of general circulation in the county
+in which the proposed data center is to be located; and
+(2) Coordinate with the Tennessee valley authority (TVA) and other
+relevant agencies to ensure that water availability, residential access, cumulative
+impact, and discharge quality are fully evaluated when reviewing applications for
+data centers that propose to use TVA-managed waters.
+68-221-1406.
+(a) As part of its oversight of data centers and their long-term impact on this
+state, the board shall:
+(1) Conduct biennial evaluations of closed-loop or recirculating water
+systems, including, but not limited to cooling-water reuse; and
+(2) Require the implantation of the systems described in subdivision
+(a)(1) where technologically and economically feasible, while operating under the
+presumption that such systems are feasible unless an applicant can demonstrate
+the infeasibility of the systems.
+(b) Data centers shall not externalize water treatment, infrastructure expansion,
+or remediation costs onto public utilities or ratepayers in this state.
+68-221-1407.
+(a) Upon the start of operations by a data center, the board shall notify each
+water utility providing service to the data center that the utility must report to the board
+the amount of water that it supplied or provided to the data center during the immediately
+preceding billing period. Notwithstanding a law to the contrary, a water utility shall
+- 5 - 010790
+comply with the reporting requirements of this subsection (a). The reports must be
+provided to the board within thirty (30) days of the end of each billing cycle during which
+the water utility provides service to the data center.
+(b) The owner or operator of a data center shall notify the board within thirty (30)
+days of cessation of operation of the data center. A permit issued under § 68-221-1403
+is valid until the executive director of the board receives notice of cessation of operation
+of the data center. Upon receipt of a notice of cessation of operation of a data center,
+the board shall notify each water utility providing service to the data center that the
+reporting requirements under subsection (a) will cease with regard to that data center
+immediately following submission of the report for the final billing period during which the
+data center was operational.
+(c) The board shall compile the data it receives from reports submitted pursuant
+to subsection (a) into monthly reports that clearly state the most recently reported water
+use of each data center in this state. Notwithstanding a law to the contrary, the
+department shall publish and maintain the reports required by this section in a publicly
+available location on the department's website.
+68-221-1408.
+(a) A person may file with the board a signed complaint against any person
+allegedly violating this part in accordance with § 68-221-915.
+(b) The board may administratively assess a civil penalty of not more than one
+thousand dollars ($1,000) per day up to a maximum of twenty-five thousand dollars
+($25,000) in total for any violation of this part, including the failure of an owner or
+operator to obtain a permit or to timely update, correct, or otherwise modify the
+information provided pursuant to § 68-221-1403(b).
+- 6 - 010790
+(c) A party to a hearing before the board regarding a revocation or an appeal of
+an order or assessment of a civil penalty by the board may appeal the final order of the
+board to the chancery court of Davidson County in accordance with § 68-221-914.
+(d) The commissioner, on behalf of the board, may seek injunctive relief in the
+chancery court of Davidson County to prevent the owner or operator of a data center
+from engaging in any continuing violation of this part.
+68-221-1409.
+The board shall promulgate rules to effectuate this part. The rules must be
+promulgated in accordance with the Uniform Administrative Procedures Act, compiled in
+title 4, chapter 5.
+
+Section 3:
+SECTION 2. This act takes effect July 1, 2026, the public welfare requiring it.
+- 7 - 010790
+[DELETED: STA((((]
+[DELETED:  -0(((((((((((((]
+[DELETED:  -0(((((((((]
+[DELETED:  -0((((((((((T]
+[DELETED:  -0(((((((]
+[DELETED:  -0((((]
+[DELETED:  -0((6S]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 2392
+By Reneau
+SENATE BILL 2653
+By Taylor
+AN ACT to amend Tennessee Code Annotated, Title 5;
+Title 6; Title 7; Title 10; Title 62; Title 65; Title 68
+and Title 69, relative to the Tennessee Data
+Center Impact Review Act.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Title 68, Chapter 221, is amended by adding
+the following as a new part:
+68-221-1401.
+This act is known and may be cited as the "Tennessee Data Center Impact
+Review Act."
+68-221-1402.
+As used in this part:
+(1) "Applicant" means a person, including, but not limited to, a
+prospective owner or operator of a data center seeking a permit to operate a data
+center in this state;
+(2) "Board" means the water and wastewater operator board of
+certification, created by § 68-221-905;
+(3) "Commissioner" means the commissioner of environment and
+conservation;
+(4) "Data center" means a privately owned and operated physical facility
+housing computer servers, storage, and networking equipment to store, process,
+and distribute data and applications, and that has a power capacity of more than
+twenty megawatts (20 MW);
+SB2653
+010790
+- 1 -
+
+(5) "Department" means the department of environment and
+conservation; and
+(6) "Water utility" means:
+(A) A utility, as defined in § 7-51-2301, that provides water
+service to customers; and
+(B) A public utility that provides water service to customers.
+68-221-1403.
+(a) Beginning January 1, 2027, a person shall not operate a data center in this
+state without first being issued a permit by the board pursuant to the review of such
+person's application under this section.
+(b) To apply for a permit to operate a data center in this state, an applicant shall
+submit the following to the board, in a form prescribed by the board:
+(1) The data center's physical address;
+(2) The name, mailing address, telephone number, and email address of
+the persons having responsible charge for the data center's operation;
+(3) An approximation of the data center's power capacity;
+(4) The name of each water utility, and any governmental entity if
+applicable, that will provide service to the data center;
+(5) The source of water to be used by the data center, including, but not
+limited to, the name of the body of water or groundwater source;
+(6) The projected daily, peak, and annual water usage by the data
+center;
+(7) The impact of such water usage on the effected residential,
+agricultural, emergency, and public water supplies;
+- 2 - 010790
+
+(8) Any drought response plan and other contingency planning to be
+implemented by the data center;
+(9) The cumulative impacts on local and regional water systems to be
+caused by the operation of the data center;
+(10) All conservation, reuse, recycling, or closed-loop system measures
+to be implemented by the data center;
+(11) Proof that the data center will not materially impair, degrade,
+deplete, contaminate, or adversely affect the availability, quality, reliability,
+pressure, or reasonable and beneficial use of water for residential or public
+purposes; and
+(12) Any additional information required by the board by rule.
+(c) The requirements under subsection (b) apply to all prospective owners and
+operators of data centers, including, but not limited to, data centers that source their
+water through municipal or private utilities.
+(d)
+(1) After the submission but prior to the approval of the application for a
+permit to operate a data center by the board, the applicant shall notify the chair of
+the board of a change in any information provided pursuant to subsection (b)
+within thirty (30) days of the change.
+(2) Following the issuance of a permit to operate a data center, and for
+as long as the permit is valid, the owner or operator shall notify the board of any
+changes in the information provided under subsection (b) within thirty (30) days
+of the change.
+68-221-1404.
+- 3 - 010790
+
+(a) In addition to its review of the information submitted by the applicant for a
+permit under § 68-221-1403, the board shall evaluate the following as part of the
+application process:
+(1) Wastewater, blowdown, and discharge associated with cooling or
+operations of the proposed data center;
+(2) Chemical composition and thermal impacts of the wastewater,
+blowdown, and discharge described in subdivision (a)(1);
+(3) The compatibility of the proposed data center's wastewater,
+blowdown, and discharge with municipal treatment systems; and
+(4) The potential effects of the proposed data center's wastewater,
+blowdown, and discharge on consumers of water downstream of the data center.
+(b) The board may deny an application for a data center, or place conditions on
+an application that has been approved if the data center that is the subject of the
+application is the source of wastewater, blowdown, or discharges that, in the board's
+opinion, are reasonably likely to:
+(1) Degrade water quality;
+(2) Interfere with treatment processes; or
+(3) Impose additional treatment or infrastructure burdens without
+mitigation.
+(c) In determining whether an application to operate a data center in this state is
+approved, the board shall presume that residential water access and the public need for
+water access take precedence over industrial and speculative uses of water.
+68-221-1405.
+The board shall:
+- 4 - 010790
+
+(1) Hold public hearings to receive testimony from members of the public
+and local governmental entities that may be affected by the approval of an
+application under this part, with appropriate notice of such hearings being posted
+on the department website and in newspapers of general circulation in the county
+in which the proposed data center is to be located; and
+(2) Coordinate with the Tennessee valley authority (TVA) and other
+relevant agencies to ensure that water availability, residential access, cumulative
+impact, and discharge quality are fully evaluated when reviewing applications for
+data centers that propose to use TVA-managed waters.
+68-221-1406.
+(a) As part of its oversight of data centers and their long-term impact on this
+state, the board shall:
+(1) Conduct biennial evaluations of closed-loop or recirculating water
+systems, including, but not limited to cooling-water reuse; and
+(2) Require the implantation of the systems described in subdivision
+(a)(1) where technologically and economically feasible, while operating under the
+presumption that such systems are feasible unless an applicant can demonstrate
+the infeasibility of the systems.
+(b) Data centers shall not externalize water treatment, infrastructure expansion,
+or remediation costs onto public utilities or ratepayers in this state.
+68-221-1407.
+(a) Upon the start of operations by a data center, the board shall notify each
+water utility providing service to the data center that the utility must report to the board
+the amount of water that it supplied or provided to the data center during the immediately
+preceding billing period. Notwithstanding a law to the contrary, a water utility shall
+- 5 - 010790
+
+comply with the reporting requirements of this subsection (a). The reports must be
+provided to the board within thirty (30) days of the end of each billing cycle during which
+the water utility provides service to the data center.
+(b) The owner or operator of a data center shall notify the board within thirty (30)
+days of cessation of operation of the data center. A permit issued under § 68-221-1403
+is valid until the executive director of the board receives notice of cessation of operation
+of the data center. Upon receipt of a notice of cessation of operation of a data center,
+the board shall notify each water utility providing service to the data center that the
+reporting requirements under subsection (a) will cease with regard to that data center
+immediately following submission of the report for the final billing period during which the
+data center was operational.
+(c) The board shall compile the data it receives from reports submitted pursuant
+to subsection (a) into monthly reports that clearly state the most recently reported water
+use of each data center in this state. Notwithstanding a law to the contrary, the
+department shall publish and maintain the reports required by this section in a publicly
+available location on the department's website.
+68-221-1408.
+(a) A person may file with the board a signed complaint against any person
+allegedly violating this part in accordance with § 68-221-915.
+(b) The board may administratively assess a civil penalty of not more than one
+thousand dollars ($1,000) per day up to a maximum of twenty-five thousand dollars
+($25,000) in total for any violation of this part, including the failure of an owner or
+operator to obtain a permit or to timely update, correct, or otherwise modify the
+information provided pursuant to § 68-221-1403(b).
+- 6 - 010790
+
+(c) A party to a hearing before the board regarding a revocation or an appeal of
+an order or assessment of a civil penalty by the board may appeal the final order of the
+board to the chancery court of Davidson County in accordance with § 68-221-914.
+(d) The commissioner, on behalf of the board, may seek injunctive relief in the
+chancery court of Davidson County to prevent the owner or operator of a data center
+from engaging in any continuing violation of this part.
+68-221-1409.
+The board shall promulgate rules to effectuate this part. The rules must be
+promulgated in accordance with the Uniform Administrative Procedures Act, compiled in
+title 4, chapter 5.
+SECTION 2. This act takes effect July 1, 2026, the public welfare requiring it.
+- 7 - 010790
+
+[DELETED: STA((((]
+[DELETED:  -0(((((((((((((]
+[DELETED:  -0(((((((((]
+[DELETED:  -0((((((((((T]
+[DELETED:  -0(((((((]
+[DELETED:  -0((((]
+[DELETED:  -0((6S]

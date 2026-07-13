@@ -1,0 +1,79 @@
+Title: HOUSE BILL 1984
+Official Title: HOUSE BILL 1984
+Number of Sections: 4
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+By Hill
+SENATE BILL 1848
+By Massey
+AN ACT to amend Tennessee Code Annotated, Title 53,
+Chapter 11, relative to the use of buprenorphine
+products.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 53-11-311(b)(1), is amended by
+deleting subdivision (D) and substituting:
+(D) Directly administered the buprenorphine mono or buprenorphine
+without use of naloxone by a healthcare provider, acting within the healthcare
+provider's scope of practice, for the treatment of substance use disorder pursuant
+to a medical order or prescription order from a physician licensed under title 63,
+chapter 6 or 9 or a healthcare provider identified in subdivision (c)(2). This
+subdivision (b)(1)(D) does not permit buprenorphine mono or buprenorphine
+without use of naloxone to be dispensed to a patient in a manner that would
+permit it to be administered away from the premises on which it is dispensed.
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 53-11-311(c)(2), is amended by
+deleting subdivision (H) and substituting:
+(H) Does not prescribe or dispense a mono product or buprenorphine without
+naloxone, except to a pregnant woman, nursing mother, a patient with a documented
+history of an adverse reaction or hypersensitivity, or when prescribing an injectable
+mono product;
+
+Section 4:
+SECTION 3. This act takes effect upon becoming a law, the public welfare requiring it.
+SB1848
+011509
+- 1 -
+[DELETED: S(S(S]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 1984
+By Hill
+SENATE BILL 1848
+By Massey
+AN ACT to amend Tennessee Code Annotated, Title 53,
+Chapter 11, relative to the use of buprenorphine
+products.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 53-11-311(b)(1), is amended by
+deleting subdivision (D) and substituting:
+(D) Directly administered the buprenorphine mono or buprenorphine
+without use of naloxone by a healthcare provider, acting within the healthcare
+provider's scope of practice, for the treatment of substance use disorder pursuant
+to a medical order or prescription order from a physician licensed under title 63,
+chapter 6 or 9 or a healthcare provider identified in subdivision (c)(2). This
+subdivision (b)(1)(D) does not permit buprenorphine mono or buprenorphine
+without use of naloxone to be dispensed to a patient in a manner that would
+permit it to be administered away from the premises on which it is dispensed.
+SECTION 2. Tennessee Code Annotated, Section 53-11-311(c)(2), is amended by
+deleting subdivision (H) and substituting:
+(H) Does not prescribe or dispense a mono product or buprenorphine without
+naloxone, except to a pregnant woman, nursing mother, a patient with a documented
+history of an adverse reaction or hypersensitivity, or when prescribing an injectable
+mono product;
+SECTION 3. This act takes effect upon becoming a law, the public welfare requiring it.
+SB1848
+011509
+- 1 -
+
+[DELETED: S(S(S]
