@@ -1,0 +1,55 @@
+{
+  "identifier": "",
+  "motion_text": "FLOOR VOTE: as Amended Third Consideration  4/15/2025  Passed (2)",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-04-15",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "114",
+  "bill": "d10943d2-75d3-11f1-a848-024fd3a6aad0",
+  "bill_action": null,
+  "bill_identifier": "SB 1240",
+  "votes": [
+    {
+      "option": "not voting",
+      "voter_name": "Campbell",
+      "voter_id": "~{\"name\": \"Campbell\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Lamar",
+      "voter_id": "~{\"name\": \"Lamar\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Oliver",
+      "voter_id": "~{\"name\": \"Oliver\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 26
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 3
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB1240&ga=114",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

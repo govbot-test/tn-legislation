@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "H. concurred in S. am. no. 1 Ayes 92, Nays 0 PNV 1 HB0858",
+    "occurred_at": "2025-04-21",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "114",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HB0858&ga=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 0858"
+}

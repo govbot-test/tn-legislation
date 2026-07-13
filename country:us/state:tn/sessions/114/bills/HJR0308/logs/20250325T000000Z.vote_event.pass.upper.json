@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "SENATE STATE & LOCAL GOVERNMENT COMMITTEE: Recommended for concurrence by Senate State and Local Government Committee, refer Senate Calendar Committee  3/25/2025  Passed",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-03-25",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "114",
+  "bill": "10711b8c-75d7-11f1-a848-024fd3a6aad0",
+  "bill_action": null,
+  "bill_identifier": "HJR 0308",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 9
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HJR0308&ga=114",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

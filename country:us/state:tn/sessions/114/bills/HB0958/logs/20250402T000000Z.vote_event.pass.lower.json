@@ -1,0 +1,43 @@
+{
+  "identifier": "",
+  "motion_text": "HOUSE EDUCATION COMMITTEE: Rec. for pass. if am., ref. to  Finance, Ways, and Means Committee  4/2/2025  Passed (4)",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-04-02",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "114",
+  "bill": "f1a1db48-75d5-11f1-a848-024fd3a6aad0",
+  "bill_action": null,
+  "bill_identifier": "HB 0958",
+  "votes": [
+    {
+      "option": "not voting",
+      "voter_name": "Glynn",
+      "voter_id": "~{\"name\": \"Glynn\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 14
+    },
+    {
+      "option": "no",
+      "value": 3
+    },
+    {
+      "option": "not voting",
+      "value": 1
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HB0958&ga=114",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

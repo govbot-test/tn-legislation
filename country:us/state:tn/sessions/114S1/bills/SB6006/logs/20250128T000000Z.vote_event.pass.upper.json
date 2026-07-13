@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "SENATE GOVERNMENT OPERATIONS COMMITTEE: Recommended for passage, refer to Senate Transportation and Safety Committee  1/28/2025  Passed",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-01-28",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "114S1",
+  "bill": "c9cac718-75d7-11f1-a848-024fd3a6aad0",
+  "bill_action": null,
+  "bill_identifier": "SB 6006",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 8
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB6006&ga=114",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

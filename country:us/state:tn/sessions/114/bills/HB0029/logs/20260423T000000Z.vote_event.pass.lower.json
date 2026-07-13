@@ -1,0 +1,73 @@
+{
+  "identifier": "",
+  "motion_text": "FLOOR VOTE: CONCUR IN SENATE AMENDMENT # 3  4/23/2026  Passed",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-04-23",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "114",
+  "bill": "6f6d2bfa-75d5-11f1-a848-024fd3a6aad0",
+  "bill_action": null,
+  "bill_identifier": "HB 0029",
+  "votes": [
+    {
+      "option": "not voting",
+      "voter_name": "Brooks",
+      "voter_id": "~{\"name\": \"Brooks\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Fritts",
+      "voter_id": "~{\"name\": \"Fritts\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Johnson",
+      "voter_id": "~{\"name\": \"Johnson\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Jones J",
+      "voter_id": "~{\"name\": \"Jones J\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Powell",
+      "voter_id": "~{\"name\": \"Powell\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Salinas",
+      "voter_id": "~{\"name\": \"Salinas\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 87
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 6
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HB0029&ga=114",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

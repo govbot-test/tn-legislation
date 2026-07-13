@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Passed Senate, Ayes 31, Nays 2",
+    "occurred_at": "2025-04-21",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "114",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HB0487&ga=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 0487"
+}

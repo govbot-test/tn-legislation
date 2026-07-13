@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "FLOOR VOTE: REGULAR CALENDAR MOTION TO ADOPT  AMENDMENT # 3 BY JONES J AS AMENDED PASSAGE ON THIRD CONSIDERATION  4/20/2026  Failed (3)",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-04-20",
+  "result": "fail",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "114",
+  "bill": "a680c326-75d6-11f1-a848-024fd3a6aad0",
+  "bill_action": null,
+  "bill_identifier": "HB 2219",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 22
+    },
+    {
+      "option": "no",
+      "value": 72
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HB2219&ga=114",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

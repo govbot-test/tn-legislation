@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Placed on s/c cal Agriculture & Natural Resources Subcommittee for 2/12/2025",
+    "occurred_at": "2025-02-05",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "114",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HB0125&ga=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 0125"
+}

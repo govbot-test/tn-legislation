@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Failed to adopt am. 3 (Amendment 3 - HA1114),  Ayes 20, Nays 71, PNV 1",
+    "occurred_at": "2026-04-13",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "114",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB2205&ga=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 2205"
+}

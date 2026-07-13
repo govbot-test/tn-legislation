@@ -1,0 +1,43 @@
+{
+  "identifier": "",
+  "motion_text": "FLOOR VOTE: CONSENT CALENDAR    PASSAGE ON THIRD CONSIDERATION  3/17/2025  Passed (1)",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-03-17",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "114",
+  "bill": "0c023126-75d7-11f1-a848-024fd3a6aad0",
+  "bill_action": null,
+  "bill_identifier": "HJR 0332",
+  "votes": [
+    {
+      "option": "not voting",
+      "voter_name": "Kumar",
+      "voter_id": "~{\"name\": \"Kumar\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 92
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 1
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HJR0332&ga=114",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

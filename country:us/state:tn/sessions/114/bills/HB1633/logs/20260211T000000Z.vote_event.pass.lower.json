@@ -1,0 +1,43 @@
+{
+  "identifier": "",
+  "motion_text": "HOUSE PUBLIC SERVICE SUBCOMMITTEE: Rec. for pass by s/c ref. to  State & Local Government Committee  2/11/2026  Passed (4)",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-02-11",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "114",
+  "bill": "561fe682-75d6-11f1-a848-024fd3a6aad0",
+  "bill_action": null,
+  "bill_identifier": "HB 1633",
+  "votes": [
+    {
+      "option": "not voting",
+      "voter_name": "Salinas",
+      "voter_id": "~{\"name\": \"Salinas\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 5
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 1
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HB1633&ga=114",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

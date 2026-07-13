@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Comp. SB subst.",
+    "occurred_at": "2025-04-21",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "114",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HB1140&ga=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1140"
+}

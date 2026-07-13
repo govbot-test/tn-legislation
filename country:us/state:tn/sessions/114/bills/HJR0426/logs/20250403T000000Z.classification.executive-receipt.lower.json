@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Transmitted to Governor for his action.",
+    "occurred_at": "2025-04-03",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "114",
+    "entity_type": "bill",
+    "classifications": [
+      "executive-receipt"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HJR0426&ga=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HJR 0426"
+}

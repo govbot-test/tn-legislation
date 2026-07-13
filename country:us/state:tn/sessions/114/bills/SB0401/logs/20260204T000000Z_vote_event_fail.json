@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "SENATE HEALTH AND WELFARE COMMITTEE: Failed in Senate Health and Welfare Committee  2/4/2026  Failed",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-02-04",
+  "result": "fail",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "114",
+  "bill": "6a461d64-75d3-11f1-a848-024fd3a6aad0",
+  "bill_action": null,
+  "bill_identifier": "SB 0401",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 3
+    },
+    {
+      "option": "no",
+      "value": 6
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB0401&ga=114",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

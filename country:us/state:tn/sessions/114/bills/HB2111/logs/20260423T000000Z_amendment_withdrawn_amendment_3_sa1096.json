@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Amendment withdrawn. (Amendment 3 - SA1096)",
+    "occurred_at": "2026-04-23",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "114",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HB2111&ga=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 2111"
+}

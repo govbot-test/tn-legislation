@@ -1,0 +1,79 @@
+{
+  "identifier": "",
+  "motion_text": "FLOOR VOTE: REGULAR CALENDAR    PASSAGE ON THIRD CONSIDERATION  4/7/2026  Passed (1)",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-04-07",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "114",
+  "bill": "5c4f2984-75d4-11f1-a848-024fd3a6aad0",
+  "bill_action": null,
+  "bill_identifier": "SB 2279",
+  "votes": [
+    {
+      "option": "not voting",
+      "voter_name": "Brooks",
+      "voter_id": "~{\"name\": \"Brooks\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Hale",
+      "voter_id": "~{\"name\": \"Hale\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Hulsey",
+      "voter_id": "~{\"name\": \"Hulsey\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Johnson",
+      "voter_id": "~{\"name\": \"Johnson\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Jones J",
+      "voter_id": "~{\"name\": \"Jones J\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Reneau",
+      "voter_id": "~{\"name\": \"Reneau\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Salinas",
+      "voter_id": "~{\"name\": \"Salinas\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 69
+    },
+    {
+      "option": "no",
+      "value": 13
+    },
+    {
+      "option": "not voting",
+      "value": 7
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB2279&ga=114",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

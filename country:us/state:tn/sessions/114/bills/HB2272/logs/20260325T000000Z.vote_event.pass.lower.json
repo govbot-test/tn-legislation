@@ -1,0 +1,55 @@
+{
+  "identifier": "",
+  "motion_text": "HOUSE JUDICIARY COMMITTEE: Rec. for pass. if am., ref. to  Calendar & Rules Committee  3/25/2026  Passed (3)",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-03-25",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "114",
+  "bill": "b2424540-75d6-11f1-a848-024fd3a6aad0",
+  "bill_action": null,
+  "bill_identifier": "HB 2272",
+  "votes": [
+    {
+      "option": "not voting",
+      "voter_name": "Doggett",
+      "voter_id": "~{\"name\": \"Doggett\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Harris",
+      "voter_id": "~{\"name\": \"Harris\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Johnson",
+      "voter_id": "~{\"name\": \"Johnson\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 15
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 3
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HB2272&ga=114",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

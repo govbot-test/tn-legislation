@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "SENATE JUDICIARY COMMITTEE: Recommended for passage with amendment/s, refer to Senate Finance, Ways, and Means Committee Ayes 8, Nays 1 PNV 0  3/3/2026  Passed",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-03-03",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "114",
+  "bill": "7afd58b0-75d4-11f1-a848-024fd3a6aad0",
+  "bill_action": null,
+  "bill_identifier": "SB 2464",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 8
+    },
+    {
+      "option": "no",
+      "value": 1
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB2464&ga=114",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

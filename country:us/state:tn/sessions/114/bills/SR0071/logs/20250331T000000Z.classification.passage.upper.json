@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Adopted, Ayes 30, Nays 0",
+    "occurred_at": "2025-03-31",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "114",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SR0071&ga=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SR 0071"
+}

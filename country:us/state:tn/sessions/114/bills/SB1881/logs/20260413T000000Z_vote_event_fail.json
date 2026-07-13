@@ -1,0 +1,43 @@
+{
+  "identifier": "",
+  "motion_text": "FLOOR VOTE: REGULAR CALENDAR  MOTION TO ADOPT  AMENDMENT # 3 BY JONES J PASSAGE ON THIRD CONSIDERATION  4/13/2026  Failed",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-04-13",
+  "result": "fail",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "114",
+  "bill": "2807d8f6-75d4-11f1-a848-024fd3a6aad0",
+  "bill_action": null,
+  "bill_identifier": "SB 1881",
+  "votes": [
+    {
+      "option": "not voting",
+      "voter_name": "Hulsey",
+      "voter_id": "~{\"name\": \"Hulsey\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 22
+    },
+    {
+      "option": "no",
+      "value": 72
+    },
+    {
+      "option": "not voting",
+      "value": 1
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB1881&ga=114",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "FLOOR VOTE: REGULAR CALENDAR  PREVIOUS QUESTION AS AMENDED PASSAGE ON THIRD CONSIDERATION  4/10/2025  Failed",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-04-10",
+  "result": "fail",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "114",
+  "bill": "65085b28-75d3-11f1-a848-024fd3a6aad0",
+  "bill_action": null,
+  "bill_identifier": "SB 0449",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 51
+    },
+    {
+      "option": "no",
+      "value": 47
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB0449&ga=114",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

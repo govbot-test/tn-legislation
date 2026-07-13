@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "FLOOR VOTE: APPROPRIATIONS CALENDAR    AS AMENDED PASSAGE ON THIRD CONSIDERATION  4/16/2025  Passed",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-04-16",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "114",
+  "bill": "3202f2da-75d6-11f1-a848-024fd3a6aad0",
+  "bill_action": null,
+  "bill_identifier": "HB 1408",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 85
+    },
+    {
+      "option": "no",
+      "value": 9
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HB1408&ga=114",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

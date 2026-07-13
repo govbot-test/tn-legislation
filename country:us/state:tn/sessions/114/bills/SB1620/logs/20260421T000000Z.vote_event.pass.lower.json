@@ -1,0 +1,67 @@
+{
+  "identifier": "",
+  "motion_text": "FLOOR VOTE: REGULAR CALENDAR    PASSAGE ON THIRD CONSIDERATION  4/21/2026  Passed (1)",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-04-21",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "114",
+  "bill": "0ad1fe74-75d4-11f1-a848-024fd3a6aad0",
+  "bill_action": null,
+  "bill_identifier": "SB 1620",
+  "votes": [
+    {
+      "option": "not voting",
+      "voter_name": "Barrett",
+      "voter_id": "~{\"name\": \"Barrett\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Butler",
+      "voter_id": "~{\"name\": \"Butler\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Capley",
+      "voter_id": "~{\"name\": \"Capley\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Leatherwood",
+      "voter_id": "~{\"name\": \"Leatherwood\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Sparks",
+      "voter_id": "~{\"name\": \"Sparks\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 69
+    },
+    {
+      "option": "no",
+      "value": 13
+    },
+    {
+      "option": "not voting",
+      "value": 5
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB1620&ga=114",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

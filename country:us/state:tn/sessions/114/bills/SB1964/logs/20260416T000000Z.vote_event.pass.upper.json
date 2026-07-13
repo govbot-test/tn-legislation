@@ -1,0 +1,43 @@
+{
+  "identifier": "",
+  "motion_text": "FLOOR VOTE: Third Consideration  4/16/2026  Passed",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-04-16",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "114",
+  "bill": "31ce9b4a-75d4-11f1-a848-024fd3a6aad0",
+  "bill_action": null,
+  "bill_identifier": "SB 1964",
+  "votes": [
+    {
+      "option": "not voting",
+      "voter_name": "Campbell",
+      "voter_id": "~{\"name\": \"Campbell\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 30
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 1
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB1964&ga=114",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

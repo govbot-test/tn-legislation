@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Am. tabled. (Amendment 3 - HA6008)",
+    "occurred_at": "2025-01-30",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "114S1",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-deferral"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HB6004&ga=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 6004"
+}

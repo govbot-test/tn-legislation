@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Placed on s/c cal Elections & Campaign Finance Subcommittee for 1/20/2026",
+    "occurred_at": "2026-01-14",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "114",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HJR0129&ga=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HJR 0129"
+}

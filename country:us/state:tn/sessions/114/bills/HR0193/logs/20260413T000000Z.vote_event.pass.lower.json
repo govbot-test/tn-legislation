@@ -1,0 +1,49 @@
+{
+  "identifier": "",
+  "motion_text": "FLOOR VOTE: MOTION TO ADOPT  4/13/2026  Passed",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-04-13",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "114",
+  "bill": "b6fcbd9e-75d7-11f1-a848-024fd3a6aad0",
+  "bill_action": null,
+  "bill_identifier": "HR 0193",
+  "votes": [
+    {
+      "option": "not voting",
+      "voter_name": "Barrett",
+      "voter_id": "~{\"name\": \"Barrett\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Johnson",
+      "voter_id": "~{\"name\": \"Johnson\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 81
+    },
+    {
+      "option": "no",
+      "value": 7
+    },
+    {
+      "option": "not voting",
+      "value": 2
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HR0193&ga=114",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

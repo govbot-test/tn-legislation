@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Passed on Second Consideration, refer to Senate State & Local Government Committee",
+    "occurred_at": "2025-01-16",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "114",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB0140&ga=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 0140"
+}

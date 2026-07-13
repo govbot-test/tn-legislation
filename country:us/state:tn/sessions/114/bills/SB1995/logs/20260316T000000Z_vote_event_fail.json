@@ -1,0 +1,43 @@
+{
+  "identifier": "",
+  "motion_text": "FLOOR VOTE: Third Consideration  3/16/2026  Failed",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-03-16",
+  "result": "fail",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "114",
+  "bill": "39878d42-75d4-11f1-a848-024fd3a6aad0",
+  "bill_action": null,
+  "bill_identifier": "SB 1995",
+  "votes": [
+    {
+      "option": "not voting",
+      "voter_name": "Hatcher",
+      "voter_id": "~{\"name\": \"Hatcher\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 14
+    },
+    {
+      "option": "no",
+      "value": 15
+    },
+    {
+      "option": "not voting",
+      "value": 1
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB1995&ga=114",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

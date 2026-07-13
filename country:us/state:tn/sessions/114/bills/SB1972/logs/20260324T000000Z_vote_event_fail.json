@@ -1,0 +1,43 @@
+{
+  "identifier": "",
+  "motion_text": "SENATE STATE & LOCAL GOVERNMENT COMMITTEE: Failed in Senate State and Local Government Committee  3/24/2026  Failed",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-03-24",
+  "result": "fail",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "114",
+  "bill": "32b00d8c-75d4-11f1-a848-024fd3a6aad0",
+  "bill_action": null,
+  "bill_identifier": "SB 1972",
+  "votes": [
+    {
+      "option": "not voting",
+      "voter_name": "Briggs",
+      "voter_id": "~{\"name\": \"Briggs\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 2
+    },
+    {
+      "option": "no",
+      "value": 6
+    },
+    {
+      "option": "not voting",
+      "value": 1
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB1972&ga=114",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

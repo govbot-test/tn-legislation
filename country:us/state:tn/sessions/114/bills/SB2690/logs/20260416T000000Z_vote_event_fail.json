@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "FLOOR VOTE: APPROPRIATIONS CALENDAR  MOTION TO ADOPT  AMENDMENT # 7 BY HEMMER PASSAGE ON THIRD CONSIDERATION  4/16/2026  Failed",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-04-16",
+  "result": "fail",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "114",
+  "bill": "96a43336-75d4-11f1-a848-024fd3a6aad0",
+  "bill_action": null,
+  "bill_identifier": "SB 2690",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 23
+    },
+    {
+      "option": "no",
+      "value": 66
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB2690&ga=114",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

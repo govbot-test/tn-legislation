@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "HOUSE CALENDAR & RULES COMMITTEE: H. Placed on Regular Calendar for 4/14/2025 4/10/2025 (1)",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-04-14",
+  "result": "fail",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "114",
+  "bill": "6c1c8644-75d5-11f1-a848-024fd3a6aad0",
+  "bill_action": null,
+  "bill_identifier": "HB 0085",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 0
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HB0085&ga=114",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

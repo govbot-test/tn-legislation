@@ -1,0 +1,43 @@
+{
+  "identifier": "",
+  "motion_text": "HOUSE NAMING & DESIGNATING COMMITTEE: ref to  State & Local Government Committee with Negative Recommendation  2/24/2025  Failed",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-02-24",
+  "result": "fail",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "114",
+  "bill": "e7780c9a-75d6-11f1-a848-024fd3a6aad0",
+  "bill_action": null,
+  "bill_identifier": "HJR 0052",
+  "votes": [
+    {
+      "option": "not voting",
+      "voter_name": "Barrett",
+      "voter_id": "~{\"name\": \"Barrett\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 3
+    },
+    {
+      "option": "no",
+      "value": 6
+    },
+    {
+      "option": "not voting",
+      "value": 1
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HJR0052&ga=114",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

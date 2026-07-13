@@ -1,0 +1,49 @@
+{
+  "identifier": "",
+  "motion_text": "HOUSE JUDICIARY COMMITTEE: Rec. for pass. if am., ref. to  Calendar & Rules Committee  3/23/2026  Passed (2)",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-03-23",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "114",
+  "bill": "c381b692-75d6-11f1-a848-024fd3a6aad0",
+  "bill_action": null,
+  "bill_identifier": "HB 2429",
+  "votes": [
+    {
+      "option": "not voting",
+      "voter_name": "Johnson",
+      "voter_id": "~{\"name\": \"Johnson\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Salinas",
+      "voter_id": "~{\"name\": \"Salinas\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 17
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 2
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HB2429&ga=114",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

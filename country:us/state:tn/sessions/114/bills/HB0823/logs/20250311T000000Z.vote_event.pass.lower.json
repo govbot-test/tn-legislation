@@ -1,0 +1,61 @@
+{
+  "identifier": "",
+  "motion_text": "HOUSE FINANCE, WAYS, AND MEANS COMMITTEE: Rec. for pass. if am., ref. to  Calendar & Rules Committee  3/11/2025  Passed",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-03-11",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "114",
+  "bill": "de3e1b20-75d5-11f1-a848-024fd3a6aad0",
+  "bill_action": null,
+  "bill_identifier": "HB 0823",
+  "votes": [
+    {
+      "option": "not voting",
+      "voter_name": "Capley",
+      "voter_id": "~{\"name\": \"Capley\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Hale",
+      "voter_id": "~{\"name\": \"Hale\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Hulsey",
+      "voter_id": "~{\"name\": \"Hulsey\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Sparks",
+      "voter_id": "~{\"name\": \"Sparks\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 14
+    },
+    {
+      "option": "no",
+      "value": 2
+    },
+    {
+      "option": "not voting",
+      "value": 4
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HB0823&ga=114",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

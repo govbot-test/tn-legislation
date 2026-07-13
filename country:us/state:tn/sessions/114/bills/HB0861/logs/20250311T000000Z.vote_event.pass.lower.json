@@ -1,0 +1,49 @@
+{
+  "identifier": "",
+  "motion_text": "HOUSE EDUCATION COMMITTEE: Rec. for pass. if am., ref. to  Calendar & Rules Committee  3/11/2025  Passed (3)",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-03-11",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "114",
+  "bill": "e08e1b96-75d5-11f1-a848-024fd3a6aad0",
+  "bill_action": null,
+  "bill_identifier": "HB 0861",
+  "votes": [
+    {
+      "option": "not voting",
+      "voter_name": "Glynn",
+      "voter_id": "~{\"name\": \"Glynn\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Johnson",
+      "voter_id": "~{\"name\": \"Johnson\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 16
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 2
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HB0861&ga=114",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

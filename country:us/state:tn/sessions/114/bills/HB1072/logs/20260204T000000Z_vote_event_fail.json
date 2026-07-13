@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "HOUSE AGRICULTURE AND NATURAL RESOURCES SUBCOMMITTEE: Failed in s/c  Agriculture and Natural Resources Subcommittee of  Agriculture & Natural Resources Committee  2/4/2026  Failed",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-02-04",
+  "result": "fail",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "114",
+  "bill": "ff0685a4-75d5-11f1-a848-024fd3a6aad0",
+  "bill_action": null,
+  "bill_identifier": "HB 1072",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 2
+    },
+    {
+      "option": "no",
+      "value": 6
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HB1072&ga=114",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

@@ -1,0 +1,49 @@
+{
+  "identifier": "",
+  "motion_text": "SENATE ENERGY, AGRICULTURE AND NATURAL RESOURCES COMMITTEE: Recommended for passage with amendment/s, refer to Senate Calendar Committee Ayes 6, Nays 1 PNV 2  3/26/2025  Passed",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-03-26",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "114",
+  "bill": "452822c0-75d3-11f1-a848-024fd3a6aad0",
+  "bill_action": null,
+  "bill_identifier": "SB 0128",
+  "votes": [
+    {
+      "option": "not voting",
+      "voter_name": "Campbell",
+      "voter_id": "~{\"name\": \"Campbell\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Oliver",
+      "voter_id": "~{\"name\": \"Oliver\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 6
+    },
+    {
+      "option": "no",
+      "value": 1
+    },
+    {
+      "option": "not voting",
+      "value": 2
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB0128&ga=114",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

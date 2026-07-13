@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Received from House, refer to Senate Calendar Committee",
+    "occurred_at": "2026-04-15",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "114",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HJR1428&ga=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HJR 1428"
+}

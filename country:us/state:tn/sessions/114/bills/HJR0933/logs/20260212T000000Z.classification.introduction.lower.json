@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Intro., placed on H. consent cal. for 2/19/2026",
+    "occurred_at": "2026-02-12",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "114",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HJR0933&ga=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HJR 0933"
+}

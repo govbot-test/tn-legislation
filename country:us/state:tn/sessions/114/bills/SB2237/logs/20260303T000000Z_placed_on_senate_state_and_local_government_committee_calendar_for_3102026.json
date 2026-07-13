@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Placed on Senate State and Local Government Committee calendar for 3/10/2026",
+    "occurred_at": "2026-03-03",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "114",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB2237&ga=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 2237"
+}

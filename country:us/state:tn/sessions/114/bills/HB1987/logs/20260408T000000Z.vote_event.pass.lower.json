@@ -1,0 +1,49 @@
+{
+  "identifier": "",
+  "motion_text": "HOUSE STATE & LOCAL GOVERNMENT COMMITTEE: Rec. for pass. if am., ref. to  Finance, Ways, and Means Committee  4/8/2026  Passed (5)",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-04-08",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "114",
+  "bill": "8551b21e-75d6-11f1-a848-024fd3a6aad0",
+  "bill_action": null,
+  "bill_identifier": "HB 1987",
+  "votes": [
+    {
+      "option": "not voting",
+      "voter_name": "Leatherwood",
+      "voter_id": "~{\"name\": \"Leatherwood\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Rudd",
+      "voter_id": "~{\"name\": \"Rudd\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 18
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 2
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HB1987&ga=114",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Failed to adopt am (Amendment 3 - HA1216),  Ayes 20, Nays 71, PNV 0",
+    "occurred_at": "2026-04-21",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "114",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HB1497&ga=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1497"
+}

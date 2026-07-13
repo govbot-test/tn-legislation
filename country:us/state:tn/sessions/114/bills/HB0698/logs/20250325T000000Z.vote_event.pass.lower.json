@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "HOUSE K-12 SUBCOMMITTEE: Rec for pass if am by s/c ref. to  Education Committee  3/25/2025  Passed (1)",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-03-25",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "114",
+  "bill": "bfc05154-75d5-11f1-a848-024fd3a6aad0",
+  "bill_action": null,
+  "bill_identifier": "HB 0698",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 6
+    },
+    {
+      "option": "no",
+      "value": 1
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HB0698&ga=114",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

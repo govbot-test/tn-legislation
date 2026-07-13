@@ -1,0 +1,49 @@
+{
+  "identifier": "",
+  "motion_text": "SENATE HEALTH AND WELFARE COMMITTEE: Recommended for passage with amendment/s, refer to Senate Calendar Committee Ayes 6, Nays 1 PNV 2  3/5/2025  Passed",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-03-05",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "114",
+  "bill": "c2f98ac2-75d3-11f1-a848-024fd3a6aad0",
+  "bill_action": null,
+  "bill_identifier": "SB 1031",
+  "votes": [
+    {
+      "option": "not voting",
+      "voter_name": "Haile",
+      "voter_id": "~{\"name\": \"Haile\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Reeves",
+      "voter_id": "~{\"name\": \"Reeves\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 6
+    },
+    {
+      "option": "no",
+      "value": 1
+    },
+    {
+      "option": "not voting",
+      "value": 2
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB1031&ga=114",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

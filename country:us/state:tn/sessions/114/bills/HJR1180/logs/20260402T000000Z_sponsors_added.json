@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Sponsor(s) Added.",
+    "occurred_at": "2026-04-02",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "114",
+    "entity_type": "bill",
+    "classifications": [
+      "sponsorship"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HJR1180&ga=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HJR 1180"
+}

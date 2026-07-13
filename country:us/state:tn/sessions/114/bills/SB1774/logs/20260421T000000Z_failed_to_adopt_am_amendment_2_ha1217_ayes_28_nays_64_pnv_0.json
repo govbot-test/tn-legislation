@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Failed to adopt am (Amendment 2 -HA1217),  Ayes 28, Nays 64, PNV 0",
+    "occurred_at": "2026-04-21",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "114",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB1774&ga=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 1774"
+}

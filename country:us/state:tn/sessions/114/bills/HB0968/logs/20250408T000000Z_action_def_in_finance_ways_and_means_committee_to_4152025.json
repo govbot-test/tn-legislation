@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Action def. in  Finance, Ways, and Means Committee to 4/15/2025",
+    "occurred_at": "2025-04-08",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "114",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HB0968&ga=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 0968"
+}

@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Senate adopted Amendment (Amendment 1 - SA0562)",
+    "occurred_at": "2026-03-09",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "114",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB1814&ga=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 1814"
+}

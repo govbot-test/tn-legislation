@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Am. withdrawn. (Amendment 1 - HA0997)",
+    "occurred_at": "2026-04-06",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "114",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-withdrawal"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB0591&ga=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 0591"
+}

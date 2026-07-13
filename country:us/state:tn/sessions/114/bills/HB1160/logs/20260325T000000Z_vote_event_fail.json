@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "HOUSE HEALTH SUBCOMMITTEE: Failed in s/c  Health Subcommittee of Health Committee  3/25/2026  Failed",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-03-25",
+  "result": "fail",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "114",
+  "bill": "0d7b95ca-75d6-11f1-a848-024fd3a6aad0",
+  "bill_action": null,
+  "bill_identifier": "HB 1160",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 3
+    },
+    {
+      "option": "no",
+      "value": 5
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HB1160&ga=114",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

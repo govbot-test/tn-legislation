@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Concurred,  Ayes 94, Nays 0, PNV 0",
+    "occurred_at": "2026-03-02",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "114",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SJR0808&ga=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SJR 0808"
+}

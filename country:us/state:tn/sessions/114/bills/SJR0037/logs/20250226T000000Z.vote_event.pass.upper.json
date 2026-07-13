@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "SENATE HEALTH AND WELFARE COMMITTEE: Recommended for adoption by Senate Health and Welfare Committee, refer Senate Calendar Committee  2/26/2025  Passed",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-02-26",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "114",
+  "bill": "a123a904-75d4-11f1-a848-024fd3a6aad0",
+  "bill_action": null,
+  "bill_identifier": "SJR 0037",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 9
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SJR0037&ga=114",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

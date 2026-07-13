@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Effective date(s) 05/22/2026",
+    "occurred_at": "2026-05-27",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "114",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB1490&ga=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 1490"
+}

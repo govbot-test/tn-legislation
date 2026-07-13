@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "SENATE EDUCATION COMMITTEE: Recommended for passage, refer to Senate Finance, Ways, and Means Committee  3/18/2026  Passed (2)",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-03-18",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "114",
+  "bill": "98e99b0e-75d4-11f1-a848-024fd3a6aad0",
+  "bill_action": null,
+  "bill_identifier": "SB 2669",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 6
+    },
+    {
+      "option": "no",
+      "value": 2
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB2669&ga=114",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

@@ -1,0 +1,73 @@
+{
+  "identifier": "",
+  "motion_text": "HOUSE EDUCATION COMMITTEE: Rec. for pass. if am., ref. to  Calendar & Rules Committee  3/3/2026  Passed (2)",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-03-03",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "114",
+  "bill": "765b4734-75d6-11f1-a848-024fd3a6aad0",
+  "bill_action": null,
+  "bill_identifier": "HB 1853",
+  "votes": [
+    {
+      "option": "not voting",
+      "voter_name": "Baum",
+      "voter_id": "~{\"name\": \"Baum\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Glynn",
+      "voter_id": "~{\"name\": \"Glynn\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Johnson",
+      "voter_id": "~{\"name\": \"Johnson\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Jones R",
+      "voter_id": "~{\"name\": \"Jones R\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "McKenzie",
+      "voter_id": "~{\"name\": \"McKenzie\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "White",
+      "voter_id": "~{\"name\": \"White\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 8
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 6
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HB1853&ga=114",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

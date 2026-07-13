@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "H. concurred in S. am. no. 2 Ayes 91, Nays 0 PNV 0 HB0974",
+    "occurred_at": "2026-02-12",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "114",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HB0974&ga=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 0974"
+}

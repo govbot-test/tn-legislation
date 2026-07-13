@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "HOUSE DEPARTMENTS & AGENCIES SUBCOMMITTEE: Rec for pass if am by s/c ref. to State & Local Government Committee  3/10/2026  Passed (6)",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-03-10",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "114",
+  "bill": "d14c27da-75d6-11f1-a848-024fd3a6aad0",
+  "bill_action": null,
+  "bill_identifier": "HB 2560",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 7
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HB2560&ga=114",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Rule #83(8) Suspended, to be heard in Energy, Ag., & Nat. Resources Committee on 3-5-2025",
+    "occurred_at": "2025-03-03",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "114",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SJR0177&ga=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SJR 0177"
+}

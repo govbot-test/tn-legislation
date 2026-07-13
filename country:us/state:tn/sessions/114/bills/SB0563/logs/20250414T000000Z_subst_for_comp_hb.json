@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Subst. for comp. HB.",
+    "occurred_at": "2025-04-14",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "114",
+    "entity_type": "bill",
+    "classifications": [
+      "substitution"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB0563&ga=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 0563"
+}

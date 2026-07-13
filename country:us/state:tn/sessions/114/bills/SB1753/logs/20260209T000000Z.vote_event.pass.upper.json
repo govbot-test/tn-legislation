@@ -1,0 +1,49 @@
+{
+  "identifier": "",
+  "motion_text": "FLOOR VOTE: as Amended Third Consideration  2/9/2026  Passed (2)",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-02-09",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "114",
+  "bill": "1f5c3102-75d4-11f1-a848-024fd3a6aad0",
+  "bill_action": null,
+  "bill_identifier": "SB 1753",
+  "votes": [
+    {
+      "option": "not voting",
+      "voter_name": "Akbari",
+      "voter_id": "~{\"name\": \"Akbari\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Bowling",
+      "voter_id": "~{\"name\": \"Bowling\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 28
+    },
+    {
+      "option": "no",
+      "value": 2
+    },
+    {
+      "option": "not voting",
+      "value": 2
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB1753&ga=114",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

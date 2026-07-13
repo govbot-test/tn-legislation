@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "HOUSE BANKING AND CONSUMER AFFAIRS SUBCOMMITTEE: Failed in s/c  Banking and Consumer Affairs Subcommittee of  Commerce Committee  3/19/2025  Failed",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-03-19",
+  "result": "fail",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "114",
+  "bill": "f717c51a-75d5-11f1-a848-024fd3a6aad0",
+  "bill_action": null,
+  "bill_identifier": "HB 1011",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 2
+    },
+    {
+      "option": "no",
+      "value": 4
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HB1011&ga=114",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

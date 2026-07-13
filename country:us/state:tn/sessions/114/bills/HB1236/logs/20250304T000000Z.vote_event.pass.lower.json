@@ -1,0 +1,43 @@
+{
+  "identifier": "",
+  "motion_text": "HOUSE HEALTH COMMITTEE: Rec. for pass. if am., ref. to  Calendar & Rules Committee  3/4/2025  Passed (3)",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-03-04",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "114",
+  "bill": "16bc3cfc-75d6-11f1-a848-024fd3a6aad0",
+  "bill_action": null,
+  "bill_identifier": "HB 1236",
+  "votes": [
+    {
+      "option": "not voting",
+      "voter_name": "White",
+      "voter_id": "~{\"name\": \"White\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 16
+    },
+    {
+      "option": "no",
+      "value": 3
+    },
+    {
+      "option": "not voting",
+      "value": 1
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HB1236&ga=114",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

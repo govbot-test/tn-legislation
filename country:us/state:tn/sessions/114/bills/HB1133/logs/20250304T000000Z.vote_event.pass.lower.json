@@ -1,0 +1,43 @@
+{
+  "identifier": "",
+  "motion_text": "HOUSE FINANCE, WAYS, AND MEANS COMMITTEE: Rec. for pass; ref to  Calendar & Rules Committee  3/4/2025  Passed (5)",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-03-04",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "114",
+  "bill": "08755660-75d6-11f1-a848-024fd3a6aad0",
+  "bill_action": null,
+  "bill_identifier": "HB 1133",
+  "votes": [
+    {
+      "option": "not voting",
+      "voter_name": "Freeman",
+      "voter_id": "~{\"name\": \"Freeman\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 23
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 1
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HB1133&ga=114",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

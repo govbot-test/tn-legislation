@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Placed on cal. Calendar & Rules Committee for 2/13/2025",
+    "occurred_at": "2025-02-12",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "114",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HB0273&ga=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 0273"
+}

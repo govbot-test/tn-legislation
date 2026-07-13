@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "H. adopted am. (Amendment 1 - HA0718)",
+    "occurred_at": "2026-03-26",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "114",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB1935&ga=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 1935"
+}

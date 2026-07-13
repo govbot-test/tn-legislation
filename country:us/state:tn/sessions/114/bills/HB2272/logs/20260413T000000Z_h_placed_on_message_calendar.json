@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "H. Placed on Message Calendar",
+    "occurred_at": "2026-04-13",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "114",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HB2272&ga=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 2272"
+}

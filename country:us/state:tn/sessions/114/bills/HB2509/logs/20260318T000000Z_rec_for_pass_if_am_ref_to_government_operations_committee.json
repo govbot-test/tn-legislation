@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Rec. for pass. if am., ref. to  Government Operations Committee",
+    "occurred_at": "2026-03-18",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "114",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HB2509&ga=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 2509"
+}

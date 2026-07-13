@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "FLOOR VOTE: REGULAR CALENDAR MOTION TO ADOPT  AMENDMENT # 2 BY JONES J AS AMENDED PASSAGE ON THIRD CONSIDERATION  4/15/2026  Failed",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-04-15",
+  "result": "fail",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "114",
+  "bill": "dc120856-75d6-11f1-a848-024fd3a6aad0",
+  "bill_action": null,
+  "bill_identifier": "HB 2503",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 19
+    },
+    {
+      "option": "no",
+      "value": 76
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HB2503&ga=114",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

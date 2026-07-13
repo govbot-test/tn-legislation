@@ -1,0 +1,43 @@
+{
+  "identifier": "",
+  "motion_text": "HOUSE FINANCE, WAYS, AND MEANS SUBCOMMITTEE: Rec for pass if am by s/c ref. to Finance, Ways, and Means Committee  4/1/2026  Passed (4)",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-04-01",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "114",
+  "bill": "d6665826-75d6-11f1-a848-024fd3a6aad0",
+  "bill_action": null,
+  "bill_identifier": "HB 2532",
+  "votes": [
+    {
+      "option": "not voting",
+      "voter_name": "Shaw",
+      "voter_id": "~{\"name\": \"Shaw\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 9
+    },
+    {
+      "option": "no",
+      "value": 3
+    },
+    {
+      "option": "not voting",
+      "value": 1
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HB2532&ga=114",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Comp. became Pub. Ch. 509",
+    "occurred_at": "2025-05-27",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "114",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB0764&ga=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 0764"
+}

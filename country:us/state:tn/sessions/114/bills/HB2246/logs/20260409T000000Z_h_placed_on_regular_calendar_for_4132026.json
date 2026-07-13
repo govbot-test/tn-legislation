@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "H. Placed on Regular Calendar for 4/13/2026",
+    "occurred_at": "2026-04-09",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "114",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HB2246&ga=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 2246"
+}

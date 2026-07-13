@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "HOUSE NAMING & DESIGNATING COMMITTEE: Rec. for pass; ref to  State & Local Government Committee  2/2/2026  Passed",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-02-02",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "114",
+  "bill": "a4a0a910-75d4-11f1-a848-024fd3a6aad0",
+  "bill_action": null,
+  "bill_identifier": "SJR 0007",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 8
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SJR0007&ga=114",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

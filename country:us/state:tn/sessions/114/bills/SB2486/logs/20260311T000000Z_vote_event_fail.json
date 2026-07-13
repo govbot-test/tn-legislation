@@ -1,0 +1,49 @@
+{
+  "identifier": "",
+  "motion_text": "SENATE ENERGY, AGRICULTURE AND NATURAL RESOURCES COMMITTEE: Failed in Senate Energy, Ag., and Nat. Resources Committee  3/11/2026  Failed (1)",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-03-11",
+  "result": "fail",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "114",
+  "bill": "7d6bc00a-75d4-11f1-a848-024fd3a6aad0",
+  "bill_action": null,
+  "bill_identifier": "SB 2486",
+  "votes": [
+    {
+      "option": "not voting",
+      "voter_name": "Pody",
+      "voter_id": "~{\"name\": \"Pody\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Walley",
+      "voter_id": "~{\"name\": \"Walley\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 3
+    },
+    {
+      "option": "no",
+      "value": 4
+    },
+    {
+      "option": "not voting",
+      "value": 2
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB2486&ga=114",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "FLOOR VOTE: REGULAR CALENDAR  MOTION TO ADOPT  AMENDMENT # 2 BY SLATER PASSAGE ON THIRD CONSIDERATION  2/23/2026  Passed",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-02-23",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "114",
+  "bill": "e989a260-75d5-11f1-a848-024fd3a6aad0",
+  "bill_action": null,
+  "bill_identifier": "HB 0957",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 91
+    },
+    {
+      "option": "no",
+      "value": 1
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HB0957&ga=114",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

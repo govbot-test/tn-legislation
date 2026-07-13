@@ -1,0 +1,49 @@
+{
+  "identifier": "",
+  "motion_text": "SENATE STATE & LOCAL GOVERNMENT COMMITTEE: Failed in Senate State and Local Government Committee  3/17/2026  Failed",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-03-17",
+  "result": "fail",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "114",
+  "bill": "ef2b3cda-75d3-11f1-a848-024fd3a6aad0",
+  "bill_action": null,
+  "bill_identifier": "SB 1406",
+  "votes": [
+    {
+      "option": "not voting",
+      "voter_name": "Briggs",
+      "voter_id": "~{\"name\": \"Briggs\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Hatcher",
+      "voter_id": "~{\"name\": \"Hatcher\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 1
+    },
+    {
+      "option": "no",
+      "value": 6
+    },
+    {
+      "option": "not voting",
+      "value": 2
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB1406&ga=114",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

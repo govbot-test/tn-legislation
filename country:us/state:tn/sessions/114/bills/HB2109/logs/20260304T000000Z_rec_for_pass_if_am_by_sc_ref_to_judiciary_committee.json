@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Rec for pass if am by s/c ref. to Judiciary Committee",
+    "occurred_at": "2026-03-04",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "114",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HB2109&ga=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 2109"
+}

@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "H. subst. & concurred in SJR 118",
+    "occurred_at": "2025-04-16",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "114",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HJR0195&ga=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HJR 0195"
+}

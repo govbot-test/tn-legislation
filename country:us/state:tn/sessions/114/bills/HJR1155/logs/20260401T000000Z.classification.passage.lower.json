@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Signed by H. Speaker",
+    "occurred_at": "2026-04-01",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "114",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HJR1155&ga=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HJR 1155"
+}

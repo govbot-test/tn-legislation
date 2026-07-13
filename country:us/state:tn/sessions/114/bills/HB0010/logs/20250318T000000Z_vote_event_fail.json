@@ -1,0 +1,43 @@
+{
+  "identifier": "",
+  "motion_text": "HOUSE DEPARTMENTS & AGENCIES SUBCOMMITTEE: Failed in s/c  Departments & Agencies Subcommittee of  State & Local Government Committee  3/18/2025  Failed",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-03-18",
+  "result": "fail",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "114",
+  "bill": "6deca044-75d5-11f1-a848-024fd3a6aad0",
+  "bill_action": null,
+  "bill_identifier": "HB 0010",
+  "votes": [
+    {
+      "option": "not voting",
+      "voter_name": "Powers",
+      "voter_id": "~{\"name\": \"Powers\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 0
+    },
+    {
+      "option": "no",
+      "value": 3
+    },
+    {
+      "option": "not voting",
+      "value": 1
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HB0010&ga=114",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

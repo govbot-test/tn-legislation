@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Engrossed; ready for transmission to Sen.",
+    "occurred_at": "2026-04-06",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "114",
+    "entity_type": "bill",
+    "classifications": [
+      "receipt"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HB1867&ga=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1867"
+}

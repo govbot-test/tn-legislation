@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "SENATE STATE & LOCAL GOVERNMENT COMMITTEE: Recommended for passage, refer to Senate Finance, Ways, and Means Committee  1/29/2025  Passed",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-01-29",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "114S1",
+  "bill": "c8e3482a-75d7-11f1-a848-024fd3a6aad0",
+  "bill_action": null,
+  "bill_identifier": "SB 6002",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 6
+    },
+    {
+      "option": "no",
+      "value": 3
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB6002&ga=114",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced, Passed on First Consideration",
+    "occurred_at": "2025-02-10",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "114",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB1207&ga=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 1207"
+}

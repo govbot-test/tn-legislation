@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "H. adopted am. (Amendment 1 - HA0045)",
+    "occurred_at": "2025-03-31",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "114",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HB0683&ga=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 0683"
+}

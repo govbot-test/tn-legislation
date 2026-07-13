@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Failed to adopt am (Amendment 3 - HA1222),  Ayes 22, Nays 72, PNV 0",
+    "occurred_at": "2026-04-20",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "114",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HB2219&ga=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 2219"
+}

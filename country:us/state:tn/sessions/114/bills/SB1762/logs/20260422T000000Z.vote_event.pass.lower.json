@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "FLOOR VOTE: REGULAR CALENDAR  PREVIOUS QUESTION AS AMENDED PASSAGE ON THIRD CONSIDERATION  4/22/2026  Passed",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-04-22",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "114",
+  "bill": "1cac1d50-75d4-11f1-a848-024fd3a6aad0",
+  "bill_action": null,
+  "bill_identifier": "SB 1762",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 72
+    },
+    {
+      "option": "no",
+      "value": 19
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB1762&ga=114",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

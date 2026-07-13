@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Action deferred in Senate Commerce and Labor Committee to 3/18/2025",
+    "occurred_at": "2025-03-11",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "114",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB0727&ga=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 0727"
+}

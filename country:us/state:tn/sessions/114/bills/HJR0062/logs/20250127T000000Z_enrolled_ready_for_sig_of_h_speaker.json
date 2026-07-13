@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Enrolled; ready for sig. of H. Speaker.",
+    "occurred_at": "2025-01-27",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "114",
+    "entity_type": "bill",
+    "classifications": [
+      "enrolled"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HJR0062&ga=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HJR 0062"
+}

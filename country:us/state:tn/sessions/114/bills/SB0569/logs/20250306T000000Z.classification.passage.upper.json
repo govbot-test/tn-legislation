@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Passed Senate, Ayes 27, Nays 3",
+    "occurred_at": "2025-03-06",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "114",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB0569&ga=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 0569"
+}

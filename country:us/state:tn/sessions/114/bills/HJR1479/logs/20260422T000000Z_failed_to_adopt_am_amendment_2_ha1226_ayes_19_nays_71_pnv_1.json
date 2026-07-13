@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Failed to adopt am (Amendment 2 - HA1226),  Ayes 19, Nays 71, PNV 1",
+    "occurred_at": "2026-04-22",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "114",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HJR1479&ga=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HJR 1479"
+}

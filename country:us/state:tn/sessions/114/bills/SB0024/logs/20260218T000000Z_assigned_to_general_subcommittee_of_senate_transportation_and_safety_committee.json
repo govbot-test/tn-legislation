@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Assigned to General Subcommittee of Senate Transportation and Safety Committee",
+    "occurred_at": "2026-02-18",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "114",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB0024&ga=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 0024"
+}

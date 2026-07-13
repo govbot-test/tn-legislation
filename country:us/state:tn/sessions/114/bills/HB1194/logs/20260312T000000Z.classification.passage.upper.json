@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Passed Senate, Ayes 19, Nays 13",
+    "occurred_at": "2026-03-12",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "114",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HB1194&ga=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1194"
+}

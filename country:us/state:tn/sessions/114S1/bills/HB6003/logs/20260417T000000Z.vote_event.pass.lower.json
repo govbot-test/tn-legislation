@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "HOUSE DISASTER RELIEF COMMITTEE OF EXTRAORDINARY SESSION:   4/17/2026  Passed (1)",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-04-17",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "114S1",
+  "bill": "c728b7a4-75d7-11f1-a848-024fd3a6aad0",
+  "bill_action": null,
+  "bill_identifier": "HB 6003",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 21
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HB6003&ga=114",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

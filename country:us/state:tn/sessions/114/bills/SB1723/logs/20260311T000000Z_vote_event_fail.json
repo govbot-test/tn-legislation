@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "SENATE GOVERNMENT OPERATIONS COMMITTEE: Referred to Senate State & Local Gov't Committee with amendment/s, w/negative recommendation  3/11/2026  Failed",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-03-11",
+  "result": "fail",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "114",
+  "bill": "200d4370-75d4-11f1-a848-024fd3a6aad0",
+  "bill_action": null,
+  "bill_identifier": "SB 1723",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 3
+    },
+    {
+      "option": "no",
+      "value": 4
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB1723&ga=114",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

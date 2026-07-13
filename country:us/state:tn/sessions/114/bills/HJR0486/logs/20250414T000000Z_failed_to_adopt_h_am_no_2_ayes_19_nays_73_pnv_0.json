@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Failed to adopt H. Am No. 2,  Ayes 19, Nays 73, PNV 0",
+    "occurred_at": "2025-04-14",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "114",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HJR0486&ga=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HJR 0486"
+}

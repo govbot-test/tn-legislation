@@ -1,0 +1,43 @@
+{
+  "identifier": "",
+  "motion_text": "HOUSE K-12 SUBCOMMITTEE: Failed in s/c  K-12 Subcommittee of  Education Committee  2/10/2026  Failed",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-02-10",
+  "result": "fail",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "114",
+  "bill": "fffcfc0e-75d5-11f1-a848-024fd3a6aad0",
+  "bill_action": null,
+  "bill_identifier": "HB 1052",
+  "votes": [
+    {
+      "option": "not voting",
+      "voter_name": "Haston",
+      "voter_id": "~{\"name\": \"Haston\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 2
+    },
+    {
+      "option": "no",
+      "value": 5
+    },
+    {
+      "option": "not voting",
+      "value": 1
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HB1052&ga=114",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

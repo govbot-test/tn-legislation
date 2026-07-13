@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Placed on Senate Health and Welfare Committee calendar for 3/26/2025",
+    "occurred_at": "2025-03-19",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "114",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB1388&ga=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 1388"
+}

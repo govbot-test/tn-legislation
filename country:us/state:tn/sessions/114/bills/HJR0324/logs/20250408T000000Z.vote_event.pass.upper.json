@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "SENATE FINANCE, WAYS AND MEANS COMMITTEE: Recommended for concurrence by Senate Finance, Ways, and Means Committee, refer Senate Calendar Committee  4/8/2025  Passed (2)",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-04-08",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "114",
+  "bill": "12863c72-75d7-11f1-a848-024fd3a6aad0",
+  "bill_action": null,
+  "bill_identifier": "HJR 0324",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 10
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HJR0324&ga=114",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

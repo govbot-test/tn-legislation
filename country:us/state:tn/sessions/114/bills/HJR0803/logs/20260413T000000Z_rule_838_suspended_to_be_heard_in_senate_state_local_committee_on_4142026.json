@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Rule #83(8) Suspended, to be heard in Senate State & Local Committee on 4/14/2026",
+    "occurred_at": "2026-04-13",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "114",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HJR0803&ga=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HJR 0803"
+}

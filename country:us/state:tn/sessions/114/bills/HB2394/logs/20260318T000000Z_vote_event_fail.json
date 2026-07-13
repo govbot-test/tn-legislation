@@ -1,0 +1,43 @@
+{
+  "identifier": "",
+  "motion_text": "HOUSE CITIES & COUNTIES SUBCOMMITTEE: Failed in s/c  Cities & Counties Subcommittee of State & Local Government Committee  3/18/2026  Failed",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-03-18",
+  "result": "fail",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "114",
+  "bill": "c05b7962-75d6-11f1-a848-024fd3a6aad0",
+  "bill_action": null,
+  "bill_identifier": "HB 2394",
+  "votes": [
+    {
+      "option": "not voting",
+      "voter_name": "Wright",
+      "voter_id": "~{\"name\": \"Wright\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 0
+    },
+    {
+      "option": "no",
+      "value": 5
+    },
+    {
+      "option": "not voting",
+      "value": 1
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HB2394&ga=114",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

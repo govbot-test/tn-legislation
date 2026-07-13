@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "HOUSE EDUCATION ADMINISTRATION SUBCOMMITTEE: Rec for pass if am by s/c ref. to  Education Committee  2/11/2025  Passed",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-02-11",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "114",
+  "bill": "655c7d5a-75d5-11f1-a848-024fd3a6aad0",
+  "bill_action": null,
+  "bill_identifier": "HB 0064",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 5
+    },
+    {
+      "option": "no",
+      "value": 1
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HB0064&ga=114",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

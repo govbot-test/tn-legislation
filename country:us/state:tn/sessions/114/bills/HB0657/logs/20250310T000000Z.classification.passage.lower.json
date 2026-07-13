@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Passed H., as am., Ayes 90, Nays 2, PNV 1",
+    "occurred_at": "2025-03-10",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "114",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HB0657&ga=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 0657"
+}

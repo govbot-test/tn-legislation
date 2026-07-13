@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Sponsor change.",
+    "occurred_at": "2025-03-12",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "114",
+    "entity_type": "bill",
+    "classifications": [
+      "sponsorship"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HB0729&ga=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 0729"
+}

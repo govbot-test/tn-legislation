@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "FLOOR VOTE: REGULAR CALENDAR LAY ON THE TABLE MOTION TO ADOPT  AMENDMENT # 13 BY CAMPER PASSAGE ON THIRD CONSIDERATION  1/30/2025  Passed",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-01-30",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "114S1",
+  "bill": "c79c1bfe-75d7-11f1-a848-024fd3a6aad0",
+  "bill_action": null,
+  "bill_identifier": "HB 6004",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 72
+    },
+    {
+      "option": "no",
+      "value": 24
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HB6004&ga=114",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Passed Senate, Ayes 20, Nays 13",
+    "occurred_at": "2025-01-30",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "114S1",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HB6004&ga=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 6004"
+}

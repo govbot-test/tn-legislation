@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Placed on Senate Education Committee calendar for 1/28/2025",
+    "occurred_at": "2025-01-27",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "114S1",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB6001&ga=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 6001"
+}

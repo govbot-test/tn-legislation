@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Taken off notice for cal in s/c  Cities & Counties Subcommittee of  State & Local Government Committee",
+    "occurred_at": "2025-03-19",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "114",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HB0092&ga=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 0092"
+}

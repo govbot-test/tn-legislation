@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "R/S Intro., adopted Ayes 78, Nays 13, PNV 0",
+    "occurred_at": "2025-01-27",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "114",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HJR0063&ga=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HJR 0063"
+}

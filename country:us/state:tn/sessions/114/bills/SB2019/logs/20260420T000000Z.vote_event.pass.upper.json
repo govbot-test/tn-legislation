@@ -1,0 +1,49 @@
+{
+  "identifier": "",
+  "motion_text": "SENATE FINANCE, WAYS AND MEANS COMMITTEE: Recommended for passage with amendment/s, refer to Senate Calendar Committee Ayes 8, Nays 1 PNV 2  4/20/2026  Passed",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-04-20",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "114",
+  "bill": "429456ea-75d4-11f1-a848-024fd3a6aad0",
+  "bill_action": null,
+  "bill_identifier": "SB 2019",
+  "votes": [
+    {
+      "option": "not voting",
+      "voter_name": "Haile",
+      "voter_id": "~{\"name\": \"Haile\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Rose",
+      "voter_id": "~{\"name\": \"Rose\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 8
+    },
+    {
+      "option": "no",
+      "value": 1
+    },
+    {
+      "option": "not voting",
+      "value": 2
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB2019&ga=114",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

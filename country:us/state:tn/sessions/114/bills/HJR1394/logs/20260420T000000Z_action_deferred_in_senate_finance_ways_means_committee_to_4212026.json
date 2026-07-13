@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Action deferred in Senate Finance, Ways & Means Committee to 4/21/2026",
+    "occurred_at": "2026-04-20",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "114",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HJR1394&ga=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HJR 1394"
+}

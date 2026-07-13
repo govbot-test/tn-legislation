@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Received from House, Passed on First Consideration",
+    "occurred_at": "2025-04-17",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "114",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HB1097&ga=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1097"
+}

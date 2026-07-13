@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Taken off notice for cal in s/c  Agriculture and Natural Resources Subcommittee of  Agriculture & Natural Resources Committee",
+    "occurred_at": "2026-02-04",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "114",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HJR0726&ga=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HJR 0726"
+}

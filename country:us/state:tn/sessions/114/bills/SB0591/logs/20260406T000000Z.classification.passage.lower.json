@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Passed H., Ayes 91, Nays 0, PNV 5",
+    "occurred_at": "2026-04-06",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "114",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB0591&ga=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 0591"
+}

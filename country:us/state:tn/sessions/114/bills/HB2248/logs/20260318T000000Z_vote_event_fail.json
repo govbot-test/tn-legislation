@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "HOUSE BANKING AND CONSUMER AFFAIRS SUBCOMMITTEE: Failed in s/c  Banking and Consumer Affairs Subcommittee of Commerce Committee  3/18/2026  Failed",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-03-18",
+  "result": "fail",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "114",
+  "bill": "ae372f4c-75d6-11f1-a848-024fd3a6aad0",
+  "bill_action": null,
+  "bill_identifier": "HB 2248",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 1
+    },
+    {
+      "option": "no",
+      "value": 4
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HB2248&ga=114",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

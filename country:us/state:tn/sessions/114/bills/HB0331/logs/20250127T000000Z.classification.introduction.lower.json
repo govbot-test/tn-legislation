@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Intro., P1C.",
+    "occurred_at": "2025-01-27",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "114",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HB0331&ga=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 0331"
+}

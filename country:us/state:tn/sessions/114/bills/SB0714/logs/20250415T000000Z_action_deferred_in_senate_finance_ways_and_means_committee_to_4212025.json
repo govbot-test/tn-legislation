@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Action deferred in Senate Finance, Ways, and Means Committee to 4/21/2025",
+    "occurred_at": "2025-04-15",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "114",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB0714&ga=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 0714"
+}

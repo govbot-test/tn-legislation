@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Enrolled and ready for signatures",
+    "occurred_at": "2026-04-29",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "114",
+    "entity_type": "bill",
+    "classifications": [
+      "enrolled"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB1602&ga=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 1602"
+}

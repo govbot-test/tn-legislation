@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Reset on Final cal. 4 of  Criminal Justice Subcommittee",
+    "occurred_at": "2026-04-07",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "114",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HB0723&ga=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 0723"
+}

@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "P2C, caption bill, held on desk - pending amdt.",
+    "occurred_at": "2025-02-05",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "114",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HB0570&ga=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 0570"
+}

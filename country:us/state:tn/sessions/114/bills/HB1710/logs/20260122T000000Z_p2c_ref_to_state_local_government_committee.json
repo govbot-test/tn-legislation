@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "P2C, ref. to State & Local Government Committee",
+    "occurred_at": "2026-01-22",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "114",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HB1710&ga=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1710"
+}

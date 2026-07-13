@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Action Def. in s/c  Tenncare Subcommittee to 2/17/2026",
+    "occurred_at": "2026-02-03",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "114",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HB1101&ga=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1101"
+}

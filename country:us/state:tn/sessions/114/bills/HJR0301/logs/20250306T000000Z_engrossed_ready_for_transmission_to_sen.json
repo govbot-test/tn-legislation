@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Engrossed; ready for transmission to Sen.",
+    "occurred_at": "2025-03-06",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "114",
+    "entity_type": "bill",
+    "classifications": [
+      "receipt"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HJR0301&ga=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HJR 0301"
+}

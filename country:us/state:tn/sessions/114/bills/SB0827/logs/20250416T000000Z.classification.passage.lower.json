@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Passed H., Ayes 75, Nays 14, PNV 2",
+    "occurred_at": "2025-04-16",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "114",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB0827&ga=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 0827"
+}

@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Failed to adopt, (Amendment 2 - HA6007)   Ayes 17, Nays 75, PNV 0",
+    "occurred_at": "2025-01-30",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "114S1",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HB6004&ga=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 6004"
+}

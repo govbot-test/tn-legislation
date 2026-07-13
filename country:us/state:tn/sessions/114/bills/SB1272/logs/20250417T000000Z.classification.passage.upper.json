@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Concurred, Ayes 27, Nays 5 (Amendment 2 - HA0435)",
+    "occurred_at": "2025-04-17",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "114",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB1272&ga=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 1272"
+}

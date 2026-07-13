@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "SENATE ENERGY, AGRICULTURE AND NATURAL RESOURCES COMMITTEE: Recommended for passage, refer to Senate Finance, Ways, and Means Committee  3/26/2025  Passed (2)",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-03-26",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "114",
+  "bill": "d56a43d6-75d3-11f1-a848-024fd3a6aad0",
+  "bill_action": null,
+  "bill_identifier": "SB 1274",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 8
+    },
+    {
+      "option": "no",
+      "value": 1
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB1274&ga=114",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

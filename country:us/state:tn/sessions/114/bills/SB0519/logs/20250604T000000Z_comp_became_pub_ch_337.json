@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Comp. became Pub. Ch. 337",
+    "occurred_at": "2025-06-04",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "114",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB0519&ga=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 0519"
+}

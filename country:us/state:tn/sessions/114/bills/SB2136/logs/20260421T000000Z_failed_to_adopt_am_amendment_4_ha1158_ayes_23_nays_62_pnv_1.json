@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Failed to adopt am (Amendment 4 - HA1158),  Ayes 23, Nays 62, PNV 1",
+    "occurred_at": "2026-04-21",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "114",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB2136&ga=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 2136"
+}

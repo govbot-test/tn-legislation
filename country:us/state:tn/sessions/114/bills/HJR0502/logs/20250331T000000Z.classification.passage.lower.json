@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Adopted,  Ayes 93, Nays 0, PNV 2",
+    "occurred_at": "2025-03-31",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "114",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HJR0502&ga=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HJR 0502"
+}

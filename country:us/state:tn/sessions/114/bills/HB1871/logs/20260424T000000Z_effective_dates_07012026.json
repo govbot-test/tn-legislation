@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Effective date(s) 07/01/2026",
+    "occurred_at": "2026-04-24",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "114",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HB1871&ga=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1871"
+}

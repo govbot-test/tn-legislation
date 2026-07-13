@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Passed Senate as amended, Ayes 24, Nays 6, PNV 2",
+    "occurred_at": "2025-04-17",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "114",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HB1330&ga=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1330"
+}

@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "H. Placed on Regular Calendar for 4/3/2025",
+    "occurred_at": "2025-03-27",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "114",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HB0510&ga=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 0510"
+}

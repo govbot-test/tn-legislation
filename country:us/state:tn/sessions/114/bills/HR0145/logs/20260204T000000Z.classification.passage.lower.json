@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Adopted,  Ayes 70, Nays 18, PNV 1",
+    "occurred_at": "2026-02-04",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "114",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HR0145&ga=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HR 0145"
+}

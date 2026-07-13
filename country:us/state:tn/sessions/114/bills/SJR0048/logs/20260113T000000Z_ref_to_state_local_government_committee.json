@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Ref. to State & Local Government Committee",
+    "occurred_at": "2026-01-13",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "114",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SJR0048&ga=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SJR 0048"
+}

@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "H. concurred in S. am. no. 2 Ayes 76, Nays 14 PNV 0 HB0618",
+    "occurred_at": "2026-03-05",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "114",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HB0618&ga=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 0618"
+}

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Passed on Second Consideration, refer to Senate Calendar Committee",
+    "occurred_at": "2026-04-06",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "114",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SR0365&ga=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SR 0365"
+}

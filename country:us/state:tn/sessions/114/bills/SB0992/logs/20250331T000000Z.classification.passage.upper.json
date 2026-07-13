@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Concurred, Ayes 22, Nays 5 (Amendment 1 - HA0123)",
+    "occurred_at": "2025-03-31",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "114",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB0992&ga=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 0992"
+}

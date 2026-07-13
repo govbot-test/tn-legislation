@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "H. concurred in S. am. no. 5 Ayes 63, Nays 28 PNV 1",
+    "occurred_at": "2026-04-16",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "114",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HB2532&ga=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 2532"
+}

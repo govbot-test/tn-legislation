@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "TRANSPORTATION AND SAFETY COMMITTEE: Failed in Senate Transportation and Safety Committee  3/4/2026  Failed (1)",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-03-04",
+  "result": "fail",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "114",
+  "bill": "e9612e8a-75d4-11f1-a848-024fd3a6aad0",
+  "bill_action": null,
+  "bill_identifier": "SJR 0684",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 1
+    },
+    {
+      "option": "no",
+      "value": 7
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SJR0684&ga=114",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

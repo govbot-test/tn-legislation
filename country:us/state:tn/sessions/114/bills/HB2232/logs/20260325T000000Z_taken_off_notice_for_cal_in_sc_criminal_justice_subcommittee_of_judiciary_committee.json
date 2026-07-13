@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Taken off notice for cal in s/c  Criminal Justice Subcommittee of Judiciary Committee",
+    "occurred_at": "2026-03-25",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "114",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HB2232&ga=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 2232"
+}

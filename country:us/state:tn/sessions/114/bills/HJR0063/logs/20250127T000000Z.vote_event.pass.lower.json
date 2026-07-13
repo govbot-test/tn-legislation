@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "FLOOR VOTE: UNFINISHED BUSINESS    MOTION TO ADOPT  1/27/2025  Passed (1)",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-01-27",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "114",
+  "bill": "f04b1218-75d6-11f1-a848-024fd3a6aad0",
+  "bill_action": null,
+  "bill_identifier": "HJR 0063",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 78
+    },
+    {
+      "option": "no",
+      "value": 13
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HJR0063&ga=114",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

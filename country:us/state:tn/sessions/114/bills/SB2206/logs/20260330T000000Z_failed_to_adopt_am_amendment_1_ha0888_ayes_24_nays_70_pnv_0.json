@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Failed to adopt Am (Amendment 1 - HA0888),  Ayes 24, Nays 70, PNV 0",
+    "occurred_at": "2026-03-30",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "114",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB2206&ga=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 2206"
+}

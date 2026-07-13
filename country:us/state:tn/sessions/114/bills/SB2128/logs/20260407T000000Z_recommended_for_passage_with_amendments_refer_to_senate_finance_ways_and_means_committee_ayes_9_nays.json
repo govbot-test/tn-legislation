@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Recommended for passage with amendment/s, refer to Senate Finance, Ways, and Means Committee Ayes 9, Nays 0 PNV 0",
+    "occurred_at": "2026-04-07",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "114",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB2128&ga=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 2128"
+}

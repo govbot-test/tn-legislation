@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "SENATE FINANCE, WAYS AND MEANS COMMITTEE: Recommended for passage with amendment/s, refer to Senate Calendar Committee Ayes 10, Nays 1 PNV 0  4/21/2026  Passed (1)",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-04-21",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "114",
+  "bill": "7ffa3838-75d4-11f1-a848-024fd3a6aad0",
+  "bill_action": null,
+  "bill_identifier": "SB 2465",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 10
+    },
+    {
+      "option": "no",
+      "value": 1
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB2465&ga=114",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

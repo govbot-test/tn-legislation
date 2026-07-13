@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Rec. for pass; ref to  Calendar & Rules Committee",
+    "occurred_at": "2025-03-05",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "114",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HB0805&ga=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 0805"
+}

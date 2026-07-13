@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Action deferred in Senate Finance, Ways, and Means Committee to 1/27/2026",
+    "occurred_at": "2026-01-13",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "114",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB0821&ga=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 0821"
+}

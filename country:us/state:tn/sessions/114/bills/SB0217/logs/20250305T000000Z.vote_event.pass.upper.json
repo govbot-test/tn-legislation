@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "TRANSPORTATION AND SAFETY COMMITTEE: Recommended for passage with amendment/s, refer to Senate Calendar Committee Ayes 7, Nays 1 PNV 0  3/5/2025  Passed",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-03-05",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "114",
+  "bill": "4b852cda-75d3-11f1-a848-024fd3a6aad0",
+  "bill_action": null,
+  "bill_identifier": "SB 0217",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 7
+    },
+    {
+      "option": "no",
+      "value": 1
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB0217&ga=114",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

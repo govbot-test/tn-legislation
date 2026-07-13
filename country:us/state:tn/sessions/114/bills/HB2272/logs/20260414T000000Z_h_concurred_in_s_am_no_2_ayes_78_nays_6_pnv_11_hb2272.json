@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "H. concurred in S. am. no. 2 Ayes 78, Nays 6 PNV 11 HB2272",
+    "occurred_at": "2026-04-14",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "114",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HB2272&ga=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 2272"
+}

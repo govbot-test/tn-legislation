@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Comp. SB subst.",
+    "occurred_at": "2026-04-08",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "114",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HB0674&ga=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 0674"
+}

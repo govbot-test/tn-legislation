@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Passed 2nd Reading, Senate Reset on calendar for 3/26/2025",
+    "occurred_at": "2025-03-24",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "114",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SJR0001&ga=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SJR 0001"
+}

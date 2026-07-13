@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Failed to pass H. as am, Ayes 37, Nays 45, PNV 9",
+    "occurred_at": "2026-03-30",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "114",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HB1978&ga=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1978"
+}

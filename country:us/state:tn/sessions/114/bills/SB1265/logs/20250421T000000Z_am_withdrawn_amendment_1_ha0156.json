@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Am. withdrawn. (Amendment 1 - HA0156)",
+    "occurred_at": "2025-04-21",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "114",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-withdrawal"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB1265&ga=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 1265"
+}

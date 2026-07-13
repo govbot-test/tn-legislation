@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Received from House, refer to Senate Finance, Ways & Means Committee",
+    "occurred_at": "2026-04-02",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "114",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HJR1222&ga=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HJR 1222"
+}

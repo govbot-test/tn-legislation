@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Passed on Second Consideration, held on desk. Local Bill",
+    "occurred_at": "2025-03-10",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "114",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB1445&ga=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 1445"
+}

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Signed by Governor.",
+    "occurred_at": "2026-05-07",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "114",
+    "entity_type": "bill",
+    "classifications": [
+      "executive-signature"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HB1624&ga=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1624"
+}

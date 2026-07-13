@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Senate Reset on calendar for 3/13/2025",
+    "occurred_at": "2025-03-10",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "114",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SJR0025&ga=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SJR 0025"
+}

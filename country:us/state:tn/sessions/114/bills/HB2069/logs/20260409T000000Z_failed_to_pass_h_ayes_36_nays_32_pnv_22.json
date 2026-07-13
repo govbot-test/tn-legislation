@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Failed to pass H., Ayes 36, Nays 32, PNV 22",
+    "occurred_at": "2026-04-09",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "114",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HB2069&ga=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 2069"
+}

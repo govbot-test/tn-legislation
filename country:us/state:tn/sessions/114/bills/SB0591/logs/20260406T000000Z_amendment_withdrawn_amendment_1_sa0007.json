@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Amendment withdrawn. (Amendment 1 - SA0007)",
+    "occurred_at": "2026-04-06",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "114",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB0591&ga=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 0591"
+}

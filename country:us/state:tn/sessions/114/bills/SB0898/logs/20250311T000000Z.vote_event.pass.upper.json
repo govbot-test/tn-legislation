@@ -1,0 +1,43 @@
+{
+  "identifier": "",
+  "motion_text": "SENATE COMMERCE AND LABOR COMMITTEE: Recommended for passage, refer to Senate Finance, Ways, and Means Committee  3/11/2025  Passed (1)",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-03-11",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "114",
+  "bill": "9b5a3688-75d3-11f1-a848-024fd3a6aad0",
+  "bill_action": null,
+  "bill_identifier": "SB 0898",
+  "votes": [
+    {
+      "option": "not voting",
+      "voter_name": "Watson",
+      "voter_id": "~{\"name\": \"Watson\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 7
+    },
+    {
+      "option": "no",
+      "value": 1
+    },
+    {
+      "option": "not voting",
+      "value": 1
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB0898&ga=114",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

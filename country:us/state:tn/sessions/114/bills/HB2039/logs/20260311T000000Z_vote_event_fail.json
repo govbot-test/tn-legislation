@@ -1,0 +1,43 @@
+{
+  "identifier": "",
+  "motion_text": "HOUSE BANKING AND CONSUMER AFFAIRS SUBCOMMITTEE: Failed in s/c  Banking and Consumer Affairs Subcommittee of Commerce Committee  3/11/2026  Failed",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-03-11",
+  "result": "fail",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "114",
+  "bill": "8fee450c-75d6-11f1-a848-024fd3a6aad0",
+  "bill_action": null,
+  "bill_identifier": "HB 2039",
+  "votes": [
+    {
+      "option": "not voting",
+      "voter_name": "Hale",
+      "voter_id": "~{\"name\": \"Hale\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 2
+    },
+    {
+      "option": "no",
+      "value": 4
+    },
+    {
+      "option": "not voting",
+      "value": 1
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HB2039&ga=114",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

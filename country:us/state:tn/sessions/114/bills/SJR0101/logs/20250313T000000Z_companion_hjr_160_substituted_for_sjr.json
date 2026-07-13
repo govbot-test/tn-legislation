@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Companion HJR 160 substituted for SJR",
+    "occurred_at": "2025-03-13",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "114",
+    "entity_type": "bill",
+    "classifications": [
+      "substitution"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SJR0101&ga=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SJR 0101"
+}

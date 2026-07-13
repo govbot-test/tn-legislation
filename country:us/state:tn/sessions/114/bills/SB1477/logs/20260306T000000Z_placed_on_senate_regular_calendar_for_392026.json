@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Placed on Senate Regular Calendar  for 3/9/2026",
+    "occurred_at": "2026-03-06",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "114",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB1477&ga=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 1477"
+}

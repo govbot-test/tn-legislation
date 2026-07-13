@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Placed on Senate Consent Calendar  for 4/13/2026",
+    "occurred_at": "2026-04-10",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "114",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SR0381&ga=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SR 0381"
+}

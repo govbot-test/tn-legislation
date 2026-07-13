@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Signed by Senate Speaker",
+    "occurred_at": "2026-04-30",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "114",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SJR1259&ga=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SJR 1259"
+}

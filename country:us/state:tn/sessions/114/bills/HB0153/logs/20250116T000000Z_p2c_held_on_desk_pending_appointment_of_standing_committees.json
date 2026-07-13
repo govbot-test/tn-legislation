@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "P2C held on desk pending appointment of Standing Committees",
+    "occurred_at": "2025-01-16",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "114",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HB0153&ga=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 0153"
+}

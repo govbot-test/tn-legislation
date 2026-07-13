@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "SENATE COMMERCE AND LABOR COMMITTEE: Recommended for passage, refer to Senate Judiciary Committee, Voice Vote  3/10/2026  Failed",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-03-10",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "114",
+  "bill": "5dde87c8-75d3-11f1-a848-024fd3a6aad0",
+  "bill_action": null,
+  "bill_identifier": "SB 0394",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 0
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB0394&ga=114",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

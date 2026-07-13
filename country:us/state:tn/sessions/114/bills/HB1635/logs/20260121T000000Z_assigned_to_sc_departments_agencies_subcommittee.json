@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Assigned to s/c Departments & Agencies Subcommittee",
+    "occurred_at": "2026-01-21",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "114",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HB1635&ga=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1635"
+}

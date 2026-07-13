@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Concurred, Ayes 32, Nays 0 (Amendment 1 - HA0610)",
+    "occurred_at": "2026-04-02",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "114",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB1887&ga=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 1887"
+}

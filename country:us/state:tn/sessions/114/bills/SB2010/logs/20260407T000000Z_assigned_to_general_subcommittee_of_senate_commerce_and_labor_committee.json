@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Assigned to General Subcommittee of Senate Commerce and Labor Committee",
+    "occurred_at": "2026-04-07",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "114",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB2010&ga=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 2010"
+}

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Adopted, Ayes 28, Nays 1, PNV 3",
+    "occurred_at": "2025-03-27",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "114",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SJR0003&ga=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SJR 0003"
+}

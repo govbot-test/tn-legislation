@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Passed H., Ayes 93, Nays 0, PNV 3",
+    "occurred_at": "2025-04-15",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "114",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB1423&ga=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 1423"
+}

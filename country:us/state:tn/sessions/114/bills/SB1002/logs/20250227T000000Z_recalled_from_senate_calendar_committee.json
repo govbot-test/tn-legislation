@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Recalled from Senate Calendar Committee",
+    "occurred_at": "2025-02-27",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "114",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB1002&ga=114",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 1002"
+}
