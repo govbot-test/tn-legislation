@@ -1,0 +1,88 @@
+HOUSE BILL 2316
+By Barrett
+SENATE BILL 2565
+By Bowling
+AN ACT to amend Tennessee Code Annotated, Title 4;
+Title 7 and Title 65, relative to threats to electrical
+assets.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. As used in this act:
+(1) "Covered entity" means an electric utility or electric project developer, owner,
+or operator within this state, regardless of public or private ownership or jurisdiction
+under the North American Electric Reliability Corporation (NERC);
+(2) "Covered equipment" means any power transformer with a primary voltage of
+one hundred kilovolts (100 kV) or greater and capacity of twenty-five megavolt ampere
+(25 MVA) or greater, and any generator step-up transformer with a secondary voltage of
+one hundred kilovolts (100 kV) or greater and capacity of twenty-five megavolt ampere
+(25 MVA) or greater;
+(3) "GIC" means a geomagnetically induced current, also known as ground
+induced current, resulting from naturally occurring geomagnetic disturbances or the late-
+time component of a high-altitude nuclear electromagnetic pulse; and
+(4) "Critical energy infrastructure information protocols," "critical electric
+infrastructure information protocols," or "CEII" means specific engineering, vulnerability,
+or detailed design protocols and procedures related to proposed or existing critical
+infrastructure, whether physical or virtual, that relate to the production, generation,
+transmission, transportation, or distribution of energy, the unauthorized disclosure of
+which could pose a risk to the security, reliability, or integrity of the infrastructure; such
+protocols are designated as confidential and exempt from public disclosure, as their
+SB2565
+012395
+- 1 -
+
+release could be useful to a person planning an attack or otherwise causing harm to the
+infrastructure.
+SECTION 2.
+(a) Each covered entity shall, no later than January 1, 2027, conduct a technical
+assessment of all covered equipment to determine vulnerability to GICs.
+(b) The assessment shall:
+(1) Utilize the waveform in Figure A.5 of IEC 61000-2-9, Edition 2.0
+(2025-05), modeling a peak magnetic field strength of twenty thousand nanotesla
+(20,000 nT) and corresponding electric field of eighty-five volts per kilometer (85
+V/km);
+(2) Assume transformers are fully loaded during GIC exposure;
+(3) Account for transformer age and condition using ANSI/IEEE Standard
+C57.110 and IEEE Standard C57.91; and
+(4) Identify susceptibility to half-cycle saturation, GIC-induced harmonics,
+reactive power consumption, hot spot generation, and insulation degradation.
+SECTION 3.
+(a) No later than July 1, 2027, each covered entity shall submit a report on the
+assessment conducted pursuant to Section 2 to the general assembly, the governor, the
+Tennessee board of utility regulation, and the Tennessee public utilities commission.
+(b) The report must include, for each susceptible transformer and substation:
+(1) The transformer:
+(A) Brand;
+(B) Place of origin, including nation where manufactured;
+(C) Design specifications, including windings and core
+configuration; winding impedances; winding DC resistances, specifying
+- 2 - 012395
+
+whether assumed or measured; and phase type, either single-phase or 3-
+phase;
+(D) Capacity in megavolt-amperes (MVA);
+(E) Voltage level in kilovolts (kV);
+(F) Age;
+(G) Site location, redacted for CEII;
+(H) Purpose, such as generator step-up, autotransformer, step-
+down, converter, redacted for CEII;
+(I) Replacement lead time; and
+(J) Replacement cost;
+(2) Spreadsheet-formatted data and narrative analysis;
+(3) Recommended solutions to protect the grid against GIC by preventing
+or reducing the half-cycle saturation of transformers;
+(4) Total cost to implement GIC protection;
+(5) Priority list of transformers by damage risk and critical infrastructure
+impact; and
+(6) Funding recommendations, including potential grant sources and rate
+recovery mechanisms.
+SECTION 4. Covered entities shall not rely solely on operational procedures such as
+load shedding or reactive power supply to mitigate GIC risk. Such procedures are not
+considered sufficient protection under this chapter.
+SECTION 5. CEII data, such as location and purpose, submitted under this act must be
+handled in accordance with CEII protocols as defined in Section 1. Location and purpose data
+must be redacted from public reports.
+SECTION 6. This act takes effect upon becoming a law, the public welfare requiring it.
+- 3 - 012395
+
+[DELETED: S((((]
+[DELETED:  -0((((((((]
+[DELETED:  -0(((((SS]

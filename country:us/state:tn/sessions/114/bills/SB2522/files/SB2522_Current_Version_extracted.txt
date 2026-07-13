@@ -1,0 +1,104 @@
+Title: HOUSE BILL 2060
+Official Title: HOUSE BILL 2060
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+By Towns
+SENATE BILL 2522
+By Yarbro
+AN ACT to amend Tennessee Code Annotated, Title 45,
+relative to digital currencies.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Title 45, Chapter 2, Part 17, is amended by
+adding the following as a new section:
+(a) As used in this section:
+(1) "Bank" means a state bank, savings and loan association, or credit
+union; and
+(2) "Commissioner" means the commissioner of financial institutions.
+(b) A bank shall not digitize or otherwise convert money held by the bank on
+behalf of a consumer into a digital currency, digital medium of exchange, or digital
+monetary unit of account, including cryptocurrency, without express, written
+authorization from the consumer for whom the money is held.
+(c) If, after notice and an opportunity for a hearing, the commissioner finds that a
+bank has violated subsection (b), the commissioner may order the bank to do one (1) or
+more of the following:
+(1) Cease and desist violating subsection (b);
+(2) Pay a civil penalty in an amount specified by the commissioner, not to
+exceed one thousand dollars ($1,000) for each violation or, in the case of a
+continuing violation, one thousand dollars ($1,000) for each day that the violation
+continues; or
+(3) Pay the costs and expenses for the investigation and prosecution of
+the matter, including reasonable attorney fees.
+SB2522
+011448
+- 1 -
+(d) In addition to the penalties and remedies described under subsection (c), an
+individual or entity aggrieved by a violation of subsection (b) may bring a civil cause of
+action against the bank. If a court finds the bank violated subsection (b), then the court
+may issue an injunction and award to the prevailing party:
+(1) Actual damages;
+(2) Punitive damages; and
+(3) Reasonable court costs and attorney fees.
+
+Section 3:
+SECTION 2. This act takes effect July 1, 2026, the public welfare requiring it, and
+applies to conduct occurring on or after that date.
+- 2 - 011448
+[DELETED: S((((((((]
+[DELETED:  -0S]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 2060
+By Towns
+SENATE BILL 2522
+By Yarbro
+AN ACT to amend Tennessee Code Annotated, Title 45,
+relative to digital currencies.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Title 45, Chapter 2, Part 17, is amended by
+adding the following as a new section:
+(a) As used in this section:
+(1) "Bank" means a state bank, savings and loan association, or credit
+union; and
+(2) "Commissioner" means the commissioner of financial institutions.
+(b) A bank shall not digitize or otherwise convert money held by the bank on
+behalf of a consumer into a digital currency, digital medium of exchange, or digital
+monetary unit of account, including cryptocurrency, without express, written
+authorization from the consumer for whom the money is held.
+(c) If, after notice and an opportunity for a hearing, the commissioner finds that a
+bank has violated subsection (b), the commissioner may order the bank to do one (1) or
+more of the following:
+(1) Cease and desist violating subsection (b);
+(2) Pay a civil penalty in an amount specified by the commissioner, not to
+exceed one thousand dollars ($1,000) for each violation or, in the case of a
+continuing violation, one thousand dollars ($1,000) for each day that the violation
+continues; or
+(3) Pay the costs and expenses for the investigation and prosecution of
+the matter, including reasonable attorney fees.
+SB2522
+011448
+- 1 -
+
+(d) In addition to the penalties and remedies described under subsection (c), an
+individual or entity aggrieved by a violation of subsection (b) may bring a civil cause of
+action against the bank. If a court finds the bank violated subsection (b), then the court
+may issue an injunction and award to the prevailing party:
+(1) Actual damages;
+(2) Punitive damages; and
+(3) Reasonable court costs and attorney fees.
+SECTION 2. This act takes effect July 1, 2026, the public welfare requiring it, and
+applies to conduct occurring on or after that date.
+- 2 - 011448
+
+[DELETED: S((((((((]
+[DELETED:  -0S]

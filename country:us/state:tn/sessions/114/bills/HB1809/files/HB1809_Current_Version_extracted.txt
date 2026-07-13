@@ -1,0 +1,100 @@
+Title: SENATE BILL 2006
+Official Title: SENATE BILL 2006
+Number of Sections: 5
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+By Hatcher
+HOUSE BILL 1809
+By Howell
+AN ACT to amend Tennessee Code Annotated, Title 39
+and Title 68, Chapter 221, relative to unlawful
+disposal of waste.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 39-17-102(d), is amended by
+deleting the subsection and substituting:
+(1) Except as provided in subdivision (d)(2), an offense under this section is a
+Class C misdemeanor.
+(2) An offense under this section is a Class B misdemeanor if the person
+commits the offense while engaged in the business of removing accumulated wastes
+from subsurface sewage disposal systems, as defined in § 68-221-402.
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 68-221-413(a), is amended by
+deleting the subsection and substituting:
+(1) Except as provided in subdivision (a)(2), a violation of this part or rules
+promulgated pursuant to this part is a Class C misdemeanor.
+(2) An offense under § 68-221-406(a)(7) involving the unlawful disposal of
+sewage or effluent from a subsurface sewage disposal system is a Class B
+misdemeanor if the person commits the offense while engaged in the business of
+removing accumulated wastes from subsurface sewage disposal systems.
+
+Section 4:
+SECTION 3. Tennessee Code Annotated, Section 68-221-713(f)(1), is amended by
+deleting the subdivision and substituting:
+(A) Except as provided in subdivision (f)(1)(B), a violation of this part or rules
+promulgated pursuant to this part is a Class C misdemeanor.
+HB1809
+010799
+- 1 -
+(B) An offense under § 68-221-711(5) involving the unlawful discharge of
+sewage or any other waste or contaminant is a Class B misdemeanor if the person
+commits the offense while engaged in the business of removing accumulated wastes
+from subsurface sewage disposal systems, as defined in § 68-221-402.
+
+Section 5:
+SECTION 4. This act takes effect July 1, 2026, the public welfare requiring it.
+- 2 - 010799
+[DELETED: S((S((S(]
+[DELETED:  -0(S]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 2006
+By Hatcher
+HOUSE BILL 1809
+By Howell
+AN ACT to amend Tennessee Code Annotated, Title 39
+and Title 68, Chapter 221, relative to unlawful
+disposal of waste.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 39-17-102(d), is amended by
+deleting the subsection and substituting:
+(1) Except as provided in subdivision (d)(2), an offense under this section is a
+Class C misdemeanor.
+(2) An offense under this section is a Class B misdemeanor if the person
+commits the offense while engaged in the business of removing accumulated wastes
+from subsurface sewage disposal systems, as defined in § 68-221-402.
+SECTION 2. Tennessee Code Annotated, Section 68-221-413(a), is amended by
+deleting the subsection and substituting:
+(1) Except as provided in subdivision (a)(2), a violation of this part or rules
+promulgated pursuant to this part is a Class C misdemeanor.
+(2) An offense under § 68-221-406(a)(7) involving the unlawful disposal of
+sewage or effluent from a subsurface sewage disposal system is a Class B
+misdemeanor if the person commits the offense while engaged in the business of
+removing accumulated wastes from subsurface sewage disposal systems.
+SECTION 3. Tennessee Code Annotated, Section 68-221-713(f)(1), is amended by
+deleting the subdivision and substituting:
+(A) Except as provided in subdivision (f)(1)(B), a violation of this part or rules
+promulgated pursuant to this part is a Class C misdemeanor.
+HB1809
+010799
+- 1 -
+
+(B) An offense under § 68-221-711(5) involving the unlawful discharge of
+sewage or any other waste or contaminant is a Class B misdemeanor if the person
+commits the offense while engaged in the business of removing accumulated wastes
+from subsurface sewage disposal systems, as defined in § 68-221-402.
+SECTION 4. This act takes effect July 1, 2026, the public welfare requiring it.
+- 2 - 010799
+
+[DELETED: S((S((S(]
+[DELETED:  -0(S]

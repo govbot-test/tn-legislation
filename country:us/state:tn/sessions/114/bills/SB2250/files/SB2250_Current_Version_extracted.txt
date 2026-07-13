@@ -1,0 +1,53 @@
+Title: HOUSE BILL 2165
+Official Title: HOUSE BILL 2165
+Number of Sections: 4
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+By Warner
+SENATE BILL 2250
+By Pody
+AN ACT to amend Tennessee Code Annotated, Title 7 and
+Title 8, relative to local government.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 7-68-103(b), is amended by deleting
+the second sentence of the subsection.
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 7-68-104(e), is amended by deleting
+the language ", and the official's subsequent conviction pursuant to § 7-68-103(b)".
+
+Section 4:
+SECTION 3. This act takes effect upon becoming a law, the public welfare requiring it.
+SB2250
+012243
+- 1 -
+[DELETED: SSS]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 2165
+By Warner
+SENATE BILL 2250
+By Pody
+AN ACT to amend Tennessee Code Annotated, Title 7 and
+Title 8, relative to local government.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 7-68-103(b), is amended by deleting
+the second sentence of the subsection.
+SECTION 2. Tennessee Code Annotated, Section 7-68-104(e), is amended by deleting
+the language ", and the official's subsequent conviction pursuant to § 7-68-103(b)".
+SECTION 3. This act takes effect upon becoming a law, the public welfare requiring it.
+SB2250
+012243
+- 1 -
+
+[DELETED: SSS]

@@ -1,0 +1,110 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+SENATE RESOLUTION 357
+By Haile
+A RESOLUTION to commend Cicely Tharp for exemplary service
+as a legislative intern.
+WHEREAS, each legislative session, this body is pleased to recognize certain persons
+who have committed themselves, through their adroit service, to the betterment of the legislative
+process; and
+WHEREAS, Cicely Tharp is one such individual, who has distinguished herself in her
+role as a legislative intern for Senator Ferrell Haile; her work has resulted in innumerable
+benefits for the legislators she assisted and the General Assembly as a whole; and
+WHEREAS, born to Sondra and Phillip Tharp, Ms. Tharp is originally from Cookeville but
+grew up in the greater Nashville area; she graduated from Davidson Academy in 2022; and
+WHEREAS, a student at Tennessee Technological University, where she is highly
+regarded by her peers, Cicely Tharp has achieved academic success while pursuing a
+bachelor's degree in political science with an emphasis in legal studies; and
+WHEREAS, Ms. Tharp has achieved many accomplishments during her time at
+Tennessee Tech, including receiving recognition on the Dean's List from 2022 to 2025,
+participating in the Tennessee Intercollegiate State Legislature Moot Court team in 2024 and
+2025, being a spirit representative for Omega Chi, and holding a State of Tennessee Seal of
+Biliteracy in Spanish; and
+WHEREAS, upon graduating, Cicely Tharp plans to attend law school in the State and
+seek a career in public service, specifically in the legal field, in order to serve and help the
+citizens of Tennessee; and
+SR0357
+016423
+- 1 -
+WHEREAS, in addition to her love of public service, Ms. Tharp has a passion for
+reading, writing, spending time outside, and crafting; her faith and her family are two of the most
+important things in Ms. Tharp's life, as she credits them for where she is today; and
+WHEREAS, eager to familiarize herself with the characteristics and complexities of
+Tennessee State government and to further her studies, Cicely Tharp brought her many abilities
+and singular expertise to Capitol Hill for the 2026 session of the One Hundred Fourteenth
+General Assembly; and
+WHEREAS, throughout the 2026 legislative session, Ms. Tharp has surpassed all
+criteria that define a devoted and conscientious legislative intern; and
+WHEREAS, Cicely Tharp has performed her many duties with extraordinary insight and
+rare decorum; now, therefore,
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, that we hereby commend Cicely
+Tharp for outstanding service as a legislative intern for Senator Ferrell Haile and extend to her
+our best wishes for every future success.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy.
+- 2 - 016423
+[DELETED: WWWWWW]
+[DELETED:  -0WWWWBB]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+SENATE RESOLUTION 357
+By Haile
+A RESOLUTION to commend Cicely Tharp for exemplary service
+as a legislative intern.
+WHEREAS, each legislative session, this body is pleased to recognize certain persons
+who have committed themselves, through their adroit service, to the betterment of the legislative
+process; and
+WHEREAS, Cicely Tharp is one such individual, who has distinguished herself in her
+role as a legislative intern for Senator Ferrell Haile; her work has resulted in innumerable
+benefits for the legislators she assisted and the General Assembly as a whole; and
+WHEREAS, born to Sondra and Phillip Tharp, Ms. Tharp is originally from Cookeville but
+grew up in the greater Nashville area; she graduated from Davidson Academy in 2022; and
+WHEREAS, a student at Tennessee Technological University, where she is highly
+regarded by her peers, Cicely Tharp has achieved academic success while pursuing a
+bachelor's degree in political science with an emphasis in legal studies; and
+WHEREAS, Ms. Tharp has achieved many accomplishments during her time at
+Tennessee Tech, including receiving recognition on the Dean's List from 2022 to 2025,
+participating in the Tennessee Intercollegiate State Legislature Moot Court team in 2024 and
+2025, being a spirit representative for Omega Chi, and holding a State of Tennessee Seal of
+Biliteracy in Spanish; and
+WHEREAS, upon graduating, Cicely Tharp plans to attend law school in the State and
+seek a career in public service, specifically in the legal field, in order to serve and help the
+citizens of Tennessee; and
+SR0357
+016423
+- 1 -
+
+WHEREAS, in addition to her love of public service, Ms. Tharp has a passion for
+reading, writing, spending time outside, and crafting; her faith and her family are two of the most
+important things in Ms. Tharp's life, as she credits them for where she is today; and
+WHEREAS, eager to familiarize herself with the characteristics and complexities of
+Tennessee State government and to further her studies, Cicely Tharp brought her many abilities
+and singular expertise to Capitol Hill for the 2026 session of the One Hundred Fourteenth
+General Assembly; and
+WHEREAS, throughout the 2026 legislative session, Ms. Tharp has surpassed all
+criteria that define a devoted and conscientious legislative intern; and
+WHEREAS, Cicely Tharp has performed her many duties with extraordinary insight and
+rare decorum; now, therefore,
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, that we hereby commend Cicely
+Tharp for outstanding service as a legislative intern for Senator Ferrell Haile and extend to her
+our best wishes for every future success.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy.
+- 2 - 016423
+
+[DELETED: WWWWWW]
+[DELETED:  -0WWWWBB]

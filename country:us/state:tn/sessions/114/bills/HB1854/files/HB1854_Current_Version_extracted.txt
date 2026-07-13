@@ -1,0 +1,81 @@
+Title: SENATE BILL 2115
+Official Title: SENATE BILL 2115
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+By Campbell
+HOUSE BILL 1854
+By Freeman
+AN ACT to amend Tennessee Code Annotated, Title 39
+and Title 40, relative to criminal offenses.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 39-17-107, is amended by deleting
+the section and substituting:
+(a) It is an offense for a person to adulterate any food product or liquid that is
+manufactured, marketed, grown, or produced for human consumption or any
+pharmaceutical product that is designed, marketed, or prescribed for the diagnosis or
+treatment of a disease or medical condition by placing in, mixing with, or adding to the
+product or liquid, any object, liquid, powder, or other substance with the intent to cause
+the following to a user of the product or liquid:
+(1) Involuntary intoxication;
+(2) Bodily injury;
+(3) Serious bodily injury; or
+(4) Death.
+(b)
+(1) A violation of this section where the person intends to cause
+involuntary intoxication is a Class D felony.
+(2) A violation of this section where the person intends to cause bodily
+injury is a Class C felony.
+(3) A violation of this section where the person intends to cause serious
+bodily injury or death is a Class B felony.
+
+Section 3:
+SECTION 2. This act takes effect July 1, 2026, the public welfare requiring it.
+HB1854
+009644
+- 1 -
+[DELETED: S(((((S]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 2115
+By Campbell
+HOUSE BILL 1854
+By Freeman
+AN ACT to amend Tennessee Code Annotated, Title 39
+and Title 40, relative to criminal offenses.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 39-17-107, is amended by deleting
+the section and substituting:
+(a) It is an offense for a person to adulterate any food product or liquid that is
+manufactured, marketed, grown, or produced for human consumption or any
+pharmaceutical product that is designed, marketed, or prescribed for the diagnosis or
+treatment of a disease or medical condition by placing in, mixing with, or adding to the
+product or liquid, any object, liquid, powder, or other substance with the intent to cause
+the following to a user of the product or liquid:
+(1) Involuntary intoxication;
+(2) Bodily injury;
+(3) Serious bodily injury; or
+(4) Death.
+(b)
+(1) A violation of this section where the person intends to cause
+involuntary intoxication is a Class D felony.
+(2) A violation of this section where the person intends to cause bodily
+injury is a Class C felony.
+(3) A violation of this section where the person intends to cause serious
+bodily injury or death is a Class B felony.
+SECTION 2. This act takes effect July 1, 2026, the public welfare requiring it.
+HB1854
+009644
+- 1 -
+
+[DELETED: S(((((S]
