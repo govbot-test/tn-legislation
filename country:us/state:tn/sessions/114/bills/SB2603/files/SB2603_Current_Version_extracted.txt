@@ -1,0 +1,57 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 4
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+SENATE BILL 2603
+By Southerland
+AN ACT to amend Tennessee Code Annotated, Section
+67-6-228, relative to taxation.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 67-6-228, is amended by adding the
+following new subsection:
+(c) There is exempt from the tax imposed by this chapter the retail sale of food
+and food ingredients, as defined in § 67-6-102, if sold to a person who is sixty-five (65)
+years of age or older and a resident of this state.
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 67-6-228(a), is amended by deleting
+"subsection (b)" and substituting instead "subsections (b) and (c)".
+
+Section 4:
+SECTION 3. This act takes effect July 1, 2026, the public welfare requiring it.
+SB2603
+007888
+- 1 -
+[DELETED: SSS]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+SENATE BILL 2603
+By Southerland
+AN ACT to amend Tennessee Code Annotated, Section
+67-6-228, relative to taxation.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 67-6-228, is amended by adding the
+following new subsection:
+(c) There is exempt from the tax imposed by this chapter the retail sale of food
+and food ingredients, as defined in § 67-6-102, if sold to a person who is sixty-five (65)
+years of age or older and a resident of this state.
+SECTION 2. Tennessee Code Annotated, Section 67-6-228(a), is amended by deleting
+"subsection (b)" and substituting instead "subsections (b) and (c)".
+SECTION 3. This act takes effect July 1, 2026, the public welfare requiring it.
+SB2603
+007888
+- 1 -
+
+[DELETED: SSS]

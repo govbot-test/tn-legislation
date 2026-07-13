@@ -1,0 +1,277 @@
+Title: HOUSE BILL 2051
+Official Title: HOUSE BILL 2051
+Number of Sections: 5
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+By Camper
+SENATE BILL 2001
+By Lamar
+AN ACT to amend Tennessee Code Annotated, Title 47,
+Chapter 18 and Title 50, relative to the use of self-
+service checkout.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Title 47, Chapter 18, is amended by adding
+the following as a new part:
+47-18-5901. Short title.
+This part is known and may be cited as "The Tennessee Safe Stores and Staffed
+Stores Act."
+47-18-5902. Definitions.
+As used in this part:
+(1) "Customer" means an individual who buys consumer goods from a
+drug retail establishment or food retail establishment;
+(2) "Drug retail establishment" means a retail store that sells a variety of
+prescription and nonprescription medicines and miscellaneous items, including
+drugs, pharmaceuticals, sundries, fresh produce, meats, poultry, fish, deli
+products, dairy products, canned foods, dry foods, beverages, prepared foods,
+and other merchandise;
+(3) "Employee":
+(A) Means an individual employed by and on the direct payroll of
+a drug retail establishment or food retail establishment; and
+SB2001
+010934
+- 1 -
+(B) Does not include independent contractors, workers hired
+through a third-party agency, managers, supervisors, or confidential
+employees;
+(4) "Food retail establishment" means a retail store that is:
+(A) Over fifteen thousand square feet (15,000 sq. ft.) in size and
+sells primarily household foodstuff for offsite consumption, including fresh
+produce, meats, poultry, fish, deli products, dairy products, canned foods,
+dry foods, beverages, baked foods, or prepared foods; or
+(B) Over eighty-five thousand square feet (85,000 sq. ft.) and with
+ten percent (10%) or more of the establishment's sales floor area
+dedicated to the sale of foodstuff for offsite consumption, including the
+sale of fresh produce, meats, poultry, fish, deli products, dairy products,
+canned foods, dry foods, beverages, baked foods, or prepared foods;
+(5) "Self-service checkout" means the automated processes that enable
+a customer to scan, bag, and pay for the customer's purchases without human
+assistance, including fixed self-checkout, scan-and-go self-checkout, or mobile
+self-checkout;
+(6) "Self-service checkout station" means a station at a fixed location
+within a drug retail establishment or food retail establishment at which a
+customer can engage in a self-service checkout for the customer's purchases;
+and
+(7) "Staffed checkout station" means a station that is not a self-service
+checkout and at which an employee provides human assistance to a customer
+for scanning, bagging, or accepting payment for the customer's purchases.
+47-18-5903. Requirements of establishments utilizing self-checkout options.
+- 2 - 010934
+(a) A drug retail establishment or food retail establishment that provides self-
+service checkout options shall:
+(1) Provide to a customer at least one (1) staffed checkout station for
+every four (4) self-service checkout stations; a staffed checkout station must be
+available during the times that a self-service checkout option is available to
+customers;
+(2) Establish, implement, and advertise limits to self-service checkout to
+purchases of no more than fifteen (15) items;
+(3) Establish workforce policies that prohibit a customer from using a
+self-service checkout station to purchase an item:
+(A) That requires a customer to provide a form of identification,
+including an alcohol or tobacco product; or
+(B) Subject to special theft-deterrent measures that are affixed to
+the item, including electronic article surveillance, ink, or other tags, or an
+item placed in a locked cabinet, that require the intervention of an
+employee to remove the item before purchase;
+(4) Notify the public by prominently posting signage in a location
+accessible to customers, including a link or quick response (QR) code that can
+be scanned to access a website providing a summary of the public's rights under
+this part, including enforcement options available to the public;
+(5) Locate self-service checkout stations to enable observation and
+surveillance from both employees of drug retail establishments and food retail
+establishments and local law enforcement;
+- 3 - 010934
+(6) Assign at least one (1) employee to monitor the self-service checkout
+operation at all times that the self-service checkout is in operation during
+business hours; and
+(7) Ensure that an assigned employee does not have other work
+responsibilities that would interfere with the employee's ability to maintain direct
+visual inspection and surveillance of the self-service checkout operations.
+(b) Drug retail establishments or food retail establishments operating two (2) or
+more self-service checkout stations shall:
+(1) Maintain a staffing ratio of at least one (1) employee for every three
+(3) self-service checkout stations; and
+(2) Implement the standard required by subdivision (b)(1) in a manner
+that takes into account operational and logistical feasibility.
+47-18-5904. Civil action — Penalties.
+(a) A customer or employee of a drug retail establishment or food retail
+establishment may bring a civil action in a court of competent jurisdiction against a drug
+retail establishment or food retail establishment for violating this part;
+(b) If a customer or employee of a drug retail establishment or food retail
+establishment prevails in an action brought under subsection (a), the court may award:
+(1) A civil penalty of not more than one hundred dollars ($100) per
+employee of the drug retail establishment or food retail establishment for each
+violation;
+(2) An additional civil penalty of one hundred dollars ($100) per
+employee for each day the violation remains uncured, not to exceed one
+thousand dollars ($1,000) per employee per day; and
+(3) Reasonable court costs and attorneys' fees.
+- 4 - 010934
+47-18-5905. Retaliation prohibited.
+A drug retail establishment or food retail establishment shall not terminate,
+reduce in compensation, or otherwise discriminate against an employee in conditions of
+employment for seeking to enforce the employee's rights, participating in proceedings, or
+opposing a practice proscribed by this part, or for otherwise asserting rights under this
+part.
+
+Section 3:
+SECTION 2. If any provision of this act or its application to any person or circumstance
+is held invalid, then the invalidity does not affect other provisions or applications of the act that
+can be given effect without the invalid provision or application, and to that end, the provisions of
+this act are severable.
+
+Section 4:
+SECTION 3. The headings in this act are for reference purposes only and do not
+constitute a part of the law enacted by this act. However, the Tennessee Code Commission is
+requested to include the headings in any compilation or publication containing this act.
+
+Section 5:
+SECTION 4. This act takes effect January 1, 2027, the public welfare requiring it, and
+applies to conduct occurring on or after that date.
+- 5 - 010934
+[DELETED: S]
+[DELETED:  -0]
+[DELETED:  -0]
+[DELETED:  -0]
+[DELETED:  -0SSS]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 2051
+By Camper
+SENATE BILL 2001
+By Lamar
+AN ACT to amend Tennessee Code Annotated, Title 47,
+Chapter 18 and Title 50, relative to the use of self-
+service checkout.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Title 47, Chapter 18, is amended by adding
+the following as a new part:
+47-18-5901. Short title.
+This part is known and may be cited as "The Tennessee Safe Stores and Staffed
+Stores Act."
+47-18-5902. Definitions.
+As used in this part:
+(1) "Customer" means an individual who buys consumer goods from a
+drug retail establishment or food retail establishment;
+(2) "Drug retail establishment" means a retail store that sells a variety of
+prescription and nonprescription medicines and miscellaneous items, including
+drugs, pharmaceuticals, sundries, fresh produce, meats, poultry, fish, deli
+products, dairy products, canned foods, dry foods, beverages, prepared foods,
+and other merchandise;
+(3) "Employee":
+(A) Means an individual employed by and on the direct payroll of
+a drug retail establishment or food retail establishment; and
+SB2001
+010934
+- 1 -
+
+(B) Does not include independent contractors, workers hired
+through a third-party agency, managers, supervisors, or confidential
+employees;
+(4) "Food retail establishment" means a retail store that is:
+(A) Over fifteen thousand square feet (15,000 sq. ft.) in size and
+sells primarily household foodstuff for offsite consumption, including fresh
+produce, meats, poultry, fish, deli products, dairy products, canned foods,
+dry foods, beverages, baked foods, or prepared foods; or
+(B) Over eighty-five thousand square feet (85,000 sq. ft.) and with
+ten percent (10%) or more of the establishment's sales floor area
+dedicated to the sale of foodstuff for offsite consumption, including the
+sale of fresh produce, meats, poultry, fish, deli products, dairy products,
+canned foods, dry foods, beverages, baked foods, or prepared foods;
+(5) "Self-service checkout" means the automated processes that enable
+a customer to scan, bag, and pay for the customer's purchases without human
+assistance, including fixed self-checkout, scan-and-go self-checkout, or mobile
+self-checkout;
+(6) "Self-service checkout station" means a station at a fixed location
+within a drug retail establishment or food retail establishment at which a
+customer can engage in a self-service checkout for the customer's purchases;
+and
+(7) "Staffed checkout station" means a station that is not a self-service
+checkout and at which an employee provides human assistance to a customer
+for scanning, bagging, or accepting payment for the customer's purchases.
+47-18-5903. Requirements of establishments utilizing self-checkout options.
+- 2 - 010934
+
+(a) A drug retail establishment or food retail establishment that provides self-
+service checkout options shall:
+(1) Provide to a customer at least one (1) staffed checkout station for
+every four (4) self-service checkout stations; a staffed checkout station must be
+available during the times that a self-service checkout option is available to
+customers;
+(2) Establish, implement, and advertise limits to self-service checkout to
+purchases of no more than fifteen (15) items;
+(3) Establish workforce policies that prohibit a customer from using a
+self-service checkout station to purchase an item:
+(A) That requires a customer to provide a form of identification,
+including an alcohol or tobacco product; or
+(B) Subject to special theft-deterrent measures that are affixed to
+the item, including electronic article surveillance, ink, or other tags, or an
+item placed in a locked cabinet, that require the intervention of an
+employee to remove the item before purchase;
+(4) Notify the public by prominently posting signage in a location
+accessible to customers, including a link or quick response (QR) code that can
+be scanned to access a website providing a summary of the public's rights under
+this part, including enforcement options available to the public;
+(5) Locate self-service checkout stations to enable observation and
+surveillance from both employees of drug retail establishments and food retail
+establishments and local law enforcement;
+- 3 - 010934
+
+(6) Assign at least one (1) employee to monitor the self-service checkout
+operation at all times that the self-service checkout is in operation during
+business hours; and
+(7) Ensure that an assigned employee does not have other work
+responsibilities that would interfere with the employee's ability to maintain direct
+visual inspection and surveillance of the self-service checkout operations.
+(b) Drug retail establishments or food retail establishments operating two (2) or
+more self-service checkout stations shall:
+(1) Maintain a staffing ratio of at least one (1) employee for every three
+(3) self-service checkout stations; and
+(2) Implement the standard required by subdivision (b)(1) in a manner
+that takes into account operational and logistical feasibility.
+47-18-5904. Civil action — Penalties.
+(a) A customer or employee of a drug retail establishment or food retail
+establishment may bring a civil action in a court of competent jurisdiction against a drug
+retail establishment or food retail establishment for violating this part;
+(b) If a customer or employee of a drug retail establishment or food retail
+establishment prevails in an action brought under subsection (a), the court may award:
+(1) A civil penalty of not more than one hundred dollars ($100) per
+employee of the drug retail establishment or food retail establishment for each
+violation;
+(2) An additional civil penalty of one hundred dollars ($100) per
+employee for each day the violation remains uncured, not to exceed one
+thousand dollars ($1,000) per employee per day; and
+(3) Reasonable court costs and attorneys' fees.
+- 4 - 010934
+
+47-18-5905. Retaliation prohibited.
+A drug retail establishment or food retail establishment shall not terminate,
+reduce in compensation, or otherwise discriminate against an employee in conditions of
+employment for seeking to enforce the employee's rights, participating in proceedings, or
+opposing a practice proscribed by this part, or for otherwise asserting rights under this
+part.
+SECTION 2. If any provision of this act or its application to any person or circumstance
+is held invalid, then the invalidity does not affect other provisions or applications of the act that
+can be given effect without the invalid provision or application, and to that end, the provisions of
+this act are severable.
+SECTION 3. The headings in this act are for reference purposes only and do not
+constitute a part of the law enacted by this act. However, the Tennessee Code Commission is
+requested to include the headings in any compilation or publication containing this act.
+SECTION 4. This act takes effect January 1, 2027, the public welfare requiring it, and
+applies to conduct occurring on or after that date.
+- 5 - 010934
+
+[DELETED: S]
+[DELETED:  -0]
+[DELETED:  -0]
+[DELETED:  -0]
+[DELETED:  -0SSS]

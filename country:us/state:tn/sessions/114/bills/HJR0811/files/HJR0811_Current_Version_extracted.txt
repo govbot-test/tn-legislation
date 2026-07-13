@@ -1,0 +1,151 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+HOUSE JOINT RESOLUTION 811
+By Camper
+A RESOLUTION to commemorate the 100th anniversary of Black
+History Month.
+WHEREAS, February 2026 marks the 100th anniversary of Black History Month, an
+observance that honors the achievements, resilience, and enduring contributions of African
+Americans to our national story; and
+WHEREAS, Black History Month traces its origins to 1926, when the renowned historian
+Dr. Carter G. Woodson and the Association for the Study of Negro Life and History established
+Negro History Week; and
+WHEREAS, what began as a weeklong celebration grew steadily in recognition and
+importance, expanding in 1976 during the nation's Bicentennial into a monthlong observance
+that continues to inspire Americans; and
+WHEREAS, Tennessee has a long and distinguished tradition of observing Black History
+Month and honoring the achievements of African Americans whose courage, leadership, and
+cultural contributions have profoundly influenced the history and character of this State; and
+WHEREAS, the Volunteer State proudly claims among its native daughters and sons
+many whose lives and legacies illuminate the broader struggle for justice and equality, including
+the fearless journalist and anti-lynching crusader Ida B. Wells-Barnett; the trailblazing surgeon,
+educator, and legislator Dr. Dorothy Lavinia Brown; and the Honorable Lois M. DeBerry, former
+Speaker Pro Tempore of the Tennessee House of Representatives, whose leadership and
+integrity inspired all who served with her; and
+WHEREAS, in 2019, Leader Karen D. Camper achieved a historic milestone as the first
+African American and first Black woman to lead a major political party caucus in the Tennessee
+General Assembly, embodying the progress envisioned by those who came before her; and
+HJR0811
+010154
+- 1 -
+WHEREAS, Tennessee's Historically Black Colleges and Universities, including
+Tennessee State University, Fisk University, Meharry Medical College, Lane College, LeMoyne-
+Owen College, and Knoxville College, have served as beacons of excellence and opportunity,
+educating generations of leaders, scholars, and citizens; and
+WHEREAS, the rich legacy of Knoxville's Black history endures through the work of
+Knoxville College and the Beck Cultural Exchange Center, which stand as cornerstones of
+education and preservation of African-American heritage and education in East Tennessee; and
+WHEREAS, the Highlander Folk School (now the Highlander Research and Education
+Center) in New Market played a pivotal role as a training ground for Civil Rights leaders,
+including Rosa Parks, John Lewis, Dr. Martin Luther King, Jr., and Septima Clark; and
+WHEREAS, Tennessee native Alex Haley of Henning profoundly shaped the nation's
+understanding of African-American history and ancestry through his landmark works Roots: The
+Saga of an American Family and The Autobiography of Malcolm X; and
+WHEREAS, as the nation marks the 100th anniversary of Black History Month, it is fitting
+that we affirm Tennessee's ongoing commitment to teaching accurate and inclusive history and
+promoting civic understanding, as we encourage communities across the State to
+commemorate the centennial of Black History Month through educational and cultural
+programming; now, therefore,
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE SENATE
+CONCURRING, that we commemorate the 100th anniversary of Black History Month in February
+2026 and honor the remarkable legacy of African-American achievement, perseverance, and
+leadership that continues to shape our State and our nation.
+- 2 - 010154
+BE IT FURTHER RESOLVED, that we encourage communities, schools, and cultural
+institutions across Tennessee to commemorate Black History Month's centennial year through
+educational and cultural programming.
+BE IT FURTHER RESOLVED, that appropriate copies of this resolution be transmitted
+to the National Civil Rights Museum in Memphis, the Beck Cultural Exchange Center in
+Knoxville, the Highlander Research and Education Center in New Market, the Alex Haley
+Museum and Interpretive Center in Henning, and the Association for the Study of African
+American Life and History in Washington, D.C., with this final clause omitted from such copies
+and upon proper request made to the appropriate clerk, the language appearing immediately
+following the State seal appear without House or Senate designation.
+- 3 - 010154
+[DELETED: 0 W0 WWWWW]
+[DELETED:  -0WWWWyT ;W0 B0 ]
+[DELETED:  -0BB]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+HOUSE JOINT RESOLUTION 811
+By Camper
+A RESOLUTION to commemorate the 100th anniversary of Black
+History Month.
+WHEREAS, February 2026 marks the 100th anniversary of Black History Month, an
+observance that honors the achievements, resilience, and enduring contributions of African
+Americans to our national story; and
+WHEREAS, Black History Month traces its origins to 1926, when the renowned historian
+Dr. Carter G. Woodson and the Association for the Study of Negro Life and History established
+Negro History Week; and
+WHEREAS, what began as a weeklong celebration grew steadily in recognition and
+importance, expanding in 1976 during the nation's Bicentennial into a monthlong observance
+that continues to inspire Americans; and
+WHEREAS, Tennessee has a long and distinguished tradition of observing Black History
+Month and honoring the achievements of African Americans whose courage, leadership, and
+cultural contributions have profoundly influenced the history and character of this State; and
+WHEREAS, the Volunteer State proudly claims among its native daughters and sons
+many whose lives and legacies illuminate the broader struggle for justice and equality, including
+the fearless journalist and anti-lynching crusader Ida B. Wells-Barnett; the trailblazing surgeon,
+educator, and legislator Dr. Dorothy Lavinia Brown; and the Honorable Lois M. DeBerry, former
+Speaker Pro Tempore of the Tennessee House of Representatives, whose leadership and
+integrity inspired all who served with her; and
+WHEREAS, in 2019, Leader Karen D. Camper achieved a historic milestone as the first
+African American and first Black woman to lead a major political party caucus in the Tennessee
+General Assembly, embodying the progress envisioned by those who came before her; and
+HJR0811
+010154
+- 1 -
+
+WHEREAS, Tennessee's Historically Black Colleges and Universities, including
+Tennessee State University, Fisk University, Meharry Medical College, Lane College, LeMoyne-
+Owen College, and Knoxville College, have served as beacons of excellence and opportunity,
+educating generations of leaders, scholars, and citizens; and
+WHEREAS, the rich legacy of Knoxville's Black history endures through the work of
+Knoxville College and the Beck Cultural Exchange Center, which stand as cornerstones of
+education and preservation of African-American heritage and education in East Tennessee; and
+WHEREAS, the Highlander Folk School (now the Highlander Research and Education
+Center) in New Market played a pivotal role as a training ground for Civil Rights leaders,
+including Rosa Parks, John Lewis, Dr. Martin Luther King, Jr., and Septima Clark; and
+WHEREAS, Tennessee native Alex Haley of Henning profoundly shaped the nation's
+understanding of African-American history and ancestry through his landmark works Roots: The
+Saga of an American Family and The Autobiography of Malcolm X; and
+WHEREAS, as the nation marks the 100th anniversary of Black History Month, it is fitting
+that we affirm Tennessee's ongoing commitment to teaching accurate and inclusive history and
+promoting civic understanding, as we encourage communities across the State to
+commemorate the centennial of Black History Month through educational and cultural
+programming; now, therefore,
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE SENATE
+CONCURRING, that we commemorate the 100th anniversary of Black History Month in February
+2026 and honor the remarkable legacy of African-American achievement, perseverance, and
+leadership that continues to shape our State and our nation.
+- 2 - 010154
+
+BE IT FURTHER RESOLVED, that we encourage communities, schools, and cultural
+institutions across Tennessee to commemorate Black History Month's centennial year through
+educational and cultural programming.
+BE IT FURTHER RESOLVED, that appropriate copies of this resolution be transmitted
+to the National Civil Rights Museum in Memphis, the Beck Cultural Exchange Center in
+Knoxville, the Highlander Research and Education Center in New Market, the Alex Haley
+Museum and Interpretive Center in Henning, and the Association for the Study of African
+American Life and History in Washington, D.C., with this final clause omitted from such copies
+and upon proper request made to the appropriate clerk, the language appearing immediately
+following the State seal appear without House or Senate designation.
+- 3 - 010154
+
+[DELETED: 0 W0 WWWWW]
+[DELETED:  -0WWWWyT ;W0 B0 ]
+[DELETED:  -0BB]

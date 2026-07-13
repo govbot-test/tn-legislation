@@ -1,0 +1,257 @@
+Title: SENATE BILL 2153
+Official Title: SENATE BILL 2153
+Number of Sections: 4
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+By Walley
+HOUSE BILL 2313
+By Hawk
+AN ACT to amend Tennessee Code Annotated, Title 33
+and Title 68, Chapter 1, relative to early childhood
+mental health programs.
+WHEREAS, the State of Tennessee recognizes the critical importance of early childhood
+mental health and family stability in fostering healthy, resilient communities; and
+WHEREAS, young children exposed to adverse experiences, such as poverty, trauma,
+or parental mental health challenges, face increased risks of developmental delays, behavioral
+issues, and long-term health disparities; and
+WHEREAS, evidence-based, home-based interventions that provide therapeutic support
+and care coordination can significantly improve mental health and developmental outcomes for
+young children while strengthening family resilience; and
+WHEREAS, establishing a state program to deliver such interventions will expand
+access to critical services for Tennessee's most vulnerable families and complement existing
+initiatives; and
+WHEREAS, the General Assembly seeks to partner with qualified providers, such as
+nonprofit mental health organizations, to implement this program efficiently and sustainably;
+now, therefore,
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Title 68, Chapter 1, is amended by adding
+the following as a new part:
+68-1-2101. Early childhood mental health home visiting program established -
+Purpose.
+HB2313
+011924
+- 1 -
+(a) The department of health, in collaboration with the department of mental
+health and substance abuse services, is authorized to establish and administer an early
+childhood mental health home visiting program as a voluntary, evidence-based, and
+home-based intervention to promote the mental health, developmental progress, and
+family stability of children from birth to five (5) years of age and their families.
+(b) The purpose of the program is to provide intensive, home-based services to
+families with young children facing significant stressors, including, but not limited to,
+poverty, trauma, domestic violence, or parental mental health or substance abuse
+challenges. The program must aim to:
+(1) Improve child mental health and developmental outcomes;
+(2) Reduce the incidence of child abuse and neglect;
+(3) Enhance parental capacity to support child development;
+(4) Strengthen family stability through coordinated access to community
+resources; and
+(5) Promote school readiness and long-term health equity.
+68-1-2102. Program components.
+An early childhood mental health home visiting program developed under this
+part must include, but is not limited to:
+(1) Home-based parent-child psychotherapy delivered by licensed
+clinicians trained in evidence-based, trauma-informed interventions;
+(2) Care coordination to connect families with medical, educational,
+housing, and social services;
+(3) Developmental and mental health assessments for children; and
+(4) Fidelity monitoring to ensure adherence to evidence-based standards
+established by the department of health.
+- 2 - 011924
+68-1-2103. Program eligibility.
+The department of health shall prioritize for eligibility families with children from
+birth to five (5) years of age who are at risk due to socioeconomic, environmental, or
+behavioral health challenges, as determined by the department of health in consultation
+with the department of mental health and substance abuse services.
+68-1-2104. Program implementation.
+(a) The department of health may contract with qualified nonprofit organizations,
+community mental health providers, or other entities to deliver program services.
+(b) Providers shall employ or contract with licensed clinicians and care
+coordinators who are trained in the program's evidence-based model, as approved by
+the department of health.
+(c) The department of health shall establish guidelines for provider qualifications,
+training, and program evaluation to ensure fidelity to the program's evidence-based
+standards.
+68-1-2105. Funding.
+(a) The department of health and the department of mental health and
+substance abuse services may seek and accept federal funds, state appropriations,
+grants, and private donations to support the early childhood mental health home visiting
+program.
+(b) The program may be funded, in whole or in part, through TennCare, subject
+to agreements with managed care organizations for reimbursement of medically
+necessary services.
+(c) To supplement funding of a program implemented pursuant to this part, the
+department of health shall explore partnerships with philanthropic organizations and
+other community stakeholders.
+- 3 - 011924
+68-1-2106. Coordination with existing programs.
+An early childhood mental health home visiting program implemented pursuant to
+this part must coordinate with existing state initiatives to maximize resources and avoid
+the duplication of services.
+68-1-2107. Annual report.
+(a) No later than January 15 following any calendar year during which an early
+childhood mental health home visiting program is implemented pursuant to this part, the
+department of health, in collaboration with the department of mental health and
+substance abuse services, shall submit a report to the general assembly detailing:
+(1) The number of families served by the program;
+(2) Program outcomes, including improvements in child mental health,
+family stability, and service coordination;
+(3) Funding sources and expenditures; and
+(4) Recommendations for program expansion or improvement.
+(b) The annual report must be submitted to the chief clerk of the senate, the
+chief clerk of the house of representatives, and the legislative librarian. Publication and
+delivery of the report may be accomplished by electronic means.
+68-1-2108. Rulemaking.
+The department of health, in consultation with the department of mental health
+and substance abuse services, is authorized to promulgate rules to implement this part.
+Any such rules must be promulgated in accordance with the Uniform Administrative
+Procedures Act, compiled in title 4, chapter 5.
+
+Section 3:
+SECTION 2. The headings in this act are for reference purposes only and do not
+constitute a part of the law enacted by this act. However, the Tennessee Code Commission is
+requested to include the headings in any compilation or publication containing this act.
+- 4 - 011924
+
+Section 4:
+SECTION 3. For the purpose of rule promulgation, this act takes effect upon becoming
+a law, the public welfare requiring it. For all other purposes, this act takes effect July 1, 2026,
+the public welfare requiring it.
+- 5 - 011924
+[DELETED: WWWWWS6]
+[DELETED:  -0(((((((6A((((]
+[DELETED:  -06T6(((6(((]
+[DELETED:  -06A6((((((6TS]
+[DELETED:  -0]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 2153
+By Walley
+HOUSE BILL 2313
+By Hawk
+AN ACT to amend Tennessee Code Annotated, Title 33
+and Title 68, Chapter 1, relative to early childhood
+mental health programs.
+WHEREAS, the State of Tennessee recognizes the critical importance of early childhood
+mental health and family stability in fostering healthy, resilient communities; and
+WHEREAS, young children exposed to adverse experiences, such as poverty, trauma,
+or parental mental health challenges, face increased risks of developmental delays, behavioral
+issues, and long-term health disparities; and
+WHEREAS, evidence-based, home-based interventions that provide therapeutic support
+and care coordination can significantly improve mental health and developmental outcomes for
+young children while strengthening family resilience; and
+WHEREAS, establishing a state program to deliver such interventions will expand
+access to critical services for Tennessee's most vulnerable families and complement existing
+initiatives; and
+WHEREAS, the General Assembly seeks to partner with qualified providers, such as
+nonprofit mental health organizations, to implement this program efficiently and sustainably;
+now, therefore,
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Title 68, Chapter 1, is amended by adding
+the following as a new part:
+68-1-2101. Early childhood mental health home visiting program established -
+Purpose.
+HB2313
+011924
+- 1 -
+
+(a) The department of health, in collaboration with the department of mental
+health and substance abuse services, is authorized to establish and administer an early
+childhood mental health home visiting program as a voluntary, evidence-based, and
+home-based intervention to promote the mental health, developmental progress, and
+family stability of children from birth to five (5) years of age and their families.
+(b) The purpose of the program is to provide intensive, home-based services to
+families with young children facing significant stressors, including, but not limited to,
+poverty, trauma, domestic violence, or parental mental health or substance abuse
+challenges. The program must aim to:
+(1) Improve child mental health and developmental outcomes;
+(2) Reduce the incidence of child abuse and neglect;
+(3) Enhance parental capacity to support child development;
+(4) Strengthen family stability through coordinated access to community
+resources; and
+(5) Promote school readiness and long-term health equity.
+68-1-2102. Program components.
+An early childhood mental health home visiting program developed under this
+part must include, but is not limited to:
+(1) Home-based parent-child psychotherapy delivered by licensed
+clinicians trained in evidence-based, trauma-informed interventions;
+(2) Care coordination to connect families with medical, educational,
+housing, and social services;
+(3) Developmental and mental health assessments for children; and
+(4) Fidelity monitoring to ensure adherence to evidence-based standards
+established by the department of health.
+- 2 - 011924
+
+68-1-2103. Program eligibility.
+The department of health shall prioritize for eligibility families with children from
+birth to five (5) years of age who are at risk due to socioeconomic, environmental, or
+behavioral health challenges, as determined by the department of health in consultation
+with the department of mental health and substance abuse services.
+68-1-2104. Program implementation.
+(a) The department of health may contract with qualified nonprofit organizations,
+community mental health providers, or other entities to deliver program services.
+(b) Providers shall employ or contract with licensed clinicians and care
+coordinators who are trained in the program's evidence-based model, as approved by
+the department of health.
+(c) The department of health shall establish guidelines for provider qualifications,
+training, and program evaluation to ensure fidelity to the program's evidence-based
+standards.
+68-1-2105. Funding.
+(a) The department of health and the department of mental health and
+substance abuse services may seek and accept federal funds, state appropriations,
+grants, and private donations to support the early childhood mental health home visiting
+program.
+(b) The program may be funded, in whole or in part, through TennCare, subject
+to agreements with managed care organizations for reimbursement of medically
+necessary services.
+(c) To supplement funding of a program implemented pursuant to this part, the
+department of health shall explore partnerships with philanthropic organizations and
+other community stakeholders.
+- 3 - 011924
+
+68-1-2106. Coordination with existing programs.
+An early childhood mental health home visiting program implemented pursuant to
+this part must coordinate with existing state initiatives to maximize resources and avoid
+the duplication of services.
+68-1-2107. Annual report.
+(a) No later than January 15 following any calendar year during which an early
+childhood mental health home visiting program is implemented pursuant to this part, the
+department of health, in collaboration with the department of mental health and
+substance abuse services, shall submit a report to the general assembly detailing:
+(1) The number of families served by the program;
+(2) Program outcomes, including improvements in child mental health,
+family stability, and service coordination;
+(3) Funding sources and expenditures; and
+(4) Recommendations for program expansion or improvement.
+(b) The annual report must be submitted to the chief clerk of the senate, the
+chief clerk of the house of representatives, and the legislative librarian. Publication and
+delivery of the report may be accomplished by electronic means.
+68-1-2108. Rulemaking.
+The department of health, in consultation with the department of mental health
+and substance abuse services, is authorized to promulgate rules to implement this part.
+Any such rules must be promulgated in accordance with the Uniform Administrative
+Procedures Act, compiled in title 4, chapter 5.
+SECTION 2. The headings in this act are for reference purposes only and do not
+constitute a part of the law enacted by this act. However, the Tennessee Code Commission is
+requested to include the headings in any compilation or publication containing this act.
+- 4 - 011924
+
+SECTION 3. For the purpose of rule promulgation, this act takes effect upon becoming
+a law, the public welfare requiring it. For all other purposes, this act takes effect July 1, 2026,
+the public welfare requiring it.
+- 5 - 011924
+
+[DELETED: WWWWWS6]
+[DELETED:  -0(((((((6A((((]
+[DELETED:  -06T6(((6(((]
+[DELETED:  -06A6((((((6TS]
+[DELETED:  -0]

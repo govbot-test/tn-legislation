@@ -1,0 +1,181 @@
+Title: HOUSE BILL 1915
+Official Title: HOUSE BILL 1915
+Number of Sections: 8
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+By Boyd
+SENATE BILL 1791
+By Reeves
+AN ACT to amend Tennessee Code Annotated, Title 29,
+relative to rights of superior interest holders
+subject to receivership proceedings.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 29-1-103, is amended by designating
+the existing language as subsection (a) and adding the following as subsection (b):
+(b) Notwithstanding subsection (a), a receivership proceeding initiated in this
+state must not interfere with, and a judge or chancellor shall not limit, impede, or enjoin,
+the rights of a holder of an interest in receivership property if the holder's interest is
+superior, as defined in § 29-40-102, to that of the party initiating the receivership, absent
+the express consent of the superior interest holder. A superior interest holder's actions
+to establish or enforce a priority interest do not constitute consent to a receivership.
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 29-40-102, is amended by adding
+the following new subdivision:
+( ) "Superior" means an interest that has priority over other interests in the same
+property under state law, including, but not limited to:
+(A) The interest of the holder or beneficiary of a prior recorded deed of
+trust, security instrument, or other instrument evidencing an interest in the same
+property, is superior to the interest of a holder, beneficiary, or owner of a later
+recorded deed of trust or other security instrument, or other instrument
+evidencing an interest in the same property;
+SB1791
+010911
+- 1 -
+(B) The interest of the holder or beneficiary of a prior-filed Uniform
+Commercial Code financing statement is superior to the interest of a later-filed
+Uniform Commercial Code financing statement in the same property; and
+(C) The interest of the holder or beneficiary of any recorded deed of trust,
+financing statement, other security instrument, or other instrument evidencing an
+interest in the same property, is superior to the interest in the same property of a
+person, including the person's heirs, successors, and assigns, who made or
+granted the deed of trust, financing statement, or other security instrument, or
+against whom the instrument is asserted;
+
+Section 4:
+SECTION 3. Tennessee Code Annotated, Section 29-40-105, is amended by
+designating the existing language as subsection (a) and adding the following as subsection (b):
+(b) Notwithstanding subsection (a), establishing exclusive jurisdiction does not
+supersede or defeat any enforceable venue, jurisdiction, or choice of law agreement of
+the party whose interest in the property subject to receivership is superior to that of the
+party initiating the receivership.
+
+Section 5:
+SECTION 4. Tennessee Code Annotated, Section 29-40-114(d), is amended by adding
+the following as a new subdivision:
+(6) An act, action, or proceeding to enforce or exercise the rights of an interest
+holder in property subject to a receivership that is superior to the interest of the party
+initiating the receivership proceeding.
+
+Section 6:
+SECTION 5. Tennessee Code Annotated, Section 29-40-114, is amended by adding
+the following as new subsections:
+(g) A judge or chancellor shall not issue an order that limits, impedes, or enjoins
+the rights of an interest holder in property subject to a receivership that is superior to the
+interest of the party initiating the receivership proceeding.
+- 2 - 010911
+(h) In the event a party elects to intervene in a receivership proceeding to obtain
+a determination by the court of the priority of the superior interest in the property subject
+to the receivership proceeding, the election does not constitute consent to the
+receivership, and if the court determines that the interest of the intervening party is
+superior to the interest of the party initiating the receivership, then:
+(1) The court shall not issue an order or take action to limit, impede, or
+enjoin the rights of an interest holder in property subject to a receivership that is
+superior to the interest of the party initiating the receivership proceeding; and
+(2) The court shall award the intervening party holding the superior
+interest reasonable attorney's fees and costs incurred in seeking the
+determination.
+
+Section 7:
+SECTION 6. If any provision of this act or its application to any person or circumstance
+is held invalid, then the invalidity does not affect other provisions or applications of the act that
+can be given effect without the invalid provision or application, and to that end, the provisions of
+this act are severable.
+
+Section 8:
+SECTION 7. This act takes effect upon becoming a law, the public welfare requiring it,
+and applies to proceedings initiated on or after the effective date.
+- 3 - 010911
+[DELETED: S(S((]
+[DELETED:  -0((S(S(S(]
+[DELETED:  -0(((SS]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 1915
+By Boyd
+SENATE BILL 1791
+By Reeves
+AN ACT to amend Tennessee Code Annotated, Title 29,
+relative to rights of superior interest holders
+subject to receivership proceedings.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 29-1-103, is amended by designating
+the existing language as subsection (a) and adding the following as subsection (b):
+(b) Notwithstanding subsection (a), a receivership proceeding initiated in this
+state must not interfere with, and a judge or chancellor shall not limit, impede, or enjoin,
+the rights of a holder of an interest in receivership property if the holder's interest is
+superior, as defined in § 29-40-102, to that of the party initiating the receivership, absent
+the express consent of the superior interest holder. A superior interest holder's actions
+to establish or enforce a priority interest do not constitute consent to a receivership.
+SECTION 2. Tennessee Code Annotated, Section 29-40-102, is amended by adding
+the following new subdivision:
+( ) "Superior" means an interest that has priority over other interests in the same
+property under state law, including, but not limited to:
+(A) The interest of the holder or beneficiary of a prior recorded deed of
+trust, security instrument, or other instrument evidencing an interest in the same
+property, is superior to the interest of a holder, beneficiary, or owner of a later
+recorded deed of trust or other security instrument, or other instrument
+evidencing an interest in the same property;
+SB1791
+010911
+- 1 -
+
+(B) The interest of the holder or beneficiary of a prior-filed Uniform
+Commercial Code financing statement is superior to the interest of a later-filed
+Uniform Commercial Code financing statement in the same property; and
+(C) The interest of the holder or beneficiary of any recorded deed of trust,
+financing statement, other security instrument, or other instrument evidencing an
+interest in the same property, is superior to the interest in the same property of a
+person, including the person's heirs, successors, and assigns, who made or
+granted the deed of trust, financing statement, or other security instrument, or
+against whom the instrument is asserted;
+SECTION 3. Tennessee Code Annotated, Section 29-40-105, is amended by
+designating the existing language as subsection (a) and adding the following as subsection (b):
+(b) Notwithstanding subsection (a), establishing exclusive jurisdiction does not
+supersede or defeat any enforceable venue, jurisdiction, or choice of law agreement of
+the party whose interest in the property subject to receivership is superior to that of the
+party initiating the receivership.
+SECTION 4. Tennessee Code Annotated, Section 29-40-114(d), is amended by adding
+the following as a new subdivision:
+(6) An act, action, or proceeding to enforce or exercise the rights of an interest
+holder in property subject to a receivership that is superior to the interest of the party
+initiating the receivership proceeding.
+SECTION 5. Tennessee Code Annotated, Section 29-40-114, is amended by adding
+the following as new subsections:
+(g) A judge or chancellor shall not issue an order that limits, impedes, or enjoins
+the rights of an interest holder in property subject to a receivership that is superior to the
+interest of the party initiating the receivership proceeding.
+- 2 - 010911
+
+(h) In the event a party elects to intervene in a receivership proceeding to obtain
+a determination by the court of the priority of the superior interest in the property subject
+to the receivership proceeding, the election does not constitute consent to the
+receivership, and if the court determines that the interest of the intervening party is
+superior to the interest of the party initiating the receivership, then:
+(1) The court shall not issue an order or take action to limit, impede, or
+enjoin the rights of an interest holder in property subject to a receivership that is
+superior to the interest of the party initiating the receivership proceeding; and
+(2) The court shall award the intervening party holding the superior
+interest reasonable attorney's fees and costs incurred in seeking the
+determination.
+SECTION 6. If any provision of this act or its application to any person or circumstance
+is held invalid, then the invalidity does not affect other provisions or applications of the act that
+can be given effect without the invalid provision or application, and to that end, the provisions of
+this act are severable.
+SECTION 7. This act takes effect upon becoming a law, the public welfare requiring it,
+and applies to proceedings initiated on or after the effective date.
+- 3 - 010911
+
+[DELETED: S(S((]
+[DELETED:  -0((S(S(S(]
+[DELETED:  -0(((SS]

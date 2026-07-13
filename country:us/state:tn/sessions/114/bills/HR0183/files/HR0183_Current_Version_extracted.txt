@@ -1,0 +1,100 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+HOUSE RESOLUTION 183
+By Miller
+A RESOLUTION to commend David Brisco for exemplary service
+as a legislative intern.
+WHEREAS, each legislative session, we are pleased to recognize certain persons who
+have committed themselves, through their adroit service, to the betterment of the legislative
+process; and
+WHEREAS, David Brisco is one such individual, who has distinguished himself in his
+role as a legislative intern for Representative Larry Miller; Mr. Brisco's work has resulted in
+innumerable benefits for the legislators he assisted and the General Assembly as a whole; and
+WHEREAS, Mr. Brisco is originally from Chicago, Illinois, where he grew up with his
+father, Stephen, Sr.; his mother, Angela; and his brothers, Stephen, Jr., and Jason; and
+WHEREAS, David Brisco is a senior at Tennessee State University (TSU), where he is
+highly regarded by his peers; and
+WHEREAS, he has achieved academic success while majoring in criminal justice with a
+minor in political science and playing in the Aristocrat of Bands, TSU's Grammy-award-winning
+marching band; and
+WHEREAS, Mr. Brisco is deeply passionate about law, public advocacy, and the
+criminal justice system; and
+WHEREAS, his favorite pastimes include photography, watching movies, exploring new
+foods, and listening to and playing music; and
+WHEREAS, eager to familiarize himself with the characteristics and complexities of
+Tennessee State government and to further his studies, Mr. Brisco brought his many abilities
+and singular expertise to Capitol Hill for the 2026 session of the One Hundred Fourteenth
+General Assembly; and
+HR0183
+017038
+- 1 -
+WHEREAS, throughout the 2026 legislative session, Mr. Brisco has surpassed all
+criteria that define a devoted and conscientious legislative intern; and
+WHEREAS, David Brisco has performed his many duties with extraordinary insight and
+rare decorum; now, therefore,
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, that we hereby
+commend David Brisco for outstanding service as a legislative intern for Representative Larry
+Miller and extend to him our best wishes for every future success.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy.
+- 2 - 017038
+[DELETED: WWWWWWWW]
+[DELETED:  -0WWBB]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+HOUSE RESOLUTION 183
+By Miller
+A RESOLUTION to commend David Brisco for exemplary service
+as a legislative intern.
+WHEREAS, each legislative session, we are pleased to recognize certain persons who
+have committed themselves, through their adroit service, to the betterment of the legislative
+process; and
+WHEREAS, David Brisco is one such individual, who has distinguished himself in his
+role as a legislative intern for Representative Larry Miller; Mr. Brisco's work has resulted in
+innumerable benefits for the legislators he assisted and the General Assembly as a whole; and
+WHEREAS, Mr. Brisco is originally from Chicago, Illinois, where he grew up with his
+father, Stephen, Sr.; his mother, Angela; and his brothers, Stephen, Jr., and Jason; and
+WHEREAS, David Brisco is a senior at Tennessee State University (TSU), where he is
+highly regarded by his peers; and
+WHEREAS, he has achieved academic success while majoring in criminal justice with a
+minor in political science and playing in the Aristocrat of Bands, TSU's Grammy-award-winning
+marching band; and
+WHEREAS, Mr. Brisco is deeply passionate about law, public advocacy, and the
+criminal justice system; and
+WHEREAS, his favorite pastimes include photography, watching movies, exploring new
+foods, and listening to and playing music; and
+WHEREAS, eager to familiarize himself with the characteristics and complexities of
+Tennessee State government and to further his studies, Mr. Brisco brought his many abilities
+and singular expertise to Capitol Hill for the 2026 session of the One Hundred Fourteenth
+General Assembly; and
+HR0183
+017038
+- 1 -
+
+WHEREAS, throughout the 2026 legislative session, Mr. Brisco has surpassed all
+criteria that define a devoted and conscientious legislative intern; and
+WHEREAS, David Brisco has performed his many duties with extraordinary insight and
+rare decorum; now, therefore,
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, that we hereby
+commend David Brisco for outstanding service as a legislative intern for Representative Larry
+Miller and extend to him our best wishes for every future success.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy.
+- 2 - 017038
+
+[DELETED: WWWWWWWW]
+[DELETED:  -0WWBB]

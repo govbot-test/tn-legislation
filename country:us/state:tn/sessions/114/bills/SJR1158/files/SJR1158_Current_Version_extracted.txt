@@ -1,0 +1,165 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+SENATE JOINT RESOLUTION 1158
+By Walley
+A RESOLUTION to honor the memory of Patrick Henry Mann, Jr.,
+of Brownsville.
+WHEREAS, the members of this General Assembly were greatly saddened to learn of
+the passing of Patrick Henry Mann, Jr.; and
+WHEREAS, Mr. Mann was a highly respected member of his community and a
+consummate professional who worked assiduously to improve the quality of life for his fellow
+citizens in numerous capacities; and
+WHEREAS, born on February 25, 1936, Mr. Mann was a lifelong resident of Haywood
+County and a 1954 graduate of Haywood High School, where he was captain of the football
+team; and
+WHEREAS, Patrick Mann earned a bachelor's degree from Vanderbilt University and
+graduated from Vanderbilt Law School in 1960, before returning to Brownsville to practice law,
+embarking upon a career that spanned from 1961 to 2023; and
+WHEREAS, a successful businessman, Patrick Mann had a passion for acquiring
+farmland; he took an interest in the crops it yielded and the people who cultivated it, viewing the
+land not merely as an investment but as a resource worthy of protection; and
+WHEREAS, Patrick Mann was a devoted advisor and counselor to young men, including
+farmers, lawyers, and fellow sportsmen, offering his time and wisdom and often reflecting on
+time spent with his own mentor, Phil Williams, whom he deeply admired; and
+WHEREAS, a true civic leader, Mr. Mann left an indelible mark on Brownsville, bringing
+the Brownsville Amphitheater to life, refurbishing the memorial flame on the courthouse lawn,
+commissioning murals around Courthouse Square, and installing the clock at Tamm Park; and
+SJR1158
+018052
+- 1 -
+WHEREAS, Mr. Mann held a deep appreciation for Haywood County's history and was a
+generous benefactor of its preservation; among his most cherished contributions was the
+relocation and restoration of the one-room schoolhouse attended by the legendary Tina Turner,
+an endeavor that transformed the structure into a curated tribute to her memory at Brownsville's
+Welcome Center; and
+WHEREAS, beyond his civic endeavors, Patrick Mann was a staunch advocate for the
+arts, supporting the Jackson Symphony and serving as a board member of Lambuth College
+and the Haywood County School Board; and
+WHEREAS, Mr. Mann was an avid outdoorsman, and his love for the outdoors included
+crafting birdhouses, feeding hummingbirds, hunting with his bird dogs, and having fishing
+adventures across several continents. He embraced travel as a way of life, exploring national
+parks, cities, and museums with his family; whether biking through Europe or hiking trails closer
+to home, he and his wife shared an enduring love of discovery; and
+WHEREAS, Patrick Mann was deeply devoted to his family and always endeavored to
+remain true to family values of the highest order; and
+WHEREAS, he will be sadly missed but fondly remembered by his beloved wife of sixty-
+seven years, Ann Elizabeth Rule Mann; his children, Tanner (Lisa) Mann, John (Laura) Mann,
+Elizabeth Mann, and David (Beth) Mann; his grandchildren, John-Michael (Kaitlynn) Mann,
+Lauren (Ford) Ellington, Aiden (Jordyn) Riseling, Brenna Riseling, Logan Mann, Leah Mann,
+Elizabeth Mann, and Kate Mann; four great-grandchildren; his brother, Bradford Dayton (Linda)
+Mann, Sr.; and a host of cousins and friends; and
+WHEREAS, Mr. Mann was preceded in death by his parents, Patrick Henry Mann, Sr.,
+and Dorothy Mohon Mann; and
+WHEREAS, Patrick Mann was wholly dedicated to his faith and an active member of
+First United Methodist Church, which he served in numerous capacities; and
+- 2 - 018052
+WHEREAS, Mr. Mann leaves behind an indelible legacy of integrity and probity in public
+life, compassion and loyalty in private life, and diligence and dedication in all his chosen
+endeavors; and
+WHEREAS, it is fitting that we should pause to remember the bountiful life of this
+exceptional public servant and human being; now, therefore,
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE HOUSE OF
+REPRESENTATIVES CONCURRING, that we honor the memory of Patrick Henry Mann, Jr.,
+reflecting fondly upon his impeccable character and his stalwart commitment to living the
+examined life with courage and conviction.
+BE IT FURTHER RESOLVED, that we express our sympathy and offer our condolences
+to the family of Mr. Mann.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy and upon proper request made to
+the appropriate clerk, the language appearing immediately following the State seal appear
+without House or Senate designation.
+- 3 - 018052
+[DELETED: WWWWWWW]
+[DELETED:  -0WWWWWWW]
+[DELETED:  -0WWBBB]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+SENATE JOINT RESOLUTION 1158
+By Walley
+A RESOLUTION to honor the memory of Patrick Henry Mann, Jr.,
+of Brownsville.
+WHEREAS, the members of this General Assembly were greatly saddened to learn of
+the passing of Patrick Henry Mann, Jr.; and
+WHEREAS, Mr. Mann was a highly respected member of his community and a
+consummate professional who worked assiduously to improve the quality of life for his fellow
+citizens in numerous capacities; and
+WHEREAS, born on February 25, 1936, Mr. Mann was a lifelong resident of Haywood
+County and a 1954 graduate of Haywood High School, where he was captain of the football
+team; and
+WHEREAS, Patrick Mann earned a bachelor's degree from Vanderbilt University and
+graduated from Vanderbilt Law School in 1960, before returning to Brownsville to practice law,
+embarking upon a career that spanned from 1961 to 2023; and
+WHEREAS, a successful businessman, Patrick Mann had a passion for acquiring
+farmland; he took an interest in the crops it yielded and the people who cultivated it, viewing the
+land not merely as an investment but as a resource worthy of protection; and
+WHEREAS, Patrick Mann was a devoted advisor and counselor to young men, including
+farmers, lawyers, and fellow sportsmen, offering his time and wisdom and often reflecting on
+time spent with his own mentor, Phil Williams, whom he deeply admired; and
+WHEREAS, a true civic leader, Mr. Mann left an indelible mark on Brownsville, bringing
+the Brownsville Amphitheater to life, refurbishing the memorial flame on the courthouse lawn,
+commissioning murals around Courthouse Square, and installing the clock at Tamm Park; and
+SJR1158
+018052
+- 1 -
+
+WHEREAS, Mr. Mann held a deep appreciation for Haywood County's history and was a
+generous benefactor of its preservation; among his most cherished contributions was the
+relocation and restoration of the one-room schoolhouse attended by the legendary Tina Turner,
+an endeavor that transformed the structure into a curated tribute to her memory at Brownsville's
+Welcome Center; and
+WHEREAS, beyond his civic endeavors, Patrick Mann was a staunch advocate for the
+arts, supporting the Jackson Symphony and serving as a board member of Lambuth College
+and the Haywood County School Board; and
+WHEREAS, Mr. Mann was an avid outdoorsman, and his love for the outdoors included
+crafting birdhouses, feeding hummingbirds, hunting with his bird dogs, and having fishing
+adventures across several continents. He embraced travel as a way of life, exploring national
+parks, cities, and museums with his family; whether biking through Europe or hiking trails closer
+to home, he and his wife shared an enduring love of discovery; and
+WHEREAS, Patrick Mann was deeply devoted to his family and always endeavored to
+remain true to family values of the highest order; and
+WHEREAS, he will be sadly missed but fondly remembered by his beloved wife of sixty-
+seven years, Ann Elizabeth Rule Mann; his children, Tanner (Lisa) Mann, John (Laura) Mann,
+Elizabeth Mann, and David (Beth) Mann; his grandchildren, John-Michael (Kaitlynn) Mann,
+Lauren (Ford) Ellington, Aiden (Jordyn) Riseling, Brenna Riseling, Logan Mann, Leah Mann,
+Elizabeth Mann, and Kate Mann; four great-grandchildren; his brother, Bradford Dayton (Linda)
+Mann, Sr.; and a host of cousins and friends; and
+WHEREAS, Mr. Mann was preceded in death by his parents, Patrick Henry Mann, Sr.,
+and Dorothy Mohon Mann; and
+WHEREAS, Patrick Mann was wholly dedicated to his faith and an active member of
+First United Methodist Church, which he served in numerous capacities; and
+- 2 - 018052
+
+WHEREAS, Mr. Mann leaves behind an indelible legacy of integrity and probity in public
+life, compassion and loyalty in private life, and diligence and dedication in all his chosen
+endeavors; and
+WHEREAS, it is fitting that we should pause to remember the bountiful life of this
+exceptional public servant and human being; now, therefore,
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE HOUSE OF
+REPRESENTATIVES CONCURRING, that we honor the memory of Patrick Henry Mann, Jr.,
+reflecting fondly upon his impeccable character and his stalwart commitment to living the
+examined life with courage and conviction.
+BE IT FURTHER RESOLVED, that we express our sympathy and offer our condolences
+to the family of Mr. Mann.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy and upon proper request made to
+the appropriate clerk, the language appearing immediately following the State seal appear
+without House or Senate designation.
+- 3 - 018052
+
+[DELETED: WWWWWWW]
+[DELETED:  -0WWWWWWW]
+[DELETED:  -0WWBBB]

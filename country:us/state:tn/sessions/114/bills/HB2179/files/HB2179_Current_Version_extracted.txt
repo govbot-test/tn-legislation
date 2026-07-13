@@ -1,0 +1,309 @@
+Title: SENATE BILL 1981
+Official Title: SENATE BILL 1981
+Number of Sections: 14
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+By Briggs
+HOUSE BILL 2179
+By Lafferty
+AN ACT to amend Tennessee Code Annotated, Title 50,
+Chapter 6, relative to workers' compensation.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 50-6-108, is amended by adding the
+following as a new subsection:
+(d)
+(1) Notwithstanding subsection (a) or another law to the contrary, the
+exclusiveness of the rights and remedies granted to an employee, or to the
+employee's personal representative, dependents, or next of kin, under this
+chapter do not apply in any civil action for damages arising out of the death of an
+employee where the death is alleged to have been caused, in whole or in part, by
+the gross negligence or criminal conduct of the employer, a principal, or
+intermediate contractor, as described in § 50-6-113, or any officer, director,
+managing agent, or supervisory employee of such person or entity.
+(2) In an action brought pursuant to subdivision (d)(1):
+(A) An employee's personal representative, dependents, or next
+of kin may pursue all remedies and damages available in a wrongful
+death action under title 20, chapter 5, in addition to any benefits payable
+under this chapter; and
+(B) Any workers' compensation benefits paid or payable on
+account of the employee's death must be credited or set off against any
+recovery in such civil action to the extent required by § 50-6-112 or other
+applicable law.
+HB2179
+011592
+- 1 -
+(3) As used in this subsection (d):
+(A) "Criminal conduct" means conduct that constitutes a felony or
+Class A or Class B misdemeanor under the laws of this state or the
+United States and that is a cause in fact and a legal cause of the
+employee's death; and
+(B) "Gross negligence" means a conscious, reckless, or callous
+disregard of a substantial and unjustifiable risk of death to an employee,
+constituting a gross deviation from the standard of care that a reasonable
+employer would exercise under the circumstances.
+(4) This subsection (d) does not limit or abrogate any existing exception
+to the exclusive remedy provisions of this chapter, including any judicially
+recognized cause of action for intentional injury by an employer or co-employee.
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 50-6-112, is amended by adding the
+following as a new subsection:
+(e) The employer's or the employer's workers' compensation carrier's recovery of
+a reasonable fee for attorney's services under subsection (b) and authority to have a
+subrogation lien under subsection (c) are waived in the event that the medical causation,
+permanency, or extent of the employee's work injury are contested by the employer with
+medical opinion other than that from the employee's form C-42 panel physician.
+
+Section 4:
+SECTION 3. Tennessee Code Annotated, Section 50-6-207(1)(A), is amended by
+deleting "sixty-six and two-thirds percent (66⅔%)" and substituting "seventy-five percent (75%)".
+
+Section 5:
+SECTION 4. Tennessee Code Annotated, Section 50-6-207(2)(A), is amended by
+deleting "sixty-six and two-thirds percent (66⅔%)" and substituting "seventy-five percent (75%)".
+
+Section 6:
+SECTION 5. Tennessee Code Annotated, Section 50-6-207(2)(B), is amended by
+deleting "sixty-six and two-thirds percent (66⅔%)" and substituting "seventy-five percent (75%)".
+- 2 - 011592
+
+Section 7:
+SECTION 6. Tennessee Code Annotated, Section 50-6-207(3), is amended by adding
+the following as a new subdivision:
+(I) Notwithstanding another provision of this chapter to the contrary:
+(i) The acceptance, payment, approval, or satisfaction of an original
+award, as described in subdivision (3)(A), does not extinguish, waive, release, or
+otherwise bar an employee's right to seek benefits for permanent total disability
+pursuant to subdivision (4), including by trial or settlement, if the employee later
+becomes permanently and totally disabled as a result of the compensable injury;
+(ii) An employee may file a petition for benefit determination or complaint
+seeking permanent total disability benefits under subdivision (4) at any time after
+the conclusion of the compensation period for the original award, subject only to
+the applicable statutes of limitation and repose in this chapter;
+(iii) In any proceeding under subdivision (4) following the payment of an
+original award, the employer receives credit for permanent disability benefits
+previously paid pursuant to subdivision (3), but such credit does not preclude or
+limit an award of permanent total disability benefits for any period after the
+expiration of the original award's compensation period; and
+(iv) This subdivision (3)(I) does not diminish or impair an employee's right
+to seek increased benefits under subdivision (3)(B) or extraordinary relief under §
+50-6-242, in addition to or instead of permanent total disability benefits under
+subdivision (4), where otherwise available.
+
+Section 8:
+SECTION 7. Tennessee Code Annotated, Section 50-6-207(3)(A), is amended by
+deleting "sixty-six and two-thirds percent (66⅔%)" and substituting "seventy-five percent (75%)".
+
+Section 9:
+SECTION 8. Tennessee Code Annotated, Section 50-6-207(3)(B), is amended by
+deleting the subdivision and substituting:
+- 3 - 011592
+(B) If at the time the period of compensation provided by subdivision (3)(A) ends,
+or one hundred eighty (180) days after the employee reaches maximum medical
+improvement, whichever is later, the employee has not returned to work with any
+employer or has returned to work and is receiving wages or a salary that is less than one
+hundred percent (100%) of the wages or salary the employee received from the
+employee's pre-injury employer on the date of the injury, the injured employee may file a
+claim for increased benefits. The injured employee's original award as determined by
+subdivision (3)(A) must be increased by multiplying the original award by a factor of two
+and one-half (2.5). The award set out in this subdivision (3)(B) is referred to in this
+subdivision (3)(B) as the "resulting award." In addition, the injured employee's resulting
+award must be further increased by multiplying the resulting award by the product of the
+following factors, if applicable:
+(i) For education, one and forty-five one hundredths (1.45), if the
+employee lacks a high school diploma or high school equivalency credential
+approved by the state board of education; and
+(ii) For age, one and forty-five one hundredths (1.45), if the employee
+was more than forty (40) years of age at the time the period of compensation
+ends, or one hundred eighty (180) days after the employee reaches maximum
+medical improvement, whichever is later.
+
+Section 10:
+SECTION 9. Tennessee Code Annotated, Section 50-6-207(4)(A)(i), is amended by
+deleting "sixty-six and two-thirds percent (66⅔%)" and substituting "seventy-five percent (75%)".
+
+Section 11:
+SECTION 10. Tennessee Code Annotated, Section 50-6-207(4), is amended by adding
+the following as a new subdivision:
+(E) The right to permanent total disability benefits under this subdivision (4) is
+independent of, and cumulative to, the right to permanent partial disability benefits under
+- 4 - 011592
+subdivision (3). The prior approval, payment, or completion of an original award under
+subdivision (3)(A) does not preclude a subsequent adjudication that the employee is
+permanently and totally disabled, or limit the duration of permanent total disability
+benefits for periods of disability occurring after the conclusion of the compensation
+period for the original or increased award.
+
+Section 12:
+SECTION 11. Tennessee Code Annotated, Section 50-6-226(a)(1), is amended by
+deleting "twenty percent (20%)" wherever it appears and substituting "twenty-five percent
+(25%)".
+
+Section 13:
+SECTION 12. Tennessee Code Annotated, Section 50-6-226(d)(1), is amended by
+deleting subdivision (B) and substituting:
+(B) Wrongfully denies a claim or wrongfully fails to timely initiate any of the
+benefits to which the employee or dependent is entitled under this chapter, including
+medical benefits under § 50-6-204, temporary or permanent disability benefits under §
+50-6-207, or death benefits under § 50-6-210, if the workers' compensation judge makes
+a finding that the benefits were owed at an expedited hearing or compensation hearing.
+For purposes of this subdivision (d)(1)(B), "wrongfully" means erroneously, incorrectly, or
+otherwise inconsistent with the law or facts.
+
+Section 14:
+SECTION 13. This act takes effect upon becoming a law, the public welfare requiring it.
+- 5 - 011592
+[DELETED: S]
+[DELETED:  -0]
+[DELETED:  -0]
+[DELETED:  -06%]
+[DELETED:  -0]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 1981
+By Briggs
+HOUSE BILL 2179
+By Lafferty
+AN ACT to amend Tennessee Code Annotated, Title 50,
+Chapter 6, relative to workers' compensation.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 50-6-108, is amended by adding the
+following as a new subsection:
+(d)
+(1) Notwithstanding subsection (a) or another law to the contrary, the
+exclusiveness of the rights and remedies granted to an employee, or to the
+employee's personal representative, dependents, or next of kin, under this
+chapter do not apply in any civil action for damages arising out of the death of an
+employee where the death is alleged to have been caused, in whole or in part, by
+the gross negligence or criminal conduct of the employer, a principal, or
+intermediate contractor, as described in § 50-6-113, or any officer, director,
+managing agent, or supervisory employee of such person or entity.
+(2) In an action brought pursuant to subdivision (d)(1):
+(A) An employee's personal representative, dependents, or next
+of kin may pursue all remedies and damages available in a wrongful
+death action under title 20, chapter 5, in addition to any benefits payable
+under this chapter; and
+(B) Any workers' compensation benefits paid or payable on
+account of the employee's death must be credited or set off against any
+recovery in such civil action to the extent required by § 50-6-112 or other
+applicable law.
+HB2179
+011592
+- 1 -
+
+(3) As used in this subsection (d):
+(A) "Criminal conduct" means conduct that constitutes a felony or
+Class A or Class B misdemeanor under the laws of this state or the
+United States and that is a cause in fact and a legal cause of the
+employee's death; and
+(B) "Gross negligence" means a conscious, reckless, or callous
+disregard of a substantial and unjustifiable risk of death to an employee,
+constituting a gross deviation from the standard of care that a reasonable
+employer would exercise under the circumstances.
+(4) This subsection (d) does not limit or abrogate any existing exception
+to the exclusive remedy provisions of this chapter, including any judicially
+recognized cause of action for intentional injury by an employer or co-employee.
+SECTION 2. Tennessee Code Annotated, Section 50-6-112, is amended by adding the
+following as a new subsection:
+(e) The employer's or the employer's workers' compensation carrier's recovery of
+a reasonable fee for attorney's services under subsection (b) and authority to have a
+subrogation lien under subsection (c) are waived in the event that the medical causation,
+permanency, or extent of the employee's work injury are contested by the employer with
+medical opinion other than that from the employee's form C-42 panel physician.
+SECTION 3. Tennessee Code Annotated, Section 50-6-207(1)(A), is amended by
+deleting "sixty-six and two-thirds percent (66⅔%)" and substituting "seventy-five percent (75%)".
+SECTION 4. Tennessee Code Annotated, Section 50-6-207(2)(A), is amended by
+deleting "sixty-six and two-thirds percent (66⅔%)" and substituting "seventy-five percent (75%)".
+SECTION 5. Tennessee Code Annotated, Section 50-6-207(2)(B), is amended by
+deleting "sixty-six and two-thirds percent (66⅔%)" and substituting "seventy-five percent (75%)".
+- 2 - 011592
+
+SECTION 6. Tennessee Code Annotated, Section 50-6-207(3), is amended by adding
+the following as a new subdivision:
+(I) Notwithstanding another provision of this chapter to the contrary:
+(i) The acceptance, payment, approval, or satisfaction of an original
+award, as described in subdivision (3)(A), does not extinguish, waive, release, or
+otherwise bar an employee's right to seek benefits for permanent total disability
+pursuant to subdivision (4), including by trial or settlement, if the employee later
+becomes permanently and totally disabled as a result of the compensable injury;
+(ii) An employee may file a petition for benefit determination or complaint
+seeking permanent total disability benefits under subdivision (4) at any time after
+the conclusion of the compensation period for the original award, subject only to
+the applicable statutes of limitation and repose in this chapter;
+(iii) In any proceeding under subdivision (4) following the payment of an
+original award, the employer receives credit for permanent disability benefits
+previously paid pursuant to subdivision (3), but such credit does not preclude or
+limit an award of permanent total disability benefits for any period after the
+expiration of the original award's compensation period; and
+(iv) This subdivision (3)(I) does not diminish or impair an employee's right
+to seek increased benefits under subdivision (3)(B) or extraordinary relief under §
+50-6-242, in addition to or instead of permanent total disability benefits under
+subdivision (4), where otherwise available.
+SECTION 7. Tennessee Code Annotated, Section 50-6-207(3)(A), is amended by
+deleting "sixty-six and two-thirds percent (66⅔%)" and substituting "seventy-five percent (75%)".
+SECTION 8. Tennessee Code Annotated, Section 50-6-207(3)(B), is amended by
+deleting the subdivision and substituting:
+- 3 - 011592
+
+(B) If at the time the period of compensation provided by subdivision (3)(A) ends,
+or one hundred eighty (180) days after the employee reaches maximum medical
+improvement, whichever is later, the employee has not returned to work with any
+employer or has returned to work and is receiving wages or a salary that is less than one
+hundred percent (100%) of the wages or salary the employee received from the
+employee's pre-injury employer on the date of the injury, the injured employee may file a
+claim for increased benefits. The injured employee's original award as determined by
+subdivision (3)(A) must be increased by multiplying the original award by a factor of two
+and one-half (2.5). The award set out in this subdivision (3)(B) is referred to in this
+subdivision (3)(B) as the "resulting award." In addition, the injured employee's resulting
+award must be further increased by multiplying the resulting award by the product of the
+following factors, if applicable:
+(i) For education, one and forty-five one hundredths (1.45), if the
+employee lacks a high school diploma or high school equivalency credential
+approved by the state board of education; and
+(ii) For age, one and forty-five one hundredths (1.45), if the employee
+was more than forty (40) years of age at the time the period of compensation
+ends, or one hundred eighty (180) days after the employee reaches maximum
+medical improvement, whichever is later.
+SECTION 9. Tennessee Code Annotated, Section 50-6-207(4)(A)(i), is amended by
+deleting "sixty-six and two-thirds percent (66⅔%)" and substituting "seventy-five percent (75%)".
+SECTION 10. Tennessee Code Annotated, Section 50-6-207(4), is amended by adding
+the following as a new subdivision:
+(E) The right to permanent total disability benefits under this subdivision (4) is
+independent of, and cumulative to, the right to permanent partial disability benefits under
+- 4 - 011592
+
+subdivision (3). The prior approval, payment, or completion of an original award under
+subdivision (3)(A) does not preclude a subsequent adjudication that the employee is
+permanently and totally disabled, or limit the duration of permanent total disability
+benefits for periods of disability occurring after the conclusion of the compensation
+period for the original or increased award.
+SECTION 11. Tennessee Code Annotated, Section 50-6-226(a)(1), is amended by
+deleting "twenty percent (20%)" wherever it appears and substituting "twenty-five percent
+(25%)".
+SECTION 12. Tennessee Code Annotated, Section 50-6-226(d)(1), is amended by
+deleting subdivision (B) and substituting:
+(B) Wrongfully denies a claim or wrongfully fails to timely initiate any of the
+benefits to which the employee or dependent is entitled under this chapter, including
+medical benefits under § 50-6-204, temporary or permanent disability benefits under §
+50-6-207, or death benefits under § 50-6-210, if the workers' compensation judge makes
+a finding that the benefits were owed at an expedited hearing or compensation hearing.
+For purposes of this subdivision (d)(1)(B), "wrongfully" means erroneously, incorrectly, or
+otherwise inconsistent with the law or facts.
+SECTION 13. This act takes effect upon becoming a law, the public welfare requiring it.
+- 5 - 011592
+
+[DELETED: S]
+[DELETED:  -0]
+[DELETED:  -0]
+[DELETED:  -06%]
+[DELETED:  -0]

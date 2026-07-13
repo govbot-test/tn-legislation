@@ -1,0 +1,200 @@
+Title: SENATE BILL 2582
+Official Title: SENATE BILL 2582
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+By Harshbarger
+HOUSE BILL 2068
+By Todd
+AN ACT to amend Tennessee Code Annotated, Title 5;
+Title 6; Title 7 and Title 13, Chapter 7, relative to
+zoning.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Title 13, Chapter 7, is amended by adding
+the following as a new part:
+13-7-701.
+As used in this part:
+(1) "Downzone" means a zoning action, land-use regulation, ballot
+initiative, or administrative policy that results in:
+(A) A reduction in permitted density, floor area ratio, building
+height, lot coverage, build requirements, or other form-based entitlement;
+(B) A regulation that introduces or increases procedural barriers,
+including new discretionary reviews, conditional use permits, public
+hearings, or other non-ministerial processes, for projects that previously
+qualified for by-right or administrative approval;
+(C) A regulation that reduces or restricts the lawful use, division,
+sale, or possession of property; or
+(D) The imposition of design standards, objective development
+standards, specific plans, neighborhood plans, or overlay zones that
+reduce a parcel's feasible yield or buildable area relative to prior
+entitlements; and
+HB2068
+011469
+- 1 -
+(2) "Zoning authority" means a governmental entity that has zoning or
+permitting authority.
+13-7-702.
+A zoning authority shall not adopt or enforce an amendment to zoning
+regulations or a zoning map that downzones property, except as provided in this part.
+13-7-703.
+(a) This part does not apply to downzoning necessary to:
+(1) Protect the public from legitimate threats to health or safety, which
+includes regulations necessary to prevent or mitigate conditions that pose an
+imminent threat to human life or property, such as geologic hazards, unstable
+soil, earthquake fault zones, fire hazard severity zones, or known flood-prone
+areas, as defined by local emergency management authorities or applicable
+building and fire codes;
+(2) Comply with federal or state law, including the Endangered Species
+Act (16 U.S.C. § 1531 et seq.), the Fair Housing Act (42 U.S.C. §§ 3601 et seq.),
+the Americans with Disabilities Act (42 U.S.C. §§ 12101 et seq.), or applicable
+building accessibility standards; or
+(3) Prevent or abate a nuisance.
+(b) This part does not prevent the addition of compatible commercial, light
+industrial, or mixed-use zoning overlays; provided, that residential capacity is not
+reduced and the modifications are consistent with the zoning authority's adopted land
+use regulations.
+13-7-704.
+- 2 - 011469
+(a) A property owner whose property is the subject of a downzone and who has
+not been compensated pursuant to § 13-7-705 may bring an action for any of the
+following forms of relief:
+(1) To enjoin enforcement of the downzone;
+(2) For declaratory relief; or
+(3) To recover damages for the loss of fair market value caused by the
+downzone.
+(b) The zoning authority has the burden to prove by clear and convincing
+evidence that an exception under § 13-7-703 applies.
+(c) A prevailing property owner, housing developer, or nonprofit organization in a
+court action must be awarded reasonable attorney's fees and costs.
+(d) A zoning authority shall not require an application for a project to indemnify,
+defend, or hold harmless the zoning authority in any manner with respect to an action
+brought by the applicant, or another person, alleging that the zoning authority violated
+the applicant's rights or deprived the applicant of benefits or protections provided by law.
+13-7-705.
+(a) A zoning authority shall compensate a property owner if the adoption or
+enforcement of a downzone results in a demonstrable reduction in the fair market value
+of the property attributable to limitations on the property's lawful use.
+(b) The amount of compensation is calculated as the difference between the fair
+market value of the property immediately before the adoption of a downzone and the fair
+market value after its enforcement. This valuation must be established through an
+independent, certified appraisal submitted by the property owner.
+(c) A jurisdiction may avoid liability for compensation by electing to waive the
+application of the downzone as it pertains to the subject property within sixty (60) days of
+- 3 - 011469
+receiving written notice from a property owner or within the time to answer an action filed
+pursuant to § 13-7-704, whichever comes first. If waived, the downzone is void with
+respect to that property.
+
+Section 3:
+SECTION 2. This act takes effect July 1, 2026, the public welfare requiring it, and
+applies to a downzone adopted on and after July 1, 2026.
+- 4 - 011469
+[DELETED: SA]
+[DELETED:  -0((((]
+[DELETED:  -0(((((((1(((]
+[DELETED:  -0]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 2582
+By Harshbarger
+HOUSE BILL 2068
+By Todd
+AN ACT to amend Tennessee Code Annotated, Title 5;
+Title 6; Title 7 and Title 13, Chapter 7, relative to
+zoning.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Title 13, Chapter 7, is amended by adding
+the following as a new part:
+13-7-701.
+As used in this part:
+(1) "Downzone" means a zoning action, land-use regulation, ballot
+initiative, or administrative policy that results in:
+(A) A reduction in permitted density, floor area ratio, building
+height, lot coverage, build requirements, or other form-based entitlement;
+(B) A regulation that introduces or increases procedural barriers,
+including new discretionary reviews, conditional use permits, public
+hearings, or other non-ministerial processes, for projects that previously
+qualified for by-right or administrative approval;
+(C) A regulation that reduces or restricts the lawful use, division,
+sale, or possession of property; or
+(D) The imposition of design standards, objective development
+standards, specific plans, neighborhood plans, or overlay zones that
+reduce a parcel's feasible yield or buildable area relative to prior
+entitlements; and
+HB2068
+011469
+- 1 -
+
+(2) "Zoning authority" means a governmental entity that has zoning or
+permitting authority.
+13-7-702.
+A zoning authority shall not adopt or enforce an amendment to zoning
+regulations or a zoning map that downzones property, except as provided in this part.
+13-7-703.
+(a) This part does not apply to downzoning necessary to:
+(1) Protect the public from legitimate threats to health or safety, which
+includes regulations necessary to prevent or mitigate conditions that pose an
+imminent threat to human life or property, such as geologic hazards, unstable
+soil, earthquake fault zones, fire hazard severity zones, or known flood-prone
+areas, as defined by local emergency management authorities or applicable
+building and fire codes;
+(2) Comply with federal or state law, including the Endangered Species
+Act (16 U.S.C. § 1531 et seq.), the Fair Housing Act (42 U.S.C. §§ 3601 et seq.),
+the Americans with Disabilities Act (42 U.S.C. §§ 12101 et seq.), or applicable
+building accessibility standards; or
+(3) Prevent or abate a nuisance.
+(b) This part does not prevent the addition of compatible commercial, light
+industrial, or mixed-use zoning overlays; provided, that residential capacity is not
+reduced and the modifications are consistent with the zoning authority's adopted land
+use regulations.
+13-7-704.
+- 2 - 011469
+
+(a) A property owner whose property is the subject of a downzone and who has
+not been compensated pursuant to § 13-7-705 may bring an action for any of the
+following forms of relief:
+(1) To enjoin enforcement of the downzone;
+(2) For declaratory relief; or
+(3) To recover damages for the loss of fair market value caused by the
+downzone.
+(b) The zoning authority has the burden to prove by clear and convincing
+evidence that an exception under § 13-7-703 applies.
+(c) A prevailing property owner, housing developer, or nonprofit organization in a
+court action must be awarded reasonable attorney's fees and costs.
+(d) A zoning authority shall not require an application for a project to indemnify,
+defend, or hold harmless the zoning authority in any manner with respect to an action
+brought by the applicant, or another person, alleging that the zoning authority violated
+the applicant's rights or deprived the applicant of benefits or protections provided by law.
+13-7-705.
+(a) A zoning authority shall compensate a property owner if the adoption or
+enforcement of a downzone results in a demonstrable reduction in the fair market value
+of the property attributable to limitations on the property's lawful use.
+(b) The amount of compensation is calculated as the difference between the fair
+market value of the property immediately before the adoption of a downzone and the fair
+market value after its enforcement. This valuation must be established through an
+independent, certified appraisal submitted by the property owner.
+(c) A jurisdiction may avoid liability for compensation by electing to waive the
+application of the downzone as it pertains to the subject property within sixty (60) days of
+- 3 - 011469
+
+receiving written notice from a property owner or within the time to answer an action filed
+pursuant to § 13-7-704, whichever comes first. If waived, the downzone is void with
+respect to that property.
+SECTION 2. This act takes effect July 1, 2026, the public welfare requiring it, and
+applies to a downzone adopted on and after July 1, 2026.
+- 4 - 011469
+
+[DELETED: SA]
+[DELETED:  -0((((]
+[DELETED:  -0(((((((1(((]
+[DELETED:  -0]

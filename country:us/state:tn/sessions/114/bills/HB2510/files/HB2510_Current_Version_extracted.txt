@@ -1,0 +1,55 @@
+Title: SENATE BILL 2453
+Official Title: SENATE BILL 2453
+Number of Sections: 4
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+By Bailey
+HOUSE BILL 2510
+By Sexton
+AN ACT to amend Tennessee Code Annotated, Title 67,
+Chapter 6, relative to tax revenue.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 67-6-104(m)(1)(C), is amended by
+deleting the language "December 31, 2026" and substituting instead the language "December
+31, 2040".
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 67-6-104(m)(2), is amended by
+deleting the language "June 30, 2031" and substituting instead the language "June 30, 2041".
+
+Section 4:
+SECTION 3. This act takes effect upon becoming a law, the public welfare requiring it.
+HB2510
+010224
+- 1 -
+[DELETED: SSS]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 2453
+By Bailey
+HOUSE BILL 2510
+By Sexton
+AN ACT to amend Tennessee Code Annotated, Title 67,
+Chapter 6, relative to tax revenue.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 67-6-104(m)(1)(C), is amended by
+deleting the language "December 31, 2026" and substituting instead the language "December
+31, 2040".
+SECTION 2. Tennessee Code Annotated, Section 67-6-104(m)(2), is amended by
+deleting the language "June 30, 2031" and substituting instead the language "June 30, 2041".
+SECTION 3. This act takes effect upon becoming a law, the public welfare requiring it.
+HB2510
+010224
+- 1 -
+
+[DELETED: SSS]

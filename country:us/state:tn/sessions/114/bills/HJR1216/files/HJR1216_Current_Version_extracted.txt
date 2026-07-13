@@ -1,0 +1,75 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+HOUSE JOINT RESOLUTION 1216
+By McCalmon
+A RESOLUTION to honor and commend the Club America
+chapter at Nolensville High School.
+WHEREAS, the members of this General Assembly find it appropriate to honor and
+commend those high school clubs and organizations that promote American values; and
+WHEREAS, the Club America chapter at Nolensville High School is one such club that is
+deserving of our acknowledgement; and
+WHEREAS, the Nolensville Club America was founded in 2024 and is currently led by
+chapter president Preston Murray; and
+WHEREAS, at last year's club fair, more than seventy students signed up to join Club
+America; the Nolensville Club America chapter hosts bi-weekly meetings in addition to a
+monthly event, during which the members pray at their flagpole with their chapter; and
+WHEREAS, Club America empowers bold student leaders to promote free thinking,
+engage in grassroots activism, and bring their beliefs to life—both on and off campus; and
+WHEREAS, it is fitting that the members of this General Assembly honor this Club
+America chapter and its many student members; now, therefore,
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE SENATE
+CONCURRING, that we honor and commend the Nolensville High School Club America chapter
+and its members for their dedication to patriotism and free thinking.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy and upon proper request made to
+the appropriate clerk, the language appearing immediately following the State seal appear
+without House or Senate designation.
+HJR1216
+016306
+- 1 -
+[DELETED: WWWWWWBB]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+HOUSE JOINT RESOLUTION 1216
+By McCalmon
+A RESOLUTION to honor and commend the Club America
+chapter at Nolensville High School.
+WHEREAS, the members of this General Assembly find it appropriate to honor and
+commend those high school clubs and organizations that promote American values; and
+WHEREAS, the Club America chapter at Nolensville High School is one such club that is
+deserving of our acknowledgement; and
+WHEREAS, the Nolensville Club America was founded in 2024 and is currently led by
+chapter president Preston Murray; and
+WHEREAS, at last year's club fair, more than seventy students signed up to join Club
+America; the Nolensville Club America chapter hosts bi-weekly meetings in addition to a
+monthly event, during which the members pray at their flagpole with their chapter; and
+WHEREAS, Club America empowers bold student leaders to promote free thinking,
+engage in grassroots activism, and bring their beliefs to life—both on and off campus; and
+WHEREAS, it is fitting that the members of this General Assembly honor this Club
+America chapter and its many student members; now, therefore,
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE SENATE
+CONCURRING, that we honor and commend the Nolensville High School Club America chapter
+and its members for their dedication to patriotism and free thinking.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy and upon proper request made to
+the appropriate clerk, the language appearing immediately following the State seal appear
+without House or Senate designation.
+HJR1216
+016306
+- 1 -
+
+[DELETED: WWWWWWBB]

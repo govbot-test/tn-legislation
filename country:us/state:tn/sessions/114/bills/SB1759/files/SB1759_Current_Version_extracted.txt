@@ -1,0 +1,53 @@
+Title: HOUSE BILL 2245
+Official Title: HOUSE BILL 2245
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+By Hurt
+SENATE BILL 1759
+By Briggs
+AN ACT to amend Tennessee Code Annotated, Title 41,
+relative to inmates.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 41-1-126, is amended by adding a
+new subsection (e):
+(e) The department shall keep a copy of each validated risk and needs
+assessment of each inmate under its supervision and control for the duration of the
+inmate's period of incarceration.
+
+Section 3:
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+SB1759
+011325
+- 1 -
+[DELETED: S(S]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 2245
+By Hurt
+SENATE BILL 1759
+By Briggs
+AN ACT to amend Tennessee Code Annotated, Title 41,
+relative to inmates.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 41-1-126, is amended by adding a
+new subsection (e):
+(e) The department shall keep a copy of each validated risk and needs
+assessment of each inmate under its supervision and control for the duration of the
+inmate's period of incarceration.
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+SB1759
+011325
+- 1 -
+
+[DELETED: S(S]

@@ -1,0 +1,96 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+HOUSE JOINT RESOLUTION 1660
+By Behn
+A RESOLUTION to honor the workers killed at the explosion at
+the Accurate Energetic Systems facility on
+October 10, 2025.
+WHEREAS, on October 10, 2025, a catastrophic explosion at the Accurate Energetic
+Systems (AES) facility in McEwen killed sixteen workers and injured seven others, making it one
+of the deadliest industrial disasters in the United States in recent years; and
+WHEREAS, the sixteen lives lost were Jason Adams, Erick Anderson, Billy Baker, Adam
+Boatman, Christopher Clark, Mindy Clifton, James Cook, Reyna Gillahan, LeTeisha Mays,
+Jeremy Moore, Melinda Rainey, Melissa Stanford, Trenton Stewart, Rachel Woodall, Steven
+Wright, and Donald Yowell, neighbors and community members from Humphreys and Hickman
+counties who went to work and did not come home; and
+WHEREAS, behind every fatality number is a worker: someone who has family, friends,
+community, and a life, and these sixteen are remembered not as statistics but as beloved
+members of their families and their communities; and
+WHEREAS, the Tennessee Occupational Safety and Health Administration found fifty-
+nine willful violations and thirty-two serious violations at the AES facility and assessed the
+highest workplace safety penalties in State history at $3,133,900, confirming that these deaths
+were preventable; and
+WHEREAS, observed each year on April 28th, Workers Memorial Day was established to
+recognize workers who died or suffered from exposures to hazards at work and to encourage us
+to think of ways in which we all can help achieve the goal of safer and healthier workplaces;
+now, therefore,
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE SENATE
+HJR1660
+018693
+- 1 -
+CONCURRING, that we honor the memory of the sixteen workers lost at Accurate Energetic
+Systems and extend our deepest condolences to their families and the communities of
+Humphreys and Hickman counties.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy and upon proper request made to
+the appropriate clerk, the language appearing immediately following the State seal appear
+without House or Senate designation.
+- 2 - 018693
+[DELETED: WWWWW8,B]
+[DELETED:  -0B]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+HOUSE JOINT RESOLUTION 1660
+By Behn
+A RESOLUTION to honor the workers killed at the explosion at
+the Accurate Energetic Systems facility on
+October 10, 2025.
+WHEREAS, on October 10, 2025, a catastrophic explosion at the Accurate Energetic
+Systems (AES) facility in McEwen killed sixteen workers and injured seven others, making it one
+of the deadliest industrial disasters in the United States in recent years; and
+WHEREAS, the sixteen lives lost were Jason Adams, Erick Anderson, Billy Baker, Adam
+Boatman, Christopher Clark, Mindy Clifton, James Cook, Reyna Gillahan, LeTeisha Mays,
+Jeremy Moore, Melinda Rainey, Melissa Stanford, Trenton Stewart, Rachel Woodall, Steven
+Wright, and Donald Yowell, neighbors and community members from Humphreys and Hickman
+counties who went to work and did not come home; and
+WHEREAS, behind every fatality number is a worker: someone who has family, friends,
+community, and a life, and these sixteen are remembered not as statistics but as beloved
+members of their families and their communities; and
+WHEREAS, the Tennessee Occupational Safety and Health Administration found fifty-
+nine willful violations and thirty-two serious violations at the AES facility and assessed the
+highest workplace safety penalties in State history at $3,133,900, confirming that these deaths
+were preventable; and
+WHEREAS, observed each year on April 28th, Workers Memorial Day was established to
+recognize workers who died or suffered from exposures to hazards at work and to encourage us
+to think of ways in which we all can help achieve the goal of safer and healthier workplaces;
+now, therefore,
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE SENATE
+HJR1660
+018693
+- 1 -
+
+CONCURRING, that we honor the memory of the sixteen workers lost at Accurate Energetic
+Systems and extend our deepest condolences to their families and the communities of
+Humphreys and Hickman counties.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy and upon proper request made to
+the appropriate clerk, the language appearing immediately following the State seal appear
+without House or Senate designation.
+- 2 - 018693
+
+[DELETED: WWWWW8,B]
+[DELETED:  -0B]
