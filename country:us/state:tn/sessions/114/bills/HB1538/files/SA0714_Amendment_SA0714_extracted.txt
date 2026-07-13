@@ -1,0 +1,108 @@
+Title: AMEND S e n ate Bill No. 1631 House Bill No. 1538*
+Official Title: AMEND S e n ate Bill No. 1631 House Bill No. 1538*
+Number of Sections: 7
+Source: versions - Amendment SA0714
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+Senate Judiciary 1
+Amendment No. 1 to SB1631
+Gardenhire
+Signature of Sponsor
+by deleting all language after the enacting clause and substituting:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 39-13-903(a)(5), is amended by
+deleting the subdivision.
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 39-13-903(b)(1), is amended by
+deleting the language "(a)(1)-(5)" and substituting "(a)(1)-(4)".
+
+Section 4:
+SECTION 3. Tennessee Code Annotated, Section 39-16-201(b), is amended by adding
+the following as a new subdivision:
+(3) Knowingly use an unmanned aircraft over any portion of a property that
+includes a correctional facility. As used in this section, "unmanned aircraft" means the
+same as defined in § 39-13-901. This subdivision (b)(3) does not apply to the use of an
+unmanned aircraft by:
+(A) Any branch of the United States military, the military forces of this
+state, or the Tennessee emergency management agency;
+(B) The department of correction or a private provider contracted with the
+department to operate a correctional facility; or
+(C) A law enforcement officer or other state or local government official
+engaged in official duties.
+
+Section 5:
+SECTION 4. Tennessee Code Annotated, Section 39-16-201(c)(1), is amended by
+deleting the subdivision and substituting:
+(1) A violation of subdivision (b)(1)(A), (b)(2)(A), or (b)(3) is a Class C felony.
+SA0714
+014528
+- 1 -
+
+Section 6:
+SECTION 5. Tennessee Code Annotated, Section 39-16-201, is amended by adding
+the following as a new subsection:
+(d) A correctional facility employee may disable an unmanned aircraft that is
+operating over property that includes a correctional facility in violation of subdivision
+(b)(3) to the extent consistent with federal law and regulations, including those of the
+federal communications commission. The correctional facility and the correctional
+facility employee are not liable for damage to the unmanned aircraft as a result of being
+disabled.
+
+Section 7:
+SECTION 6. This act takes effect July 1, 2026, the public welfare requiring it.
+- 2 - 014528
+[DELETED:  a HSSS((((S(]
+[DELETED:  -0S(S]
+
+
+================================================================================
+
+Raw Text:
+Senate Judiciary 1
+Amendment No. 1 to SB1631
+Gardenhire
+Signature of Sponsor
+AMEND S e n ate Bill No. 1631 House Bill No. 1538*
+by deleting all language after the enacting clause and substituting:
+SECTION 1. Tennessee Code Annotated, Section 39-13-903(a)(5), is amended by
+deleting the subdivision.
+SECTION 2. Tennessee Code Annotated, Section 39-13-903(b)(1), is amended by
+deleting the language "(a)(1)-(5)" and substituting "(a)(1)-(4)".
+SECTION 3. Tennessee Code Annotated, Section 39-16-201(b), is amended by adding
+the following as a new subdivision:
+(3) Knowingly use an unmanned aircraft over any portion of a property that
+includes a correctional facility. As used in this section, "unmanned aircraft" means the
+same as defined in § 39-13-901. This subdivision (b)(3) does not apply to the use of an
+unmanned aircraft by:
+(A) Any branch of the United States military, the military forces of this
+state, or the Tennessee emergency management agency;
+(B) The department of correction or a private provider contracted with the
+department to operate a correctional facility; or
+(C) A law enforcement officer or other state or local government official
+engaged in official duties.
+SECTION 4. Tennessee Code Annotated, Section 39-16-201(c)(1), is amended by
+deleting the subdivision and substituting:
+(1) A violation of subdivision (b)(1)(A), (b)(2)(A), or (b)(3) is a Class C felony.
+SA0714
+014528
+- 1 -
+
+SECTION 5. Tennessee Code Annotated, Section 39-16-201, is amended by adding
+the following as a new subsection:
+(d) A correctional facility employee may disable an unmanned aircraft that is
+operating over property that includes a correctional facility in violation of subdivision
+(b)(3) to the extent consistent with federal law and regulations, including those of the
+federal communications commission. The correctional facility and the correctional
+facility employee are not liable for damage to the unmanned aircraft as a result of being
+disabled.
+SECTION 6. This act takes effect July 1, 2026, the public welfare requiring it.
+- 2 - 014528
+
+[DELETED:  a HSSS((((S(]
+[DELETED:  -0S(S]

@@ -1,0 +1,98 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+SENATE RESOLUTION 333
+By Oliver
+A RESOLUTION to honor and congratulate Ellie L. Thompson on
+the celebration of her 100th birthday.
+WHEREAS, it is fitting that we should pay tribute to those citizens who are celebrating
+special occasions in their estimable lives; and
+WHEREAS, Ellie L. Thompson will celebrate her 100th birthday on April 12, 2026, a
+milestone commemorated as yet another precious souvenir of life's rich pageant; and
+WHEREAS, born on April 12, 1926, in Campobello, South Carolina, Mrs. Thompson is
+the proud mother of three children, Delores Ann, Barbara, and Matthew, Jr., two of whom are
+deceased; grandmother of seven, two of whom are deceased; great-grandmother of sixteen;
+and great-great-grandmother of eleven; and
+WHEREAS, wholly devoted to her family, she has enjoyed the love and companionship
+of her children; throughout her life, Ellie Thompson cared for and supported her son Matthew,
+Jr., during his illness, and her daughter, Delores Ann, during her decline in health, until they
+departed from this earthly life; and
+WHEREAS, as Mrs. Thompson gracefully enters her 100th year, she remains a positive
+force for good, devoted to family values of the highest order, and cherishes the bonds she has
+with her family; and
+WHEREAS, she is a devout member of Greater St. John Baptist Church and regularly
+attended Sunday School and Bible study until she was no longer able to do so; she served her
+church as president of the Mothers Ministry, president of the Willing Workers, and Sunday
+School class superintendent; and
+SR0333
+014267
+- 1 -
+WHEREAS, Ellie Thompson now spends her golden years holding down the end of her
+sofa and rocking in her chair on the front porch; she continues to read her Bible, complete word
+searches, watch old westerns and shows, and keep up with the daily news; and
+WHEREAS, we wish to grasp this golden opportunity to specially recognize Mrs.
+Thompson on this very special occasion; now, therefore,
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, that we hereby honor and
+congratulate Ellie L. Thompson on the celebration of her 100th birthday and extend to her our
+best wishes for many happy returns of the day.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy.
+- 2 - 014267
+[DELETED: 0 WW0 WWW0 W]
+[DELETED:  -0WWB0 B]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+SENATE RESOLUTION 333
+By Oliver
+A RESOLUTION to honor and congratulate Ellie L. Thompson on
+the celebration of her 100th birthday.
+WHEREAS, it is fitting that we should pay tribute to those citizens who are celebrating
+special occasions in their estimable lives; and
+WHEREAS, Ellie L. Thompson will celebrate her 100th birthday on April 12, 2026, a
+milestone commemorated as yet another precious souvenir of life's rich pageant; and
+WHEREAS, born on April 12, 1926, in Campobello, South Carolina, Mrs. Thompson is
+the proud mother of three children, Delores Ann, Barbara, and Matthew, Jr., two of whom are
+deceased; grandmother of seven, two of whom are deceased; great-grandmother of sixteen;
+and great-great-grandmother of eleven; and
+WHEREAS, wholly devoted to her family, she has enjoyed the love and companionship
+of her children; throughout her life, Ellie Thompson cared for and supported her son Matthew,
+Jr., during his illness, and her daughter, Delores Ann, during her decline in health, until they
+departed from this earthly life; and
+WHEREAS, as Mrs. Thompson gracefully enters her 100th year, she remains a positive
+force for good, devoted to family values of the highest order, and cherishes the bonds she has
+with her family; and
+WHEREAS, she is a devout member of Greater St. John Baptist Church and regularly
+attended Sunday School and Bible study until she was no longer able to do so; she served her
+church as president of the Mothers Ministry, president of the Willing Workers, and Sunday
+School class superintendent; and
+SR0333
+014267
+- 1 -
+
+WHEREAS, Ellie Thompson now spends her golden years holding down the end of her
+sofa and rocking in her chair on the front porch; she continues to read her Bible, complete word
+searches, watch old westerns and shows, and keep up with the daily news; and
+WHEREAS, we wish to grasp this golden opportunity to specially recognize Mrs.
+Thompson on this very special occasion; now, therefore,
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, that we hereby honor and
+congratulate Ellie L. Thompson on the celebration of her 100th birthday and extend to her our
+best wishes for many happy returns of the day.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy.
+- 2 - 014267
+
+[DELETED: 0 WW0 WWW0 W]
+[DELETED:  -0WWB0 B]

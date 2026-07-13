@@ -1,0 +1,51 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+HOUSE JOINT RESOLUTION 741
+By Lamberth
+A RESOLUTION to provide for a recess in the proceedings of the
+2026 regular session of the One Hundred
+Fourteenth General Assembly in observance of
+Martin Luther King Jr. Day.
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE SENATE
+CONCURRING, that the 2026 regular session of the One Hundred Fourteenth General
+Assembly stand in recess at the close of business in both houses on Thursday, January 15,
+2026, and reconvene on Wednesday, January 21, 2026, at 8:30 a.m. (CST).
+BE IT FURTHER RESOLVED, that pursuant to Article II, Section 16, of the Constitution
+of Tennessee, the Senate, by its concurrence in this resolution, consents to this recess.
+HJR0741
+010892
+- 1 -
+[DELETED: BB]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+HOUSE JOINT RESOLUTION 741
+By Lamberth
+A RESOLUTION to provide for a recess in the proceedings of the
+2026 regular session of the One Hundred
+Fourteenth General Assembly in observance of
+Martin Luther King Jr. Day.
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE SENATE
+CONCURRING, that the 2026 regular session of the One Hundred Fourteenth General
+Assembly stand in recess at the close of business in both houses on Thursday, January 15,
+2026, and reconvene on Wednesday, January 21, 2026, at 8:30 a.m. (CST).
+BE IT FURTHER RESOLVED, that pursuant to Article II, Section 16, of the Constitution
+of Tennessee, the Senate, by its concurrence in this resolution, consents to this recess.
+HJR0741
+010892
+- 1 -
+
+[DELETED: BB]

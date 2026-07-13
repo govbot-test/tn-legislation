@@ -1,0 +1,94 @@
+Title: HOUSE BILL 2478
+Official Title: HOUSE BILL 2478
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+By Parkinson
+SENATE BILL 2389
+By Akbari
+AN ACT to amend Tennessee Code Annotated, Title 5;
+Title 6; Title 7; Title 8; Title 10; Title 66 and Title
+67, relative to registers of deeds.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Title 66, Chapter 24, Part 1, is amended by
+adding the following as a new section:
+(a) As used in this section, "government-issued identification card" means a
+valid, government-issued identification card that bears the cardholder's name, address,
+and photograph, and that contains a unique identifying series of numbers or letters, or
+both, as applicable to the type or category of government-issued identification card.
+(b) A register of deeds shall require a person presenting a document to transfer
+real property in person for filing in the real property records of the county to present a
+government-issued identification card prior to recording the document.
+(c) The register shall copy or record information from the presented government-
+issued identification card.
+(d) The register shall not charge a person a fee to copy or record the information
+from the presented government-issued identification card.
+(e) Information copied or recorded from the presented government-issued
+identification card is confidential.
+(f) A document filed with a county clerk is not invalid solely because the county
+clerk did not copy or record the information from the presented government-issued
+identification card.
+(h) This section is repealed two (2) years from the effective date of this act.
+SB2389
+012644
+- 1 -
+(i) This section applies to a county having a population of no less than nine
+hundred thousand (900,000), according to the 2020 federal census or any subsequent
+federal census.
+
+Section 3:
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+- 2 - 012644
+[DELETED: S((((((]
+[DELETED:  -0(S]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 2478
+By Parkinson
+SENATE BILL 2389
+By Akbari
+AN ACT to amend Tennessee Code Annotated, Title 5;
+Title 6; Title 7; Title 8; Title 10; Title 66 and Title
+67, relative to registers of deeds.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Title 66, Chapter 24, Part 1, is amended by
+adding the following as a new section:
+(a) As used in this section, "government-issued identification card" means a
+valid, government-issued identification card that bears the cardholder's name, address,
+and photograph, and that contains a unique identifying series of numbers or letters, or
+both, as applicable to the type or category of government-issued identification card.
+(b) A register of deeds shall require a person presenting a document to transfer
+real property in person for filing in the real property records of the county to present a
+government-issued identification card prior to recording the document.
+(c) The register shall copy or record information from the presented government-
+issued identification card.
+(d) The register shall not charge a person a fee to copy or record the information
+from the presented government-issued identification card.
+(e) Information copied or recorded from the presented government-issued
+identification card is confidential.
+(f) A document filed with a county clerk is not invalid solely because the county
+clerk did not copy or record the information from the presented government-issued
+identification card.
+(h) This section is repealed two (2) years from the effective date of this act.
+SB2389
+012644
+- 1 -
+
+(i) This section applies to a county having a population of no less than nine
+hundred thousand (900,000), according to the 2020 federal census or any subsequent
+federal census.
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+- 2 - 012644
+
+[DELETED: S((((((]
+[DELETED:  -0(S]
