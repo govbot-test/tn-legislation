@@ -1,0 +1,128 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 4
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+SENATE BILL 2148
+By Pody
+AN ACT to amend Tennessee Code Annotated, Title 4;
+Title 15; Title 56; Title 62; Title 64 and Title 68,
+relative to welding.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Title 68, Chapter 120, is amended by adding
+the following as a new part:
+68-120-601. Short title.
+This part is known and may be cited as the "Responsible Welding for
+Tennessean's Safety Act".
+68-120-602. Part definitions.
+As used in this part:
+(1) "AWS" means the American Welding Society;
+(2) "D1.1" means the current version of the Structural Steel Welding
+Code (SSWC), approved American National Standard from the AWS;
+(3) "D1.5" means the current version of the Bridge Welding Code (BWC),
+approved American National Standard from the AWS jointly with the American
+Association of State Highway and Transportation Officials (AASHTO);
+(4) "Design Professional" means a licensed expert, including engineers,
+who creates and plans buildings, structures, or systems, focusing on public
+health, safety, and function;
+(5) "Structural steel welding" means structural welds, weld repair, the
+structural system, and the welding of all primary steel members of a structure per
+SSWC D1.1 and D1.5 established by the AWS; and
+SB2148
+012237
+- 1 -
+(6) "Welding standards" means the specifications, guidelines, tests, and
+other methods used to develop a system of quality control to ensure that welding
+is conducted in such a manner that all welds must meet, at a minimum, D1.1 and
+D1.5 standards established by the AWS.
+68-120-603. Structural steel welding — Standards and certification.
+(a) If a design professional includes D1.1 or D1.5 in the job specifications for a
+project involving structural steel welding, then a general contractor, project manager,
+contractor, or subcontractor must ensure that:
+(1) A welder performing structural steel welding on a project is tested and
+holds a valid certification by:
+(A) An accredited AWS testing facility; or
+(B) An individual who has been accredited by the AWS to test
+and certify welders and welding inspectors; and
+(2) Structural steel welding performed on a project meets applicable
+welding standards.
+(b) This section does not apply to a welding project performed or requested by a
+homeowner or farmer on the premises of the homeowner or farmer.
+
+Section 3:
+SECTION 2. The headings in this act are for reference purposes only and do not
+constitute a part of the law enacted by this act. However, the Tennessee Code Commission is
+requested to include the headings in any compilation or publication containing this act.
+
+Section 4:
+SECTION 3. This act takes effect January 1, 2027, the public welfare requiring it.
+- 2 - 012237
+[DELETED: S6T6A(]
+[DELETED:  -06(((((SS]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+SENATE BILL 2148
+By Pody
+AN ACT to amend Tennessee Code Annotated, Title 4;
+Title 15; Title 56; Title 62; Title 64 and Title 68,
+relative to welding.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Title 68, Chapter 120, is amended by adding
+the following as a new part:
+68-120-601. Short title.
+This part is known and may be cited as the "Responsible Welding for
+Tennessean's Safety Act".
+68-120-602. Part definitions.
+As used in this part:
+(1) "AWS" means the American Welding Society;
+(2) "D1.1" means the current version of the Structural Steel Welding
+Code (SSWC), approved American National Standard from the AWS;
+(3) "D1.5" means the current version of the Bridge Welding Code (BWC),
+approved American National Standard from the AWS jointly with the American
+Association of State Highway and Transportation Officials (AASHTO);
+(4) "Design Professional" means a licensed expert, including engineers,
+who creates and plans buildings, structures, or systems, focusing on public
+health, safety, and function;
+(5) "Structural steel welding" means structural welds, weld repair, the
+structural system, and the welding of all primary steel members of a structure per
+SSWC D1.1 and D1.5 established by the AWS; and
+SB2148
+012237
+- 1 -
+
+(6) "Welding standards" means the specifications, guidelines, tests, and
+other methods used to develop a system of quality control to ensure that welding
+is conducted in such a manner that all welds must meet, at a minimum, D1.1 and
+D1.5 standards established by the AWS.
+68-120-603. Structural steel welding — Standards and certification.
+(a) If a design professional includes D1.1 or D1.5 in the job specifications for a
+project involving structural steel welding, then a general contractor, project manager,
+contractor, or subcontractor must ensure that:
+(1) A welder performing structural steel welding on a project is tested and
+holds a valid certification by:
+(A) An accredited AWS testing facility; or
+(B) An individual who has been accredited by the AWS to test
+and certify welders and welding inspectors; and
+(2) Structural steel welding performed on a project meets applicable
+welding standards.
+(b) This section does not apply to a welding project performed or requested by a
+homeowner or farmer on the premises of the homeowner or farmer.
+SECTION 2. The headings in this act are for reference purposes only and do not
+constitute a part of the law enacted by this act. However, the Tennessee Code Commission is
+requested to include the headings in any compilation or publication containing this act.
+SECTION 3. This act takes effect January 1, 2027, the public welfare requiring it.
+- 2 - 012237
+
+[DELETED: S6T6A(]
+[DELETED:  -06(((((SS]

@@ -1,0 +1,63 @@
+Title: HOUSE BILL 1746
+Official Title: HOUSE BILL 1746
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+By Freeman
+SENATE BILL 1818
+By Campbell
+AN ACT to amend Tennessee Code Annotated, Title 47,
+Chapter 18 and Title 53, relative to foods that
+contain forever chemicals.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 53-1-103(a), is amended by adding
+the following as a new subdivision:
+( ) The sale, delivery for sale, holding for sale, or offering for sale of food that
+contains forever chemicals, unless the food is labeled as containing forever chemicals
+and discloses the known or possible health effects of the chemical. As used in this
+subdivision (a)( ), "forever chemical" means a per- and polyfluoroalkyl substance
+(PFAS), which is a group of man-made synthetic chemicals, including, but not limited to,
+perfluorooctanoic acid (PFOA), perfluorooctanesulfonic acid (PFOS), perfluorobutane
+sulfonic acid (PFBS), and hexafluoropropylene oxide dimer acid (HFPO-DA).
+
+Section 3:
+SECTION 2. This act takes effect July 1, 2026, the public welfare requiring it.
+SB1818
+011410
+- 1 -
+[DELETED: S(S]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 1746
+By Freeman
+SENATE BILL 1818
+By Campbell
+AN ACT to amend Tennessee Code Annotated, Title 47,
+Chapter 18 and Title 53, relative to foods that
+contain forever chemicals.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 53-1-103(a), is amended by adding
+the following as a new subdivision:
+( ) The sale, delivery for sale, holding for sale, or offering for sale of food that
+contains forever chemicals, unless the food is labeled as containing forever chemicals
+and discloses the known or possible health effects of the chemical. As used in this
+subdivision (a)( ), "forever chemical" means a per- and polyfluoroalkyl substance
+(PFAS), which is a group of man-made synthetic chemicals, including, but not limited to,
+perfluorooctanoic acid (PFOA), perfluorooctanesulfonic acid (PFOS), perfluorobutane
+sulfonic acid (PFBS), and hexafluoropropylene oxide dimer acid (HFPO-DA).
+SECTION 2. This act takes effect July 1, 2026, the public welfare requiring it.
+SB1818
+011410
+- 1 -
+
+[DELETED: S(S]

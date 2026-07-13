@@ -1,0 +1,67 @@
+Title: SENATE BILL 2161
+Official Title: SENATE BILL 2161
+Number of Sections: 4
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+By Haile
+HOUSE BILL 2374
+By Doggett
+AN ACT to amend Tennessee Code Annotated, Title 39
+and Title 40, relative to bail.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 40-11-139(d)(1), is amended by
+deleting the subdivision and substituting:
+(1) If a court issues a bench warrant or a capias due to a defendant's failure to
+appear on a felony that is violent or sexual in nature as determined by the court, then the
+defendant shall be placed on any available state or federal list or database as a fugitive
+from justice, including the National Crime Information Center.
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 40-11-139(d)(3), is amended by
+deleting the subdivision and substituting:
+(3) The court may relieve the surety of liability for an undertaking if the defendant
+has not been placed on the available state or federal list or database within ten (10)
+business days of the entering agency's receipt of the bench warrant or capias.
+
+Section 4:
+SECTION 3. This act takes effect upon becoming a law, the public welfare requiring it.
+HB2374
+011280
+- 1 -
+[DELETED: S(S(S]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 2161
+By Haile
+HOUSE BILL 2374
+By Doggett
+AN ACT to amend Tennessee Code Annotated, Title 39
+and Title 40, relative to bail.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 40-11-139(d)(1), is amended by
+deleting the subdivision and substituting:
+(1) If a court issues a bench warrant or a capias due to a defendant's failure to
+appear on a felony that is violent or sexual in nature as determined by the court, then the
+defendant shall be placed on any available state or federal list or database as a fugitive
+from justice, including the National Crime Information Center.
+SECTION 2. Tennessee Code Annotated, Section 40-11-139(d)(3), is amended by
+deleting the subdivision and substituting:
+(3) The court may relieve the surety of liability for an undertaking if the defendant
+has not been placed on the available state or federal list or database within ten (10)
+business days of the entering agency's receipt of the bench warrant or capias.
+SECTION 3. This act takes effect upon becoming a law, the public welfare requiring it.
+HB2374
+011280
+- 1 -
+
+[DELETED: S(S(S]
