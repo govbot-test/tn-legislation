@@ -1,0 +1,515 @@
+Title: AMEND S e n ate Bill No. 2101* House Bill No. 2108
+Official Title: AMEND S e n ate Bill No. 2101* House Bill No. 2108
+Number of Sections: 9
+Source: versions - Amendment HA0603
+Media Type: application/pdf
+Strikethrough Detection: 9 sections found
+
+================================================================================
+
+Section 1:
+House Commerce 1
+Amendment No. 1 to HB2108
+Vaughan
+Signature of Sponsor
+by deleting all language after the enacting clause and substituting:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 47-16-102, is amended by deleting
+the section and substituting:
+As used in this chapter:
+(1) "Commercial litigation financier":
+(A) Means a person who provides commercial litigation financing;
+and
+(B) Does not include a litigation financier;
+(2) "Commercial litigation financing" or "commercial litigation financing
+transaction":
+(A) Means funding provided by a person to another person that is
+a party or has standing to become a party to a civil action, administrative
+proceeding, legal claim, or other legal proceeding seeking to recover
+monetary damages, or to the legal representative for such party, in
+exchange for a right to receive payment that is contingent on the outcome
+of such action, claim, or proceedings by settlement, judgment, or
+otherwise, or on the outcome of any matter within a portfolio that includes
+such action, claim, or proceedings and involves the same legal
+representative or affiliated legal representative; and
+(B) Does not include:
+HA0603
+014413
+- 1 -
+(i) A party to the civil action, administrative proceeding,
+claim, or cause of action;
+(ii) An attorney engaged directly or indirectly through
+another legal representative to represent a party in the civil action;
+(iii) An entity or insurer with a preexisting contractual
+obligation to indemnify or defend a party to the civil action; or
+(iv) A nonprofit organization that is funded by private
+donations; represents one (1) or more clients on a pro-bono, no-
+cost basis; and seeks only injunctive relief on behalf of its clients;
+provided, that this subdivision (2)(B)(iv) does not prohibit or
+otherwise affect an award of costs or attorney fees to such
+nonprofit organization seeking only injunctive relief on behalf of a
+client that such nonprofit organization represents on a pro-bono,
+no-cost basis, or to such client;
+(3) "Commercial litigation financing contract" means a written contract
+memorializing the terms and conditions of commercial litigation financing;
+(4) "Consumer" means a person who resides, is present, or is domiciled
+in this state, or who is or may become a plaintiff or complainant in a dispute in
+this state;
+(5) "Foreign person" means a person who is not:
+(A) A citizen of the United States;
+(B) An alien lawfully admitted for permanent residence in the
+United States;
+(C) An unincorporated association with a majority of members
+who are citizens of the United States or aliens lawfully admitted for
+permanent residence in the United States; or
+(D) A corporation that is incorporated in the United States;
+- 2 - 014413
+(6) "Litigation financier" means a person engaged in the business of
+litigation financing;
+(7) "Litigation financing" or "litigation financing transaction":
+(A) Means a non-recourse transaction in which financing is
+provided to a consumer in return for a consumer assigning to the litigation
+financier a contingent right to receive an amount of the potential proceeds
+of the consumer's judgment, award, settlement, or verdict obtained with
+respect to the consumer's legal claim; and
+(B) Does not include:
+(i) Legal services provided on a contingency fee basis, or
+advanced legal costs, where such services or costs are provided
+to or on behalf of a consumer by an attorney representing the
+consumer in the dispute and in accordance with the Tennessee
+Rules of Professional Conduct;
+(ii) A commercial tort claim, as defined by § 47-9-102; or
+(iii) A claim under the Workers' Compensation Law,
+compiled in title 50, chapter 6;
+(8) "Person" means an individual, combination of persons, including a
+class of plaintiffs, firm, corporation, association, trust, partnership, joint venture,
+limited liability company, governmental authority, or other entity; and
+(9) "Sovereign wealth fund" means an investment fund owned or
+controlled by a foreign principal or an agent of a foreign principal.
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 47-16-103, is amended by deleting
+the section and substituting:
+(a)
+(1) A litigation financier or commercial litigation financier shall not engage
+in a litigation financing transaction or commercial litigation financing transaction
+- 3 - 014413
+in this state unless it is registered as a litigation financier or commercial litigation
+financier in this state.
+(2) A litigation financier or commercial litigation financier that is a
+business entity or partnership is registered in this state if:
+(A) It is in compliance with the bond requirements of subsection
+(b);
+(B) It has a status of active and in good standing as reflected in
+the records of the secretary of state; and
+(C) Its charter, articles of organization, certificate of limited
+partnership, or other organizational document, or, if a foreign entity, its
+application for a certificate of authority in this state, contains a statement
+that it will be designated as a litigation financier or commercial litigation
+financier pursuant to this chapter.
+(3) A litigation financier or commercial litigation financier that is not a
+business entity or partnership is registered in this state if:
+(A) It is in compliance with the bond requirements of subsection
+(b); and
+(B) It files an application for registration as a litigation financier or
+commercial litigation financier on a form prescribed by the secretary of
+state, along with a filing fee of one hundred dollars ($100), that contains
+the following:
+(i) The applicant's full legal name;
+(ii) The business name of the applicant, if any;
+(iii) The physical street address and mailing address of the
+applicant;
+(iv) A telephone number through which the applicant can
+be reached;
+- 4 - 014413
+(v) The name, physical street address, mailing address,
+and telephone number for a registered agent in this state that is
+appointed to accept service of process on behalf of the applicant;
+(vi) A statement that the applicant will be designated as a
+litigation financier or commercial litigation financier pursuant to this
+chapter; and
+(vii) Any other information the secretary of state deems
+necessary.
+(b)
+(1) Each litigation financier or commercial litigation financier shall
+file and have approved by the secretary of state a surety bond in the
+amount of fifty thousand dollars ($50,000).
+(2) The bond must be payable to this state for the use of the
+attorney general and reporter and any person who may have a cause of
+action against the obligor of the bond for a violation of this chapter. The
+bond must continue in effect so long as a litigation financier or
+commercial litigation financier is designated as a litigation financier or
+commercial litigation financier in the records of the secretary of state.
+(c) A litigation financier or commercial litigation financier shall amend its
+registration with the secretary of state within thirty (30) days whenever the
+information contained in the record changes or becomes inaccurate or
+incomplete. A litigation financier or commercial litigation financier that is not a
+business entity or partnership may amend or withdraw its registration with the
+secretary of state by filing a form prescribed by the secretary of state, along with
+a filing fee of twenty dollars ($20.00).
+(d) All documents filed pursuant to this section are public record.
+- 5 - 014413
+(e) The secretary of state shall collect a fee of twenty dollars ($20.00) for
+copying all filed documents pursuant to this chapter. All such copies must be
+certified or validated by the secretary of state.
+(f) The secretary of state, as appropriate, may promulgate rules in
+implementing this chapter, including the adoption of fees to cover administrative
+costs relating to administering this chapter.
+(g) A person shall not register as a litigation financier or a commercial
+litigation financier, or engage in litigation financing or commercial litigation
+financing in this state if the person is, in any capacity directly or indirectly related
+to such person's litigation financing or commercial litigation financing business,
+affiliated with a foreign person, foreign principal, or sovereign wealth fund of a
+foreign government or foreign nongovernment person designated by the United
+States secretary of commerce as a foreign adversary pursuant to 15 CFR 791.4.
+
+Section 4:
+SECTION 3. Tennessee Code Annotated, Section 47-16-105, is amended by
+designating the existing language as subsection (a) and adding the following as a new
+subsection:
+(b) A commercial litigation financier shall not:
+(1) Direct, or make decisions with respect to, the course of a civil action,
+administrative proceeding, legal claim, or other legal proceeding for which the
+commercial litigation financier has provided commercial litigation financing, or a
+settlement or other disposition thereof, including decisions in appointing or
+changing legal representatives, choice or use of expert witnesses, and litigation
+strategy. All rights to make decisions with respect to the course and settlement
+or other disposition of the subject civil action, administrative proceeding, legal
+claim, or other legal proceeding remains solely with the parties to such action,
+claim, or proceeding and their legal representatives; or
+- 6 - 014413
+(2) Contract for, receive, or recover, whether directly or indirectly, an
+amount greater than an amount equal to the share of the proceeds collectively
+recovered by the parties in a civil action, administrative proceeding, legal claim,
+or other legal proceeding seeking to recover monetary damages financed by a
+commercial litigation financing contract after the payment of any attorney fees
+and costs owed in connection to such action, claim, or proceeding.
+
+Section 5:
+SECTION 4. Tennessee Code Annotated, Section 47-16-106(a), is amended by
+deleting the subsection and substituting:
+(a) A litigation financing contract or commercial litigation financing contract must
+contain the disclosures specified in this section for the applicable type of contract, which
+constitute material terms of the litigation financing contract or commercial litigation
+financing contract.
+
+Section 6:
+SECTION 5. Tennessee Code Annotated, Section 47-16-106, is amended by adding
+the following as new subsections:
+(c) The body of a commercial litigation financing contract must contain the
+following:
+The commercial litigation financier agrees that it has no right to and
+will not direct, or make any decisions with respect to, the course of
+any civil action, administrative proceeding, legal claim, or other
+legal proceeding that is included in this commercial litigation
+financing agreement, or any settlement or other disposition thereof.
+Such prohibition includes, but is not limited to, decisions in
+appointing or changing legal representatives, choice or use of
+expert witnesses, and litigation strategy. All rights to make
+decisions with respect to the course and settlement or other
+disposition of any civil action, administrative proceeding, legal
+claim, or other legal proceeding that is included in this commercial
+- 7 - 014413
+litigation financing agreement remain solely with the party and the
+party's legal representative.
+(d) A party or a party's legal representative shall file a commercial litigation
+financing contract, the subject of which is or includes the pending action, with the court
+and provide a copy to the other parties within fourteen (14) days after the party files its
+initial pleading or within fourteen (14) days after such a contract is executed or modified
+after the filing of the initial pleading. Prior to filing, the party or the party's legal
+representative may request a protective order to restrict further disclosure of the
+document.
+
+Section 7:
+SECTION 6. Tennessee Code Annotated, Section 47-16-107, is amended by
+designating the existing language as subsection (a) and adding the following as new
+subsections:
+(b) A commercial litigation financier is jointly and severally liable for an award or
+order imposing or assessing costs or monetary sanctions against a party or the party's
+legal representative arising from or relating to a civil action, administrative proceeding,
+legal claim, or other legal proceeding for which the commercial litigation financier is
+providing commercial litigation financing to the party or the party's legal representative.
+(c) In a commercial litigation financing contract, the commercial litigation
+financier shall agree to indemnify, and shall indemnify even without such agreement, the
+party to the civil action, administrative proceeding, legal claim, or other legal proceeding
+that is the subject of such commercial litigation financing contract and such party's legal
+representatives against any adverse costs, attorney fees, damages, or sanctions that
+may be ordered or awarded against such persons in such action, claim, or proceedings.
+However, such indemnification is not required or enforceable for adverse costs, attorney
+fees, damages, or sanctions that the commercial litigation financier can show resulted
+from the intentional misconduct of the party or the party's legal representatives.
+- 8 - 014413
+
+Section 8:
+SECTION 7. Tennessee Code Annotated, Section 47-16-110, is amended by adding
+the following as a new subsection:
+(e) A commercial litigation financier shall not charge an annual fee of more than
+ten percent (10%) of the original amount of money provided pursuant to a commercial
+litigation financing transaction.
+
+Section 9:
+SECTION 8. This act takes effect upon becoming a law, the public welfare requiring it,
+and applies to contracts entered into, amended, or renewed on or after such date.
+- 9 - 014413
+[DELETED:  a HSA]
+[DELETED:  -0]
+[DELETED:  -0S(]
+[DELETED:  -0((((((]
+[DELETED:  -0]
+[DELETED:  -0S]
+[DELETED:  -0S(S]
+[DELETED:  -0S]
+[DELETED:  -0S]
+
+
+================================================================================
+
+Raw Text:
+House Commerce 1
+Amendment No. 1 to HB2108
+Vaughan
+Signature of Sponsor
+AMEND S e n ate Bill No. 2101* House Bill No. 2108
+by deleting all language after the enacting clause and substituting:
+SECTION 1. Tennessee Code Annotated, Section 47-16-102, is amended by deleting
+the section and substituting:
+As used in this chapter:
+(1) "Commercial litigation financier":
+(A) Means a person who provides commercial litigation financing;
+and
+(B) Does not include a litigation financier;
+(2) "Commercial litigation financing" or "commercial litigation financing
+transaction":
+(A) Means funding provided by a person to another person that is
+a party or has standing to become a party to a civil action, administrative
+proceeding, legal claim, or other legal proceeding seeking to recover
+monetary damages, or to the legal representative for such party, in
+exchange for a right to receive payment that is contingent on the outcome
+of such action, claim, or proceedings by settlement, judgment, or
+otherwise, or on the outcome of any matter within a portfolio that includes
+such action, claim, or proceedings and involves the same legal
+representative or affiliated legal representative; and
+(B) Does not include:
+HA0603
+014413
+- 1 -
+
+(i) A party to the civil action, administrative proceeding,
+claim, or cause of action;
+(ii) An attorney engaged directly or indirectly through
+another legal representative to represent a party in the civil action;
+(iii) An entity or insurer with a preexisting contractual
+obligation to indemnify or defend a party to the civil action; or
+(iv) A nonprofit organization that is funded by private
+donations; represents one (1) or more clients on a pro-bono, no-
+cost basis; and seeks only injunctive relief on behalf of its clients;
+provided, that this subdivision (2)(B)(iv) does not prohibit or
+otherwise affect an award of costs or attorney fees to such
+nonprofit organization seeking only injunctive relief on behalf of a
+client that such nonprofit organization represents on a pro-bono,
+no-cost basis, or to such client;
+(3) "Commercial litigation financing contract" means a written contract
+memorializing the terms and conditions of commercial litigation financing;
+(4) "Consumer" means a person who resides, is present, or is domiciled
+in this state, or who is or may become a plaintiff or complainant in a dispute in
+this state;
+(5) "Foreign person" means a person who is not:
+(A) A citizen of the United States;
+(B) An alien lawfully admitted for permanent residence in the
+United States;
+(C) An unincorporated association with a majority of members
+who are citizens of the United States or aliens lawfully admitted for
+permanent residence in the United States; or
+(D) A corporation that is incorporated in the United States;
+- 2 - 014413
+
+(6) "Litigation financier" means a person engaged in the business of
+litigation financing;
+(7) "Litigation financing" or "litigation financing transaction":
+(A) Means a non-recourse transaction in which financing is
+provided to a consumer in return for a consumer assigning to the litigation
+financier a contingent right to receive an amount of the potential proceeds
+of the consumer's judgment, award, settlement, or verdict obtained with
+respect to the consumer's legal claim; and
+(B) Does not include:
+(i) Legal services provided on a contingency fee basis, or
+advanced legal costs, where such services or costs are provided
+to or on behalf of a consumer by an attorney representing the
+consumer in the dispute and in accordance with the Tennessee
+Rules of Professional Conduct;
+(ii) A commercial tort claim, as defined by § 47-9-102; or
+(iii) A claim under the Workers' Compensation Law,
+compiled in title 50, chapter 6;
+(8) "Person" means an individual, combination of persons, including a
+class of plaintiffs, firm, corporation, association, trust, partnership, joint venture,
+limited liability company, governmental authority, or other entity; and
+(9) "Sovereign wealth fund" means an investment fund owned or
+controlled by a foreign principal or an agent of a foreign principal.
+SECTION 2. Tennessee Code Annotated, Section 47-16-103, is amended by deleting
+the section and substituting:
+(a)
+(1) A litigation financier or commercial litigation financier shall not engage
+in a litigation financing transaction or commercial litigation financing transaction
+- 3 - 014413
+
+in this state unless it is registered as a litigation financier or commercial litigation
+financier in this state.
+(2) A litigation financier or commercial litigation financier that is a
+business entity or partnership is registered in this state if:
+(A) It is in compliance with the bond requirements of subsection
+(b);
+(B) It has a status of active and in good standing as reflected in
+the records of the secretary of state; and
+(C) Its charter, articles of organization, certificate of limited
+partnership, or other organizational document, or, if a foreign entity, its
+application for a certificate of authority in this state, contains a statement
+that it will be designated as a litigation financier or commercial litigation
+financier pursuant to this chapter.
+(3) A litigation financier or commercial litigation financier that is not a
+business entity or partnership is registered in this state if:
+(A) It is in compliance with the bond requirements of subsection
+(b); and
+(B) It files an application for registration as a litigation financier or
+commercial litigation financier on a form prescribed by the secretary of
+state, along with a filing fee of one hundred dollars ($100), that contains
+the following:
+(i) The applicant's full legal name;
+(ii) The business name of the applicant, if any;
+(iii) The physical street address and mailing address of the
+applicant;
+(iv) A telephone number through which the applicant can
+be reached;
+- 4 - 014413
+
+(v) The name, physical street address, mailing address,
+and telephone number for a registered agent in this state that is
+appointed to accept service of process on behalf of the applicant;
+(vi) A statement that the applicant will be designated as a
+litigation financier or commercial litigation financier pursuant to this
+chapter; and
+(vii) Any other information the secretary of state deems
+necessary.
+(b)
+(1) Each litigation financier or commercial litigation financier shall
+file and have approved by the secretary of state a surety bond in the
+amount of fifty thousand dollars ($50,000).
+(2) The bond must be payable to this state for the use of the
+attorney general and reporter and any person who may have a cause of
+action against the obligor of the bond for a violation of this chapter. The
+bond must continue in effect so long as a litigation financier or
+commercial litigation financier is designated as a litigation financier or
+commercial litigation financier in the records of the secretary of state.
+(c) A litigation financier or commercial litigation financier shall amend its
+registration with the secretary of state within thirty (30) days whenever the
+information contained in the record changes or becomes inaccurate or
+incomplete. A litigation financier or commercial litigation financier that is not a
+business entity or partnership may amend or withdraw its registration with the
+secretary of state by filing a form prescribed by the secretary of state, along with
+a filing fee of twenty dollars ($20.00).
+(d) All documents filed pursuant to this section are public record.
+- 5 - 014413
+
+(e) The secretary of state shall collect a fee of twenty dollars ($20.00) for
+copying all filed documents pursuant to this chapter. All such copies must be
+certified or validated by the secretary of state.
+(f) The secretary of state, as appropriate, may promulgate rules in
+implementing this chapter, including the adoption of fees to cover administrative
+costs relating to administering this chapter.
+(g) A person shall not register as a litigation financier or a commercial
+litigation financier, or engage in litigation financing or commercial litigation
+financing in this state if the person is, in any capacity directly or indirectly related
+to such person's litigation financing or commercial litigation financing business,
+affiliated with a foreign person, foreign principal, or sovereign wealth fund of a
+foreign government or foreign nongovernment person designated by the United
+States secretary of commerce as a foreign adversary pursuant to 15 CFR 791.4.
+SECTION 3. Tennessee Code Annotated, Section 47-16-105, is amended by
+designating the existing language as subsection (a) and adding the following as a new
+subsection:
+(b) A commercial litigation financier shall not:
+(1) Direct, or make decisions with respect to, the course of a civil action,
+administrative proceeding, legal claim, or other legal proceeding for which the
+commercial litigation financier has provided commercial litigation financing, or a
+settlement or other disposition thereof, including decisions in appointing or
+changing legal representatives, choice or use of expert witnesses, and litigation
+strategy. All rights to make decisions with respect to the course and settlement
+or other disposition of the subject civil action, administrative proceeding, legal
+claim, or other legal proceeding remains solely with the parties to such action,
+claim, or proceeding and their legal representatives; or
+- 6 - 014413
+
+(2) Contract for, receive, or recover, whether directly or indirectly, an
+amount greater than an amount equal to the share of the proceeds collectively
+recovered by the parties in a civil action, administrative proceeding, legal claim,
+or other legal proceeding seeking to recover monetary damages financed by a
+commercial litigation financing contract after the payment of any attorney fees
+and costs owed in connection to such action, claim, or proceeding.
+SECTION 4. Tennessee Code Annotated, Section 47-16-106(a), is amended by
+deleting the subsection and substituting:
+(a) A litigation financing contract or commercial litigation financing contract must
+contain the disclosures specified in this section for the applicable type of contract, which
+constitute material terms of the litigation financing contract or commercial litigation
+financing contract.
+SECTION 5. Tennessee Code Annotated, Section 47-16-106, is amended by adding
+the following as new subsections:
+(c) The body of a commercial litigation financing contract must contain the
+following:
+The commercial litigation financier agrees that it has no right to and
+will not direct, or make any decisions with respect to, the course of
+any civil action, administrative proceeding, legal claim, or other
+legal proceeding that is included in this commercial litigation
+financing agreement, or any settlement or other disposition thereof.
+Such prohibition includes, but is not limited to, decisions in
+appointing or changing legal representatives, choice or use of
+expert witnesses, and litigation strategy. All rights to make
+decisions with respect to the course and settlement or other
+disposition of any civil action, administrative proceeding, legal
+claim, or other legal proceeding that is included in this commercial
+- 7 - 014413
+
+litigation financing agreement remain solely with the party and the
+party's legal representative.
+(d) A party or a party's legal representative shall file a commercial litigation
+financing contract, the subject of which is or includes the pending action, with the court
+and provide a copy to the other parties within fourteen (14) days after the party files its
+initial pleading or within fourteen (14) days after such a contract is executed or modified
+after the filing of the initial pleading. Prior to filing, the party or the party's legal
+representative may request a protective order to restrict further disclosure of the
+document.
+SECTION 6. Tennessee Code Annotated, Section 47-16-107, is amended by
+designating the existing language as subsection (a) and adding the following as new
+subsections:
+(b) A commercial litigation financier is jointly and severally liable for an award or
+order imposing or assessing costs or monetary sanctions against a party or the party's
+legal representative arising from or relating to a civil action, administrative proceeding,
+legal claim, or other legal proceeding for which the commercial litigation financier is
+providing commercial litigation financing to the party or the party's legal representative.
+(c) In a commercial litigation financing contract, the commercial litigation
+financier shall agree to indemnify, and shall indemnify even without such agreement, the
+party to the civil action, administrative proceeding, legal claim, or other legal proceeding
+that is the subject of such commercial litigation financing contract and such party's legal
+representatives against any adverse costs, attorney fees, damages, or sanctions that
+may be ordered or awarded against such persons in such action, claim, or proceedings.
+However, such indemnification is not required or enforceable for adverse costs, attorney
+fees, damages, or sanctions that the commercial litigation financier can show resulted
+from the intentional misconduct of the party or the party's legal representatives.
+- 8 - 014413
+
+SECTION 7. Tennessee Code Annotated, Section 47-16-110, is amended by adding
+the following as a new subsection:
+(e) A commercial litigation financier shall not charge an annual fee of more than
+ten percent (10%) of the original amount of money provided pursuant to a commercial
+litigation financing transaction.
+SECTION 8. This act takes effect upon becoming a law, the public welfare requiring it,
+and applies to contracts entered into, amended, or renewed on or after such date.
+- 9 - 014413
+
+[DELETED:  a HSA]
+[DELETED:  -0]
+[DELETED:  -0S(]
+[DELETED:  -0((((((]
+[DELETED:  -0]
+[DELETED:  -0S]
+[DELETED:  -0S(S]
+[DELETED:  -0S]
+[DELETED:  -0S]

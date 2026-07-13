@@ -1,0 +1,108 @@
+Title: SENATE BILL 2479
+Official Title: SENATE BILL 2479
+Number of Sections: 4
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+By Bowling
+HOUSE BILL 2132
+By Bricken
+AN ACT to amend Tennessee Code Annotated, Title 12
+and Title 68, relative to storm drain safety.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Title 68, Chapter 221, Part 1, is amended by
+adding the following new section:
+68-221-109.
+(a) All newly installed storm drains and culverts constructed after July 1, 2026,
+must be equipped with a safety cover or grate if the opening is large enough that a child
+could reasonably fall into or become trapped within the structure.
+(b) For purposes of this section, a storm drain opening is deemed large enough
+to require a safety cover if:
+(1) The opening exceeds twelve inches (12") in diameter or width; or
+(2) The opening is otherwise accessible and poses a risk of bodily entry
+by a child.
+(c) Safety covers or grates must be:
+(1) Constructed of durable material capable of withstanding expected
+water flow and debris;
+(2) Secured to prevent unauthorized removal; and
+(3) Designed to prevent accidental entry while allowing for proper
+drainage.
+(d) This section applies to all public infrastructure projects funded or approved
+by a state agency, municipality, metropolitan government, or county government.
+HB2132
+012458
+- 1 -
+(e) The department shall promulgate rules to implement this section, including
+specifications for approved safety covers and inspection protocols.
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Title 12, Chapter 4, Part 1, is amended by
+adding the following new section:
+(a) All contracts for public works involving stormwater infrastructure must include
+provisions requiring compliance with § 68-221-109.
+(b) If a contractor fails to install safety covers as prescribed in § 68-221-109,
+then any party who contracts with the contractor for the installation of the covers may
+withhold payment and seek corrective action and other penalties as provided by contract
+or by law.
+
+Section 4:
+SECTION 3. This act takes effect July 1, 2026, the public welfare requiring it.
+- 2 - 012458
+[DELETED: S(((((((((]
+[DELETED:  -0(S((S]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 2479
+By Bowling
+HOUSE BILL 2132
+By Bricken
+AN ACT to amend Tennessee Code Annotated, Title 12
+and Title 68, relative to storm drain safety.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Title 68, Chapter 221, Part 1, is amended by
+adding the following new section:
+68-221-109.
+(a) All newly installed storm drains and culverts constructed after July 1, 2026,
+must be equipped with a safety cover or grate if the opening is large enough that a child
+could reasonably fall into or become trapped within the structure.
+(b) For purposes of this section, a storm drain opening is deemed large enough
+to require a safety cover if:
+(1) The opening exceeds twelve inches (12") in diameter or width; or
+(2) The opening is otherwise accessible and poses a risk of bodily entry
+by a child.
+(c) Safety covers or grates must be:
+(1) Constructed of durable material capable of withstanding expected
+water flow and debris;
+(2) Secured to prevent unauthorized removal; and
+(3) Designed to prevent accidental entry while allowing for proper
+drainage.
+(d) This section applies to all public infrastructure projects funded or approved
+by a state agency, municipality, metropolitan government, or county government.
+HB2132
+012458
+- 1 -
+
+(e) The department shall promulgate rules to implement this section, including
+specifications for approved safety covers and inspection protocols.
+SECTION 2. Tennessee Code Annotated, Title 12, Chapter 4, Part 1, is amended by
+adding the following new section:
+(a) All contracts for public works involving stormwater infrastructure must include
+provisions requiring compliance with § 68-221-109.
+(b) If a contractor fails to install safety covers as prescribed in § 68-221-109,
+then any party who contracts with the contractor for the installation of the covers may
+withhold payment and seek corrective action and other penalties as provided by contract
+or by law.
+SECTION 3. This act takes effect July 1, 2026, the public welfare requiring it.
+- 2 - 012458
+
+[DELETED: S(((((((((]
+[DELETED:  -0(S((S]

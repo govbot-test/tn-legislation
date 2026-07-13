@@ -1,0 +1,83 @@
+Title: HOUSE BILL 2433
+Official Title: HOUSE BILL 2433
+Number of Sections: 5
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+By McKenzie
+SENATE BILL 2116
+By Campbell
+AN ACT to amend Tennessee Code Annotated, Title 67,
+Chapter 6, relative to sales and use tax
+exemptions.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 67-6-393(b)(1), is amended by
+deleting the word "and" at the end of subdivision (C), by deleting the period at the end of
+subdivision (D) and substituting instead the language "; and", and by adding the following as a
+new subdivision:
+(E) Books with a sales price of one hundred dollars ($100) or less per item.
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 67-6-393(b)(2), is amended by
+deleting subdivision (E) and substituting instead:
+(E) Reference maps and globes;
+
+Section 4:
+SECTION 3. Tennessee Code Annotated, Section 67-6-102, is amended by deleting
+subdivision (90) and adding the following as a new, appropriately designated subdivision:
+( ) "Books":
+(A) Means a set of written or printed pages fastened on one (1) side and
+enclosed between protective covers that are works of nonfiction, fiction, or short
+stories;
+(B) Includes printed literary works primarily published and distributed for
+sale to the general public, reference books, textbooks, and workbooks; and
+(C) Does not include newspapers, magazines, and periodicals.
+
+Section 5:
+SECTION 4. This act takes effect July 1, 2026, the public welfare requiring it.
+SB2116
+008865
+- 1 -
+[DELETED: S((S(S]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 2433
+By McKenzie
+SENATE BILL 2116
+By Campbell
+AN ACT to amend Tennessee Code Annotated, Title 67,
+Chapter 6, relative to sales and use tax
+exemptions.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 67-6-393(b)(1), is amended by
+deleting the word "and" at the end of subdivision (C), by deleting the period at the end of
+subdivision (D) and substituting instead the language "; and", and by adding the following as a
+new subdivision:
+(E) Books with a sales price of one hundred dollars ($100) or less per item.
+SECTION 2. Tennessee Code Annotated, Section 67-6-393(b)(2), is amended by
+deleting subdivision (E) and substituting instead:
+(E) Reference maps and globes;
+SECTION 3. Tennessee Code Annotated, Section 67-6-102, is amended by deleting
+subdivision (90) and adding the following as a new, appropriately designated subdivision:
+( ) "Books":
+(A) Means a set of written or printed pages fastened on one (1) side and
+enclosed between protective covers that are works of nonfiction, fiction, or short
+stories;
+(B) Includes printed literary works primarily published and distributed for
+sale to the general public, reference books, textbooks, and workbooks; and
+(C) Does not include newspapers, magazines, and periodicals.
+SECTION 4. This act takes effect July 1, 2026, the public welfare requiring it.
+SB2116
+008865
+- 1 -
+
+[DELETED: S((S(S]

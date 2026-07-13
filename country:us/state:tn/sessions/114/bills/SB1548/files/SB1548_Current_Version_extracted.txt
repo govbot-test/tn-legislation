@@ -1,0 +1,57 @@
+Title: HOUSE BILL 1605
+Official Title: HOUSE BILL 1605
+Number of Sections: 4
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+By Lafferty
+SENATE BILL 1548
+By Jackson
+AN ACT to amend Tennessee Code Annotated, Title 4,
+Chapter 29 and Title 64, Chapter 1, Part 7, relative
+to the Tellico Reservoir development agency.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 4-29-247(a), is amended by deleting
+subdivision (54).
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 4-29-251(a), is amended by inserting
+the following as a new subdivision:
+( ) Tellico Reservoir development agency, created by § 64-1-701;
+
+Section 4:
+SECTION 3. This act takes effect upon becoming a law, the public welfare requiring it.
+SB1548
+010106
+- 1 -
+[DELETED: SS (S]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 1605
+By Lafferty
+SENATE BILL 1548
+By Jackson
+AN ACT to amend Tennessee Code Annotated, Title 4,
+Chapter 29 and Title 64, Chapter 1, Part 7, relative
+to the Tellico Reservoir development agency.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 4-29-247(a), is amended by deleting
+subdivision (54).
+SECTION 2. Tennessee Code Annotated, Section 4-29-251(a), is amended by inserting
+the following as a new subdivision:
+( ) Tellico Reservoir development agency, created by § 64-1-701;
+SECTION 3. This act takes effect upon becoming a law, the public welfare requiring it.
+SB1548
+010106
+- 1 -
+
+[DELETED: SS (S]

@@ -1,0 +1,110 @@
+Title: HOUSE BILL 1993
+Official Title: HOUSE BILL 1993
+Number of Sections: 4
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+By Hill
+SENATE BILL 1722
+By Harshbarger
+AN ACT to amend Tennessee Code Annotated, Title 56,
+Chapter 7, Part 23, relative to medical
+laboratories.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 56-7-2357(b), is amended by
+deleting the subsection and substituting:
+(b) A health insurance issuer or a managed health insurance issuer shall not:
+(1) Deny a licensed medical laboratory the right to participate as a
+participating provider in a policy, contract, or plan on the same terms and
+conditions as are offered to another medical laboratory under the policy, contract,
+or plan; provided, that this subdivision (b)(1) does not prohibit a managed health
+insurance issuer or health insurance issuer from establishing rates or fees that
+may be higher in nonurban areas, or in specific instances where a managed
+health insurance issuer or health insurance issuer determines it necessary to
+contract with a particular provider in order to meet network adequacy standards
+or patient care needs;
+(2) Prevent a person who is a party to or beneficiary of a policy, contract,
+or plan from selecting a licensed medical laboratory of the person's choice to
+furnish the medical laboratory services offered under the contract, policy, or plan;
+provided, that the medical laboratory is a participating provider under the same
+terms and conditions of the contract, policy, or plan as those offered to another
+medical laboratory; or
+SB1722
+009797
+- 1 -
+(3) Except as provided in subsection (e), reimburse a non-network
+medical laboratory that is eligible to participate as a participating provider under
+this section for testing services at a rate that is less than the federal centers for
+medicare and medicaid services' clinical laboratory fee schedule for medical
+laboratories in this state.
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 56-7-2357, is amended by adding
+the following new subsection:
+(e) A managed health insurance issuer may require that, in order to receive the
+rate of reimbursement specified under subdivision (b)(3), a non-network medical
+laboratory meet the same performance metrics required of in-network medical
+laboratories.
+
+Section 4:
+SECTION 3. This act takes effect July 1, 2026, the public welfare requiring it.
+- 2 - 009797
+[DELETED: S(((]
+[DELETED:  -0(S(S]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 1993
+By Hill
+SENATE BILL 1722
+By Harshbarger
+AN ACT to amend Tennessee Code Annotated, Title 56,
+Chapter 7, Part 23, relative to medical
+laboratories.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 56-7-2357(b), is amended by
+deleting the subsection and substituting:
+(b) A health insurance issuer or a managed health insurance issuer shall not:
+(1) Deny a licensed medical laboratory the right to participate as a
+participating provider in a policy, contract, or plan on the same terms and
+conditions as are offered to another medical laboratory under the policy, contract,
+or plan; provided, that this subdivision (b)(1) does not prohibit a managed health
+insurance issuer or health insurance issuer from establishing rates or fees that
+may be higher in nonurban areas, or in specific instances where a managed
+health insurance issuer or health insurance issuer determines it necessary to
+contract with a particular provider in order to meet network adequacy standards
+or patient care needs;
+(2) Prevent a person who is a party to or beneficiary of a policy, contract,
+or plan from selecting a licensed medical laboratory of the person's choice to
+furnish the medical laboratory services offered under the contract, policy, or plan;
+provided, that the medical laboratory is a participating provider under the same
+terms and conditions of the contract, policy, or plan as those offered to another
+medical laboratory; or
+SB1722
+009797
+- 1 -
+
+(3) Except as provided in subsection (e), reimburse a non-network
+medical laboratory that is eligible to participate as a participating provider under
+this section for testing services at a rate that is less than the federal centers for
+medicare and medicaid services' clinical laboratory fee schedule for medical
+laboratories in this state.
+SECTION 2. Tennessee Code Annotated, Section 56-7-2357, is amended by adding
+the following new subsection:
+(e) A managed health insurance issuer may require that, in order to receive the
+rate of reimbursement specified under subdivision (b)(3), a non-network medical
+laboratory meet the same performance metrics required of in-network medical
+laboratories.
+SECTION 3. This act takes effect July 1, 2026, the public welfare requiring it.
+- 2 - 009797
+
+[DELETED: S(((]
+[DELETED:  -0(S(S]

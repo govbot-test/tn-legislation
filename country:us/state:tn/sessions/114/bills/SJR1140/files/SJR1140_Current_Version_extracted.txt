@@ -1,0 +1,90 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+SENATE JOINT RESOLUTION 1140
+By Southerland
+A RESOLUTION to honor Claire Yi upon winning the 2025-2026
+Tennessee Association of School Librarians
+Bookmark Contest.
+WHEREAS, it is fitting that the members of this General Assembly should salute those
+young Tennesseans who, through their extraordinary efforts, have distinguished themselves as
+emerging leaders of whom we can all be proud; and
+WHEREAS, one such exemplary young person is Claire Yi, who recently won the 2025-
+2026 Tennessee Association of School Librarians Bookmark Contest; and
+WHEREAS, Claire Yi is the second student from Tusculum View Elementary School to
+win the contest and one of more than 100 entrants who submitted an original design for the
+bookmark contest, which had as its theme "Color Your World Through Books at Your School
+Library"; and
+WHEREAS, the designs were judged according to creativity, commitment to the year's
+theme, and material usage, and Ms. Yi, competing successfully in the intermediate division,
+secured first-place honors; and
+WHEREAS, the intellectual aptitude, ambition, and character displayed by Claire Yi
+surely bode well for her future success; and
+WHEREAS, Ms. Yi's dedication to excellence is clearly deserving of the respect,
+admiration, and commendation of the members of this General Assembly; now, therefore,
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE HOUSE OF
+REPRESENTATIVES CONCURRING, that we recognize and honor Claire Yi upon winning the
+2025-2026 Tennessee Association of School Librarians Bookmark Contest and wish her all the
+best in her future endeavors.
+SJR1140
+017640
+- 1 -
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy and upon proper request made to
+the appropriate clerk, the language appearing immediately following the State seal appear
+without House or Senate designation.
+- 2 - 017640
+[DELETED: WWWWWWB]
+[DELETED:  -0B]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+SENATE JOINT RESOLUTION 1140
+By Southerland
+A RESOLUTION to honor Claire Yi upon winning the 2025-2026
+Tennessee Association of School Librarians
+Bookmark Contest.
+WHEREAS, it is fitting that the members of this General Assembly should salute those
+young Tennesseans who, through their extraordinary efforts, have distinguished themselves as
+emerging leaders of whom we can all be proud; and
+WHEREAS, one such exemplary young person is Claire Yi, who recently won the 2025-
+2026 Tennessee Association of School Librarians Bookmark Contest; and
+WHEREAS, Claire Yi is the second student from Tusculum View Elementary School to
+win the contest and one of more than 100 entrants who submitted an original design for the
+bookmark contest, which had as its theme "Color Your World Through Books at Your School
+Library"; and
+WHEREAS, the designs were judged according to creativity, commitment to the year's
+theme, and material usage, and Ms. Yi, competing successfully in the intermediate division,
+secured first-place honors; and
+WHEREAS, the intellectual aptitude, ambition, and character displayed by Claire Yi
+surely bode well for her future success; and
+WHEREAS, Ms. Yi's dedication to excellence is clearly deserving of the respect,
+admiration, and commendation of the members of this General Assembly; now, therefore,
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE HOUSE OF
+REPRESENTATIVES CONCURRING, that we recognize and honor Claire Yi upon winning the
+2025-2026 Tennessee Association of School Librarians Bookmark Contest and wish her all the
+best in her future endeavors.
+SJR1140
+017640
+- 1 -
+
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy and upon proper request made to
+the appropriate clerk, the language appearing immediately following the State seal appear
+without House or Senate designation.
+- 2 - 017640
+
+[DELETED: WWWWWWB]
+[DELETED:  -0B]

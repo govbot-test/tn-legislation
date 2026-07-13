@@ -1,0 +1,88 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+SENATE JOINT RESOLUTION 627
+By Johnson
+A RESOLUTION to confirm the appointment of Dr. Charles Doug
+Haney to the advisory board for the University of
+Tennessee Southern.
+WHEREAS, Tennessee Code Annotated, Section 49-9-501, established advisory boards
+for the University of Tennessee, Knoxville; University of Tennessee at Martin; University of
+Tennessee at Chattanooga; University of Tennessee Health Science Center; and University of
+Tennessee Southern; and
+WHEREAS, Tennessee Code Annotated, Section 49-9-501, provides that the governor
+shall appoint five members to each advisory board; and
+WHEREAS, Governor Bill Lee has appointed Dr. Charles Doug Haney to serve as a
+member of the advisory board for the University of Tennessee Southern for a term that expires
+on June 30, 2029; and
+WHEREAS, the owner of Physicians and Surgeons, Inc., Dr. Doug Haney is affiliated
+with Southern Tennessee Regional Health System, Pulaski; he serves on the boards of First
+Pulaski National Corporation, the First National Bank of Pulaski, and the University of
+Tennessee Foundation; and
+WHEREAS, Dr. Haney attended Martin Methodist College before graduating from the
+University of Tennessee, Knoxville, with a bachelor's degree; he then attended the University of
+Tennessee's Health Science Center College of Medicine, graduating with a Doctor of Medicine
+in 1979, specializing in family medicine; and
+WHEREAS, Tennessee Code Annotated, Section 49-9-501, provides that each member
+appointed by the governor to the advisory board for the University of Tennessee Southern shall
+be confirmed by the general assembly; now, therefore,
+SJR0627
+011625
+- 1 -
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE HOUSE OF
+REPRESENTATIVES CONCURRING, that we hereby confirm the appointment of Dr. Charles
+Doug Haney to the advisory board for the University of Tennessee Southern for a term that
+expires on June 30, 2029.
+- 2 - 011625
+[DELETED:  -0]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+SENATE JOINT RESOLUTION 627
+By Johnson
+A RESOLUTION to confirm the appointment of Dr. Charles Doug
+Haney to the advisory board for the University of
+Tennessee Southern.
+WHEREAS, Tennessee Code Annotated, Section 49-9-501, established advisory boards
+for the University of Tennessee, Knoxville; University of Tennessee at Martin; University of
+Tennessee at Chattanooga; University of Tennessee Health Science Center; and University of
+Tennessee Southern; and
+WHEREAS, Tennessee Code Annotated, Section 49-9-501, provides that the governor
+shall appoint five members to each advisory board; and
+WHEREAS, Governor Bill Lee has appointed Dr. Charles Doug Haney to serve as a
+member of the advisory board for the University of Tennessee Southern for a term that expires
+on June 30, 2029; and
+WHEREAS, the owner of Physicians and Surgeons, Inc., Dr. Doug Haney is affiliated
+with Southern Tennessee Regional Health System, Pulaski; he serves on the boards of First
+Pulaski National Corporation, the First National Bank of Pulaski, and the University of
+Tennessee Foundation; and
+WHEREAS, Dr. Haney attended Martin Methodist College before graduating from the
+University of Tennessee, Knoxville, with a bachelor's degree; he then attended the University of
+Tennessee's Health Science Center College of Medicine, graduating with a Doctor of Medicine
+in 1979, specializing in family medicine; and
+WHEREAS, Tennessee Code Annotated, Section 49-9-501, provides that each member
+appointed by the governor to the advisory board for the University of Tennessee Southern shall
+be confirmed by the general assembly; now, therefore,
+SJR0627
+011625
+- 1 -
+
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE HOUSE OF
+REPRESENTATIVES CONCURRING, that we hereby confirm the appointment of Dr. Charles
+Doug Haney to the advisory board for the University of Tennessee Southern for a term that
+expires on June 30, 2029.
+- 2 - 011625
+
+[DELETED:  -0]
