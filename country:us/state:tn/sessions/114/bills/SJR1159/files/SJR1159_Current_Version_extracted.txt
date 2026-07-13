@@ -1,0 +1,145 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 2
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+SENATE JOINT RESOLUTION 1159
+By Lowe
+A RESOLUTION to honor the Cleveland High School Blue
+Raiders on winning their ninth consecutive
+TSSAA state dual wrestling championship in
+
+Section 2:
+2026.
+WHEREAS, it is fitting that this General Assembly should salute those student athletes
+who, through their extraordinary efforts, have distinguished themselves as true champions of
+whom we can all be proud; and
+WHEREAS, one such exemplary group of young athletes is the Cleveland High School
+Blue Raiders, whose members have all proven themselves to be the fiercest of competitors and
+truly worthy of admiration by winning the 2026 TSSAA Division I, Class AA state boys' dual
+wrestling championship; and
+WHEREAS, the 2026 title marks an incredible ninth consecutive state duals
+championship for Cleveland, a feat that extends the record the Blue Raiders had previously set;
+and
+WHEREAS, Cleveland also recorded the team's sixth consecutive undefeated duals
+season in 2025-2026; and
+WHEREAS, in the final match versus Dobyns-Bennett, Cleveland scored 32 consecutive
+points to transform a three-point lead into a 53-18 victory and a state championship; and
+WHEREAS, in addition to the state duals title, Cleveland produced several individual
+state boys' wrestling champions this season, including Jose Cordero, Dominic Cordero, Kellen
+Sanders, Braxton Pulley, and Gabe Moore; and
+WHEREAS, the following young men are proud to compete on the wrestling mat as a
+Cleveland Blue Raider: Gabriel Ayala, Ralston Blake, Aiden Boyd, Hudson Chittum, Hayden
+Clark, Preston Congdon, Dominic Cordero, Jose Cordero, Taylor Crawley, Max Denetolis,
+SJR1159
+018113
+- 1 -
+Tracey Dennard, William Hartgraves, Mikiah Haun, Bronson Hayes, Jayden Heath, Jace
+Hidalgo, Gary High, Cole Hitson, Ezra Ledlow, Dylan Mason, Colt Maughon, Boone Maughon,
+Kaleb Miller, Gabe Moore, Destin Morris, Elijah Nichols, Leonid Novochkov, Braxton Pulley,
+Braylon Pulley, Logan Raske, Zaviour Richmire, Carson Russell, Kellen Sanders, Tucker
+Sepenuk, Zechariah Shipman, Cason Stewart, Xavier Terry, Caleb Valentin, Bryce Webb, and
+Elijah York; and
+WHEREAS, Cleveland was piloted to the promised land by Head Coach Josh Bosken
+and his assistant coaches, Matt High, Jacob Murphy, Shawn Cordell, Brooks Sacharczyk, and
+Evan Vermillion; and
+WHEREAS, the Cleveland High School Blue Raiders epitomize all that is good in today's
+student athletes, as they have achieved a premier level of success in competition while
+exhibiting the highest degree of character in all aspects of life; and
+WHEREAS, the perseverance, determination, work ethic, and talent of this group of
+young men not only made possible a record-extending championship season but also surely
+bode well for their future success; and
+WHEREAS, the members of this General Assembly find it appropriate to acknowledge
+and applaud the Cleveland High School boys' wrestling team; now, therefore,
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE HOUSE OF
+REPRESENTATIVES CONCURRING, that we honor and congratulate the members and
+coaches of the Cleveland High School Blue Raiders boys' wrestling team on winning the 2026
+TSSAA Division I, Class AA state dual wrestling championship, thus claiming their ninth
+consecutive state duals title, and extend to them our best wishes for every continued success in
+all their future endeavors.
+- 2 - 018113
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy and upon proper request made to
+the appropriate clerk, the language appearing immediately following the State seal appear
+without House or Senate designation.
+- 3 - 018113
+[DELETED: WWWWWWW]
+[DELETED:  -0WWWWB]
+[DELETED:  -0B]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+SENATE JOINT RESOLUTION 1159
+By Lowe
+A RESOLUTION to honor the Cleveland High School Blue
+Raiders on winning their ninth consecutive
+TSSAA state dual wrestling championship in
+2026.
+WHEREAS, it is fitting that this General Assembly should salute those student athletes
+who, through their extraordinary efforts, have distinguished themselves as true champions of
+whom we can all be proud; and
+WHEREAS, one such exemplary group of young athletes is the Cleveland High School
+Blue Raiders, whose members have all proven themselves to be the fiercest of competitors and
+truly worthy of admiration by winning the 2026 TSSAA Division I, Class AA state boys' dual
+wrestling championship; and
+WHEREAS, the 2026 title marks an incredible ninth consecutive state duals
+championship for Cleveland, a feat that extends the record the Blue Raiders had previously set;
+and
+WHEREAS, Cleveland also recorded the team's sixth consecutive undefeated duals
+season in 2025-2026; and
+WHEREAS, in the final match versus Dobyns-Bennett, Cleveland scored 32 consecutive
+points to transform a three-point lead into a 53-18 victory and a state championship; and
+WHEREAS, in addition to the state duals title, Cleveland produced several individual
+state boys' wrestling champions this season, including Jose Cordero, Dominic Cordero, Kellen
+Sanders, Braxton Pulley, and Gabe Moore; and
+WHEREAS, the following young men are proud to compete on the wrestling mat as a
+Cleveland Blue Raider: Gabriel Ayala, Ralston Blake, Aiden Boyd, Hudson Chittum, Hayden
+Clark, Preston Congdon, Dominic Cordero, Jose Cordero, Taylor Crawley, Max Denetolis,
+SJR1159
+018113
+- 1 -
+
+Tracey Dennard, William Hartgraves, Mikiah Haun, Bronson Hayes, Jayden Heath, Jace
+Hidalgo, Gary High, Cole Hitson, Ezra Ledlow, Dylan Mason, Colt Maughon, Boone Maughon,
+Kaleb Miller, Gabe Moore, Destin Morris, Elijah Nichols, Leonid Novochkov, Braxton Pulley,
+Braylon Pulley, Logan Raske, Zaviour Richmire, Carson Russell, Kellen Sanders, Tucker
+Sepenuk, Zechariah Shipman, Cason Stewart, Xavier Terry, Caleb Valentin, Bryce Webb, and
+Elijah York; and
+WHEREAS, Cleveland was piloted to the promised land by Head Coach Josh Bosken
+and his assistant coaches, Matt High, Jacob Murphy, Shawn Cordell, Brooks Sacharczyk, and
+Evan Vermillion; and
+WHEREAS, the Cleveland High School Blue Raiders epitomize all that is good in today's
+student athletes, as they have achieved a premier level of success in competition while
+exhibiting the highest degree of character in all aspects of life; and
+WHEREAS, the perseverance, determination, work ethic, and talent of this group of
+young men not only made possible a record-extending championship season but also surely
+bode well for their future success; and
+WHEREAS, the members of this General Assembly find it appropriate to acknowledge
+and applaud the Cleveland High School boys' wrestling team; now, therefore,
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE HOUSE OF
+REPRESENTATIVES CONCURRING, that we honor and congratulate the members and
+coaches of the Cleveland High School Blue Raiders boys' wrestling team on winning the 2026
+TSSAA Division I, Class AA state dual wrestling championship, thus claiming their ninth
+consecutive state duals title, and extend to them our best wishes for every continued success in
+all their future endeavors.
+- 2 - 018113
+
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy and upon proper request made to
+the appropriate clerk, the language appearing immediately following the State seal appear
+without House or Senate designation.
+- 3 - 018113
+
+[DELETED: WWWWWWW]
+[DELETED:  -0WWWWB]
+[DELETED:  -0B]

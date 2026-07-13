@@ -1,0 +1,320 @@
+Title: HOUSE BILL 2054
+Official Title: HOUSE BILL 2054
+Number of Sections: 4
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+By Camper
+SENATE BILL 1999
+By Lamar
+AN ACT to amend Tennessee Code Annotated, Title 7 and
+Title 65, relative to energy.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Title 65, Chapter 4, is amended by adding
+the following as a new part:
+65-4-601. Short title.
+This part is known and may be cited as the "Data Center, Artificial Intelligence,
+and Clean Transition Tariff Accountability Act."
+65-4-602. Legislative findings and purpose.
+(a) The general assembly finds that:
+(1) This state is experiencing rapid growth in electricity demand from
+large-scale data centers, artificial intelligence (AI) facilities, cloud computing
+operations, and crypto-adjacent industries;
+(2) These facilities may consume electricity at levels comparable to entire
+municipalities, requiring significant new generation, transmission, and distribution
+infrastructure;
+(3) Absent statutory safeguards, the cost of serving such load growth
+may be shifted to residential and small business ratepayers;
+(4) Other states have adopted clean transition tariffs allowing large
+customers to pay a voluntary premium to support new clean and reliable
+generation without impacting other ratepayers; and
+SB1999
+010872
+- 1 -
+(5) This state's electric system is predominantly served by the
+Tennessee Valley authority (TVA), with electricity distributed through municipal
+utilities and electric cooperatives.
+(b) The purpose of this part is to:
+(1) Protect residential and small business customers from rate increases
+driven by large corporate energy demand;
+(2) Establish a Tennessee clean transition tariff for large energy-intensive
+users;
+(3) Require large energy-intensive users to fund incremental generation
+and grid upgrades proportionate to their usage; and
+(4) Preserve grid reliability, affordability, and economic competitiveness.
+65-4-603. Definitions.
+As used in this part:
+(1) "Artificial intelligence" or "AI" means a machine-based system that
+can, for a given set of human-defined objectives, make predictions,
+recommendations, or decisions influencing real or virtual environments and that
+is capable of using machine and human-based inputs to perceive real and virtual
+environments, abstract such perceptions into models through analysis in an
+automated manner, and use model inference to formulate options for information
+or action;
+(2) "Clean transition tariff" or "CTT" means a voluntary electricity rate or
+rider approved pursuant to this part that allows large energy-intensive users to
+procure new, additional clean and reliable electric generation through a premium
+charge, without cost-shifting to other customers;
+- 2 - 010872
+(3) "Commission" means the Tennessee public utility commission,
+created under § 65-1-101;
+(4) "Electric cooperative" means an electric cooperative or electric
+membership organization organized or operating under chapter 25 of this title;
+(5) "Incremental clean power" means electricity generated from new,
+additional resources not already included in a utility's existing generation
+portfolio;
+(6) "Incremental load" means new or expanded electric demand beyond
+a facility's baseline demand at the time of initial service approval;
+(7) "Large energy-intensive user" or "user" means a single facility or
+campus that:
+(A) Has a peak electric demand of twenty-five megawatts (25
+MW) or greater; or
+(B) Is primarily engaged in data processing, AI training, cloud
+computing, high-performance computing, or crypto-adjacent operations;
+(8) "Local power company" means a municipal electric utility or electric
+cooperative that purchases wholesale power from the TVA; and
+(9) "Small business" means a business entity, including its affiliates, that
+employs fifty (50) or fewer full-time employees.
+65-4-604. Creation of a Tennessee clean transition tariff.
+(a) The Tennessee public utility commission may approve one (1) or more clean
+transition tariffs applicable to large energy-intensive users; provided, that the CTT meets
+the requirements described in subsection (b).
+(b) A clean transition tariff must:
+- 3 - 010872
+(1) Allow a large energy-intensive user to voluntarily procure incremental
+clean power sufficient to serve one hundred percent (100%) of the user's
+incremental load;
+(2) Ensure that generation resources developed under the tariff are new
+and additional;
+(3) Prohibit the recovery of any costs from residential or small business
+customers; and
+(4) Be structured to preserve grid reliability and affordability.
+65-4-605. Tennessee Valley authority.
+(a) This part must not be construed to alter or impair the federal authority of the
+Tennessee valley authority; provided, however, that local power companies serving
+large energy-intensive users shall ensure that incremental load is served in a manner
+consistent with the protections established in this part.
+(b) A local power company serving a large energy-intensive user shall:
+(1) Require participation in a clean transition tariff or equivalent TVA-
+approved rate structure that:
+(A) Provides incremental clean and reliable power; and
+(B) Prevents cost-shifting to residential and small business
+customers; and
+(2) Require the large energy-intensive user to bear the proportional cost
+of grid upgrades necessary to serve the user's incremental load.
+(c) The commission shall coordinate with the TVA and local power companies
+to:
+(1) Review tariff structures applicable to large energy-intensive users;
+(2) Ensure compliance with residential rate protection provisions; and
+- 4 - 010872
+(3) Receive annual reporting on large-load impacts and cost allocation.
+65-4-606. Grid cost responsibility.
+(a) A large energy-intensive user is responsible for the reasonable and
+proportional costs of:
+(1) Transmission and distribution upgrades;
+(2) Substation construction or expansion; and
+(3) Grid reliability and resilience investments required to serve
+incremental load.
+(b) The costs described in subdivisions (a)(1)-(3) must not be recovered from
+residential or small business customers.
+65-4-607. Ratepayer protection.
+Prior to approving service for a large energy-intensive user, a local power
+company shall demonstrate that:
+(1) Residential and small business customers will not experience a rate
+increase due to the user's incremental load; and
+(2) All incremental generation and grid costs are fully allocated to the
+large energy-intensive user.
+65-4-608. Transparency and reporting.
+On January 1, 2027, and each year thereafter, the commission shall submit a
+report to the members of the senate commerce and labor committee, the members of
+the committee of the house of representatives having jurisdiction over utilities, and the
+legislative librarian, detailing:
+(1) The number of large energy-intensive users served in this state;
+(2) Total incremental load added statewide;
+(3) Clean energy resources developed under clean transition tariffs;
+- 5 - 010872
+(4) Grid investments funded by large energy-intensive users; and
+(5) Verified impacts on residential and small business rates.
+65-4-609. Rulemaking authority.
+The commission may promulgate rules necessary to effectuate this part,
+including compliance standards, verification requirements, and reporting procedures.
+
+Section 3:
+SECTION 2. The headings in this act are for reference purposes only and do not
+constitute a part of the law enacted by this act. However, the Tennessee Code Commission is
+requested to include the headings in any compilation or publication containing this act.
+
+Section 4:
+SECTION 3. This act takes effect July 1, 2026, the public welfare requiring it, and
+applies to all new or expanded large energy-intensive users seeking electric service on or after
+that date.
+- 6 - 010872
+[DELETED:  -0]
+[DELETED:  -0]
+[DELETED:  -0]
+[DELETED:  -0]
+[DELETED:  -0]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 2054
+By Camper
+SENATE BILL 1999
+By Lamar
+AN ACT to amend Tennessee Code Annotated, Title 7 and
+Title 65, relative to energy.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Title 65, Chapter 4, is amended by adding
+the following as a new part:
+65-4-601. Short title.
+This part is known and may be cited as the "Data Center, Artificial Intelligence,
+and Clean Transition Tariff Accountability Act."
+65-4-602. Legislative findings and purpose.
+(a) The general assembly finds that:
+(1) This state is experiencing rapid growth in electricity demand from
+large-scale data centers, artificial intelligence (AI) facilities, cloud computing
+operations, and crypto-adjacent industries;
+(2) These facilities may consume electricity at levels comparable to entire
+municipalities, requiring significant new generation, transmission, and distribution
+infrastructure;
+(3) Absent statutory safeguards, the cost of serving such load growth
+may be shifted to residential and small business ratepayers;
+(4) Other states have adopted clean transition tariffs allowing large
+customers to pay a voluntary premium to support new clean and reliable
+generation without impacting other ratepayers; and
+SB1999
+010872
+- 1 -
+
+(5) This state's electric system is predominantly served by the
+Tennessee Valley authority (TVA), with electricity distributed through municipal
+utilities and electric cooperatives.
+(b) The purpose of this part is to:
+(1) Protect residential and small business customers from rate increases
+driven by large corporate energy demand;
+(2) Establish a Tennessee clean transition tariff for large energy-intensive
+users;
+(3) Require large energy-intensive users to fund incremental generation
+and grid upgrades proportionate to their usage; and
+(4) Preserve grid reliability, affordability, and economic competitiveness.
+65-4-603. Definitions.
+As used in this part:
+(1) "Artificial intelligence" or "AI" means a machine-based system that
+can, for a given set of human-defined objectives, make predictions,
+recommendations, or decisions influencing real or virtual environments and that
+is capable of using machine and human-based inputs to perceive real and virtual
+environments, abstract such perceptions into models through analysis in an
+automated manner, and use model inference to formulate options for information
+or action;
+(2) "Clean transition tariff" or "CTT" means a voluntary electricity rate or
+rider approved pursuant to this part that allows large energy-intensive users to
+procure new, additional clean and reliable electric generation through a premium
+charge, without cost-shifting to other customers;
+- 2 - 010872
+
+(3) "Commission" means the Tennessee public utility commission,
+created under § 65-1-101;
+(4) "Electric cooperative" means an electric cooperative or electric
+membership organization organized or operating under chapter 25 of this title;
+(5) "Incremental clean power" means electricity generated from new,
+additional resources not already included in a utility's existing generation
+portfolio;
+(6) "Incremental load" means new or expanded electric demand beyond
+a facility's baseline demand at the time of initial service approval;
+(7) "Large energy-intensive user" or "user" means a single facility or
+campus that:
+(A) Has a peak electric demand of twenty-five megawatts (25
+MW) or greater; or
+(B) Is primarily engaged in data processing, AI training, cloud
+computing, high-performance computing, or crypto-adjacent operations;
+(8) "Local power company" means a municipal electric utility or electric
+cooperative that purchases wholesale power from the TVA; and
+(9) "Small business" means a business entity, including its affiliates, that
+employs fifty (50) or fewer full-time employees.
+65-4-604. Creation of a Tennessee clean transition tariff.
+(a) The Tennessee public utility commission may approve one (1) or more clean
+transition tariffs applicable to large energy-intensive users; provided, that the CTT meets
+the requirements described in subsection (b).
+(b) A clean transition tariff must:
+- 3 - 010872
+
+(1) Allow a large energy-intensive user to voluntarily procure incremental
+clean power sufficient to serve one hundred percent (100%) of the user's
+incremental load;
+(2) Ensure that generation resources developed under the tariff are new
+and additional;
+(3) Prohibit the recovery of any costs from residential or small business
+customers; and
+(4) Be structured to preserve grid reliability and affordability.
+65-4-605. Tennessee Valley authority.
+(a) This part must not be construed to alter or impair the federal authority of the
+Tennessee valley authority; provided, however, that local power companies serving
+large energy-intensive users shall ensure that incremental load is served in a manner
+consistent with the protections established in this part.
+(b) A local power company serving a large energy-intensive user shall:
+(1) Require participation in a clean transition tariff or equivalent TVA-
+approved rate structure that:
+(A) Provides incremental clean and reliable power; and
+(B) Prevents cost-shifting to residential and small business
+customers; and
+(2) Require the large energy-intensive user to bear the proportional cost
+of grid upgrades necessary to serve the user's incremental load.
+(c) The commission shall coordinate with the TVA and local power companies
+to:
+(1) Review tariff structures applicable to large energy-intensive users;
+(2) Ensure compliance with residential rate protection provisions; and
+- 4 - 010872
+
+(3) Receive annual reporting on large-load impacts and cost allocation.
+65-4-606. Grid cost responsibility.
+(a) A large energy-intensive user is responsible for the reasonable and
+proportional costs of:
+(1) Transmission and distribution upgrades;
+(2) Substation construction or expansion; and
+(3) Grid reliability and resilience investments required to serve
+incremental load.
+(b) The costs described in subdivisions (a)(1)-(3) must not be recovered from
+residential or small business customers.
+65-4-607. Ratepayer protection.
+Prior to approving service for a large energy-intensive user, a local power
+company shall demonstrate that:
+(1) Residential and small business customers will not experience a rate
+increase due to the user's incremental load; and
+(2) All incremental generation and grid costs are fully allocated to the
+large energy-intensive user.
+65-4-608. Transparency and reporting.
+On January 1, 2027, and each year thereafter, the commission shall submit a
+report to the members of the senate commerce and labor committee, the members of
+the committee of the house of representatives having jurisdiction over utilities, and the
+legislative librarian, detailing:
+(1) The number of large energy-intensive users served in this state;
+(2) Total incremental load added statewide;
+(3) Clean energy resources developed under clean transition tariffs;
+- 5 - 010872
+
+(4) Grid investments funded by large energy-intensive users; and
+(5) Verified impacts on residential and small business rates.
+65-4-609. Rulemaking authority.
+The commission may promulgate rules necessary to effectuate this part,
+including compliance standards, verification requirements, and reporting procedures.
+SECTION 2. The headings in this act are for reference purposes only and do not
+constitute a part of the law enacted by this act. However, the Tennessee Code Commission is
+requested to include the headings in any compilation or publication containing this act.
+SECTION 3. This act takes effect July 1, 2026, the public welfare requiring it, and
+applies to all new or expanded large energy-intensive users seeking electric service on or after
+that date.
+- 6 - 010872
+
+[DELETED:  -0]
+[DELETED:  -0]
+[DELETED:  -0]
+[DELETED:  -0]
+[DELETED:  -0]

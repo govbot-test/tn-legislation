@@ -1,0 +1,96 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+HOUSE RESOLUTION 145
+By Cepicky
+A RESOLUTION to recognize Lafayette Chapter #4 Royal Arch
+Masons of Tennessee on the occasion of its
+200th anniversary.
+WHEREAS, it is fitting that we should recognize those exemplary organizations that,
+through an abiding commitment to excellence, have contributed greatly to this State for many
+years; and
+WHEREAS, one such notable organization is Lafayette Chapter #4 Royal Arch Masons
+of Tennessee, which is celebrating its 200th anniversary this year; and
+WHEREAS, Lafayette Chapter #4 Royal Arch Masons of Tennessee is a Masonic
+fraternal organization that also contributes to charitable causes, such as Royal Arch Medical
+Research Assistance, Autism Awareness, and Aide of Tennessee; and
+WHEREAS, for 200 years, men from all walks of life in Maury County and its environs
+have joined this esteemed organization to improve their character and contribute to society
+through practicing Royal Arch moral teachings; a number of members throughout the Chapter's
+existence have been leaders of distinction, including President James K. Polk; and
+WHEREAS, an anniversary of this magnitude gives members a chance to celebrate their
+long and distinguished history of charity and community service, reflect back with respect and
+reverence on the work, struggles, and accomplishments of those who have gone before them,
+and look toward the future with strength, confidence, and pride; and
+WHEREAS, the members of Lafayette Chapter #4 Royal Arch Masons of Tennessee
+have dedicated themselves to laudable acts that have assisted countless individuals and have
+made a positive impact on their community and on this State as a whole, and they should be
+formally recognized on this special occasion; now, therefore,
+HR0145
+011850
+- 1 -
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, that we honor and
+commend the members, both past and present, of Lafayette Chapter #4 Royal Arch Masons of
+Tennessee for their dedication to public service, congratulate them on the organization's 200th
+anniversary, and extend to them our best wishes for every continued success in all their future
+endeavors.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy.
+- 2 - 011850
+[DELETED: 0 W0 ]
+[DELETED:  -0B0B]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+HOUSE RESOLUTION 145
+By Cepicky
+A RESOLUTION to recognize Lafayette Chapter #4 Royal Arch
+Masons of Tennessee on the occasion of its
+200th anniversary.
+WHEREAS, it is fitting that we should recognize those exemplary organizations that,
+through an abiding commitment to excellence, have contributed greatly to this State for many
+years; and
+WHEREAS, one such notable organization is Lafayette Chapter #4 Royal Arch Masons
+of Tennessee, which is celebrating its 200th anniversary this year; and
+WHEREAS, Lafayette Chapter #4 Royal Arch Masons of Tennessee is a Masonic
+fraternal organization that also contributes to charitable causes, such as Royal Arch Medical
+Research Assistance, Autism Awareness, and Aide of Tennessee; and
+WHEREAS, for 200 years, men from all walks of life in Maury County and its environs
+have joined this esteemed organization to improve their character and contribute to society
+through practicing Royal Arch moral teachings; a number of members throughout the Chapter's
+existence have been leaders of distinction, including President James K. Polk; and
+WHEREAS, an anniversary of this magnitude gives members a chance to celebrate their
+long and distinguished history of charity and community service, reflect back with respect and
+reverence on the work, struggles, and accomplishments of those who have gone before them,
+and look toward the future with strength, confidence, and pride; and
+WHEREAS, the members of Lafayette Chapter #4 Royal Arch Masons of Tennessee
+have dedicated themselves to laudable acts that have assisted countless individuals and have
+made a positive impact on their community and on this State as a whole, and they should be
+formally recognized on this special occasion; now, therefore,
+HR0145
+011850
+- 1 -
+
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, that we honor and
+commend the members, both past and present, of Lafayette Chapter #4 Royal Arch Masons of
+Tennessee for their dedication to public service, congratulate them on the organization's 200th
+anniversary, and extend to them our best wishes for every continued success in all their future
+endeavors.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy.
+- 2 - 011850
+
+[DELETED: 0 W0 ]
+[DELETED:  -0B0B]

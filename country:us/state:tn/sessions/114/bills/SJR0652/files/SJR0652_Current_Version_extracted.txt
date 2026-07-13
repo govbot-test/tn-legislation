@@ -1,0 +1,96 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+SENATE JOINT RESOLUTION 652
+By Hensley
+A RESOLUTION to honor and commend Wayne Brewer for his
+contributions to the State of Tennessee.
+WHEREAS, it is fitting that the members of this General Assembly should salute those
+citizens who, through their extraordinary efforts, have distinguished themselves as community
+leaders of whom we can all be proud; and
+WHEREAS, one such noteworthy person is Wayne Brewer, a highly respected member
+of his community who has dedicated himself to improving the quality of life for his fellow citizens;
+and
+WHEREAS, for more than five years, Mr. Brewer has utilized his professional expertise
+in carpentry and plumbing to provide essential home repairs for the disabled and those in
+profound financial need; and
+WHEREAS, Wayne Brewer operates entirely without charging for his service,
+demonstrating his remarkable generosity by using his valuable skills to ensure that the most
+vulnerable among us have safe, functional living environments; and
+WHEREAS, a humble servant, Mr. Brewer never seeks recognition, praise, or monetary
+compensation; his dedication, passion, and unwavering desire to help are driven by a deep love
+for people, community, country, and God; and
+WHEREAS, Wayne Brewer epitomizes the spirit and commitment to service and
+community that are characteristic of a true Tennessean; and
+WHEREAS, it is appropriate that the members of this General Assembly acknowledge
+and applaud Mr. Brewer for his dedication to the State of Tennessee and its citizens; now,
+therefore,
+SJR0652
+011902
+- 1 -
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE HOUSE OF
+REPRESENTATIVES CONCURRING, that we honor and commend Wayne Brewer for his
+service to his community and the State of Tennessee and extend to him our best wishes for
+much continued success.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy and upon proper request made to
+the appropriate clerk, the language appearing immediately following the State seal appear
+without House or Senate designation.
+- 2 - 011902
+[DELETED: WWWWWWW]
+[DELETED:  -0BB]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+SENATE JOINT RESOLUTION 652
+By Hensley
+A RESOLUTION to honor and commend Wayne Brewer for his
+contributions to the State of Tennessee.
+WHEREAS, it is fitting that the members of this General Assembly should salute those
+citizens who, through their extraordinary efforts, have distinguished themselves as community
+leaders of whom we can all be proud; and
+WHEREAS, one such noteworthy person is Wayne Brewer, a highly respected member
+of his community who has dedicated himself to improving the quality of life for his fellow citizens;
+and
+WHEREAS, for more than five years, Mr. Brewer has utilized his professional expertise
+in carpentry and plumbing to provide essential home repairs for the disabled and those in
+profound financial need; and
+WHEREAS, Wayne Brewer operates entirely without charging for his service,
+demonstrating his remarkable generosity by using his valuable skills to ensure that the most
+vulnerable among us have safe, functional living environments; and
+WHEREAS, a humble servant, Mr. Brewer never seeks recognition, praise, or monetary
+compensation; his dedication, passion, and unwavering desire to help are driven by a deep love
+for people, community, country, and God; and
+WHEREAS, Wayne Brewer epitomizes the spirit and commitment to service and
+community that are characteristic of a true Tennessean; and
+WHEREAS, it is appropriate that the members of this General Assembly acknowledge
+and applaud Mr. Brewer for his dedication to the State of Tennessee and its citizens; now,
+therefore,
+SJR0652
+011902
+- 1 -
+
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE HOUSE OF
+REPRESENTATIVES CONCURRING, that we honor and commend Wayne Brewer for his
+service to his community and the State of Tennessee and extend to him our best wishes for
+much continued success.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy and upon proper request made to
+the appropriate clerk, the language appearing immediately following the State seal appear
+without House or Senate designation.
+- 2 - 011902
+
+[DELETED: WWWWWWW]
+[DELETED:  -0BB]

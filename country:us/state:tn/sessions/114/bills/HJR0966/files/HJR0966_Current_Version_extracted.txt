@@ -1,0 +1,75 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+HOUSE JOINT RESOLUTION 966
+By Hill
+A RESOLUTION to commemorate March 18, 2026, as Dutch Day
+in Tennessee.
+WHEREAS, the members of this General Assembly hold immense esteem for this
+State's rich cultural diversity and the vibrant contributions made by the Dutch community; and
+WHEREAS, the Dutch community has played a significant role in the cultural, social, and
+economic development of our great State; and
+WHEREAS, Dutch Day at the state capitol serves as an opportunity to celebrate the
+heritage, traditions, and contributions of the Dutch in Tennessee; and
+WHEREAS, this event fosters cultural understanding and unity among all Tennesseans,
+promoting respect and appreciation for the diverse backgrounds that enrich our State's fabric;
+and
+WHEREAS, the celebration of Dutch Day encourages community engagement,
+education, and the sharing of cultural practices that enhance the lives of all citizens; and
+WHEREAS, it is fitting that we join in celebrating this day and the contributions of the
+Dutch community to our state; now, therefore,
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE SENATE
+CONCURRING, that we join with citizens throughout the State in commemorating Dutch Day in
+Tennessee on March 18, 2026.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy and upon proper request made to
+the appropriate clerk, the language appearing immediately following the State seal appear
+without House or Senate designation.
+HJR0966
+013411
+- 1 -
+[DELETED: WBB]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+HOUSE JOINT RESOLUTION 966
+By Hill
+A RESOLUTION to commemorate March 18, 2026, as Dutch Day
+in Tennessee.
+WHEREAS, the members of this General Assembly hold immense esteem for this
+State's rich cultural diversity and the vibrant contributions made by the Dutch community; and
+WHEREAS, the Dutch community has played a significant role in the cultural, social, and
+economic development of our great State; and
+WHEREAS, Dutch Day at the state capitol serves as an opportunity to celebrate the
+heritage, traditions, and contributions of the Dutch in Tennessee; and
+WHEREAS, this event fosters cultural understanding and unity among all Tennesseans,
+promoting respect and appreciation for the diverse backgrounds that enrich our State's fabric;
+and
+WHEREAS, the celebration of Dutch Day encourages community engagement,
+education, and the sharing of cultural practices that enhance the lives of all citizens; and
+WHEREAS, it is fitting that we join in celebrating this day and the contributions of the
+Dutch community to our state; now, therefore,
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE SENATE
+CONCURRING, that we join with citizens throughout the State in commemorating Dutch Day in
+Tennessee on March 18, 2026.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy and upon proper request made to
+the appropriate clerk, the language appearing immediately following the State seal appear
+without House or Senate designation.
+HJR0966
+013411
+- 1 -
+
+[DELETED: WBB]

@@ -1,0 +1,470 @@
+Title: AMEND S e n ate Bill No. 1464* House Bill No. 2506
+Official Title: AMEND S e n ate Bill No. 1464* House Bill No. 2506
+Number of Sections: 13
+Source: versions - Amendment HA0671
+Media Type: application/pdf
+Strikethrough Detection: 8 sections found
+
+================================================================================
+
+Section 1:
+House State & Local Government 1
+Amendment No. 1 to HB2506
+Crawford
+Signature of Sponsor
+by deleting all language after the caption and substituting:
+WHEREAS, the General Assembly finds that maintaining confidentiality of personal
+identifying information of federal, State, and local officers, agents, and officials engaged in the
+enforcement of federal and State immigration laws and sensitive information related to
+immigration enforcement operations in this State is paramount to the protection and safety of
+such officers, agents, and officials, the integrity of such enforcement operations, and public
+safety; and
+WHEREAS, the General Assembly finds that protecting law enforcement officers
+engaged in the enforcement of federal and State immigration laws from threats, harassment,
+intimidation, and violence is necessary to preserve public safety, and that public access to
+government records when disclosure does not create a safety risk promotes transparency and
+public confidence in government; and
+WHEREAS, the confidential maintenance of such information protects such persons
+from targeted harassment, threats, or violence due to their enforcement duties; prevents
+disclosure of sensitive information that could compromise immigration enforcement operations;
+maintains the public confidence in immigration enforcement activities by ensuring such persons
+can effectively carry out their duties without fear of retaliation; and aligns with existing privacy
+laws to protect federal and State law enforcement officers' and employees' personal identifying
+information; now, therefore,
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+HA0671
+014282
+- 1 -
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Title 4, Chapter 42, is amended by adding
+the following new section:
+4-42-105.
+(a) Notwithstanding another law to the contrary, each state governmental entity
+and official shall maintain the following information relative to the operational
+enforcement of federal and state immigration laws as confidential, and such information
+is not subject to public inspection:
+(1) The name of a federal, state, or local officer, agent, or official
+participating in federal immigration enforcement activities in this state when the
+name is accompanied by contact information, a residential address, or other
+personal identifying information of the officer, agent, or official;
+(2)
+(A) The name of a federal, state, or local officer, agent, or official
+participating in federal immigration enforcement activities in this state if:
+(i) The release would endanger the safety of the individual
+during an active or planned enforcement operation;
+(ii) The individual is currently serving in an undercover
+capacity; or
+(iii) A documented threat assessment by the supervising
+agency head, or a designee, demonstrates a specific, ongoing risk
+of harm; and
+(B) Nothing in this subdivision (a)(2):
+(i) Prevents the disclosure of information, including the
+name of the officer, relating to an investigation of alleged
+misconduct by a law enforcement officer to the extent required by
+law;
+- 2 - 014282
+(ii) Prevents a state governmental entity or official from
+disclosing the name of an officer, agent, or official after the
+conclusion of an operation if the entity or official determines that
+disclosure does not present a reasonable risk to the safety of the
+officer, agent, or official or the integrity of current or future
+operations; or
+(iii) Requires the name of an officer, agent, or official from
+being redacted from an affidavit, warrant, charging instrument, or
+other judicial record; and
+(3) Information related to specific future immigration enforcement
+operational activities, such as the date and time, location, logistics, or strategies
+of such activities.
+(b) Subsection (a) does not:
+(1) Apply to information that is public pursuant to federal law or a court
+order; or
+(2) Prohibit federal, state, and local law enforcement agencies and
+officers from sharing information necessary to facilitate the enforcement of
+federal and state immigration laws.
+(c) Subsection (a) preempts any policy, procedure, or rule of a state
+governmental entity or official in conflict with subsection (a).
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Title 4, Chapter 42, is amended by adding
+the following as a new section:
+4-42-106.
+(a) A state government official who, acting with criminal negligence, releases
+information in violation of § 4-42-105(a) commits a Class E felony.
+- 3 - 014282
+(b) A state government official who, acting with criminal negligence, releases
+information in violation of § 4-42-105(a) is subject to ouster under title 8, chapter 47, if
+applicable.
+(c) As used in this section, "criminal negligence" means the same as defined in §
+39-11-106.
+(d) This section does not preclude the enforcement of other applicable criminal
+and civil penalties under federal or state law.
+
+Section 4:
+SECTION 3. Tennessee Code Annotated, Title 7, Chapter 68, is amended by adding
+the following new section:
+(a) Notwithstanding another law to the contrary, each local governmental entity
+and official shall maintain the following information relative to the operational
+enforcement of federal and state immigration laws as confidential, and such information
+is not subject to public inspection:
+(1) The name of a federal, state, or local officer, agent, or official
+participating in federal immigration enforcement activities in this state when the
+name is accompanied by contact information, a residential address, or other
+personal identifying information of the officer, agent, or official;
+(2)
+(A) The name of a federal, state, or local officer, agent, or official
+participating in federal immigration enforcement activities in this state if:
+(i) The release would endanger the safety of the individual
+during an active or planned enforcement operation;
+(ii) The individual is currently serving in an undercover
+capacity; or
+(iii) A documented threat assessment by the supervising
+agency head, or a designee, demonstrates a specific, ongoing risk
+of harm; and
+- 4 - 014282
+(B) Nothing in this subdivision (a)(2):
+(i) Prevents the disclosure of information, including the
+name of the officer, relating to an investigation of alleged
+misconduct by a law enforcement officer to the extent required by
+law;
+(ii) Prevents a local governmental entity or official from
+disclosing the name of an officer, agent, or official after the
+conclusion of an operation if the entity or official determines that
+disclosure does not present a reasonable risk to the safety of the
+officer, agent, or official or the integrity of current or future
+operations; or
+(iii) Requires the name of an officer, agent, or official from
+being redacted from an affidavit, warrant, charging instrument, or
+other judicial record; and
+(3) Information related to specific future immigration enforcement
+operational activities, such as the date and time, location, logistics, or strategies
+of such activities.
+(b) Subsection (a) does not:
+(1) Apply to information that is public pursuant to federal law or a court
+order; or
+(2) Prohibit federal, state, and local law enforcement agencies and
+officers from sharing information necessary to facilitate the enforcement of
+federal and state immigration laws.
+(c) Subsection (a) preempts any policy, procedure, or rule of a local
+governmental entity or official in conflict with subsection (a).
+(d)
+- 5 - 014282
+(1) A local government official who, acting with criminal negligence,
+releases information in violation of subsection (a) commits a Class E felony.
+(2) A local government official who, acting with criminal negligence,
+releases information in violation of subsection (a) is subject to ouster under title
+8, chapter 47, if applicable.
+(3) As used in this subsection (d), "criminal negligence" means the same
+as defined in § 39-11-106.
+(e) This section does not preclude the enforcement of other applicable criminal
+and civil penalties under federal or state law.
+
+Section 5:
+SECTION 4. Tennessee Code Annotated, Section 7-68-102(3), is amended by deleting
+the subdivision and substituting:
+(3) "Official" means an agent, employee, member, or representative of a local
+governmental entity and includes the mayor of a county, incorporated city or town, or
+metropolitan government; and
+
+Section 6:
+SECTION 5. Tennessee Code Annotated, Section 8-47-101, is amended by deleting the
+language "or who shall commit any act constituting a violation of any penal statute involving
+moral turpitude" and substituting instead:
+or who shall commit any act constituting a violation of any penal statute involving moral
+turpitude, or who shall, acting with criminal negligence, unlawfully release confidential
+information relative to the operational enforcement of federal and state immigration laws
+
+Section 7:
+SECTION 6. Tennessee Code Annotated, Section 10-7-504(f)(1), is amended by adding
+the following new subdivision:
+(L) The name of a law enforcement officer who is designated as working
+undercover during the period of undercover assignment and for a reasonable period
+thereafter if the law enforcement agency determines that disclosure would present a
+reasonable risk to the safety of the officer or to the integrity of current or future
+operations; provided, that this subdivision (f)(1)(L) does not apply to training or
+- 6 - 014282
+certification records maintained by the peace officer standards and training commission
+created pursuant to § 38-8-102.
+
+Section 8:
+SECTION 7. Tennessee Code Annotated, Section 10-7-504(f)(9), is amended by
+deleting the subdivision.
+
+Section 9:
+SECTION 8. Tennessee Code Annotated, Section 10-7-504(f)(8), is amended by adding
+the following new subdivision (f)(8)(C) and redesignating the current subdivision (f)(8)(C) as
+subdivision (f)(8)(D):
+(C) Any person required by law to treat information described in subdivision
+(f)(1)(I) as confidential commits an offense if the person acts with criminal negligence, as
+defined in § 39-11-106, in releasing the information to the public. A violation of this
+subdivision (f)(8)(C) is a Class E felony.
+
+Section 10:
+SECTION 9. Tennessee Code Annotated, Section 10-7-504(f)(8)(B)(i), is amended by
+deleting the language "punishable only by a fine of five hundred dollars ($500)".
+
+Section 11:
+SECTION 10. Tennessee Code Annotated, Section 10-7-504(f)(8)(D), is amended by
+deleting the language "Subdivision (f)(8)(A)" and substituting "This subdivision (f)(8)".
+
+Section 12:
+SECTION 11. Tennessee Code Annotated, Section 10-7-504(g), is amended by adding
+the following new subdivision (g)(6):
+(A) Any person required by law to treat information described in subdivision
+(g)(1) as confidential commits an offense if:
+(i) The person acts with criminal negligence, as defined in § 39-11-106,
+in releasing the information to the public; or
+(ii) The person knows the information is to be treated as confidential and
+intentionally releases the information to the public.
+(B)
+(i) A violation of subdivision (g)(6)(A)(i) is a Class B misdemeanor.
+(ii) A violation of subdivision (g)(6)(A)(ii) is a Class A misdemeanor.
+- 7 - 014282
+(C) Any person required by law to treat information described in subdivision
+(g)(1)(A)(iii) as confidential commits an offense if the person acts with criminal
+negligence, as defined in § 39-11-106, in releasing the information to the public. A
+violation of this subdivision (g)(6)(C) is a Class E felony.
+(D) This subdivision (g)(6) does not apply if:
+(i) The law enforcement personnel whose information is treated as
+confidential under subsection (g) expressly authorizes the release of such
+information; or
+(ii) The information is released pursuant to court order.
+
+Section 13:
+SECTION 12. Section 1 of this act takes effect upon becoming a law, the public welfare
+requiring it. For all other purposes, this act takes effect July 1, 2026, the public welfare requiring
+it, and applies to prohibited conduct occurring on or after that date.
+- 8 - 014282
+[DELETED:  a HWWW]
+[DELETED:  -0S(]
+[DELETED:  -0((S]
+[DELETED:  -0S]
+[DELETED:  -0((]
+[DELETED:  -0S(SS(]
+[DELETED:  -0SS(SSS((((((]
+[DELETED:  -0(((S]
+
+
+================================================================================
+
+Raw Text:
+House State & Local Government 1
+Amendment No. 1 to HB2506
+Crawford
+Signature of Sponsor
+AMEND S e n ate Bill No. 1464* House Bill No. 2506
+by deleting all language after the caption and substituting:
+WHEREAS, the General Assembly finds that maintaining confidentiality of personal
+identifying information of federal, State, and local officers, agents, and officials engaged in the
+enforcement of federal and State immigration laws and sensitive information related to
+immigration enforcement operations in this State is paramount to the protection and safety of
+such officers, agents, and officials, the integrity of such enforcement operations, and public
+safety; and
+WHEREAS, the General Assembly finds that protecting law enforcement officers
+engaged in the enforcement of federal and State immigration laws from threats, harassment,
+intimidation, and violence is necessary to preserve public safety, and that public access to
+government records when disclosure does not create a safety risk promotes transparency and
+public confidence in government; and
+WHEREAS, the confidential maintenance of such information protects such persons
+from targeted harassment, threats, or violence due to their enforcement duties; prevents
+disclosure of sensitive information that could compromise immigration enforcement operations;
+maintains the public confidence in immigration enforcement activities by ensuring such persons
+can effectively carry out their duties without fear of retaliation; and aligns with existing privacy
+laws to protect federal and State law enforcement officers' and employees' personal identifying
+information; now, therefore,
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+HA0671
+014282
+- 1 -
+
+SECTION 1. Tennessee Code Annotated, Title 4, Chapter 42, is amended by adding
+the following new section:
+4-42-105.
+(a) Notwithstanding another law to the contrary, each state governmental entity
+and official shall maintain the following information relative to the operational
+enforcement of federal and state immigration laws as confidential, and such information
+is not subject to public inspection:
+(1) The name of a federal, state, or local officer, agent, or official
+participating in federal immigration enforcement activities in this state when the
+name is accompanied by contact information, a residential address, or other
+personal identifying information of the officer, agent, or official;
+(2)
+(A) The name of a federal, state, or local officer, agent, or official
+participating in federal immigration enforcement activities in this state if:
+(i) The release would endanger the safety of the individual
+during an active or planned enforcement operation;
+(ii) The individual is currently serving in an undercover
+capacity; or
+(iii) A documented threat assessment by the supervising
+agency head, or a designee, demonstrates a specific, ongoing risk
+of harm; and
+(B) Nothing in this subdivision (a)(2):
+(i) Prevents the disclosure of information, including the
+name of the officer, relating to an investigation of alleged
+misconduct by a law enforcement officer to the extent required by
+law;
+- 2 - 014282
+
+(ii) Prevents a state governmental entity or official from
+disclosing the name of an officer, agent, or official after the
+conclusion of an operation if the entity or official determines that
+disclosure does not present a reasonable risk to the safety of the
+officer, agent, or official or the integrity of current or future
+operations; or
+(iii) Requires the name of an officer, agent, or official from
+being redacted from an affidavit, warrant, charging instrument, or
+other judicial record; and
+(3) Information related to specific future immigration enforcement
+operational activities, such as the date and time, location, logistics, or strategies
+of such activities.
+(b) Subsection (a) does not:
+(1) Apply to information that is public pursuant to federal law or a court
+order; or
+(2) Prohibit federal, state, and local law enforcement agencies and
+officers from sharing information necessary to facilitate the enforcement of
+federal and state immigration laws.
+(c) Subsection (a) preempts any policy, procedure, or rule of a state
+governmental entity or official in conflict with subsection (a).
+SECTION 2. Tennessee Code Annotated, Title 4, Chapter 42, is amended by adding
+the following as a new section:
+4-42-106.
+(a) A state government official who, acting with criminal negligence, releases
+information in violation of § 4-42-105(a) commits a Class E felony.
+- 3 - 014282
+
+(b) A state government official who, acting with criminal negligence, releases
+information in violation of § 4-42-105(a) is subject to ouster under title 8, chapter 47, if
+applicable.
+(c) As used in this section, "criminal negligence" means the same as defined in §
+39-11-106.
+(d) This section does not preclude the enforcement of other applicable criminal
+and civil penalties under federal or state law.
+SECTION 3. Tennessee Code Annotated, Title 7, Chapter 68, is amended by adding
+the following new section:
+(a) Notwithstanding another law to the contrary, each local governmental entity
+and official shall maintain the following information relative to the operational
+enforcement of federal and state immigration laws as confidential, and such information
+is not subject to public inspection:
+(1) The name of a federal, state, or local officer, agent, or official
+participating in federal immigration enforcement activities in this state when the
+name is accompanied by contact information, a residential address, or other
+personal identifying information of the officer, agent, or official;
+(2)
+(A) The name of a federal, state, or local officer, agent, or official
+participating in federal immigration enforcement activities in this state if:
+(i) The release would endanger the safety of the individual
+during an active or planned enforcement operation;
+(ii) The individual is currently serving in an undercover
+capacity; or
+(iii) A documented threat assessment by the supervising
+agency head, or a designee, demonstrates a specific, ongoing risk
+of harm; and
+- 4 - 014282
+
+(B) Nothing in this subdivision (a)(2):
+(i) Prevents the disclosure of information, including the
+name of the officer, relating to an investigation of alleged
+misconduct by a law enforcement officer to the extent required by
+law;
+(ii) Prevents a local governmental entity or official from
+disclosing the name of an officer, agent, or official after the
+conclusion of an operation if the entity or official determines that
+disclosure does not present a reasonable risk to the safety of the
+officer, agent, or official or the integrity of current or future
+operations; or
+(iii) Requires the name of an officer, agent, or official from
+being redacted from an affidavit, warrant, charging instrument, or
+other judicial record; and
+(3) Information related to specific future immigration enforcement
+operational activities, such as the date and time, location, logistics, or strategies
+of such activities.
+(b) Subsection (a) does not:
+(1) Apply to information that is public pursuant to federal law or a court
+order; or
+(2) Prohibit federal, state, and local law enforcement agencies and
+officers from sharing information necessary to facilitate the enforcement of
+federal and state immigration laws.
+(c) Subsection (a) preempts any policy, procedure, or rule of a local
+governmental entity or official in conflict with subsection (a).
+(d)
+- 5 - 014282
+
+(1) A local government official who, acting with criminal negligence,
+releases information in violation of subsection (a) commits a Class E felony.
+(2) A local government official who, acting with criminal negligence,
+releases information in violation of subsection (a) is subject to ouster under title
+8, chapter 47, if applicable.
+(3) As used in this subsection (d), "criminal negligence" means the same
+as defined in § 39-11-106.
+(e) This section does not preclude the enforcement of other applicable criminal
+and civil penalties under federal or state law.
+SECTION 4. Tennessee Code Annotated, Section 7-68-102(3), is amended by deleting
+the subdivision and substituting:
+(3) "Official" means an agent, employee, member, or representative of a local
+governmental entity and includes the mayor of a county, incorporated city or town, or
+metropolitan government; and
+SECTION 5. Tennessee Code Annotated, Section 8-47-101, is amended by deleting the
+language "or who shall commit any act constituting a violation of any penal statute involving
+moral turpitude" and substituting instead:
+or who shall commit any act constituting a violation of any penal statute involving moral
+turpitude, or who shall, acting with criminal negligence, unlawfully release confidential
+information relative to the operational enforcement of federal and state immigration laws
+SECTION 6. Tennessee Code Annotated, Section 10-7-504(f)(1), is amended by adding
+the following new subdivision:
+(L) The name of a law enforcement officer who is designated as working
+undercover during the period of undercover assignment and for a reasonable period
+thereafter if the law enforcement agency determines that disclosure would present a
+reasonable risk to the safety of the officer or to the integrity of current or future
+operations; provided, that this subdivision (f)(1)(L) does not apply to training or
+- 6 - 014282
+
+certification records maintained by the peace officer standards and training commission
+created pursuant to § 38-8-102.
+SECTION 7. Tennessee Code Annotated, Section 10-7-504(f)(9), is amended by
+deleting the subdivision.
+SECTION 8. Tennessee Code Annotated, Section 10-7-504(f)(8), is amended by adding
+the following new subdivision (f)(8)(C) and redesignating the current subdivision (f)(8)(C) as
+subdivision (f)(8)(D):
+(C) Any person required by law to treat information described in subdivision
+(f)(1)(I) as confidential commits an offense if the person acts with criminal negligence, as
+defined in § 39-11-106, in releasing the information to the public. A violation of this
+subdivision (f)(8)(C) is a Class E felony.
+SECTION 9. Tennessee Code Annotated, Section 10-7-504(f)(8)(B)(i), is amended by
+deleting the language "punishable only by a fine of five hundred dollars ($500)".
+SECTION 10. Tennessee Code Annotated, Section 10-7-504(f)(8)(D), is amended by
+deleting the language "Subdivision (f)(8)(A)" and substituting "This subdivision (f)(8)".
+SECTION 11. Tennessee Code Annotated, Section 10-7-504(g), is amended by adding
+the following new subdivision (g)(6):
+(A) Any person required by law to treat information described in subdivision
+(g)(1) as confidential commits an offense if:
+(i) The person acts with criminal negligence, as defined in § 39-11-106,
+in releasing the information to the public; or
+(ii) The person knows the information is to be treated as confidential and
+intentionally releases the information to the public.
+(B)
+(i) A violation of subdivision (g)(6)(A)(i) is a Class B misdemeanor.
+(ii) A violation of subdivision (g)(6)(A)(ii) is a Class A misdemeanor.
+- 7 - 014282
+
+(C) Any person required by law to treat information described in subdivision
+(g)(1)(A)(iii) as confidential commits an offense if the person acts with criminal
+negligence, as defined in § 39-11-106, in releasing the information to the public. A
+violation of this subdivision (g)(6)(C) is a Class E felony.
+(D) This subdivision (g)(6) does not apply if:
+(i) The law enforcement personnel whose information is treated as
+confidential under subsection (g) expressly authorizes the release of such
+information; or
+(ii) The information is released pursuant to court order.
+SECTION 12. Section 1 of this act takes effect upon becoming a law, the public welfare
+requiring it. For all other purposes, this act takes effect July 1, 2026, the public welfare requiring
+it, and applies to prohibited conduct occurring on or after that date.
+- 8 - 014282
+
+[DELETED:  a HWWW]
+[DELETED:  -0S(]
+[DELETED:  -0((S]
+[DELETED:  -0S]
+[DELETED:  -0((]
+[DELETED:  -0S(SS(]
+[DELETED:  -0SS(SSS((((((]
+[DELETED:  -0(((S]

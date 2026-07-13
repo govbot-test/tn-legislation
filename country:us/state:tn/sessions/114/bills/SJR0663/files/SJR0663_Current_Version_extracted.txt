@@ -1,0 +1,163 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+SENATE JOINT RESOLUTION 663
+By Oliver
+A RESOLUTION to honor and congratulate Meharry Medical
+College upon the celebration of its 150th
+anniversary.
+WHEREAS, it is most appropriate that the members of this General Assembly should
+honor and congratulate those venerable institutions of higher learning in the State of Tennessee
+whose enduring achievements have garnered universal acclaim; and
+WHEREAS, one such distinguished institution is Meharry Medical College, which in
+2026 marks the 150th anniversary of its founding in Nashville, a sesquicentennial milestone that
+commemorates a remarkable legacy of service, scholarship, and leadership; and
+WHEREAS, Meharry Medical College was established in 1876 as the Medical
+Department of Central Tennessee College, opening its doors in the basement of a local church
+with eleven students and two faculty instructors and guided by the vision of co-founders Dr.
+George W. Hubbard and Dr. William J. Snead; and
+WHEREAS, the institution became the first medical school in the South for African
+Americans and the first medical school in the South, historically Black or otherwise, to offer four-
+year medical training; and
+WHEREAS, the college's origins are rooted in an inspiring story of compassion: a young
+Ohioan named Samuel Meharry, moved by an act of kindness from a freed couple early in his
+life, went on to return their random act of kindness by pledging the cash and property necessary
+to found Meharry Medical College; and
+WHEREAS, over the course of its first five decades, Meharry Medical College expanded
+its academic programs with the founding of the School of Dentistry in 1886 and the School of
+Pharmacy in 1889 and graduating pioneering physicians and leaders whose service reached far
+beyond Tennessee; and
+SJR0663
+012115
+- 1 -
+WHEREAS, among these trailblazers was Dr. Georgia Esther Lee Patton Washington,
+who in 1893, became the first Black woman to graduate from Meharry and the first Black
+woman licensed to practice medicine and surgery in the State of Tennessee; she was also the
+first Meharry graduate to serve in Africa, returning in 1895 to practice in Memphis; and
+WHEREAS, Meharry Medical College achieved autonomy in 1915 with its separate
+charter, further advancing its mission, broadening its reach, and establishing itself as an
+independent, enduring academic health sciences center; and
+WHEREAS, since 1876, Meharry Medical College has been a pioneer in training Black
+physicians, dentists, scientists, and healthcare leaders dedicated to advancing health access
+and equity; from breaking barriers in medical education to leading public health innovation,
+Meharry's legacy is rooted in service to communities often left behind; and
+WHEREAS, Meharry Medical College is today home to five major schools: School of
+Applied Computational Sciences, School of Dentistry, School of Global Health, School of
+Graduate Studies, and School of Medicine, each providing an excellent education that prepares
+leaders in medicine, dentistry, global health, computational sciences, and biomedical science
+who are dedicated to the elimination of health disparities; and
+WHEREAS, Meharry Medical College continues to advance its mission under the astute
+leadership of its twelfth president and chief executive officer, James E.K. Hildreth, Sr., Ph.D.,
+M.D., a nationally renowned leader whose commitment to health equity, research innovation,
+and educational excellence has strengthened Meharry's role as a cornerstone of medical
+education and community service; and
+WHEREAS, in celebration of this sesquicentennial, Meharry has launched a yearlong
+series of commemorations and initiatives, including Campaign 150, an ambitious strategy to
+strengthen institutional excellence, expand community care, foster research and innovation, and
+- 2 - 012115
+prepare future generations of health professionals to meet the complex demands of tomorrow's
+health challenges; and
+WHEREAS, on this momentous occasion of 150 years of transformative leadership and
+service, it is appropriate that we honor this historic institution for its indelible contributions to
+education, health care, and the citizens of this State; now, therefore,
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE HOUSE OF
+REPRESENTATIVES CONCURRING, that we honor and congratulate Meharry Medical College
+on the celebration of its 150th anniversary, extending our best wishes for continued leadership,
+excellence, and service in the years to come.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy and upon proper request made to
+the appropriate clerk, the language appearing immediately following the State seal appear
+without House or Senate designation.
+- 3 - 012115
+[DELETED: 0WW0 WWWW]
+[DELETED:  -0WWWWWW]
+[DELETED:  -0WB0 B]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+SENATE JOINT RESOLUTION 663
+By Oliver
+A RESOLUTION to honor and congratulate Meharry Medical
+College upon the celebration of its 150th
+anniversary.
+WHEREAS, it is most appropriate that the members of this General Assembly should
+honor and congratulate those venerable institutions of higher learning in the State of Tennessee
+whose enduring achievements have garnered universal acclaim; and
+WHEREAS, one such distinguished institution is Meharry Medical College, which in
+2026 marks the 150th anniversary of its founding in Nashville, a sesquicentennial milestone that
+commemorates a remarkable legacy of service, scholarship, and leadership; and
+WHEREAS, Meharry Medical College was established in 1876 as the Medical
+Department of Central Tennessee College, opening its doors in the basement of a local church
+with eleven students and two faculty instructors and guided by the vision of co-founders Dr.
+George W. Hubbard and Dr. William J. Snead; and
+WHEREAS, the institution became the first medical school in the South for African
+Americans and the first medical school in the South, historically Black or otherwise, to offer four-
+year medical training; and
+WHEREAS, the college's origins are rooted in an inspiring story of compassion: a young
+Ohioan named Samuel Meharry, moved by an act of kindness from a freed couple early in his
+life, went on to return their random act of kindness by pledging the cash and property necessary
+to found Meharry Medical College; and
+WHEREAS, over the course of its first five decades, Meharry Medical College expanded
+its academic programs with the founding of the School of Dentistry in 1886 and the School of
+Pharmacy in 1889 and graduating pioneering physicians and leaders whose service reached far
+beyond Tennessee; and
+SJR0663
+012115
+- 1 -
+
+WHEREAS, among these trailblazers was Dr. Georgia Esther Lee Patton Washington,
+who in 1893, became the first Black woman to graduate from Meharry and the first Black
+woman licensed to practice medicine and surgery in the State of Tennessee; she was also the
+first Meharry graduate to serve in Africa, returning in 1895 to practice in Memphis; and
+WHEREAS, Meharry Medical College achieved autonomy in 1915 with its separate
+charter, further advancing its mission, broadening its reach, and establishing itself as an
+independent, enduring academic health sciences center; and
+WHEREAS, since 1876, Meharry Medical College has been a pioneer in training Black
+physicians, dentists, scientists, and healthcare leaders dedicated to advancing health access
+and equity; from breaking barriers in medical education to leading public health innovation,
+Meharry's legacy is rooted in service to communities often left behind; and
+WHEREAS, Meharry Medical College is today home to five major schools: School of
+Applied Computational Sciences, School of Dentistry, School of Global Health, School of
+Graduate Studies, and School of Medicine, each providing an excellent education that prepares
+leaders in medicine, dentistry, global health, computational sciences, and biomedical science
+who are dedicated to the elimination of health disparities; and
+WHEREAS, Meharry Medical College continues to advance its mission under the astute
+leadership of its twelfth president and chief executive officer, James E.K. Hildreth, Sr., Ph.D.,
+M.D., a nationally renowned leader whose commitment to health equity, research innovation,
+and educational excellence has strengthened Meharry's role as a cornerstone of medical
+education and community service; and
+WHEREAS, in celebration of this sesquicentennial, Meharry has launched a yearlong
+series of commemorations and initiatives, including Campaign 150, an ambitious strategy to
+strengthen institutional excellence, expand community care, foster research and innovation, and
+- 2 - 012115
+
+prepare future generations of health professionals to meet the complex demands of tomorrow's
+health challenges; and
+WHEREAS, on this momentous occasion of 150 years of transformative leadership and
+service, it is appropriate that we honor this historic institution for its indelible contributions to
+education, health care, and the citizens of this State; now, therefore,
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE HOUSE OF
+REPRESENTATIVES CONCURRING, that we honor and congratulate Meharry Medical College
+on the celebration of its 150th anniversary, extending our best wishes for continued leadership,
+excellence, and service in the years to come.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy and upon proper request made to
+the appropriate clerk, the language appearing immediately following the State seal appear
+without House or Senate designation.
+- 3 - 012115
+
+[DELETED: 0WW0 WWWW]
+[DELETED:  -0WWWWWW]
+[DELETED:  -0WB0 B]

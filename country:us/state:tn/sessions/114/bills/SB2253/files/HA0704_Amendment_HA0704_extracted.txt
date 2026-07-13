@@ -1,0 +1,159 @@
+Title: AMEND S e n ate Bill No. 2253* House Bill No. 2302
+Official Title: AMEND S e n ate Bill No. 2253* House Bill No. 2302
+Number of Sections: 4
+Source: versions - Amendment HA0704
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+House Transportation 1
+Amendment No. 1 to HB2302
+Howell
+Signature of Sponsor
+by deleting all language after the enacting clause and substituting instead:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 55-8-202(b), is amended by adding
+the following as a new, appropriately designated subdivision:
+( ) "Automated driving system" or "ADS" and "ADS-operated vehicle" have the
+same meanings as defined in § 55-30-102;
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 55-8-202, is amended by adding the
+following as a new subsection (b) and redesignating the existing subsection (b) accordingly:
+(b)
+(1) A state or local law enforcement agency may establish a policy
+regarding methods in which to enforce traffic offenses committed by an ADS,
+including providing notices of violation or citations, and if such a policy is
+established, then the policy must align with the following:
+(A) If a POST-certified or state-commissioned law enforcement
+officer makes a determination that a traffic offense under this chapter or
+chapter 9 or 10 of this title has been committed by an automated driving
+system, then a notice of violation or a citation must be sent by first class
+mail to the registered owner of the ADS-operated vehicle. A notice of
+violation or citation mailed to the last known address of the registered
+owner constitutes valid service;
+HA0704
+014762
+- 1 -
+(B) A notice of violation or citation must be sent within twenty (20)
+business days after the occurrence of the violation, absent exigent
+circumstances arising from registration irregularities;
+(C) All notices of violations or citations must have a return
+address in this state and all responses and payments must be made to an
+address in this state. A notice of violation or citation must allow for
+payment of the traffic violation or citation within thirty (30) days of the
+mailing of the notice;
+(D) An additional penalty or other costs must not be assessed for
+nonpayment of a traffic violation or citation issued to a registered owner of
+an ADS-operated vehicle unless a second notice is sent by first class mail
+to the owner and the second notice provides for an additional thirty (30)
+days for payment of the violation or citation; and
+(E) The notice of violation or citation must state the amount of the
+fine that is being assessed for the alleged violation. The notice of
+violation or citation must state separately any additional fees or court
+costs that may be assessed if the fine is not paid timely or if the violation
+or citation is contested and the ADS is found to have committed the traffic
+offense.
+(2) If a state or local law enforcement agency establishes a policy
+regarding methods in which to enforce traffic offenses committed by an ADS in
+accordance with subdivision (b)(1), and a POST-certified or state-commissioned
+law enforcement officer of the agency makes a determination that a traffic
+offense under this chapter or chapter 9 or 10 of this title has been committed by
+an ADS, and a notice of violation or citation is issued in accordance with the
+established policy, then:
+- 2 - 014762
+(A) The registered owner may elect not to contest the charge and
+may, in lieu of appearance in court, submit the fine to the address
+provided on notice of violation or citation;
+(B) If the traffic citation is not paid within the time specified, then
+additional fees or court costs may be assessed; and
+(C) If the traffic citation is not paid and the owner appears in court
+at the time specified, or such later date as may be fixed by the court, and
+the ADS is found to have committed the traffic offense, then additional
+fees or court costs may be assessed.
+
+Section 4:
+SECTION 3. This act takes effect upon becoming a law, the public welfare requiring it.
+- 3 - 014762
+[DELETED:  a HS(S(((]
+[DELETED:  -0(((((]
+[DELETED:  -0(((S]
+
+
+================================================================================
+
+Raw Text:
+House Transportation 1
+Amendment No. 1 to HB2302
+Howell
+Signature of Sponsor
+AMEND S e n ate Bill No. 2253* House Bill No. 2302
+by deleting all language after the enacting clause and substituting instead:
+SECTION 1. Tennessee Code Annotated, Section 55-8-202(b), is amended by adding
+the following as a new, appropriately designated subdivision:
+( ) "Automated driving system" or "ADS" and "ADS-operated vehicle" have the
+same meanings as defined in § 55-30-102;
+SECTION 2. Tennessee Code Annotated, Section 55-8-202, is amended by adding the
+following as a new subsection (b) and redesignating the existing subsection (b) accordingly:
+(b)
+(1) A state or local law enforcement agency may establish a policy
+regarding methods in which to enforce traffic offenses committed by an ADS,
+including providing notices of violation or citations, and if such a policy is
+established, then the policy must align with the following:
+(A) If a POST-certified or state-commissioned law enforcement
+officer makes a determination that a traffic offense under this chapter or
+chapter 9 or 10 of this title has been committed by an automated driving
+system, then a notice of violation or a citation must be sent by first class
+mail to the registered owner of the ADS-operated vehicle. A notice of
+violation or citation mailed to the last known address of the registered
+owner constitutes valid service;
+HA0704
+014762
+- 1 -
+
+(B) A notice of violation or citation must be sent within twenty (20)
+business days after the occurrence of the violation, absent exigent
+circumstances arising from registration irregularities;
+(C) All notices of violations or citations must have a return
+address in this state and all responses and payments must be made to an
+address in this state. A notice of violation or citation must allow for
+payment of the traffic violation or citation within thirty (30) days of the
+mailing of the notice;
+(D) An additional penalty or other costs must not be assessed for
+nonpayment of a traffic violation or citation issued to a registered owner of
+an ADS-operated vehicle unless a second notice is sent by first class mail
+to the owner and the second notice provides for an additional thirty (30)
+days for payment of the violation or citation; and
+(E) The notice of violation or citation must state the amount of the
+fine that is being assessed for the alleged violation. The notice of
+violation or citation must state separately any additional fees or court
+costs that may be assessed if the fine is not paid timely or if the violation
+or citation is contested and the ADS is found to have committed the traffic
+offense.
+(2) If a state or local law enforcement agency establishes a policy
+regarding methods in which to enforce traffic offenses committed by an ADS in
+accordance with subdivision (b)(1), and a POST-certified or state-commissioned
+law enforcement officer of the agency makes a determination that a traffic
+offense under this chapter or chapter 9 or 10 of this title has been committed by
+an ADS, and a notice of violation or citation is issued in accordance with the
+established policy, then:
+- 2 - 014762
+
+(A) The registered owner may elect not to contest the charge and
+may, in lieu of appearance in court, submit the fine to the address
+provided on notice of violation or citation;
+(B) If the traffic citation is not paid within the time specified, then
+additional fees or court costs may be assessed; and
+(C) If the traffic citation is not paid and the owner appears in court
+at the time specified, or such later date as may be fixed by the court, and
+the ADS is found to have committed the traffic offense, then additional
+fees or court costs may be assessed.
+SECTION 3. This act takes effect upon becoming a law, the public welfare requiring it.
+- 3 - 014762
+
+[DELETED:  a HS(S(((]
+[DELETED:  -0(((((]
+[DELETED:  -0(((S]

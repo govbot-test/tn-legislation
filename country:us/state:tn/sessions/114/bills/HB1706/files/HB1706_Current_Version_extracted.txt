@@ -1,0 +1,352 @@
+Title: SENATE BILL 1587
+Official Title: SENATE BILL 1587
+Number of Sections: 8
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+By Johnson
+HOUSE BILL 1706
+By Zachary
+AN ACT to amend Tennessee Code Annotated, Title 55,
+Chapter 50, relative to unlawful presence in the
+United States.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 55-50-403, is amended by adding
+the following as a new subdivision:
+(5) In which the employee is unlawfully present in the United States.
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 55-50-403, is amended by
+designating the existing language as subsection (a) and adding the following as new
+subsections:
+(b)
+(1) It is an offense for a person to knowingly allow a person who is
+unlawfully present in the United States to operate a commercial motor vehicle in
+this state.
+(2) It is an offense for a person who is unlawfully present in the United
+States to operate a commercial motor vehicle in this state.
+(3) A violation of this subsection (b) is a Class A misdemeanor.
+(c) A law enforcement officer who arrests a person for a violation of subdivision
+(b)(2) shall notify the officer's law enforcement agency of the arrest, and the agency shall
+ensure that federal immigration authorities are notified, either through the agency's
+participation in the 287(g) program pursuant to the Immigration and Nationality Act (8
+U.S.C. § 1357(g)) or by contacting the centralized immigration enforcement division of
+the department of safety, created in § 4-3-2014.
+HB1706
+010540
+- 1 -
+
+Section 4:
+SECTION 3. Tennessee Code Annotated, Title 55, Chapter 50, Part 4, is amended by
+adding the following as a new section:
+55-50-419. Strict liability for accidents committed by illegal aliens.
+(a) An employer who knowingly allows a person unlawfully present in the United
+States to operate a commercial motor vehicle, and any official or employee of any state
+who issues a commercial driver license to a person knowing that the person is unlawfully
+present in the United States, shall be strictly, absolutely, jointly, and severally liable to
+any person who suffers personal injury or property damage caused by the unlawfully
+present person's operation of a commercial motor vehicle. A person so injured is
+entitled to recover:
+(1) Compensatory damages;
+(2) Notwithstanding § 29-39-104, punitive damages of not less than one
+million dollars ($1,000,000); and
+(3) Court costs and reasonable attorney's fees.
+(b) Notwithstanding any other law, the law of Tennessee applies to any tort
+action arising out of an unlawfully present person's operation of a commercial motor
+vehicle in this state. Notwithstanding any other law, any contractual choice-of-law
+provision that requires or purports to require application of the laws of a different
+jurisdiction shall be void as against public policy, and shall not be enforceable in any
+court.
+
+Section 5:
+SECTION 4. Tennessee Code Annotated, Title 55, Chapter 50, Part 4, is amended by
+adding the following as a new section:
+55-50-420. Civil penalties and qui tam enforcement.
+(a) The attorney general and reporter shall have a cause of action to sue:
+- 2 - 010540
+(1) An employer that knowingly allows, permits, or authorizes an
+employee to operate a commercial motor vehicle in the United States during any
+period in which the employee is unlawfully present in the United States; and
+(2) Any state or an official or employee of any state who issues a
+commercial driver license to a person knowing that the person is unlawfully
+present in the United States, or who fails to take appropriate precautions to
+ensure that a commercial driver license is not issued to a person unlawfully
+present in the United States.
+(b) In an action brought under subsection (a), the attorney general and reporter
+is entitled to recover:
+(1) Declaratory and injunctive relief;
+(2) Civil penalties of not less than one million dollars ($1,000,000) from
+each employer who violates subdivision (a)(1); and
+(3) Court costs and reasonable attorney's fees from any employer that
+violates subdivision (a)(1).
+(c) A person may bring a civil action for a violation of this section on behalf of the
+person and for the state of Tennessee in the name of the state, and the person is
+entitled to recover the relief described in subsection (b). The person bringing the action
+shall be referred to as the qui tam plaintiff. Once filed, the action may be dismissed only
+with the written consent of the court, taking into account the best interests of the parties
+involved and the public purposes behind this section. A qui tam plaintiff may bring suit
+against any person who violates this section, regardless of whether that person has
+been charged or convicted of a crime.
+- 3 - 010540
+(d) A complaint filed by a qui tam plaintiff under subsection (c) must be filed in
+circuit or chancery court in camera and may remain under seal for up to sixty (60) days.
+No service shall be made on the defendant until after the complaint is unsealed.
+(e) On the same day as the complaint is filed pursuant to subsection (d), the qui
+tam plaintiff shall serve by registered or certified mail, return receipt requested, the
+attorney general and reporter with a copy of the complaint and a written disclosure of
+substantially all material evidence and information the person possesses.
+(f) Within sixty (60) days after receiving a complaint, the attorney general and
+reporter may elect to intervene and proceed with the action.
+(g) The attorney general and reporter may, for good cause shown, move the
+court for extensions of the time during which the complaint remains under seal pursuant
+to subsection (d). The motion may be supported by affidavits or other submissions in
+camera.
+(h) Before the expiration of the sixty-day period or any extensions obtained
+under subsection (g), the attorney general and reporter shall do either of the following:
+(1) Notify the court that it intends to proceed with the action, in which
+case the action shall be conducted by the attorney general and reporter and the
+seal shall be lifted; or
+(2) Notify the court that it declines to proceed with the action, in which
+case the seal shall be lifted and the qui tam plaintiff shall have the right to
+conduct the action.
+(i) The defendant shall not be required to respond to any complaint filed under
+this section until thirty (30) days after the complaint is unsealed and served upon the
+defendant.
+- 4 - 010540
+(j) When a person brings a qui tam action under subsection (c), no other person
+may bring a qui tam action over the same alleged violation of this section after the
+complaint is unsealed while the original qui tam plaintiff's action is pending.
+(k) If the attorney general and reporter proceeds with the action, the attorney
+general and reporter shall have the primary responsibility for prosecuting the action. The
+qui tam plaintiff has the right to continue as a full party to the action, and the attorney
+general and reporter may not dismiss or settle the action over the objections of the qui
+tam plaintiff.
+(l) If the attorney general and reporter elects not to proceed, then the qui tam
+plaintiff has the same right to conduct the action as the attorney general and reporter
+would have had if it had chosen to proceed under subsection (k). If the attorney general
+and reporter so requests, and at its expense, the attorney general and reporter shall be
+served with copies of all pleadings filed in the action and supplied with copies of all
+deposition transcripts.
+(m) If the attorney general and reporter proceeds with an action brought by a qui
+tam plaintiff, the qui tam plaintiff is entitled to receive at least twenty-five percent (25%)
+but not more than thirty-three percent (33%) of the proceeds of the action or settlement
+of the claim, depending upon the extent to which the qui tam plaintiff substantially
+contributed to the prosecution of the action and as determined by the attorney general
+and reporter. If the attorney general and reporter does not proceed with an action under
+subsection (k), then the qui tam plaintiff is entitled to receive an amount that the court
+decides is reasonable for collecting the civil penalty on behalf of the government. The
+amount must be at least thirty-five percent (35%) and not more than fifty percent (50%)
+of the proceeds of the action or settlement and is to be paid out of these proceeds.
+- 5 - 010540
+(n) Notwithstanding any other law, the outcome of any criminal prosecution or
+other civil action brought under this section does not preclude a civil action brought
+under subsection (c), and any judgment for the defendant in a civil action brought under
+subsection (c) does not preclude a criminal prosecution or other civil action.
+(o) Notwithstanding any other law, a civil action under this section is not subject
+to the Tennessee Public Participation Act, compiled in title 20, chapter 17.
+(p) Notwithstanding title 20, chapter 4, or any other law, a civil action under this
+
+Section 6:
+section may be brought in:
+(1) The county in which all or a substantial part of the events or
+omissions giving rise to the claim occurred;
+(2) The county of residence for any natural person defendant at the time
+the cause of action accrued;
+(3) The county of the principal office in this state of any defendant that is
+not a natural person; or
+(4) The county of residence for the qui tam plaintiff if the qui tam plaintiff
+is a natural person residing in this state.
+(q) A civil action under this section that is brought in a venue described in
+subsection (p) shall not be transferred to a different venue without the written consent of
+all parties.
+
+Section 7:
+SECTION 5. The headings in this act are for reference purposes only and do not
+constitute a part of the law enacted by this act. However, the Tennessee Code Commission is
+requested to include the headings in any compilation or publication containing this act.
+
+Section 8:
+SECTION 6. This act takes effect July 1, 2026, the public welfare requiring it.
+- 6 - 010540
+[DELETED: S(S(((((]
+[DELETED:  -0S5(((((S5(]
+[DELETED:  -0(((((((]
+[DELETED:  -0((((((((]
+[DELETED:  -0((((]
+[DELETED:  -0((((((((SS]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 1587
+By Johnson
+HOUSE BILL 1706
+By Zachary
+AN ACT to amend Tennessee Code Annotated, Title 55,
+Chapter 50, relative to unlawful presence in the
+United States.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 55-50-403, is amended by adding
+the following as a new subdivision:
+(5) In which the employee is unlawfully present in the United States.
+SECTION 2. Tennessee Code Annotated, Section 55-50-403, is amended by
+designating the existing language as subsection (a) and adding the following as new
+subsections:
+(b)
+(1) It is an offense for a person to knowingly allow a person who is
+unlawfully present in the United States to operate a commercial motor vehicle in
+this state.
+(2) It is an offense for a person who is unlawfully present in the United
+States to operate a commercial motor vehicle in this state.
+(3) A violation of this subsection (b) is a Class A misdemeanor.
+(c) A law enforcement officer who arrests a person for a violation of subdivision
+(b)(2) shall notify the officer's law enforcement agency of the arrest, and the agency shall
+ensure that federal immigration authorities are notified, either through the agency's
+participation in the 287(g) program pursuant to the Immigration and Nationality Act (8
+U.S.C. § 1357(g)) or by contacting the centralized immigration enforcement division of
+the department of safety, created in § 4-3-2014.
+HB1706
+010540
+- 1 -
+
+SECTION 3. Tennessee Code Annotated, Title 55, Chapter 50, Part 4, is amended by
+adding the following as a new section:
+55-50-419. Strict liability for accidents committed by illegal aliens.
+(a) An employer who knowingly allows a person unlawfully present in the United
+States to operate a commercial motor vehicle, and any official or employee of any state
+who issues a commercial driver license to a person knowing that the person is unlawfully
+present in the United States, shall be strictly, absolutely, jointly, and severally liable to
+any person who suffers personal injury or property damage caused by the unlawfully
+present person's operation of a commercial motor vehicle. A person so injured is
+entitled to recover:
+(1) Compensatory damages;
+(2) Notwithstanding § 29-39-104, punitive damages of not less than one
+million dollars ($1,000,000); and
+(3) Court costs and reasonable attorney's fees.
+(b) Notwithstanding any other law, the law of Tennessee applies to any tort
+action arising out of an unlawfully present person's operation of a commercial motor
+vehicle in this state. Notwithstanding any other law, any contractual choice-of-law
+provision that requires or purports to require application of the laws of a different
+jurisdiction shall be void as against public policy, and shall not be enforceable in any
+court.
+SECTION 4. Tennessee Code Annotated, Title 55, Chapter 50, Part 4, is amended by
+adding the following as a new section:
+55-50-420. Civil penalties and qui tam enforcement.
+(a) The attorney general and reporter shall have a cause of action to sue:
+- 2 - 010540
+
+(1) An employer that knowingly allows, permits, or authorizes an
+employee to operate a commercial motor vehicle in the United States during any
+period in which the employee is unlawfully present in the United States; and
+(2) Any state or an official or employee of any state who issues a
+commercial driver license to a person knowing that the person is unlawfully
+present in the United States, or who fails to take appropriate precautions to
+ensure that a commercial driver license is not issued to a person unlawfully
+present in the United States.
+(b) In an action brought under subsection (a), the attorney general and reporter
+is entitled to recover:
+(1) Declaratory and injunctive relief;
+(2) Civil penalties of not less than one million dollars ($1,000,000) from
+each employer who violates subdivision (a)(1); and
+(3) Court costs and reasonable attorney's fees from any employer that
+violates subdivision (a)(1).
+(c) A person may bring a civil action for a violation of this section on behalf of the
+person and for the state of Tennessee in the name of the state, and the person is
+entitled to recover the relief described in subsection (b). The person bringing the action
+shall be referred to as the qui tam plaintiff. Once filed, the action may be dismissed only
+with the written consent of the court, taking into account the best interests of the parties
+involved and the public purposes behind this section. A qui tam plaintiff may bring suit
+against any person who violates this section, regardless of whether that person has
+been charged or convicted of a crime.
+- 3 - 010540
+
+(d) A complaint filed by a qui tam plaintiff under subsection (c) must be filed in
+circuit or chancery court in camera and may remain under seal for up to sixty (60) days.
+No service shall be made on the defendant until after the complaint is unsealed.
+(e) On the same day as the complaint is filed pursuant to subsection (d), the qui
+tam plaintiff shall serve by registered or certified mail, return receipt requested, the
+attorney general and reporter with a copy of the complaint and a written disclosure of
+substantially all material evidence and information the person possesses.
+(f) Within sixty (60) days after receiving a complaint, the attorney general and
+reporter may elect to intervene and proceed with the action.
+(g) The attorney general and reporter may, for good cause shown, move the
+court for extensions of the time during which the complaint remains under seal pursuant
+to subsection (d). The motion may be supported by affidavits or other submissions in
+camera.
+(h) Before the expiration of the sixty-day period or any extensions obtained
+under subsection (g), the attorney general and reporter shall do either of the following:
+(1) Notify the court that it intends to proceed with the action, in which
+case the action shall be conducted by the attorney general and reporter and the
+seal shall be lifted; or
+(2) Notify the court that it declines to proceed with the action, in which
+case the seal shall be lifted and the qui tam plaintiff shall have the right to
+conduct the action.
+(i) The defendant shall not be required to respond to any complaint filed under
+this section until thirty (30) days after the complaint is unsealed and served upon the
+defendant.
+- 4 - 010540
+
+(j) When a person brings a qui tam action under subsection (c), no other person
+may bring a qui tam action over the same alleged violation of this section after the
+complaint is unsealed while the original qui tam plaintiff's action is pending.
+(k) If the attorney general and reporter proceeds with the action, the attorney
+general and reporter shall have the primary responsibility for prosecuting the action. The
+qui tam plaintiff has the right to continue as a full party to the action, and the attorney
+general and reporter may not dismiss or settle the action over the objections of the qui
+tam plaintiff.
+(l) If the attorney general and reporter elects not to proceed, then the qui tam
+plaintiff has the same right to conduct the action as the attorney general and reporter
+would have had if it had chosen to proceed under subsection (k). If the attorney general
+and reporter so requests, and at its expense, the attorney general and reporter shall be
+served with copies of all pleadings filed in the action and supplied with copies of all
+deposition transcripts.
+(m) If the attorney general and reporter proceeds with an action brought by a qui
+tam plaintiff, the qui tam plaintiff is entitled to receive at least twenty-five percent (25%)
+but not more than thirty-three percent (33%) of the proceeds of the action or settlement
+of the claim, depending upon the extent to which the qui tam plaintiff substantially
+contributed to the prosecution of the action and as determined by the attorney general
+and reporter. If the attorney general and reporter does not proceed with an action under
+subsection (k), then the qui tam plaintiff is entitled to receive an amount that the court
+decides is reasonable for collecting the civil penalty on behalf of the government. The
+amount must be at least thirty-five percent (35%) and not more than fifty percent (50%)
+of the proceeds of the action or settlement and is to be paid out of these proceeds.
+- 5 - 010540
+
+(n) Notwithstanding any other law, the outcome of any criminal prosecution or
+other civil action brought under this section does not preclude a civil action brought
+under subsection (c), and any judgment for the defendant in a civil action brought under
+subsection (c) does not preclude a criminal prosecution or other civil action.
+(o) Notwithstanding any other law, a civil action under this section is not subject
+to the Tennessee Public Participation Act, compiled in title 20, chapter 17.
+(p) Notwithstanding title 20, chapter 4, or any other law, a civil action under this
+section may be brought in:
+(1) The county in which all or a substantial part of the events or
+omissions giving rise to the claim occurred;
+(2) The county of residence for any natural person defendant at the time
+the cause of action accrued;
+(3) The county of the principal office in this state of any defendant that is
+not a natural person; or
+(4) The county of residence for the qui tam plaintiff if the qui tam plaintiff
+is a natural person residing in this state.
+(q) A civil action under this section that is brought in a venue described in
+subsection (p) shall not be transferred to a different venue without the written consent of
+all parties.
+SECTION 5. The headings in this act are for reference purposes only and do not
+constitute a part of the law enacted by this act. However, the Tennessee Code Commission is
+requested to include the headings in any compilation or publication containing this act.
+SECTION 6. This act takes effect July 1, 2026, the public welfare requiring it.
+- 6 - 010540
+
+[DELETED: S(S(((((]
+[DELETED:  -0S5(((((S5(]
+[DELETED:  -0(((((((]
+[DELETED:  -0((((((((]
+[DELETED:  -0((((]
+[DELETED:  -0((((((((SS]

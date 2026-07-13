@@ -1,0 +1,368 @@
+Title: AMEND S e n ate Bill No. 1493 House Bill No. 1455*
+Official Title: AMEND S e n ate Bill No. 1493 House Bill No. 1455*
+Number of Sections: 8
+Source: versions - Amendment SA1070
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+Amendment No. 2 to SB1493
+Massey
+Signature of Sponsor
+by deleting all language after the enacting clause and substituting:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Title 39, Chapter 11, Part 4, is amended by
+adding the following as a new section:
+(a) As used in this section, "artificial intelligence" means the same as defined in
+
+Section 3:
+§ 47-18-5901.
+(b) A person who, acting with intent to promote or assist in the commission of an
+offense, knowingly uses artificial intelligence to engage in conduct that is a criminal
+offense under the laws of this state may be prosecuted and punished for the underlying
+criminal offense the same as if the person had engaged in the unlawful conduct without
+the use of artificial intelligence.
+(c) This section does not create a separate criminal offense.
+
+Section 4:
+SECTION 2. Tennessee Code Annotated, Title 47, Chapter 18, is amended by adding
+the following as a new part:
+47-18-5901. Part definitions.
+As used in this part:
+(1) "Artificial intelligence" or "AI":
+(A) Means a machine-based system that:
+(i) Can, for a given set of human-defined objectives, make
+predictions, recommendations, or decisions; influence real or
+virtual environments without significant human oversight; or that
+SA1070
+018051
+- 1 -
+can learn from experience in an automated manner and improve
+such performance when exposed to data sets; or
+(ii) Is developed in any context, including software or
+physical hardware, and solves tasks requiring human-like
+perception, cognition, planning, learning, communication, or
+physical action;
+(B) Includes generative artificial intelligence and an artificial
+intelligence chatbot; and
+(C) Does not include:
+(i) An AI system that is used only for customer service,
+business operations, productivity and analysis related to source
+information, internal research, or technical assistance, regardless
+of the software's capability to use natural language inputs and
+generate natural language outputs;
+(ii) An AI system that is a feature of a video game and is
+limited to replies related to the video game that cannot discuss
+topics related to mental health, self-harm, or sexually explicit
+conduct, or maintain a dialogue on other topics unrelated to the
+video game;
+(iii) An AI system that operates solely in connection with a
+specific location, such as a theme park or location-based
+experience, including services related to visiting or accessing such
+location, at physical events, or for the promotion, marketing, or
+exhibition of a film, television program, or other audiovisual work,
+and that cannot maintain a dialogue on topics unrelated to the
+physical location, event, or such work;
+- 2 - 018051
+(iv) A generative artificial intelligence system designed
+and marketed primarily for software development, research,
+technical assistance, or enterprise productivity, or that is a feature
+within another software application, web interface, or computer
+program that is not an artificial intelligence system;
+(v) A customer service AI system that does not sustain a
+relationship across multiple interactions and is not designed to
+elicit an emotional attachment;
+(vi) A stand-alone consumer electronic device that
+functions as a speaker and voice-command interface or virtual
+assistant and is not designed to sustain a relationship across
+multiple interactions or to elicit emotional attachment;
+(vii) A narrowly tailored educational tool designed solely to
+support specific curriculum-aligned learning objectives and not to
+provide open-ended conversational companionship; or
+(viii) An artificial intelligence system utilized by an
+educational institution;
+(2) "Artificial intelligence chatbot" or "chatbot" means artificial intelligence
+with a natural language interface that provides adaptive, human-like responses to
+user inputs and is capable of meeting a user's social needs;
+(3) "Minor user" means a user who is under eighteen (18) years of age;
+(4) "Operator":
+(A) Means a person or entity that makes available, deploys,
+configures, or controls end-user access to an artificial intelligence system;
+and
+- 3 - 018051
+(B) Does not include a mobile application store or search engine
+solely because the mobile application store or search engine provides
+access to an artificial intelligence system;
+(5) "Person" means an individual, for-profit corporation, nonprofit
+corporation, or other business entity;
+(6) "Sexually explicit conduct" means the same as defined in § 39-13-
+301;
+(7) "User" means a person in this state who interacts with an artificial
+intelligence system; and
+(8) "Video game" means a game played on a personal computer or an
+electronic amusement device that utilizes a microprocessor or similar electronic
+circuitry and its own monitor, or is designed to be used with a television set or a
+computer monitor, that interacts with the user of the device.
+47-18-5902. Artificial intelligence disclosure requirement.
+(a) Any artificial intelligence interaction occurring with a user must include a
+recurring and prominent disclosure clearly indicating that the user is interacting with an
+artificial intelligence system.
+(b) The disclosure required by subsection (a):
+(1) May be a watermark, recurring text or pop-up notice, or other
+disclosure that is clearly visible or audible and noticeable by a user; and
+(2) Must be visible or audible at the beginning of each session and:
+(A) Continuously visible; or
+(B) Recurring at intervals of every sixty (60) minutes of
+continuous AI system interaction.
+47-18-5903. Suicide and self-harm protocol.
+A person who operates an artificial intelligence system in this state must adopt a
+protocol for the artificial intelligence system to respond to user prompts regarding
+- 4 - 018051
+suicidal ideation that includes, but is not limited to, making reasonable efforts to provide
+a response that refers the user to crisis service providers such as a suicide hotline, crisis
+text line, or other appropriate crisis services.
+47-18-5904. Requirements for artificial intelligence systems interacting with
+minors.
+(a) If an operator knows, or reasonably should know, that a user is a minor, then
+the operator must not provide the user with points or similar rewards at unpredictable
+intervals with intent to encourage increased engagement with the artificial intelligence
+system.
+(b) An operator must institute reasonable measures to prevent an artificial
+intelligence system from the following when engaged with a minor user:
+(1) Producing audible or visual material of sexually explicit conduct; or
+(2) Generating direct statements that the user should engage in sexually
+explicit conduct.
+(c) An operator must institute reasonable measures to prevent an artificial
+intelligence system interacting with a minor user from generating statements that would
+lead a reasonable person to believe that the person is interacting with a human,
+including:
+(1) Explicit claims that the artificial intelligence system is sentient or
+human;
+(2) Explicit claims that the artificial intelligence system is undergoing
+feelings of emotional distress, loneliness, guilt, or abandonment that are initiated
+by the minor user's indication of a desire to end a conversation, reduce usage
+time, or delete the minor user's account;
+(3) Statements that simulate romantic or sexual innuendos; and
+(4) Role-playing of adult-minor romantic relationships.
+47-18-5905. Civil remedies.
+- 5 - 018051
+(a) A violation of this part constitutes a violation of the Tennessee Consumer
+Protection Act of 1977, compiled in part 1 of this chapter. A violation of this part
+constitutes an unfair or deceptive act or practice affecting trade or commerce and is
+subject to the penalties and remedies as provided in the Tennessee Consumer
+Protection Act of 1977, in addition to the penalties and remedies in this part.
+(b) The attorney general and reporter may bring an action in the same manner
+as provided in § 47-18-108, and in any such action, the attorney general and reporter
+may recover the penalties and other relief authorized under § 47-18-108. In addition to
+the penalties and other relief authorized under § 47-18-108, the attorney general and
+reporter may recover civil penalties of up to twenty million dollars ($20,000,000), up to
+ninety percent (90%) of which may be designated as restitution to the victim or the
+victim's estate.
+
+Section 5:
+SECTION 3. Tennessee Code Annotated, Section 47-18-104(b), is amended by adding
+the following as a new subdivision:
+( ) Violating § 47-18-5902; § 47-18-5903; or § 47-18-5904;
+
+Section 6:
+SECTION 4. If any provision of this act or its application to any person or circumstance
+is held invalid, then the invalidity does not affect other provisions or applications of the act that
+can be given effect without the invalid provision or application, and to that end, the provisions of
+this act are severable.
+
+Section 7:
+SECTION 5. The headings in this act are for reference purposes only and do not
+constitute a part of the law enacted by this act. However, the Tennessee Code Commission is
+requested to include the headings in any compilation or publication containing this act.
+
+Section 8:
+SECTION 6. This act takes effect July 1, 2027, the public welfare requiring it, and
+applies to conduct occurring on or after that date.
+- 6 - 018051
+[DELETED:  a HS(((S4A(((]
+[DELETED:  -0((((((]
+[DELETED:  -0(((((((((]
+[DELETED:  -0(((((4((((((4A]
+[DELETED:  -04(((((((((4]
+[DELETED:  -0((S(SSS]
+
+
+================================================================================
+
+Raw Text:
+Amendment No. 2 to SB1493
+Massey
+Signature of Sponsor
+AMEND S e n ate Bill No. 1493 House Bill No. 1455*
+by deleting all language after the enacting clause and substituting:
+SECTION 1. Tennessee Code Annotated, Title 39, Chapter 11, Part 4, is amended by
+adding the following as a new section:
+(a) As used in this section, "artificial intelligence" means the same as defined in
+§ 47-18-5901.
+(b) A person who, acting with intent to promote or assist in the commission of an
+offense, knowingly uses artificial intelligence to engage in conduct that is a criminal
+offense under the laws of this state may be prosecuted and punished for the underlying
+criminal offense the same as if the person had engaged in the unlawful conduct without
+the use of artificial intelligence.
+(c) This section does not create a separate criminal offense.
+SECTION 2. Tennessee Code Annotated, Title 47, Chapter 18, is amended by adding
+the following as a new part:
+47-18-5901. Part definitions.
+As used in this part:
+(1) "Artificial intelligence" or "AI":
+(A) Means a machine-based system that:
+(i) Can, for a given set of human-defined objectives, make
+predictions, recommendations, or decisions; influence real or
+virtual environments without significant human oversight; or that
+SA1070
+018051
+- 1 -
+
+can learn from experience in an automated manner and improve
+such performance when exposed to data sets; or
+(ii) Is developed in any context, including software or
+physical hardware, and solves tasks requiring human-like
+perception, cognition, planning, learning, communication, or
+physical action;
+(B) Includes generative artificial intelligence and an artificial
+intelligence chatbot; and
+(C) Does not include:
+(i) An AI system that is used only for customer service,
+business operations, productivity and analysis related to source
+information, internal research, or technical assistance, regardless
+of the software's capability to use natural language inputs and
+generate natural language outputs;
+(ii) An AI system that is a feature of a video game and is
+limited to replies related to the video game that cannot discuss
+topics related to mental health, self-harm, or sexually explicit
+conduct, or maintain a dialogue on other topics unrelated to the
+video game;
+(iii) An AI system that operates solely in connection with a
+specific location, such as a theme park or location-based
+experience, including services related to visiting or accessing such
+location, at physical events, or for the promotion, marketing, or
+exhibition of a film, television program, or other audiovisual work,
+and that cannot maintain a dialogue on topics unrelated to the
+physical location, event, or such work;
+- 2 - 018051
+
+(iv) A generative artificial intelligence system designed
+and marketed primarily for software development, research,
+technical assistance, or enterprise productivity, or that is a feature
+within another software application, web interface, or computer
+program that is not an artificial intelligence system;
+(v) A customer service AI system that does not sustain a
+relationship across multiple interactions and is not designed to
+elicit an emotional attachment;
+(vi) A stand-alone consumer electronic device that
+functions as a speaker and voice-command interface or virtual
+assistant and is not designed to sustain a relationship across
+multiple interactions or to elicit emotional attachment;
+(vii) A narrowly tailored educational tool designed solely to
+support specific curriculum-aligned learning objectives and not to
+provide open-ended conversational companionship; or
+(viii) An artificial intelligence system utilized by an
+educational institution;
+(2) "Artificial intelligence chatbot" or "chatbot" means artificial intelligence
+with a natural language interface that provides adaptive, human-like responses to
+user inputs and is capable of meeting a user's social needs;
+(3) "Minor user" means a user who is under eighteen (18) years of age;
+(4) "Operator":
+(A) Means a person or entity that makes available, deploys,
+configures, or controls end-user access to an artificial intelligence system;
+and
+- 3 - 018051
+
+(B) Does not include a mobile application store or search engine
+solely because the mobile application store or search engine provides
+access to an artificial intelligence system;
+(5) "Person" means an individual, for-profit corporation, nonprofit
+corporation, or other business entity;
+(6) "Sexually explicit conduct" means the same as defined in § 39-13-
+301;
+(7) "User" means a person in this state who interacts with an artificial
+intelligence system; and
+(8) "Video game" means a game played on a personal computer or an
+electronic amusement device that utilizes a microprocessor or similar electronic
+circuitry and its own monitor, or is designed to be used with a television set or a
+computer monitor, that interacts with the user of the device.
+47-18-5902. Artificial intelligence disclosure requirement.
+(a) Any artificial intelligence interaction occurring with a user must include a
+recurring and prominent disclosure clearly indicating that the user is interacting with an
+artificial intelligence system.
+(b) The disclosure required by subsection (a):
+(1) May be a watermark, recurring text or pop-up notice, or other
+disclosure that is clearly visible or audible and noticeable by a user; and
+(2) Must be visible or audible at the beginning of each session and:
+(A) Continuously visible; or
+(B) Recurring at intervals of every sixty (60) minutes of
+continuous AI system interaction.
+47-18-5903. Suicide and self-harm protocol.
+A person who operates an artificial intelligence system in this state must adopt a
+protocol for the artificial intelligence system to respond to user prompts regarding
+- 4 - 018051
+
+suicidal ideation that includes, but is not limited to, making reasonable efforts to provide
+a response that refers the user to crisis service providers such as a suicide hotline, crisis
+text line, or other appropriate crisis services.
+47-18-5904. Requirements for artificial intelligence systems interacting with
+minors.
+(a) If an operator knows, or reasonably should know, that a user is a minor, then
+the operator must not provide the user with points or similar rewards at unpredictable
+intervals with intent to encourage increased engagement with the artificial intelligence
+system.
+(b) An operator must institute reasonable measures to prevent an artificial
+intelligence system from the following when engaged with a minor user:
+(1) Producing audible or visual material of sexually explicit conduct; or
+(2) Generating direct statements that the user should engage in sexually
+explicit conduct.
+(c) An operator must institute reasonable measures to prevent an artificial
+intelligence system interacting with a minor user from generating statements that would
+lead a reasonable person to believe that the person is interacting with a human,
+including:
+(1) Explicit claims that the artificial intelligence system is sentient or
+human;
+(2) Explicit claims that the artificial intelligence system is undergoing
+feelings of emotional distress, loneliness, guilt, or abandonment that are initiated
+by the minor user's indication of a desire to end a conversation, reduce usage
+time, or delete the minor user's account;
+(3) Statements that simulate romantic or sexual innuendos; and
+(4) Role-playing of adult-minor romantic relationships.
+47-18-5905. Civil remedies.
+- 5 - 018051
+
+(a) A violation of this part constitutes a violation of the Tennessee Consumer
+Protection Act of 1977, compiled in part 1 of this chapter. A violation of this part
+constitutes an unfair or deceptive act or practice affecting trade or commerce and is
+subject to the penalties and remedies as provided in the Tennessee Consumer
+Protection Act of 1977, in addition to the penalties and remedies in this part.
+(b) The attorney general and reporter may bring an action in the same manner
+as provided in § 47-18-108, and in any such action, the attorney general and reporter
+may recover the penalties and other relief authorized under § 47-18-108. In addition to
+the penalties and other relief authorized under § 47-18-108, the attorney general and
+reporter may recover civil penalties of up to twenty million dollars ($20,000,000), up to
+ninety percent (90%) of which may be designated as restitution to the victim or the
+victim's estate.
+SECTION 3. Tennessee Code Annotated, Section 47-18-104(b), is amended by adding
+the following as a new subdivision:
+( ) Violating § 47-18-5902; § 47-18-5903; or § 47-18-5904;
+SECTION 4. If any provision of this act or its application to any person or circumstance
+is held invalid, then the invalidity does not affect other provisions or applications of the act that
+can be given effect without the invalid provision or application, and to that end, the provisions of
+this act are severable.
+SECTION 5. The headings in this act are for reference purposes only and do not
+constitute a part of the law enacted by this act. However, the Tennessee Code Commission is
+requested to include the headings in any compilation or publication containing this act.
+SECTION 6. This act takes effect July 1, 2027, the public welfare requiring it, and
+applies to conduct occurring on or after that date.
+- 6 - 018051
+
+[DELETED:  a HS(((S4A(((]
+[DELETED:  -0((((((]
+[DELETED:  -0(((((((((]
+[DELETED:  -0(((((4((((((4A]
+[DELETED:  -04(((((((((4]
+[DELETED:  -0((S(SSS]

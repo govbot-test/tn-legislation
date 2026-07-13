@@ -1,0 +1,179 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+SENATE JOINT RESOLUTION 1031
+By Crowe
+A RESOLUTION to honor the fourteen fallen veterans of Happy
+Valley High School.
+WHEREAS, the contributions and sacrifices of the Tennesseans who have served in the
+U.S. Armed Forces have been vital in maintaining our freedoms and our way of life, and we will
+never forget the ultimate sacrifice made by many of these veterans while defending our country;
+and
+WHEREAS, among the tens of millions of Americans who have served in the Armed
+Forces of the United States from the American Revolution to the present, fourteen Happy Valley
+High School alumni sacrificed their lives in either World War II, the Korean War, the Vietnam
+War, or Operation Desert Storm; and
+WHEREAS, Cpl. James David Bowers, Class of 1966, was killed in action while serving
+with the Golf Company, 2nd Battalion, 3rd Regiment, 3rd Marine Division, in Vietnam and was
+awarded a Purple Heart, Marine Corps Presidential Unit Citation, and Vietnam Gallantry Cross;
+and
+WHEREAS, S2c William Vane Campbell (Purple Heart), Class of 1939, was the first
+Carter Countian killed in World War II, losing his life during the attack on Pearl Harbor while
+onboard the battleship USS Oklahoma; and
+WHEREAS, Pvt. Charles Wayne Clamon (Purple Heart), Class of 1943, was killed in
+action on the Pacific Island of Tinian while fighting with the 8th Marines, 2nd Marine Division, to
+take "Hell's Half Acre," a strategic point for Allied Forces; and
+WHEREAS, SSG. Billy Joe Ellis (Purple Heart), Class of 1966, was declared missing in
+action from Company D, 2nd Battalion, 12th Cavalry Regiment, 1st Cavalry Division, in Vietnam
+after his unit came under heavy night attack; and
+SJR1031
+016256
+- 1 -
+WHEREAS, Cpt. Daniel Eugene Graybeal, Class of 1983, was engaged in a rescue
+mission as a Medevac Helicopter Pilot with the 507th Medical Company Air Ambulance, 13th
+Corps Support Command, when he was shot down by Iraqi forces during the final hours of
+Desert Storm; he was awarded the Purple Heart and Air Assault Badge; and
+WHEREAS, SSG. Larry Jerome Lyons, Class of 1959, was serving as a heavy
+equipment operator in C Company, 87th Engineering Group, 18th Engineering Brigade, when he
+was killed in action during a mortar attack on an airbase in Vietnam; he was awarded a Vietnam
+Gallantry Cross, Purple Heart, and Bronze Star; and
+WHEREAS, Pvt. Joe Pete McKeehan, Class of 1946, was killed in action during the
+Korean War while assigned to 38th Infantry Regiment, 2nd Infantry Division, and was awarded a
+Purple Heart and Korean Presidential Unit Citation; and
+WHEREAS, S2c. Louis Henry McKeehan, Class of 1944, was declared "Missing In
+Action, Lost at Sea" after a violent typhoon sank the USS Hull in the Philippine Sea during
+World War II; he was the youngest Happy Valley alumnus to lose his life during wartime; and
+WHEREAS, Pvt. Tommy Edwin McKeehan (Purple Heart), Class 1944, was killed in the
+"Omaha Beach" landing during the D-Day invasion as a member of Company L of the 115th
+Infantry Regiment, 29th Infantry Division; and
+WHEREAS, SSG. Ira Meredith (Purple Heart), Class of 1932, was the oldest Happy
+Valley alumnus killed and the first Carter Countian to earn the Distinguished Service Cross in
+World War II; a member of Company L, 8th Infantry Regiment, 4th Infantry Division, he was killed
+when he courageously charged an enemy machine gun position during the "Utah Beach"
+landing of the D-Day invasion; and
+WHEREAS, SP4 Gary Dalton Murray, Class of 1964, served as a Medic in the HHC, 3rd
+Battalion, 12th Infantry, 4th Infantry Division in Vietnam; he was killed while coming to the aid of
+wounded soldiers and was awarded a Purple Heart and a Bronze Star with a "V" for Valor; and
+- 2 - 016256
+WHEREAS, SSG. Raymond Francis Range, Class of 1934, was the laboratory director
+for the 106th General Hospital of the Army Air Forces in England, when he lost his life during
+World War II; and
+WHEREAS, PO1 Frank Eugene Verran, Class of 1936, served as an Aviation Radio
+Man, 1st Class during World War II; he was declared missing in action when the Navy Martin
+Mariner Flying Boat airplane he was aboard crashed into the Atlantic Ocean off Long Island
+during an anti-submarine training exercise; and
+WHEREAS, LCpl. Harold Wendell Wilson, Class of 1963, was killed in action by enemy
+small arms fire in Vietnam while assigned to Company K, 3rd Battalion, 7th Marines, 1st Marine
+Division, III MA, and was awarded a Purple Heart and Gallantry Cross with Palm Medal; and
+WHEREAS, while no measure of commendation could properly express our gratitude for
+the service of these fourteen men, it is incumbent upon us to honor their memories to the full
+extent of our abilities, today and every day; and
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE HOUSE OF
+REPRESENTATIVES CONCURRING, that we honor the fourteen fallen veterans who were
+alumni of Happy Valley High School and pay tribute to their service and their ultimate sacrifice
+during war time for the United States and their fellow Americans.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy and upon proper request made to
+the appropriate clerk, the language appearing immediately following the State seal appear
+without House or Senate designation.
+- 3 - 016256
+[DELETED: WWW2 3 3MdrdrWS;W8 2 hnW2 2 1 dths]
+[DELETED:  -0W7 3htW7 8 htW8 2 hnWS W59 W8 4 htW32 4 ht]
+[DELETED:  -0W6 W1 W3 7 1 dthsWBB]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+SENATE JOINT RESOLUTION 1031
+By Crowe
+A RESOLUTION to honor the fourteen fallen veterans of Happy
+Valley High School.
+WHEREAS, the contributions and sacrifices of the Tennesseans who have served in the
+U.S. Armed Forces have been vital in maintaining our freedoms and our way of life, and we will
+never forget the ultimate sacrifice made by many of these veterans while defending our country;
+and
+WHEREAS, among the tens of millions of Americans who have served in the Armed
+Forces of the United States from the American Revolution to the present, fourteen Happy Valley
+High School alumni sacrificed their lives in either World War II, the Korean War, the Vietnam
+War, or Operation Desert Storm; and
+WHEREAS, Cpl. James David Bowers, Class of 1966, was killed in action while serving
+with the Golf Company, 2nd Battalion, 3rd Regiment, 3rd Marine Division, in Vietnam and was
+awarded a Purple Heart, Marine Corps Presidential Unit Citation, and Vietnam Gallantry Cross;
+and
+WHEREAS, S2c William Vane Campbell (Purple Heart), Class of 1939, was the first
+Carter Countian killed in World War II, losing his life during the attack on Pearl Harbor while
+onboard the battleship USS Oklahoma; and
+WHEREAS, Pvt. Charles Wayne Clamon (Purple Heart), Class of 1943, was killed in
+action on the Pacific Island of Tinian while fighting with the 8th Marines, 2nd Marine Division, to
+take "Hell's Half Acre," a strategic point for Allied Forces; and
+WHEREAS, SSG. Billy Joe Ellis (Purple Heart), Class of 1966, was declared missing in
+action from Company D, 2nd Battalion, 12th Cavalry Regiment, 1st Cavalry Division, in Vietnam
+after his unit came under heavy night attack; and
+SJR1031
+016256
+- 1 -
+
+WHEREAS, Cpt. Daniel Eugene Graybeal, Class of 1983, was engaged in a rescue
+mission as a Medevac Helicopter Pilot with the 507th Medical Company Air Ambulance, 13th
+Corps Support Command, when he was shot down by Iraqi forces during the final hours of
+Desert Storm; he was awarded the Purple Heart and Air Assault Badge; and
+WHEREAS, SSG. Larry Jerome Lyons, Class of 1959, was serving as a heavy
+equipment operator in C Company, 87th Engineering Group, 18th Engineering Brigade, when he
+was killed in action during a mortar attack on an airbase in Vietnam; he was awarded a Vietnam
+Gallantry Cross, Purple Heart, and Bronze Star; and
+WHEREAS, Pvt. Joe Pete McKeehan, Class of 1946, was killed in action during the
+Korean War while assigned to 38th Infantry Regiment, 2nd Infantry Division, and was awarded a
+Purple Heart and Korean Presidential Unit Citation; and
+WHEREAS, S2c. Louis Henry McKeehan, Class of 1944, was declared "Missing In
+Action, Lost at Sea" after a violent typhoon sank the USS Hull in the Philippine Sea during
+World War II; he was the youngest Happy Valley alumnus to lose his life during wartime; and
+WHEREAS, Pvt. Tommy Edwin McKeehan (Purple Heart), Class 1944, was killed in the
+"Omaha Beach" landing during the D-Day invasion as a member of Company L of the 115th
+Infantry Regiment, 29th Infantry Division; and
+WHEREAS, SSG. Ira Meredith (Purple Heart), Class of 1932, was the oldest Happy
+Valley alumnus killed and the first Carter Countian to earn the Distinguished Service Cross in
+World War II; a member of Company L, 8th Infantry Regiment, 4th Infantry Division, he was killed
+when he courageously charged an enemy machine gun position during the "Utah Beach"
+landing of the D-Day invasion; and
+WHEREAS, SP4 Gary Dalton Murray, Class of 1964, served as a Medic in the HHC, 3rd
+Battalion, 12th Infantry, 4th Infantry Division in Vietnam; he was killed while coming to the aid of
+wounded soldiers and was awarded a Purple Heart and a Bronze Star with a "V" for Valor; and
+- 2 - 016256
+
+WHEREAS, SSG. Raymond Francis Range, Class of 1934, was the laboratory director
+for the 106th General Hospital of the Army Air Forces in England, when he lost his life during
+World War II; and
+WHEREAS, PO1 Frank Eugene Verran, Class of 1936, served as an Aviation Radio
+Man, 1st Class during World War II; he was declared missing in action when the Navy Martin
+Mariner Flying Boat airplane he was aboard crashed into the Atlantic Ocean off Long Island
+during an anti-submarine training exercise; and
+WHEREAS, LCpl. Harold Wendell Wilson, Class of 1963, was killed in action by enemy
+small arms fire in Vietnam while assigned to Company K, 3rd Battalion, 7th Marines, 1st Marine
+Division, III MA, and was awarded a Purple Heart and Gallantry Cross with Palm Medal; and
+WHEREAS, while no measure of commendation could properly express our gratitude for
+the service of these fourteen men, it is incumbent upon us to honor their memories to the full
+extent of our abilities, today and every day; and
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE HOUSE OF
+REPRESENTATIVES CONCURRING, that we honor the fourteen fallen veterans who were
+alumni of Happy Valley High School and pay tribute to their service and their ultimate sacrifice
+during war time for the United States and their fellow Americans.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy and upon proper request made to
+the appropriate clerk, the language appearing immediately following the State seal appear
+without House or Senate designation.
+- 3 - 016256
+
+[DELETED: WWW2 3 3MdrdrWS;W8 2 hnW2 2 1 dths]
+[DELETED:  -0W7 3htW7 8 htW8 2 hnWS W59 W8 4 htW32 4 ht]
+[DELETED:  -0W6 W1 W3 7 1 dthsWBB]
