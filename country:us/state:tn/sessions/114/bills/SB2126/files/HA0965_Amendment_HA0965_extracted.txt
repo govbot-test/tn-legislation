@@ -1,0 +1,118 @@
+Title: AMEND S e n ate Bill No. 2126 House Bill No. 1777*
+Official Title: AMEND S e n ate Bill No. 2126 House Bill No. 1777*
+Number of Sections: 5
+Source: versions - Amendment HA0965
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+House Commerce 2
+Amendment No. 2 to HB1777
+Vaughan
+Signature of Sponsor
+by deleting all language after the enacting clause and substituting:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 67-4-2006(b)(1)(O), is amended by
+deleting the subdivision and substituting instead:
+(O)
+(i) Subject to subdivision (b)(1)(O)(ii), any deduction by any of the
+following for dividends paid, as defined under 26 U.S.C. § 561, that is allowed
+and taken under 26 U.S.C. § 857(b)(2)(B):
+(a) Captive REIT, including a captive REIT that is owned, directly
+or indirectly, by a bank, a bank holding company, or a public REIT;
+(b) Public REIT; or
+(c) Private REIT;
+(ii) Subdivision (b)(1)(O)(i) applies only to captive REITs, public REITs,
+and private REITs that own single family residential real property and derive
+income from the rental of that property;
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 67-4-2019, is amended by deleting
+the section and substituting instead:
+(a) Except as provided in subsection (b), there is exempt from the payment of
+the excise tax levied under this part any person treated as a partnership for federal tax
+purposes that directly or indirectly distributes one hundred percent (100%) of its net
+earnings or net losses to a public REIT.
+HA0965
+017137
+- 1 -
+(b) Subsection (a) does not apply to a public REIT that owns residential real
+property and derives income from the rental of that property.
+
+Section 4:
+SECTION 3. Tennessee Code Annotated, Section 67-4-2006(a)(5), is amended by
+deleting the subdivision and substituting instead:
+(5)
+(A) Subject to subdivision (a)(5)(B), in the case of a person or taxpayer
+treated as a partnership for federal tax purposes that is directly or indirectly
+owned by a public REIT, "net earnings" or "net loss" is defined as an amount
+equal to the amount determined pursuant to subdivision (a)(4):
+(i) Less the amount distributed either directly or indirectly to a
+public REIT; and
+(ii) As adjusted by subsections (b) and (c).
+(B) Subdivision (a)(5)(A) does not apply to a public REIT that owns
+residential real property and derives income from the rental of that property.
+
+Section 5:
+SECTION 4. This act takes effect upon becoming a law, the public welfare requiring it,
+and applies to tax years ending on or after December 31, 2026.
+- 2 - 017137
+[DELETED:  a HS)))]
+[DELETED:  -0S]
+
+
+================================================================================
+
+Raw Text:
+House Commerce 2
+Amendment No. 2 to HB1777
+Vaughan
+Signature of Sponsor
+AMEND S e n ate Bill No. 2126 House Bill No. 1777*
+by deleting all language after the enacting clause and substituting:
+SECTION 1. Tennessee Code Annotated, Section 67-4-2006(b)(1)(O), is amended by
+deleting the subdivision and substituting instead:
+(O)
+(i) Subject to subdivision (b)(1)(O)(ii), any deduction by any of the
+following for dividends paid, as defined under 26 U.S.C. § 561, that is allowed
+and taken under 26 U.S.C. § 857(b)(2)(B):
+(a) Captive REIT, including a captive REIT that is owned, directly
+or indirectly, by a bank, a bank holding company, or a public REIT;
+(b) Public REIT; or
+(c) Private REIT;
+(ii) Subdivision (b)(1)(O)(i) applies only to captive REITs, public REITs,
+and private REITs that own single family residential real property and derive
+income from the rental of that property;
+SECTION 2. Tennessee Code Annotated, Section 67-4-2019, is amended by deleting
+the section and substituting instead:
+(a) Except as provided in subsection (b), there is exempt from the payment of
+the excise tax levied under this part any person treated as a partnership for federal tax
+purposes that directly or indirectly distributes one hundred percent (100%) of its net
+earnings or net losses to a public REIT.
+HA0965
+017137
+- 1 -
+
+(b) Subsection (a) does not apply to a public REIT that owns residential real
+property and derives income from the rental of that property.
+SECTION 3. Tennessee Code Annotated, Section 67-4-2006(a)(5), is amended by
+deleting the subdivision and substituting instead:
+(5)
+(A) Subject to subdivision (a)(5)(B), in the case of a person or taxpayer
+treated as a partnership for federal tax purposes that is directly or indirectly
+owned by a public REIT, "net earnings" or "net loss" is defined as an amount
+equal to the amount determined pursuant to subdivision (a)(4):
+(i) Less the amount distributed either directly or indirectly to a
+public REIT; and
+(ii) As adjusted by subsections (b) and (c).
+(B) Subdivision (a)(5)(A) does not apply to a public REIT that owns
+residential real property and derives income from the rental of that property.
+SECTION 4. This act takes effect upon becoming a law, the public welfare requiring it,
+and applies to tax years ending on or after December 31, 2026.
+- 2 - 017137
+
+[DELETED:  a HS)))]
+[DELETED:  -0S]

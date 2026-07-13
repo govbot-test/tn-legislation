@@ -1,0 +1,92 @@
+Title: HOUSE BILL 1900
+Official Title: HOUSE BILL 1900
+Number of Sections: 4
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+By Lamberth
+SENATE BILL 2145
+By White
+AN ACT to amend Tennessee Code Annotated, Title 36
+and Title 39, relative to lifetime orders of
+protection.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 36-3-627(a)(1), is amended by
+adding the following new subdivision:
+(D) A felony offense committed in another state that would constitute an offense
+listed in this subdivision (a)(1) if committed in this state. If an offense in a jurisdiction
+other than this state is not identified as one (1) of the offenses listed in this subdivision
+(a)(1), then it must be considered an offense listed in this subdivision (a)(1) if the
+elements of the offense are the same as the elements of the comparable offense in this
+state.
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 36-3-627(c), is amended by deleting
+the subsection and substituting:
+(c)
+(1) Venue for a petition for an order of protection under subdivisions
+(a)(1)(A)-(C), and all other matters relating to such an order of protection, is in
+the county where the respondent resides, the county in which the offense
+occurred, or, if the respondent is not a resident of this state, the county in which
+the petitioner resides.
+(2) Venue for a petition for an order of protection under subdivision
+(a)(1)(D), and all other matters relating to such an order of protection, is in the
+SB2145
+011976
+- 1 -
+county where the respondent resides or, if the respondent is not a resident of this
+state, the county in which the petitioner resides.
+
+Section 4:
+SECTION 3. This act takes effect upon becoming a law, the public welfare requiring it.
+- 2 - 011976
+[DELETED: S(S(((]
+[DELETED:  -0S]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 1900
+By Lamberth
+SENATE BILL 2145
+By White
+AN ACT to amend Tennessee Code Annotated, Title 36
+and Title 39, relative to lifetime orders of
+protection.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 36-3-627(a)(1), is amended by
+adding the following new subdivision:
+(D) A felony offense committed in another state that would constitute an offense
+listed in this subdivision (a)(1) if committed in this state. If an offense in a jurisdiction
+other than this state is not identified as one (1) of the offenses listed in this subdivision
+(a)(1), then it must be considered an offense listed in this subdivision (a)(1) if the
+elements of the offense are the same as the elements of the comparable offense in this
+state.
+SECTION 2. Tennessee Code Annotated, Section 36-3-627(c), is amended by deleting
+the subsection and substituting:
+(c)
+(1) Venue for a petition for an order of protection under subdivisions
+(a)(1)(A)-(C), and all other matters relating to such an order of protection, is in
+the county where the respondent resides, the county in which the offense
+occurred, or, if the respondent is not a resident of this state, the county in which
+the petitioner resides.
+(2) Venue for a petition for an order of protection under subdivision
+(a)(1)(D), and all other matters relating to such an order of protection, is in the
+SB2145
+011976
+- 1 -
+
+county where the respondent resides or, if the respondent is not a resident of this
+state, the county in which the petitioner resides.
+SECTION 3. This act takes effect upon becoming a law, the public welfare requiring it.
+- 2 - 011976
+
+[DELETED: S(S(((]
+[DELETED:  -0S]

@@ -1,0 +1,167 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+HOUSE JOINT RESOLUTION 1492
+By Vital
+A RESOLUTION to honor the memory of Melvin Duley Cooper,
+Jr., of Chattanooga.
+WHEREAS, the members of this General Assembly were greatly saddened to learn of
+the passing of Melvin Duley Cooper, Jr., of Chattanooga; and
+WHEREAS, Mel Cooper was an exemplary public servant and consummate professional
+who worked assiduously to improve the quality of life for his fellow citizens in numerous
+capacities; and
+WHEREAS, born on August 12, 1940, in Memphis, Melvin Duley Cooper, Jr., was the
+eldest child of Melvin Duley Cooper, Sr., and Sidney Mae Wilson, and he grew up helping his
+father in the family restaurant, the Electric Waffle Shop, that his grandmother started during the
+Great Depression; and
+WHEREAS, Mel Cooper graduated from Central High School in Memphis in 1958 and
+Columbia University in New York in 1962; he returned to Memphis and taught in Shelby County
+public schools before changing his career path after the premature deaths of both of his
+parents; and
+WHEREAS, under the mentorship of Bob Sharpe, an advocate of school development
+work through Robert F. Sharpe and Company, Mel Cooper became the first development officer
+for Memphis University School; and
+WHEREAS, a trailblazer in the field of school fundraising, Mr. Cooper found a place in
+the National Association of Independent Schools and the Council for Advancement and Support
+of Education (CASE) and soon became a speaker, planner, and leader of workshops and
+conferences; and
+WHEREAS, in 1974, Mel Cooper relocated to Chattanooga to become the first
+development officer for the McCallie School, where he built the school's development program
+HJR1492
+018220
+- 1 -
+from the ground up, retiring in 2007 after thirty-four years of managing ongoing-strategic plans
+and cultivating major gifts with the board of trustees, leaving a substantial endowment and a
+large staff of professionals; and
+WHEREAS, a highly respected leader in his community, Mr. Cooper was known for
+lending his time and talents to a number of schools and nonprofit organizations, including St.
+Andrews-Sewanee School, Bright School, the Mental Health Association, Chattanooga Opera
+Theater, Episcopal Commission of Southeast Tennessee, WTCI public television, A.I.M. Center,
+Chattanooga Symphony and Opera, and Grace Episcopal Church; and
+WHEREAS, after his retirement, he served on the Friends of Moccasin Bend, which
+became National Park Partners; the Ed Johnson Committee, which established a memorial on
+the Walnut Street Bridge; and the Houston Museum for Decorative Arts, which will open a fully
+restored museum later this year; and
+WHEREAS, among Mr. Cooper's many successful campaigns, the Sports and Athletic
+Center and the Alumni Dining Hall stand as glowing examples of his transformative
+achievements as a result of his dedication and drive; and
+WHEREAS, no stranger to honors and accolades, Mel Cooper received the Robert Bell
+Crow Memorial Award, the highest national award in independent school professional
+advancement, from CASE in 2000 and the Burrows Award in 2002 for his service to St. Nicholas
+School in Chattanooga; and
+WHEREAS, Mr. Cooper was also deeply devoted to his family, and he always
+endeavored to remain true to family values of the highest order; and
+WHEREAS, Mel Cooper enjoyed the loving companionship of his wife of forty-four years,
+Eleanor McCallie Cooper, and was the proud father of Mae Cooper and Katie Cooper and the
+devoted grandfather of Alp and Leotie; and
+WHEREAS, Melvin Duley Cooper, Jr., leaves behind an indelible legacy of integrity and
+probity in public life, compassion and loyalty in private life, and diligence and dedication in all his
+chosen endeavors; and
+- 2 - 018220
+WHEREAS, it is fitting that the members of this General Assembly should pause to
+remember the bountiful life of this exceptional public servant and human being; now, therefore,
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE SENATE
+CONCURRING, that we honor the memory of Melvin Duley Cooper, Jr., reflecting fondly upon
+his impeccable character and his stalwart commitment to living the examined life with courage
+and conviction.
+BE IT FURTHER RESOLVED, that we express our sympathy and offer our condolences
+to the family of Mr. Cooper.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy and upon proper request made to
+the appropriate clerk, the language appearing immediately following the State seal appear
+without House or Senate designation.
+- 3 - 018220
+[DELETED: WWWWWWW]
+[DELETED:  -0WWWWWWW]
+[DELETED:  -0WBBB]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+HOUSE JOINT RESOLUTION 1492
+By Vital
+A RESOLUTION to honor the memory of Melvin Duley Cooper,
+Jr., of Chattanooga.
+WHEREAS, the members of this General Assembly were greatly saddened to learn of
+the passing of Melvin Duley Cooper, Jr., of Chattanooga; and
+WHEREAS, Mel Cooper was an exemplary public servant and consummate professional
+who worked assiduously to improve the quality of life for his fellow citizens in numerous
+capacities; and
+WHEREAS, born on August 12, 1940, in Memphis, Melvin Duley Cooper, Jr., was the
+eldest child of Melvin Duley Cooper, Sr., and Sidney Mae Wilson, and he grew up helping his
+father in the family restaurant, the Electric Waffle Shop, that his grandmother started during the
+Great Depression; and
+WHEREAS, Mel Cooper graduated from Central High School in Memphis in 1958 and
+Columbia University in New York in 1962; he returned to Memphis and taught in Shelby County
+public schools before changing his career path after the premature deaths of both of his
+parents; and
+WHEREAS, under the mentorship of Bob Sharpe, an advocate of school development
+work through Robert F. Sharpe and Company, Mel Cooper became the first development officer
+for Memphis University School; and
+WHEREAS, a trailblazer in the field of school fundraising, Mr. Cooper found a place in
+the National Association of Independent Schools and the Council for Advancement and Support
+of Education (CASE) and soon became a speaker, planner, and leader of workshops and
+conferences; and
+WHEREAS, in 1974, Mel Cooper relocated to Chattanooga to become the first
+development officer for the McCallie School, where he built the school's development program
+HJR1492
+018220
+- 1 -
+
+from the ground up, retiring in 2007 after thirty-four years of managing ongoing-strategic plans
+and cultivating major gifts with the board of trustees, leaving a substantial endowment and a
+large staff of professionals; and
+WHEREAS, a highly respected leader in his community, Mr. Cooper was known for
+lending his time and talents to a number of schools and nonprofit organizations, including St.
+Andrews-Sewanee School, Bright School, the Mental Health Association, Chattanooga Opera
+Theater, Episcopal Commission of Southeast Tennessee, WTCI public television, A.I.M. Center,
+Chattanooga Symphony and Opera, and Grace Episcopal Church; and
+WHEREAS, after his retirement, he served on the Friends of Moccasin Bend, which
+became National Park Partners; the Ed Johnson Committee, which established a memorial on
+the Walnut Street Bridge; and the Houston Museum for Decorative Arts, which will open a fully
+restored museum later this year; and
+WHEREAS, among Mr. Cooper's many successful campaigns, the Sports and Athletic
+Center and the Alumni Dining Hall stand as glowing examples of his transformative
+achievements as a result of his dedication and drive; and
+WHEREAS, no stranger to honors and accolades, Mel Cooper received the Robert Bell
+Crow Memorial Award, the highest national award in independent school professional
+advancement, from CASE in 2000 and the Burrows Award in 2002 for his service to St. Nicholas
+School in Chattanooga; and
+WHEREAS, Mr. Cooper was also deeply devoted to his family, and he always
+endeavored to remain true to family values of the highest order; and
+WHEREAS, Mel Cooper enjoyed the loving companionship of his wife of forty-four years,
+Eleanor McCallie Cooper, and was the proud father of Mae Cooper and Katie Cooper and the
+devoted grandfather of Alp and Leotie; and
+WHEREAS, Melvin Duley Cooper, Jr., leaves behind an indelible legacy of integrity and
+probity in public life, compassion and loyalty in private life, and diligence and dedication in all his
+chosen endeavors; and
+- 2 - 018220
+
+WHEREAS, it is fitting that the members of this General Assembly should pause to
+remember the bountiful life of this exceptional public servant and human being; now, therefore,
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE SENATE
+CONCURRING, that we honor the memory of Melvin Duley Cooper, Jr., reflecting fondly upon
+his impeccable character and his stalwart commitment to living the examined life with courage
+and conviction.
+BE IT FURTHER RESOLVED, that we express our sympathy and offer our condolences
+to the family of Mr. Cooper.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy and upon proper request made to
+the appropriate clerk, the language appearing immediately following the State seal appear
+without House or Senate designation.
+- 3 - 018220
+
+[DELETED: WWWWWWW]
+[DELETED:  -0WWWWWWW]
+[DELETED:  -0WBBB]

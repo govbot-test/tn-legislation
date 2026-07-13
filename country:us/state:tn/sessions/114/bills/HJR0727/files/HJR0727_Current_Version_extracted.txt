@@ -1,0 +1,88 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+HOUSE JOINT RESOLUTION 727
+By Moon
+A RESOLUTION to urge the United States Congress to enact
+legislation to bring home the USS Intrepid sailors
+entombed in Libya.
+WHEREAS, on September 4, 1804, thirteen United States sailors on board the USS
+Intrepid were killed when their explosive-packed ship blew up prematurely during an attack on
+the harbor of Tripoli, Libya, during the first Barbary War; and
+WHEREAS, the sailors' remains were discovered onshore the next day, abused by the
+enemy and partially devoured by a pack of stray dogs before U.S. Navy prisoners in Tripoli were
+allowed to bury the men; and
+WHEREAS, more than two centuries later, those American heroes lie buried in a hostile
+land, and their tombs have often been desecrated and vandalized; and
+WHEREAS, the remains of five of the sailors are located in Protestant Cemetery in
+Tripoli, Libya, and the remains of eight of the sailors are located near the walls of the Tripoli
+Castle in Tripoli, Libya; and
+WHEREAS, the federal government should take whatever steps are necessary to
+exhume the remains of these American heroes, transport such remains to an appropriate
+forensics laboratory for identification, if possible, and subsequently for interment with full military
+funeral and burial in an appropriate veterans cemetery or Arlington National Cemetery at the
+Tomb of the Unknowns; now, therefore,
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE SENATE
+CONCURRING, that we hereby urge the United States Congress to enact legislation and
+policies to bring home the USS Intrepid sailors entombed in Libya.
+HJR0727
+010503
+- 1 -
+BE IT FURTHER RESOLVED, that a certified copy of this resolution be transmitted to
+the Speaker and the Clerk of the United States House of Representatives, the President and
+Secretary of the United States Senate, and each member of the Tennessee Congressional
+delegation.
+- 2 - 010503
+[DELETED:   WWWWWB  ]
+[DELETED:  -0B]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+HOUSE JOINT RESOLUTION 727
+By Moon
+A RESOLUTION to urge the United States Congress to enact
+legislation to bring home the USS Intrepid sailors
+entombed in Libya.
+WHEREAS, on September 4, 1804, thirteen United States sailors on board the USS
+Intrepid were killed when their explosive-packed ship blew up prematurely during an attack on
+the harbor of Tripoli, Libya, during the first Barbary War; and
+WHEREAS, the sailors' remains were discovered onshore the next day, abused by the
+enemy and partially devoured by a pack of stray dogs before U.S. Navy prisoners in Tripoli were
+allowed to bury the men; and
+WHEREAS, more than two centuries later, those American heroes lie buried in a hostile
+land, and their tombs have often been desecrated and vandalized; and
+WHEREAS, the remains of five of the sailors are located in Protestant Cemetery in
+Tripoli, Libya, and the remains of eight of the sailors are located near the walls of the Tripoli
+Castle in Tripoli, Libya; and
+WHEREAS, the federal government should take whatever steps are necessary to
+exhume the remains of these American heroes, transport such remains to an appropriate
+forensics laboratory for identification, if possible, and subsequently for interment with full military
+funeral and burial in an appropriate veterans cemetery or Arlington National Cemetery at the
+Tomb of the Unknowns; now, therefore,
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE SENATE
+CONCURRING, that we hereby urge the United States Congress to enact legislation and
+policies to bring home the USS Intrepid sailors entombed in Libya.
+HJR0727
+010503
+- 1 -
+
+BE IT FURTHER RESOLVED, that a certified copy of this resolution be transmitted to
+the Speaker and the Clerk of the United States House of Representatives, the President and
+Secretary of the United States Senate, and each member of the Tennessee Congressional
+delegation.
+- 2 - 010503
+
+[DELETED:   WWWWWB  ]
+[DELETED:  -0B]

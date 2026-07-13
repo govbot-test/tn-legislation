@@ -1,0 +1,77 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+HOUSE JOINT RESOLUTION 1470
+By Sparks
+A RESOLUTION to commend Sarah Elizabeth Vincion Lewis for
+perfect attendance throughout thirteen
+consecutive years of schooling.
+WHEREAS, each legislative session, this General Assembly is pleased to recognize
+certain students for their outstanding academic performance; and
+WHEREAS, Sarah Elizabeth Vincion Lewis is one such individual, who has distinguished
+herself by maintaining a perfect record of attendance for thirteen years—from elementary school
+through high school—as a student at Thurman Francis Elementary School, Stewart's Creek
+Middle School, and Stewart's Creek High School; and
+WHEREAS, Ms. Lewis will graduate from high school on Sunday, May 17,2026; this
+milestone will only be further accentuated by her remarkable consistency and dedication; and
+WHEREAS, throughout her academic career, Ms. Lewis has demonstrated strong
+character, responsibility, determination, and a commitment to learning; and
+WHEREAS, Ms. Lewis's achievement marks not only a great personal success but
+brings pride to her family and community; now, therefore,
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE SENATE
+CONCURRING, that we hereby commend Sarah Elizabeth Vincion Lewis for her outstanding
+achievement of a perfect attendance record and extend to her our best wishes for every future
+success.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy and upon proper request made to
+the appropriate clerk, the language appearing immediately following the State seal appear
+without House or Senate designation.
+HJR1470
+018019
+- 1 -
+[DELETED: WWWWWBB]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+HOUSE JOINT RESOLUTION 1470
+By Sparks
+A RESOLUTION to commend Sarah Elizabeth Vincion Lewis for
+perfect attendance throughout thirteen
+consecutive years of schooling.
+WHEREAS, each legislative session, this General Assembly is pleased to recognize
+certain students for their outstanding academic performance; and
+WHEREAS, Sarah Elizabeth Vincion Lewis is one such individual, who has distinguished
+herself by maintaining a perfect record of attendance for thirteen years—from elementary school
+through high school—as a student at Thurman Francis Elementary School, Stewart's Creek
+Middle School, and Stewart's Creek High School; and
+WHEREAS, Ms. Lewis will graduate from high school on Sunday, May 17,2026; this
+milestone will only be further accentuated by her remarkable consistency and dedication; and
+WHEREAS, throughout her academic career, Ms. Lewis has demonstrated strong
+character, responsibility, determination, and a commitment to learning; and
+WHEREAS, Ms. Lewis's achievement marks not only a great personal success but
+brings pride to her family and community; now, therefore,
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE SENATE
+CONCURRING, that we hereby commend Sarah Elizabeth Vincion Lewis for her outstanding
+achievement of a perfect attendance record and extend to her our best wishes for every future
+success.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy and upon proper request made to
+the appropriate clerk, the language appearing immediately following the State seal appear
+without House or Senate designation.
+HJR1470
+018019
+- 1 -
+
+[DELETED: WWWWWBB]
