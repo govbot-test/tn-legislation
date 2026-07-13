@@ -1,0 +1,86 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+HOUSE JOINT RESOLUTION 1493
+By Keisling
+A RESOLUTION to honor and congratulate Jacob Adam "Jake"
+Pedigo on becoming an Eagle Scout.
+WHEREAS, at a time when this nation's youth face difficult challenges, the Boy Scouts
+of America is one of our finest assets, providing young people with an educational program that
+contributes significantly to their character development, citizenship training, and improved
+mental and physical fitness; and
+WHEREAS, the highest rank a Scout can attain in the Boy Scouts of America Scouts
+BSA program is that of Eagle Scout, and Jacob Adam "Jake" Pedigo, after considerable effort
+and diligent preparation, has joined the prestigious Eagle Court of Honor; and
+WHEREAS, Mr. Pedigo has demonstrated considerable ability as a leader among his
+peers, and his notable record of achievement within his Boy Scout troop includes numerous
+merit badges; and
+WHEREAS, Jake Pedigo's Eagle project greatly contributed to the betterment of his
+community and reflected the true spirit of volunteerism; and
+WHEREAS, Jake's many endeavors in community service, responsible citizenship, and
+peer leadership are a source of great pride for his parents, Karen and Josh Pedigo; and
+WHEREAS, it is appropriate that we should recognize Jake Pedigo as one of the most
+outstanding young people in our State; now, therefore,
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE SENATE
+CONCURRING, that we honor and congratulate Jacob Adam "Jake" Pedigo on becoming an
+Eagle Scout and extend to him our best wishes for every future success.
+HJR1493
+018235
+- 1 -
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy and upon proper request made to
+the appropriate clerk, the language appearing immediately following the State seal appear
+without House or Senate designation.
+- 2 - 018235
+[DELETED: WWWWWWB]
+[DELETED:  -0B]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+HOUSE JOINT RESOLUTION 1493
+By Keisling
+A RESOLUTION to honor and congratulate Jacob Adam "Jake"
+Pedigo on becoming an Eagle Scout.
+WHEREAS, at a time when this nation's youth face difficult challenges, the Boy Scouts
+of America is one of our finest assets, providing young people with an educational program that
+contributes significantly to their character development, citizenship training, and improved
+mental and physical fitness; and
+WHEREAS, the highest rank a Scout can attain in the Boy Scouts of America Scouts
+BSA program is that of Eagle Scout, and Jacob Adam "Jake" Pedigo, after considerable effort
+and diligent preparation, has joined the prestigious Eagle Court of Honor; and
+WHEREAS, Mr. Pedigo has demonstrated considerable ability as a leader among his
+peers, and his notable record of achievement within his Boy Scout troop includes numerous
+merit badges; and
+WHEREAS, Jake Pedigo's Eagle project greatly contributed to the betterment of his
+community and reflected the true spirit of volunteerism; and
+WHEREAS, Jake's many endeavors in community service, responsible citizenship, and
+peer leadership are a source of great pride for his parents, Karen and Josh Pedigo; and
+WHEREAS, it is appropriate that we should recognize Jake Pedigo as one of the most
+outstanding young people in our State; now, therefore,
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE SENATE
+CONCURRING, that we honor and congratulate Jacob Adam "Jake" Pedigo on becoming an
+Eagle Scout and extend to him our best wishes for every future success.
+HJR1493
+018235
+- 1 -
+
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy and upon proper request made to
+the appropriate clerk, the language appearing immediately following the State seal appear
+without House or Senate designation.
+- 2 - 018235
+
+[DELETED: WWWWWWB]
+[DELETED:  -0B]

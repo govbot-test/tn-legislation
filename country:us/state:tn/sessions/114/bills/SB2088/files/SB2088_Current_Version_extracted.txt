@@ -1,0 +1,202 @@
+Title: HOUSE BILL 2013
+Official Title: HOUSE BILL 2013
+Number of Sections: 5
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+By Littleton
+SENATE BILL 2088
+By Crowe
+AN ACT to amend Tennessee Code Annotated, Title 38;
+Title 40; Title 53; Title 63 and Title 68, relative to
+psychotropic drugs.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 38-7-109(c)(1)(A), is amended by
+deleting "that resulted in the deaths of four (4) or more individuals".
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 38-7-109(c)(5), is amended by
+adding the following language as a new, appropriately designated subdivision:
+( ) "Mass shooting" means:
+(i) A shooting resulting in four (4) or more individuals sustaining an injury;
+or
+(ii) A shooting in which a reasonable person would conclude that the
+decedent attempted to kill four (4) or more individuals;
+
+Section 4:
+SECTION 3. Tennessee Code Annotated, Title 40, Chapter 7, Part 1, is amended by
+adding the following as a new section:
+(a) As used in this section:
+(1) "Health science center" has the same meaning as defined in § 38-7-
+109;
+(2) "Hospital" has the same meaning as defined in § 68-11-201;
+(3) "Mass shooting" means:
+(A) A shooting resulting in four (4) or more individuals sustaining
+an injury; or
+SB2088
+010155
+- 1 -
+(B) A shooting in which a reasonable person would conclude that
+a person attempted to kill four (4) or more individuals;
+(4) "Psychotropic drug" has the same meaning as defined in § 38-7-109;
+and
+(5) "Qualified practitioner" means:
+(A) A physician;
+(B) A registered nurse;
+(C) A licensed practical nurse;
+(D) A clinical laboratory technician;
+(E) A technologist;
+(F) A trained phlebotomist who is operating under a hospital
+protocol, has completed phlebotomy training through an educational
+entity providing such training, or has been properly trained by a current or
+former employer to draw blood; or
+(G) A physician assistant.
+(b) A law enforcement officer who has probable cause to believe that a person
+has committed a mass shooting shall cause to be administered by a qualified practitioner
+at a hospital a blood or urine test for the purpose of determining the presence of any
+drugs, including therapeutic levels of psychotropic drugs.
+(c)
+(1) A qualified practitioner shall:
+(A) Procure the blood or urine sample from a person as soon as
+practicable as long as the person's life is not in jeopardy; and
+(B) Test the person's blood or urine for the presence of any
+drugs, including therapeutic levels of psychotropic drugs.
+- 2 - 010155
+(2) A qualified practitioner must be considered to be acting in good faith
+once presented with a search warrant or any other court order authorizing the
+procurement of a blood or urine sample and such sample is drawn as soon as
+practicable.
+(3) A qualified practitioner may use all reasonable force to obtain the
+blood or urine sample from the person.
+(4) A qualified practitioner or hospital shall not incur civil or criminal
+liability as a result of procuring a blood or urine sample pursuant to this section,
+except in a case of negligence.
+(d)
+(1) The hospital where the blood or urine sample was procured and
+tested shall send to the health science center:
+(A) The procured blood or urine sample, as described in
+subdivision (c)(1)(A); and
+(B) The results of the drug test, as described in subdivision
+(c)(1)(B).
+(2) The hospital shall not disclose any identifying information, including
+the person's name or social security number.
+(e)
+(1) The health science center shall study the drug interactions between
+the psychotropic drugs and any other drugs that were present in the person's
+blood or urine.
+(2) The health science center shall include any data collected pursuant to
+this section to the quarterly reports submitted to the chief clerks of each house of
+the general assembly in accordance with § 38-7-109.
+- 3 - 010155
+
+Section 5:
+SECTION 4. This act takes effect July 1, 2026, the public welfare requiring it, and
+applies to mass shootings occurring on or after that date.
+- 4 - 010155
+[DELETED: SS(((S(((((]
+[DELETED:  -0(((((((((((((((]
+[DELETED:  -0(((((((((((]
+[DELETED:  -0S]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 2013
+By Littleton
+SENATE BILL 2088
+By Crowe
+AN ACT to amend Tennessee Code Annotated, Title 38;
+Title 40; Title 53; Title 63 and Title 68, relative to
+psychotropic drugs.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 38-7-109(c)(1)(A), is amended by
+deleting "that resulted in the deaths of four (4) or more individuals".
+SECTION 2. Tennessee Code Annotated, Section 38-7-109(c)(5), is amended by
+adding the following language as a new, appropriately designated subdivision:
+( ) "Mass shooting" means:
+(i) A shooting resulting in four (4) or more individuals sustaining an injury;
+or
+(ii) A shooting in which a reasonable person would conclude that the
+decedent attempted to kill four (4) or more individuals;
+SECTION 3. Tennessee Code Annotated, Title 40, Chapter 7, Part 1, is amended by
+adding the following as a new section:
+(a) As used in this section:
+(1) "Health science center" has the same meaning as defined in § 38-7-
+109;
+(2) "Hospital" has the same meaning as defined in § 68-11-201;
+(3) "Mass shooting" means:
+(A) A shooting resulting in four (4) or more individuals sustaining
+an injury; or
+SB2088
+010155
+- 1 -
+
+(B) A shooting in which a reasonable person would conclude that
+a person attempted to kill four (4) or more individuals;
+(4) "Psychotropic drug" has the same meaning as defined in § 38-7-109;
+and
+(5) "Qualified practitioner" means:
+(A) A physician;
+(B) A registered nurse;
+(C) A licensed practical nurse;
+(D) A clinical laboratory technician;
+(E) A technologist;
+(F) A trained phlebotomist who is operating under a hospital
+protocol, has completed phlebotomy training through an educational
+entity providing such training, or has been properly trained by a current or
+former employer to draw blood; or
+(G) A physician assistant.
+(b) A law enforcement officer who has probable cause to believe that a person
+has committed a mass shooting shall cause to be administered by a qualified practitioner
+at a hospital a blood or urine test for the purpose of determining the presence of any
+drugs, including therapeutic levels of psychotropic drugs.
+(c)
+(1) A qualified practitioner shall:
+(A) Procure the blood or urine sample from a person as soon as
+practicable as long as the person's life is not in jeopardy; and
+(B) Test the person's blood or urine for the presence of any
+drugs, including therapeutic levels of psychotropic drugs.
+- 2 - 010155
+
+(2) A qualified practitioner must be considered to be acting in good faith
+once presented with a search warrant or any other court order authorizing the
+procurement of a blood or urine sample and such sample is drawn as soon as
+practicable.
+(3) A qualified practitioner may use all reasonable force to obtain the
+blood or urine sample from the person.
+(4) A qualified practitioner or hospital shall not incur civil or criminal
+liability as a result of procuring a blood or urine sample pursuant to this section,
+except in a case of negligence.
+(d)
+(1) The hospital where the blood or urine sample was procured and
+tested shall send to the health science center:
+(A) The procured blood or urine sample, as described in
+subdivision (c)(1)(A); and
+(B) The results of the drug test, as described in subdivision
+(c)(1)(B).
+(2) The hospital shall not disclose any identifying information, including
+the person's name or social security number.
+(e)
+(1) The health science center shall study the drug interactions between
+the psychotropic drugs and any other drugs that were present in the person's
+blood or urine.
+(2) The health science center shall include any data collected pursuant to
+this section to the quarterly reports submitted to the chief clerks of each house of
+the general assembly in accordance with § 38-7-109.
+- 3 - 010155
+
+SECTION 4. This act takes effect July 1, 2026, the public welfare requiring it, and
+applies to mass shootings occurring on or after that date.
+- 4 - 010155
+
+[DELETED: SS(((S(((((]
+[DELETED:  -0(((((((((((((((]
+[DELETED:  -0(((((((((((]
+[DELETED:  -0S]

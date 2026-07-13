@@ -1,0 +1,77 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+SENATE JOINT RESOLUTION 802
+By Southerland
+A RESOLUTION to honor and congratulate Lee Wanda Corn
+James on the celebration of her ninetieth
+birthday.
+WHEREAS, it is fitting that the members of this General Assembly should pause to pay
+tribute to those citizens who are celebrating special occasions in their estimable lives; and
+WHEREAS, Lee Wanda Corn James celebrated her ninetieth birthday with her family
+and friends on January 5, 2026, a milestone commemorated as yet another precious souvenir of
+life's rich pageant; and
+WHEREAS, Ms. James has lived an amazing life and experienced firsthand the breadth
+and span of American history; and
+WHEREAS, as Ms. James marks her ninetieth birthday, she remains a beloved member
+of her community; she is a joy to be around and a blessing to all who have the good fortune of
+knowing her; and
+WHEREAS, we wish to grasp this golden opportunity to specially recognize one of
+Tennessee's most outstanding citizens on this very special occasion; now, therefore,
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE HOUSE OF
+REPRESENTATIVES CONCURRING, that we hereby honor and congratulate Lee Wanda Corn
+James on the celebration of her ninetieth birthday and extend to her our best wishes for many
+happy returns of the day.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy and upon proper request made to
+the appropriate clerk, the language appearing immediately following the State seal appear
+without House or Senate designation.
+SJR0802
+012426
+- 1 -
+[DELETED: WWWWWBB]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+SENATE JOINT RESOLUTION 802
+By Southerland
+A RESOLUTION to honor and congratulate Lee Wanda Corn
+James on the celebration of her ninetieth
+birthday.
+WHEREAS, it is fitting that the members of this General Assembly should pause to pay
+tribute to those citizens who are celebrating special occasions in their estimable lives; and
+WHEREAS, Lee Wanda Corn James celebrated her ninetieth birthday with her family
+and friends on January 5, 2026, a milestone commemorated as yet another precious souvenir of
+life's rich pageant; and
+WHEREAS, Ms. James has lived an amazing life and experienced firsthand the breadth
+and span of American history; and
+WHEREAS, as Ms. James marks her ninetieth birthday, she remains a beloved member
+of her community; she is a joy to be around and a blessing to all who have the good fortune of
+knowing her; and
+WHEREAS, we wish to grasp this golden opportunity to specially recognize one of
+Tennessee's most outstanding citizens on this very special occasion; now, therefore,
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE HOUSE OF
+REPRESENTATIVES CONCURRING, that we hereby honor and congratulate Lee Wanda Corn
+James on the celebration of her ninetieth birthday and extend to her our best wishes for many
+happy returns of the day.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy and upon proper request made to
+the appropriate clerk, the language appearing immediately following the State seal appear
+without House or Senate designation.
+SJR0802
+012426
+- 1 -
+
+[DELETED: WWWWWBB]

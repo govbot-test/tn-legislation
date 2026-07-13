@@ -1,0 +1,108 @@
+Title: HOUSE BILL 2166
+Official Title: HOUSE BILL 2166
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+By Barrett
+SENATE BILL 1947
+By Bowling
+AN ACT to amend Tennessee Code Annotated, Title 68,
+Chapter 32, relative to blood donations.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Title 68, Chapter 32, Part 1, is amended by
+adding the following as a new section:
+(a) As used in this section:
+(1) "Autologous blood donation" means a blood donation of a person's
+own blood for future use by that person;
+(2) "Blood bank" means a facility for the collection, processing, storage,
+or distribution of human blood, human blood components or derivatives, or the
+performance of transfusion or reinfusion procedures;
+(3) "Blood donation":
+(A) Means the donation of whole blood or blood products; and
+(B) Includes platelets, red blood cells, white blood cells, and
+serum;
+(4) "Directed blood donation" means a blood donation for which the
+product of the donation is designated for use by a specific patient in advance of a
+planned medical procedure; and
+(5) "Physician" means a doctor of medicine licensed pursuant to title 63,
+chapter 6, or a doctor of osteopathy licensed pursuant to title 63, chapter 9.
+(b) A blood bank shall comply with a physician's order for an autologous blood
+donation or directed blood donation for a specific patient. All such donations remain
+subject to federal and state donor eligibility, testing, labeling, screening, storage, and
+SB1947
+011128
+- 1 -
+compatibility requirements. A blood bank may charge a reasonable and necessary fee
+to cover the administrative cost of facilitating an autologous blood donation or directed
+blood donation. This section does not authorize a waiver of any safety, testing, or
+screening requirements under federal or state law.
+(c) A hospital shall allow a patient scheduled for a medical procedure to provide
+an autologous blood donation or directed blood donation when ordered by a physician.
+A hospital may refuse such a donation only when medically contraindicated or
+incompatible with safety standards. A hospital may charge a reasonable and necessary
+fee to cover the administrative cost of facilitating such a donation. This section does not
+authorize a waiver of federal or state blood-safety, testing, or compatibility requirements.
+
+Section 3:
+SECTION 2. This act takes effect July 1, 2026, the public welfare requiring it.
+- 2 - 011128
+[DELETED: S(((((((((]
+[DELETED:  -0(dsS]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 2166
+By Barrett
+SENATE BILL 1947
+By Bowling
+AN ACT to amend Tennessee Code Annotated, Title 68,
+Chapter 32, relative to blood donations.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Title 68, Chapter 32, Part 1, is amended by
+adding the following as a new section:
+(a) As used in this section:
+(1) "Autologous blood donation" means a blood donation of a person's
+own blood for future use by that person;
+(2) "Blood bank" means a facility for the collection, processing, storage,
+or distribution of human blood, human blood components or derivatives, or the
+performance of transfusion or reinfusion procedures;
+(3) "Blood donation":
+(A) Means the donation of whole blood or blood products; and
+(B) Includes platelets, red blood cells, white blood cells, and
+serum;
+(4) "Directed blood donation" means a blood donation for which the
+product of the donation is designated for use by a specific patient in advance of a
+planned medical procedure; and
+(5) "Physician" means a doctor of medicine licensed pursuant to title 63,
+chapter 6, or a doctor of osteopathy licensed pursuant to title 63, chapter 9.
+(b) A blood bank shall comply with a physician's order for an autologous blood
+donation or directed blood donation for a specific patient. All such donations remain
+subject to federal and state donor eligibility, testing, labeling, screening, storage, and
+SB1947
+011128
+- 1 -
+
+compatibility requirements. A blood bank may charge a reasonable and necessary fee
+to cover the administrative cost of facilitating an autologous blood donation or directed
+blood donation. This section does not authorize a waiver of any safety, testing, or
+screening requirements under federal or state law.
+(c) A hospital shall allow a patient scheduled for a medical procedure to provide
+an autologous blood donation or directed blood donation when ordered by a physician.
+A hospital may refuse such a donation only when medically contraindicated or
+incompatible with safety standards. A hospital may charge a reasonable and necessary
+fee to cover the administrative cost of facilitating such a donation. This section does not
+authorize a waiver of federal or state blood-safety, testing, or compatibility requirements.
+SECTION 2. This act takes effect July 1, 2026, the public welfare requiring it.
+- 2 - 011128
+
+[DELETED: S(((((((((]
+[DELETED:  -0(dsS]

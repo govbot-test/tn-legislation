@@ -1,0 +1,128 @@
+Title: SENATE BILL 2682
+Official Title: SENATE BILL 2682
+Number of Sections: 4
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+By Kyle
+HOUSE BILL 2462
+By Pearson
+AN ACT to amend Tennessee Code Annotated, Title 2;
+Title 3; Title 4; Title 8 and Title 48, relative to
+investments by public officials.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Title 48, Chapter 1, Part 1, is amended by
+adding the following as a new section:
+(a) As used in this section:
+(1) "Covered investment":
+(A) Means a direct investment in a stock, commodity, future, or
+other similar and comparable economic investment through a derivative,
+option, or similar asset;
+(B) Means an indirect investment in an investment fund, a trust,
+an employee benefit plan, or a deferred compensation plan; and
+(C) Does not include a diversified mutual fund, a diversified
+exchange-traded fund, treasury bonds, or compensation from or an
+interest in a public or private retirement plan; and
+(2) "Public official" means the governor, a member of the general
+assembly, or a representative elected from this state to the United States senate
+or house of representatives, including a person who is appointed to fill a vacancy
+in such office.
+(b)
+(1) A public official or the spouse of a public official who owns or holds a
+covered investment shall:
+HB2462
+012390
+- 1 -
+(A) Divest the covered investment; or
+(B) Place the covered investment in a blind trust.
+(2) A public official and the spouse of the public official shall comply with
+subdivision (b)(1) by October 1, 2026, or for newly elected or appointed public
+officials and their spouses, not later than ninety (90) days after the public official
+takes the oath of office.
+(c) Upon compliance with subsection (b), a public official and the spouse of the
+public official shall submit a certificate of compliance to the commissioner on a form
+prescribed by the commissioner, and shall provide a copy to the secretary of state.
+(d) A public official or the spouse of the public official may seek an extension
+from the commissioner of not more than forty-five (45) days to comply with subsection
+(b) and the commissioner may grant the extension for good cause shown.
+(e) The commissioner may impose a civil penalty of not more than one thousand
+dollars ($1,000) for a violation of this section. Each day for which a violation occurs
+constitutes a separate offense.
+(f) The commissioner may promulgate rules to carry out this section and specify
+the assets that are deemed covered investments. Rules must be promulgated in
+accordance with the Uniform Administrative Procedures Act, compiled in title 4, chapter
+
+Section 3:
+5.
+
+Section 4:
+SECTION 2. This act takes effect July 1, 2026, the public welfare requiring it.
+- 2 - 012390
+[DELETED: S((((((((]
+[DELETED:  -0(((((S]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 2682
+By Kyle
+HOUSE BILL 2462
+By Pearson
+AN ACT to amend Tennessee Code Annotated, Title 2;
+Title 3; Title 4; Title 8 and Title 48, relative to
+investments by public officials.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Title 48, Chapter 1, Part 1, is amended by
+adding the following as a new section:
+(a) As used in this section:
+(1) "Covered investment":
+(A) Means a direct investment in a stock, commodity, future, or
+other similar and comparable economic investment through a derivative,
+option, or similar asset;
+(B) Means an indirect investment in an investment fund, a trust,
+an employee benefit plan, or a deferred compensation plan; and
+(C) Does not include a diversified mutual fund, a diversified
+exchange-traded fund, treasury bonds, or compensation from or an
+interest in a public or private retirement plan; and
+(2) "Public official" means the governor, a member of the general
+assembly, or a representative elected from this state to the United States senate
+or house of representatives, including a person who is appointed to fill a vacancy
+in such office.
+(b)
+(1) A public official or the spouse of a public official who owns or holds a
+covered investment shall:
+HB2462
+012390
+- 1 -
+
+(A) Divest the covered investment; or
+(B) Place the covered investment in a blind trust.
+(2) A public official and the spouse of the public official shall comply with
+subdivision (b)(1) by October 1, 2026, or for newly elected or appointed public
+officials and their spouses, not later than ninety (90) days after the public official
+takes the oath of office.
+(c) Upon compliance with subsection (b), a public official and the spouse of the
+public official shall submit a certificate of compliance to the commissioner on a form
+prescribed by the commissioner, and shall provide a copy to the secretary of state.
+(d) A public official or the spouse of the public official may seek an extension
+from the commissioner of not more than forty-five (45) days to comply with subsection
+(b) and the commissioner may grant the extension for good cause shown.
+(e) The commissioner may impose a civil penalty of not more than one thousand
+dollars ($1,000) for a violation of this section. Each day for which a violation occurs
+constitutes a separate offense.
+(f) The commissioner may promulgate rules to carry out this section and specify
+the assets that are deemed covered investments. Rules must be promulgated in
+accordance with the Uniform Administrative Procedures Act, compiled in title 4, chapter
+5.
+SECTION 2. This act takes effect July 1, 2026, the public welfare requiring it.
+- 2 - 012390
+
+[DELETED: S((((((((]
+[DELETED:  -0(((((S]

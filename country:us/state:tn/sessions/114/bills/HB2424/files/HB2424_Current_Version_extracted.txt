@@ -1,0 +1,49 @@
+Title: SENATE BILL 2271
+Official Title: SENATE BILL 2271
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+By Briggs
+HOUSE BILL 2424
+By Howell
+AN ACT to amend Tennessee Code Annotated, Title 5;
+Title 6; Title 7; Title 9; Title 12 and Title 67, relative
+to property tax.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 67-5-1609, is amended by deleting
+"shall notify" in the second sentence and substituting instead "shall notify in writing".
+
+Section 3:
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+HB2424
+012626
+- 1 -
+[DELETED: SS]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 2271
+By Briggs
+HOUSE BILL 2424
+By Howell
+AN ACT to amend Tennessee Code Annotated, Title 5;
+Title 6; Title 7; Title 9; Title 12 and Title 67, relative
+to property tax.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 67-5-1609, is amended by deleting
+"shall notify" in the second sentence and substituting instead "shall notify in writing".
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+HB2424
+012626
+- 1 -
+
+[DELETED: SS]

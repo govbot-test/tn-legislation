@@ -1,0 +1,102 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+SENATE JOINT RESOLUTION 662
+By Oliver
+A RESOLUTION to honor and congratulate Fisk University upon
+the celebration of its 160th anniversary.
+WHEREAS, it is fitting that the members of this General Assembly should recognize
+those exemplary educational institutions that have made significant contributions, through an
+abiding commitment to excellence, to their respective communities and this State; and
+WHEREAS, Fisk University, the oldest institution of higher learning in Nashville, is
+celebrating the 160th anniversary of its founding this year; and
+WHEREAS, founded in 1866, the first class at Fisk University convened on January 9 of
+that year, with its first students ranging in age from seven to seventy and sharing common
+experiences of slavery and poverty; and
+WHEREAS, in addition to the institution's reputation for academic excellence, Fisk
+University is home to the world-renowned Fisk Jubilee Singers, the student a cappella group
+that has garnered international acclaim since its formation in 1871 and from which Music City
+earned its moniker; and
+WHEREAS, notable scholars of the highly ranked Fisk University include W.E.B. Du
+Bois, Booker T. Washington, Ida B. Wells, and Congressman John Lewis; and
+WHEREAS, Fisk University is located in the North Nashville community and currently
+benefits from the astute leadership of President Dr. Agenia Walker Clark, who is proud to
+continue the school's mission to produce graduates from different backgrounds with the integrity
+and intellect to contribute substantially to society; and
+WHEREAS, Fisk University has continued its tradition as an institution of access, and its
+lasting impact on Nashville is a testament to its resilience, resistance, and excellence; and
+SJR0662
+012116
+- 1 -
+WHEREAS, for 160 years, Fisk University has shone as a beacon of distinction in both
+academic performance and the collegiate experience, and the school should be recognized on
+this momentous occasion; now, therefore,
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE HOUSE OF
+REPRESENTATIVES CONCURRING, that we honor and commend Fisk University on 160
+years of excellence in higher education and join with its administration, faculty, staff, students,
+and alumni as they celebrate the institution's 160th anniversary.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy and upon proper request made to
+the appropriate clerk, the language appearing immediately following the State seal appear
+without House or Senate designation.
+- 2 - 012116
+[DELETED: 0 WW0 WWWWW]
+[DELETED:  -0WB0 B]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+SENATE JOINT RESOLUTION 662
+By Oliver
+A RESOLUTION to honor and congratulate Fisk University upon
+the celebration of its 160th anniversary.
+WHEREAS, it is fitting that the members of this General Assembly should recognize
+those exemplary educational institutions that have made significant contributions, through an
+abiding commitment to excellence, to their respective communities and this State; and
+WHEREAS, Fisk University, the oldest institution of higher learning in Nashville, is
+celebrating the 160th anniversary of its founding this year; and
+WHEREAS, founded in 1866, the first class at Fisk University convened on January 9 of
+that year, with its first students ranging in age from seven to seventy and sharing common
+experiences of slavery and poverty; and
+WHEREAS, in addition to the institution's reputation for academic excellence, Fisk
+University is home to the world-renowned Fisk Jubilee Singers, the student a cappella group
+that has garnered international acclaim since its formation in 1871 and from which Music City
+earned its moniker; and
+WHEREAS, notable scholars of the highly ranked Fisk University include W.E.B. Du
+Bois, Booker T. Washington, Ida B. Wells, and Congressman John Lewis; and
+WHEREAS, Fisk University is located in the North Nashville community and currently
+benefits from the astute leadership of President Dr. Agenia Walker Clark, who is proud to
+continue the school's mission to produce graduates from different backgrounds with the integrity
+and intellect to contribute substantially to society; and
+WHEREAS, Fisk University has continued its tradition as an institution of access, and its
+lasting impact on Nashville is a testament to its resilience, resistance, and excellence; and
+SJR0662
+012116
+- 1 -
+
+WHEREAS, for 160 years, Fisk University has shone as a beacon of distinction in both
+academic performance and the collegiate experience, and the school should be recognized on
+this momentous occasion; now, therefore,
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE HOUSE OF
+REPRESENTATIVES CONCURRING, that we honor and commend Fisk University on 160
+years of excellence in higher education and join with its administration, faculty, staff, students,
+and alumni as they celebrate the institution's 160th anniversary.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy and upon proper request made to
+the appropriate clerk, the language appearing immediately following the State seal appear
+without House or Senate designation.
+- 2 - 012116
+
+[DELETED: 0 WW0 WWWWW]
+[DELETED:  -0WB0 B]

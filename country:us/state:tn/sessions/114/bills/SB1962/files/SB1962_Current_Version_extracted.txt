@@ -1,0 +1,191 @@
+Title: HOUSE BILL 1983
+Official Title: HOUSE BILL 1983
+Number of Sections: 4
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+By Grills
+SENATE BILL 1962
+By Pody
+AN ACT to amend Tennessee Code Annotated, Title 68,
+Chapter 221, Part 7, relative to hardwater
+standards.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Title 68, Chapter 221, Part 7, is amended by
+adding the following new section:
+68-221-722. Maximum hardwater level standards.
+(a) As used in this section:
+(1) "Hardwater" means water containing dissolved minerals, expressed
+as calcium carbonate (CaCO₃) equivalents;
+(2) "Seasonal runoff" means the temporary increase in water hardness
+levels directly attributable to precipitation, snowmelt, or other seasonal
+hydrological events occurring during a defined period;
+(3) "State funds" means any grants, loans, appropriations, or other
+financial assistance provided by this state, including, but not limited to, funds
+from the state revolving fund, capital improvement grants, or infrastructure
+financing programs; and
+(4) "System upgrade" means any capital improvement, infrastructure
+modification, treatment facility enhancement, or equipment replacement that
+costs twenty-five thousand dollars ($25,000) or more and is designed to improve,
+expand, or modify the water treatment or distribution capacity of a public water
+system.
+SB1962
+011426
+- 1 -
+(b) Maximum hardwater standard. The maximum allowable hardwater level
+for water distributed by public water systems in this state is one hundred eighty
+milligrams per liter (180 mg/L), measured as calcium carbonate (CaCO₃) equivalents.
+(c) Applicability and compliance requirements.
+(1) A public water system that receives state funds for a system upgrade
+on or after July 1, 2026, must comply with the maximum hardwater standard
+established in subsection (b) upon completion of the system upgrade.
+(2) Public water systems that do not receive state funds for system
+upgrades on or after July 1, 2026, are grandfathered under this section and are
+not required to comply with the maximum hardwater standard established in
+subsection (b) unless and until they receive state funds for a system upgrade.
+(3) For purposes of this subsection (c), the receipt of state funds for
+routine maintenance, repairs that cost less than twenty-five thousand dollars
+($25,000), administrative expenses, or operational costs do not trigger the
+compliance requirements of subdivision (c)(1).
+(d) Seasonal runoff exemption.
+(1) A public water system that demonstrates that hardwater levels
+exceeding one hundred eighty milligrams per liter (180 mg/L) are directly caused
+by seasonal runoff are temporarily exempt from the requirements of subsection
+(b) during the affected period.
+(2) To qualify for the seasonal runoff exemption, a public water system
+shall:
+(A) Notify the department within ten (10) business days of first
+exceeding the one hundred eighty milligrams per liter (180 mg/L)
+threshold due to seasonal runoff;
+- 2 - 011426
+(B) Provide documentation demonstrating that the elevated
+hardwater levels are directly attributable to seasonal runoff and not to
+system deficiencies or treatment failures; and
+(C) Submit a remediation plan, if required by the department,
+detailing measures to minimize the duration and extent of noncompliance.
+(3) Following the conclusion of the seasonal runoff period, the affected
+public water system must return to compliance with the maximum hardwater
+standard established in subsection (b) within ninety (90) days.
+(4) A public water system may utilize the seasonal runoff exemption for a
+cumulative period not to exceed one hundred twenty (120) days in a twelve-
+month period without prior approval from the department. Exemptions exceeding
+one hundred twenty (120) days in a twelve-month period require written approval
+from the commissioner.
+(e) Monitoring and reporting.
+(1) Public water systems subject to the requirements of this section must
+monitor hardwater levels in accordance with protocols established by the
+department.
+(2) Results of hardwater monitoring must be included in the annual water
+quality reports required under applicable state and federal law.
+(f) Enforcement. The department shall enforce this section in accordance with
+the enforcement provisions set forth in this chapter.
+
+Section 3:
+SECTION 2. The headings in this act are for reference purposes only and do not
+constitute a part of the law enacted by this act. However, the Tennessee Code Commission is
+requested to include the headings in any compilation or publication containing this act.
+
+Section 4:
+SECTION 3. This act takes effect July 1, 2026, the public welfare requiring it.
+- 3 - 011426
+[DELETED: S6((O)(((]
+[DELETED:  -0(O)((((((((]
+[DELETED:  -0((((((((SS]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 1983
+By Grills
+SENATE BILL 1962
+By Pody
+AN ACT to amend Tennessee Code Annotated, Title 68,
+Chapter 221, Part 7, relative to hardwater
+standards.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Title 68, Chapter 221, Part 7, is amended by
+adding the following new section:
+68-221-722. Maximum hardwater level standards.
+(a) As used in this section:
+(1) "Hardwater" means water containing dissolved minerals, expressed
+as calcium carbonate (CaCO₃) equivalents;
+(2) "Seasonal runoff" means the temporary increase in water hardness
+levels directly attributable to precipitation, snowmelt, or other seasonal
+hydrological events occurring during a defined period;
+(3) "State funds" means any grants, loans, appropriations, or other
+financial assistance provided by this state, including, but not limited to, funds
+from the state revolving fund, capital improvement grants, or infrastructure
+financing programs; and
+(4) "System upgrade" means any capital improvement, infrastructure
+modification, treatment facility enhancement, or equipment replacement that
+costs twenty-five thousand dollars ($25,000) or more and is designed to improve,
+expand, or modify the water treatment or distribution capacity of a public water
+system.
+SB1962
+011426
+- 1 -
+
+(b) Maximum hardwater standard. The maximum allowable hardwater level
+for water distributed by public water systems in this state is one hundred eighty
+milligrams per liter (180 mg/L), measured as calcium carbonate (CaCO₃) equivalents.
+(c) Applicability and compliance requirements.
+(1) A public water system that receives state funds for a system upgrade
+on or after July 1, 2026, must comply with the maximum hardwater standard
+established in subsection (b) upon completion of the system upgrade.
+(2) Public water systems that do not receive state funds for system
+upgrades on or after July 1, 2026, are grandfathered under this section and are
+not required to comply with the maximum hardwater standard established in
+subsection (b) unless and until they receive state funds for a system upgrade.
+(3) For purposes of this subsection (c), the receipt of state funds for
+routine maintenance, repairs that cost less than twenty-five thousand dollars
+($25,000), administrative expenses, or operational costs do not trigger the
+compliance requirements of subdivision (c)(1).
+(d) Seasonal runoff exemption.
+(1) A public water system that demonstrates that hardwater levels
+exceeding one hundred eighty milligrams per liter (180 mg/L) are directly caused
+by seasonal runoff are temporarily exempt from the requirements of subsection
+(b) during the affected period.
+(2) To qualify for the seasonal runoff exemption, a public water system
+shall:
+(A) Notify the department within ten (10) business days of first
+exceeding the one hundred eighty milligrams per liter (180 mg/L)
+threshold due to seasonal runoff;
+- 2 - 011426
+
+(B) Provide documentation demonstrating that the elevated
+hardwater levels are directly attributable to seasonal runoff and not to
+system deficiencies or treatment failures; and
+(C) Submit a remediation plan, if required by the department,
+detailing measures to minimize the duration and extent of noncompliance.
+(3) Following the conclusion of the seasonal runoff period, the affected
+public water system must return to compliance with the maximum hardwater
+standard established in subsection (b) within ninety (90) days.
+(4) A public water system may utilize the seasonal runoff exemption for a
+cumulative period not to exceed one hundred twenty (120) days in a twelve-
+month period without prior approval from the department. Exemptions exceeding
+one hundred twenty (120) days in a twelve-month period require written approval
+from the commissioner.
+(e) Monitoring and reporting.
+(1) Public water systems subject to the requirements of this section must
+monitor hardwater levels in accordance with protocols established by the
+department.
+(2) Results of hardwater monitoring must be included in the annual water
+quality reports required under applicable state and federal law.
+(f) Enforcement. The department shall enforce this section in accordance with
+the enforcement provisions set forth in this chapter.
+SECTION 2. The headings in this act are for reference purposes only and do not
+constitute a part of the law enacted by this act. However, the Tennessee Code Commission is
+requested to include the headings in any compilation or publication containing this act.
+SECTION 3. This act takes effect July 1, 2026, the public welfare requiring it.
+- 3 - 011426
+
+[DELETED: S6((O)(((]
+[DELETED:  -0(O)((((((((]
+[DELETED:  -0((((((((SS]

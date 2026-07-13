@@ -1,0 +1,73 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+HOUSE JOINT RESOLUTION 1425
+By Reneau
+A RESOLUTION to honor the firefighters of the State of
+Tennessee for their contributions to public
+safety.
+WHEREAS, fire service is a core public safety function, alongside law enforcement and
+emergency medical services; and
+WHEREAS, firefighters, both career and volunteer, respond to a wide range of
+emergencies, including structure fires, vehicle accidents, medical calls, and natural disasters;
+and
+WHEREAS, fire departments play a vital role in protecting life, property, and the safety of
+our communities; and
+WHEREAS, many areas of the State rely heavily on volunteer fire departments, whose
+members often serve at great personal sacrifice and with limited resources; and
+WHEREAS, it is important that fire services are supported and recognized for their
+contributions to public safety and community well-being; now, therefore,
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE SENATE
+CONCURRING, that we hereby honor the firefighters of the State of Tennessee and commend
+them for the critical role they play in protecting our communities across the Volunteer State.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy and upon proper request made to
+the appropriate clerk, the language appearing immediately following the State seal appear
+without House or Senate designation.
+HJR1425
+017618
+- 1 -
+[DELETED: WWWWWBB]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+HOUSE JOINT RESOLUTION 1425
+By Reneau
+A RESOLUTION to honor the firefighters of the State of
+Tennessee for their contributions to public
+safety.
+WHEREAS, fire service is a core public safety function, alongside law enforcement and
+emergency medical services; and
+WHEREAS, firefighters, both career and volunteer, respond to a wide range of
+emergencies, including structure fires, vehicle accidents, medical calls, and natural disasters;
+and
+WHEREAS, fire departments play a vital role in protecting life, property, and the safety of
+our communities; and
+WHEREAS, many areas of the State rely heavily on volunteer fire departments, whose
+members often serve at great personal sacrifice and with limited resources; and
+WHEREAS, it is important that fire services are supported and recognized for their
+contributions to public safety and community well-being; now, therefore,
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE SENATE
+CONCURRING, that we hereby honor the firefighters of the State of Tennessee and commend
+them for the critical role they play in protecting our communities across the Volunteer State.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy and upon proper request made to
+the appropriate clerk, the language appearing immediately following the State seal appear
+without House or Senate designation.
+HJR1425
+017618
+- 1 -
+
+[DELETED: WWWWWBB]

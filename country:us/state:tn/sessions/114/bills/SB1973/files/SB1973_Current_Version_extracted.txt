@@ -1,0 +1,263 @@
+Title: HOUSE BILL 1937
+Official Title: HOUSE BILL 1937
+Number of Sections: 4
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+By Salinas
+SENATE BILL 1973
+By Akbari
+AN ACT to amend Tennessee Code Annotated, Title 7;
+Title 8; Title 38; Title 40 and Title 41, relative to the
+"Tennessee Freedom from Unlawful Immigration
+Detention Act."
+WHEREAS, the General Assembly finds that:
+(1) The power to arrest or detain a person is among the most serious exercises
+of government authority and must be restrained by probable cause and judicial
+oversight, not federal administrative action. Civil immigration detainers and
+administrative warrants issued by federal agencies are not judicial warrants and do not,
+standing alone, authorize the deprivation of liberty under Tennessee law;
+(2) United States immigration and customs enforcement ("ICE") routinely issues
+civil immigration detainers and administrative warrants that are not reviewed or approved
+by any judge;
+(3) Such detainers do not establish probable cause and do not authorize arrest
+or detention under the Fourth Amendment to the United States Constitution or Article I, §
+7 of the Tennessee Constitution;
+(4) ICE detainers have resulted in the wrongful detention of United States
+citizens, lawful residents, and other Tennesseans;
+(5) The use of State and local law enforcement to execute federal civil
+immigration enforcement shifts constitutional liability onto Tennessee, while depriving
+Tennesseans of due process;
+(6) Tennessee has a sovereign obligation to prevent its officers, jails, and
+political subdivisions from being used to carry out unconstitutional federal actions; and
+SB1973
+011136
+- 1 -
+(7) It is the intent of the General Assembly to categorically prohibit the use of
+Tennessee law enforcement resources to detain any person on behalf of ICE absent a
+valid judicial warrant, and to deter federal abuse through enforceable state law
+consequences; now, therefore,
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Title 38, Chapter 1, is amended by adding
+the following as a new part:
+38-1-1001. Short Title.
+This part is known and may be cited as the "Tennessee Freedom from Unlawful
+Immigration Detention Act."
+38-1-1002. Definitions.
+As used in this part:
+(1) "ICE" means United States immigration and customs enforcement or
+any successor agency;
+(2) "Immigration detainer" means any request, notice, hold,
+administrative warrant, or communication issued by ICE requesting the detention,
+continued detention, or transfer of a person for civil immigration enforcement
+purposes;
+(3) "Judicial warrant" means a warrant issued by a federal or state judge
+or magistrate upon a finding of probable cause supported by oath or affirmation;
+and
+(4) "Law enforcement agency" means any state, county, municipal, or
+metropolitan law enforcement agency, sheriff's office, jail, or detention facility.
+38-1-1003. Absolute Prohibition on Detention for ICE.
+- 2 - 011136
+(a) A person in this state shall not be detained, arrested, held, or have the
+person's liberty restrained by any law enforcement agency solely or primarily on the
+basis of:
+(1) An ICE immigration detainer;
+(2) An ICE administrative warrant;
+(3) An ICE request for notification, transfer, or extended custody; or
+(4) Suspected or alleged immigration status.
+(b) Detention or continued detention is unlawful unless ICE presents a valid
+judicial warrant that:
+(1) Is signed by a judge or magistrate;
+(2) Establishes probable cause; and
+(3) Specifically authorizes detention or transfer of the named individual.
+(c) An ICE detainer or administrative warrant has no legal force or effect under
+state law.
+38-1-1004. Prohibition on Custody Transfers to ICE.
+(a) A law enforcement agency shall not transfer custody of any person to ICE
+unless:
+(1) ICE presents the law enforcement agency with a valid judicial
+warrant; and
+(2) The transfer does not extend the person's detention beyond the time
+the person would otherwise be released under state law.
+(b) A transfer made in violation of this section is unlawful detention.
+38-1-1005. Enforcement and Civil Liability.
+(a) A person unlawfully detained or transferred in violation of this part may bring
+a civil action in state court against:
+- 3 - 011136
+(1) The law enforcement agency involved;
+(2) The political subdivision for which the law enforcement agency has
+jurisdiction; and
+(3) Any officer who knowingly participated in the unlawful detention or
+transfer.
+(b) A prevailing plaintiff in an action brought under subsection (a) is entitled to:
+(1) Compensatory damages;
+(2) Statutory damages of not less than one thousand dollars ($1,000) per
+day of unlawful detention;
+(3) Reasonable attorney's fees and costs; and
+(4) Declaratory and injunctive relief.
+(c) Governmental immunity and sovereign immunity are waived for purposes of
+enforcing this part.
+38-1-1006. Evidence of ICE Abuse.
+In an action brought under § 38-1-1005, proof that detention occurred pursuant to
+an ICE detainer creates a rebuttable presumption that the detention was unlawful.
+38-1-1007. No Federal Shield.
+Compliance with ICE requests is not a defense to liability under this part. Neither
+federal policy nor federal encouragement shall excuse violations of state law or
+constitutional rights.
+38-1-1008. Construction.
+(a) This part does not:
+(1) Interfere with federal immigration enforcement that is conducted
+without state or local participation; or
+(2) Prevent ICE from acting independently within the limits of federal law.
+- 4 - 011136
+(b) This part governs only the conduct of Tennessee officers and institutions.
+
+Section 3:
+SECTION 2. If any provision of this act or its application to any person or circumstance
+is held invalid, then the invalidity does not affect other provisions or applications of the act that
+can be given effect without the invalid provision or application, and to that end, the provisions of
+this act are severable.
+
+Section 4:
+SECTION 3. This act takes effect July 1, 2026, the public welfare requiring it.
+- 5 - 011136
+[DELETED: W((((((]
+[DELETED:  -0(STA((((]
+[DELETED:  -0(((((((((((((((]
+[DELETED:  -0(((((((((IC(((]
+[DELETED:  -0SS]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 1937
+By Salinas
+SENATE BILL 1973
+By Akbari
+AN ACT to amend Tennessee Code Annotated, Title 7;
+Title 8; Title 38; Title 40 and Title 41, relative to the
+"Tennessee Freedom from Unlawful Immigration
+Detention Act."
+WHEREAS, the General Assembly finds that:
+(1) The power to arrest or detain a person is among the most serious exercises
+of government authority and must be restrained by probable cause and judicial
+oversight, not federal administrative action. Civil immigration detainers and
+administrative warrants issued by federal agencies are not judicial warrants and do not,
+standing alone, authorize the deprivation of liberty under Tennessee law;
+(2) United States immigration and customs enforcement ("ICE") routinely issues
+civil immigration detainers and administrative warrants that are not reviewed or approved
+by any judge;
+(3) Such detainers do not establish probable cause and do not authorize arrest
+or detention under the Fourth Amendment to the United States Constitution or Article I, §
+7 of the Tennessee Constitution;
+(4) ICE detainers have resulted in the wrongful detention of United States
+citizens, lawful residents, and other Tennesseans;
+(5) The use of State and local law enforcement to execute federal civil
+immigration enforcement shifts constitutional liability onto Tennessee, while depriving
+Tennesseans of due process;
+(6) Tennessee has a sovereign obligation to prevent its officers, jails, and
+political subdivisions from being used to carry out unconstitutional federal actions; and
+SB1973
+011136
+- 1 -
+
+(7) It is the intent of the General Assembly to categorically prohibit the use of
+Tennessee law enforcement resources to detain any person on behalf of ICE absent a
+valid judicial warrant, and to deter federal abuse through enforceable state law
+consequences; now, therefore,
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Title 38, Chapter 1, is amended by adding
+the following as a new part:
+38-1-1001. Short Title.
+This part is known and may be cited as the "Tennessee Freedom from Unlawful
+Immigration Detention Act."
+38-1-1002. Definitions.
+As used in this part:
+(1) "ICE" means United States immigration and customs enforcement or
+any successor agency;
+(2) "Immigration detainer" means any request, notice, hold,
+administrative warrant, or communication issued by ICE requesting the detention,
+continued detention, or transfer of a person for civil immigration enforcement
+purposes;
+(3) "Judicial warrant" means a warrant issued by a federal or state judge
+or magistrate upon a finding of probable cause supported by oath or affirmation;
+and
+(4) "Law enforcement agency" means any state, county, municipal, or
+metropolitan law enforcement agency, sheriff's office, jail, or detention facility.
+38-1-1003. Absolute Prohibition on Detention for ICE.
+- 2 - 011136
+
+(a) A person in this state shall not be detained, arrested, held, or have the
+person's liberty restrained by any law enforcement agency solely or primarily on the
+basis of:
+(1) An ICE immigration detainer;
+(2) An ICE administrative warrant;
+(3) An ICE request for notification, transfer, or extended custody; or
+(4) Suspected or alleged immigration status.
+(b) Detention or continued detention is unlawful unless ICE presents a valid
+judicial warrant that:
+(1) Is signed by a judge or magistrate;
+(2) Establishes probable cause; and
+(3) Specifically authorizes detention or transfer of the named individual.
+(c) An ICE detainer or administrative warrant has no legal force or effect under
+state law.
+38-1-1004. Prohibition on Custody Transfers to ICE.
+(a) A law enforcement agency shall not transfer custody of any person to ICE
+unless:
+(1) ICE presents the law enforcement agency with a valid judicial
+warrant; and
+(2) The transfer does not extend the person's detention beyond the time
+the person would otherwise be released under state law.
+(b) A transfer made in violation of this section is unlawful detention.
+38-1-1005. Enforcement and Civil Liability.
+(a) A person unlawfully detained or transferred in violation of this part may bring
+a civil action in state court against:
+- 3 - 011136
+
+(1) The law enforcement agency involved;
+(2) The political subdivision for which the law enforcement agency has
+jurisdiction; and
+(3) Any officer who knowingly participated in the unlawful detention or
+transfer.
+(b) A prevailing plaintiff in an action brought under subsection (a) is entitled to:
+(1) Compensatory damages;
+(2) Statutory damages of not less than one thousand dollars ($1,000) per
+day of unlawful detention;
+(3) Reasonable attorney's fees and costs; and
+(4) Declaratory and injunctive relief.
+(c) Governmental immunity and sovereign immunity are waived for purposes of
+enforcing this part.
+38-1-1006. Evidence of ICE Abuse.
+In an action brought under § 38-1-1005, proof that detention occurred pursuant to
+an ICE detainer creates a rebuttable presumption that the detention was unlawful.
+38-1-1007. No Federal Shield.
+Compliance with ICE requests is not a defense to liability under this part. Neither
+federal policy nor federal encouragement shall excuse violations of state law or
+constitutional rights.
+38-1-1008. Construction.
+(a) This part does not:
+(1) Interfere with federal immigration enforcement that is conducted
+without state or local participation; or
+(2) Prevent ICE from acting independently within the limits of federal law.
+- 4 - 011136
+
+(b) This part governs only the conduct of Tennessee officers and institutions.
+SECTION 2. If any provision of this act or its application to any person or circumstance
+is held invalid, then the invalidity does not affect other provisions or applications of the act that
+can be given effect without the invalid provision or application, and to that end, the provisions of
+this act are severable.
+SECTION 3. This act takes effect July 1, 2026, the public welfare requiring it.
+- 5 - 011136
+
+[DELETED: W((((((]
+[DELETED:  -0(STA((((]
+[DELETED:  -0(((((((((((((((]
+[DELETED:  -0(((((((((IC(((]
+[DELETED:  -0SS]

@@ -1,0 +1,83 @@
+Title: SENATE BILL 2610
+Official Title: SENATE BILL 2610
+Number of Sections: 4
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+By Crowe
+HOUSE BILL 2323
+By Alexander
+AN ACT to amend Tennessee Code Annotated, Title 67,
+Chapter 4, Part 29, relative to privilege tax on
+property development.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 67-4-2903, is amended by adding
+the following as a new, appropriately designated subdivision:
+( ) "Municipality" means an incorporated city or a town that does not have a
+school system or LEA within its jurisdiction;
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Title 67, Chapter 4, Part 29, is amended by
+adding the following as a new section:
+Notwithstanding this part to the contrary, a municipality, by ordinance adopted by
+its governing body in the manner provided in § 67-4-2904(b), may levy a tax on the
+privilege of engaging in the act of development within the boundaries of the municipality.
+Any such tax must be levied at the rate and under the terms, conditions, and limitations
+contained in §§ 67-4-2908 and 67-4-2909. The taxes collected pursuant to this section
+must be remitted to the municipal official designated in the ordinance to collect such
+taxes. The taxes must be placed in a fund designated by the governing body and the
+proceeds must be used exclusively for the purpose funding a capital improvement
+program for the construction and improvement of roads, streets, sidewalks, trails, and
+other similar transportation infrastructure within the municipality. The municipality may
+adopt administrative guidelines, procedures, regulations, and forms necessary to
+properly implement, administer, and enforce this section.
+
+Section 4:
+SECTION 3. This act takes effect upon becoming a law, the public welfare requiring it.
+HB2323
+012710
+- 1 -
+[DELETED: S(S]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 2610
+By Crowe
+HOUSE BILL 2323
+By Alexander
+AN ACT to amend Tennessee Code Annotated, Title 67,
+Chapter 4, Part 29, relative to privilege tax on
+property development.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 67-4-2903, is amended by adding
+the following as a new, appropriately designated subdivision:
+( ) "Municipality" means an incorporated city or a town that does not have a
+school system or LEA within its jurisdiction;
+SECTION 2. Tennessee Code Annotated, Title 67, Chapter 4, Part 29, is amended by
+adding the following as a new section:
+Notwithstanding this part to the contrary, a municipality, by ordinance adopted by
+its governing body in the manner provided in § 67-4-2904(b), may levy a tax on the
+privilege of engaging in the act of development within the boundaries of the municipality.
+Any such tax must be levied at the rate and under the terms, conditions, and limitations
+contained in §§ 67-4-2908 and 67-4-2909. The taxes collected pursuant to this section
+must be remitted to the municipal official designated in the ordinance to collect such
+taxes. The taxes must be placed in a fund designated by the governing body and the
+proceeds must be used exclusively for the purpose funding a capital improvement
+program for the construction and improvement of roads, streets, sidewalks, trails, and
+other similar transportation infrastructure within the municipality. The municipality may
+adopt administrative guidelines, procedures, regulations, and forms necessary to
+properly implement, administer, and enforce this section.
+SECTION 3. This act takes effect upon becoming a law, the public welfare requiring it.
+HB2323
+012710
+- 1 -
+
+[DELETED: S(S]

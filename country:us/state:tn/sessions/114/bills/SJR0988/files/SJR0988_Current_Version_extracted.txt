@@ -1,0 +1,112 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 2
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+SENATE JOINT RESOLUTION 988
+By Akbari
+A RESOLUTION to commemorate ALS Awareness Month, May
+
+Section 2:
+2026.
+WHEREAS, amyotrophic lateral sclerosis (ALS), known by many as Lou Gehrig's
+disease, is a progressive fatal neurodegenerative disease in which a person's brain loses
+connection with the muscles, slowly taking away the person's ability to walk, talk, eat, and
+eventually, breathe; and
+WHEREAS, thousands of new amyotrophic lateral sclerosis (ALS) cases are reported
+every year, and estimates show that every ninety minutes, someone is diagnosed with ALS, and
+someone passes away from ALS; and
+WHEREAS, on average, patients diagnosed with ALS survive only two to five years from
+the time of diagnosis; and
+WHEREAS, the exact causes of ALS are unknown, and there is no known cure for ALS;
+and
+WHEREAS, people who have served in the military are more likely to develop ALS and
+die from the disease than those with no history of military service; and
+WHEREAS, securing access to new therapies, durable medical equipment, and
+communication technologies is of vital importance to people living with ALS; and
+WHEREAS, clinical trials play a pivotal role in evaluating new treatments, enhancing
+quality of life, and fostering assistive technologies for those living with ALS; and
+WHEREAS, the ALS Association is the largest philanthropic funder of ALS research
+globally and has committed more than $154 million to support more than 550 projects across
+the United States and eighteen other countries; and
+SJR0988
+016238
+- 1 -
+WHEREAS, the ALS Association is committed to accelerating the pace of discovery,
+fueled by the hope that one day ALS will be a livable disease for everyone, everywhere, until a
+cure can be found; and
+WHEREAS, Amyotrophic Lateral Sclerosis Awareness Month provides an opportunity to
+increase public awareness of the dire circumstances of people living with ALS, acknowledge the
+terrible impact this disease has on those individuals and their families, and support research to
+eradicate this disease; now, therefore,
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE HOUSE OF
+REPRESENTATIVES CONCURRING, that we commemorate May 2026 as ALS Awareness
+Month and honor those Americans who support ALS research, advocate for increased public
+funding, and stand in solidarity with those affected by this relentless disease.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy and upon proper request made to
+the appropriate clerk, the language appearing immediately following the State seal appear
+without House or Senate designation.
+- 2 - 016238
+[DELETED: WWWWWWWW]
+[DELETED:  -0WWBB]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+SENATE JOINT RESOLUTION 988
+By Akbari
+A RESOLUTION to commemorate ALS Awareness Month, May
+2026.
+WHEREAS, amyotrophic lateral sclerosis (ALS), known by many as Lou Gehrig's
+disease, is a progressive fatal neurodegenerative disease in which a person's brain loses
+connection with the muscles, slowly taking away the person's ability to walk, talk, eat, and
+eventually, breathe; and
+WHEREAS, thousands of new amyotrophic lateral sclerosis (ALS) cases are reported
+every year, and estimates show that every ninety minutes, someone is diagnosed with ALS, and
+someone passes away from ALS; and
+WHEREAS, on average, patients diagnosed with ALS survive only two to five years from
+the time of diagnosis; and
+WHEREAS, the exact causes of ALS are unknown, and there is no known cure for ALS;
+and
+WHEREAS, people who have served in the military are more likely to develop ALS and
+die from the disease than those with no history of military service; and
+WHEREAS, securing access to new therapies, durable medical equipment, and
+communication technologies is of vital importance to people living with ALS; and
+WHEREAS, clinical trials play a pivotal role in evaluating new treatments, enhancing
+quality of life, and fostering assistive technologies for those living with ALS; and
+WHEREAS, the ALS Association is the largest philanthropic funder of ALS research
+globally and has committed more than $154 million to support more than 550 projects across
+the United States and eighteen other countries; and
+SJR0988
+016238
+- 1 -
+
+WHEREAS, the ALS Association is committed to accelerating the pace of discovery,
+fueled by the hope that one day ALS will be a livable disease for everyone, everywhere, until a
+cure can be found; and
+WHEREAS, Amyotrophic Lateral Sclerosis Awareness Month provides an opportunity to
+increase public awareness of the dire circumstances of people living with ALS, acknowledge the
+terrible impact this disease has on those individuals and their families, and support research to
+eradicate this disease; now, therefore,
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE HOUSE OF
+REPRESENTATIVES CONCURRING, that we commemorate May 2026 as ALS Awareness
+Month and honor those Americans who support ALS research, advocate for increased public
+funding, and stand in solidarity with those affected by this relentless disease.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy and upon proper request made to
+the appropriate clerk, the language appearing immediately following the State seal appear
+without House or Senate designation.
+- 2 - 016238
+
+[DELETED: WWWWWWWW]
+[DELETED:  -0WWBB]

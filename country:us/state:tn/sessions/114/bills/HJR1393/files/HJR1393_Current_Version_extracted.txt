@@ -1,0 +1,104 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+HOUSE JOINT RESOLUTION 1393
+By Vital
+A RESOLUTION to honor Robert "Percy" Person on the
+celebration of his eighty-ninth birthday.
+WHEREAS, the members of this General Assembly take great pleasure in paying tribute
+to a gentleman who has provided excellent service and even better advice to his clients during
+his distinguished tenure as the proprietor of Percy's Shine Service in downtown Nashville's
+historic Arcade; and
+WHEREAS, while he has owned and operated this particular business for thirty-three
+years, Robert "Percy" Person has shined more than 500,000 pairs of shoes during the course of
+his nearly eighty-year career; and
+WHEREAS, Percy Person doesn't merely shine shoes; this humorous sage often holds
+forth on life in a manner that both entertains and enlightens his loyal clientele; and
+WHEREAS, Mr. Person began shining shoes in 1948, when he was a tender eleven
+years of age, to help his single mother make ends meet; and
+WHEREAS, in the nearly eight decades since, Percy Person has shined, stained, and
+repaired the footwear of thousands of politicians, lawyers, business people, and other downtown
+workers; countless mayors; a few governors; and even select members of the General
+Assembly; and
+WHEREAS, Percy has become an institution in downtown Nashville, tending to his trade
+with an artistic perfection that has earned him the undisputed title of "King of Shoe Artists"; and
+WHEREAS, gifted in his vocation, Percy is an even better Person, often assisting friends
+who are in need or in trouble; he has bought many bus tickets and much food for those in need;
+covered the backs of many friends; and served as a mentor to the downtrodden; and
+HJR1393
+017744
+- 1 -
+WHEREAS, it is fitting that we should pay tribute to the man known to all simply as
+Percy on this special occasion and thank him for his many contributions to his community and
+his kind and efficient service to members of the General Assembly and their footwear; now,
+therefore,
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE SENATE
+CONCURRING, that we honor and congratulate Robert "Percy" Person on the celebration of his
+eighty-ninth birthday on July 6, 2026, salute his nearly eighty-year career as a shoe artist, and
+extend to him our best wishes for many happy returns of the day.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy and upon proper request made to
+the appropriate clerk, the language appearing immediately following the State seal appear
+without House or Senate designation.
+- 2 - 017744
+[DELETED: WWWWWWW]
+[DELETED:  -0WBB]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+HOUSE JOINT RESOLUTION 1393
+By Vital
+A RESOLUTION to honor Robert "Percy" Person on the
+celebration of his eighty-ninth birthday.
+WHEREAS, the members of this General Assembly take great pleasure in paying tribute
+to a gentleman who has provided excellent service and even better advice to his clients during
+his distinguished tenure as the proprietor of Percy's Shine Service in downtown Nashville's
+historic Arcade; and
+WHEREAS, while he has owned and operated this particular business for thirty-three
+years, Robert "Percy" Person has shined more than 500,000 pairs of shoes during the course of
+his nearly eighty-year career; and
+WHEREAS, Percy Person doesn't merely shine shoes; this humorous sage often holds
+forth on life in a manner that both entertains and enlightens his loyal clientele; and
+WHEREAS, Mr. Person began shining shoes in 1948, when he was a tender eleven
+years of age, to help his single mother make ends meet; and
+WHEREAS, in the nearly eight decades since, Percy Person has shined, stained, and
+repaired the footwear of thousands of politicians, lawyers, business people, and other downtown
+workers; countless mayors; a few governors; and even select members of the General
+Assembly; and
+WHEREAS, Percy has become an institution in downtown Nashville, tending to his trade
+with an artistic perfection that has earned him the undisputed title of "King of Shoe Artists"; and
+WHEREAS, gifted in his vocation, Percy is an even better Person, often assisting friends
+who are in need or in trouble; he has bought many bus tickets and much food for those in need;
+covered the backs of many friends; and served as a mentor to the downtrodden; and
+HJR1393
+017744
+- 1 -
+
+WHEREAS, it is fitting that we should pay tribute to the man known to all simply as
+Percy on this special occasion and thank him for his many contributions to his community and
+his kind and efficient service to members of the General Assembly and their footwear; now,
+therefore,
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE SENATE
+CONCURRING, that we honor and congratulate Robert "Percy" Person on the celebration of his
+eighty-ninth birthday on July 6, 2026, salute his nearly eighty-year career as a shoe artist, and
+extend to him our best wishes for many happy returns of the day.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy and upon proper request made to
+the appropriate clerk, the language appearing immediately following the State seal appear
+without House or Senate designation.
+- 2 - 017744
+
+[DELETED: WWWWWWW]
+[DELETED:  -0WBB]

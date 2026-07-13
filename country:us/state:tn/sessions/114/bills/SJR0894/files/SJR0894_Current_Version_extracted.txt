@@ -1,0 +1,100 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+SENATE JOINT RESOLUTION 894
+By Massey
+A RESOLUTION to honor and recognize Knoxville Community
+Media on the occasion of its fiftieth anniversary.
+WHEREAS, this General Assembly takes great pleasure in recognizing a nonprofit
+organization that has helped promote and preserve free speech in its community for the past
+fifty years; and
+WHEREAS, Knoxville Community Media (KCM) is an independently chartered 501(c)(3)
+organization created in 1975 to serve the community of Knoxville and Knox County by providing
+public, educational, and government access through television and other media outlets; and
+WHEREAS, the existence of KCM encourages civic engagement and participation
+through its coverage and archiving of gavel-to-gavel government meetings; and
+WHEREAS, KCM assists educational entities, organizations, community groups, and
+nonprofit organizations in sharing their mission with the community; and
+WHEREAS, KCM offers life-skills training and equipment that enable the citizens of
+Knoxville and Knox County to share their beliefs, dreams, and values through a media platform
+for free speech; and
+WHEREAS, KCM was a vital resource during the COVID-19 pandemic and has
+continued to offer all of the aforementioned services at little or no cost to the community, even in
+the face of revenue loss; and
+WHEREAS, KCM remains a true beacon of unfiltered free thought, free expression, and
+free speech, providing a modern form of the public town square in a media age in which many
+media outlets do not allow unfiltered free thought, free expression, or free speech; and
+WHEREAS, KCM and its staff are richly deserving of our approbation on this special
+occasion; now, therefore,
+SJR0894
+014604
+- 1 -
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE HOUSE OF
+REPRESENTATIVES CONCURRING, that we honor and recognize Knoxville Community
+Media upon fifty years of service to the community as a champion of free speech, as KCM looks
+forward to fifty more years of responsible, thoughtful, and important media-making and the
+preservation of localism in media.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy and upon proper request made to
+the appropriate clerk, the language appearing immediately following the State seal appear
+without House or Senate designation.
+- 2 - 014604
+[DELETED: WWWWWWWW]
+[DELETED:  -0BB]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+SENATE JOINT RESOLUTION 894
+By Massey
+A RESOLUTION to honor and recognize Knoxville Community
+Media on the occasion of its fiftieth anniversary.
+WHEREAS, this General Assembly takes great pleasure in recognizing a nonprofit
+organization that has helped promote and preserve free speech in its community for the past
+fifty years; and
+WHEREAS, Knoxville Community Media (KCM) is an independently chartered 501(c)(3)
+organization created in 1975 to serve the community of Knoxville and Knox County by providing
+public, educational, and government access through television and other media outlets; and
+WHEREAS, the existence of KCM encourages civic engagement and participation
+through its coverage and archiving of gavel-to-gavel government meetings; and
+WHEREAS, KCM assists educational entities, organizations, community groups, and
+nonprofit organizations in sharing their mission with the community; and
+WHEREAS, KCM offers life-skills training and equipment that enable the citizens of
+Knoxville and Knox County to share their beliefs, dreams, and values through a media platform
+for free speech; and
+WHEREAS, KCM was a vital resource during the COVID-19 pandemic and has
+continued to offer all of the aforementioned services at little or no cost to the community, even in
+the face of revenue loss; and
+WHEREAS, KCM remains a true beacon of unfiltered free thought, free expression, and
+free speech, providing a modern form of the public town square in a media age in which many
+media outlets do not allow unfiltered free thought, free expression, or free speech; and
+WHEREAS, KCM and its staff are richly deserving of our approbation on this special
+occasion; now, therefore,
+SJR0894
+014604
+- 1 -
+
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE HOUSE OF
+REPRESENTATIVES CONCURRING, that we honor and recognize Knoxville Community
+Media upon fifty years of service to the community as a champion of free speech, as KCM looks
+forward to fifty more years of responsible, thoughtful, and important media-making and the
+preservation of localism in media.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy and upon proper request made to
+the appropriate clerk, the language appearing immediately following the State seal appear
+without House or Senate designation.
+- 2 - 014604
+
+[DELETED: WWWWWWWW]
+[DELETED:  -0BB]

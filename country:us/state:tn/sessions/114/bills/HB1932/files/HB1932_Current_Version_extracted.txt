@@ -1,0 +1,69 @@
+Title: SENATE BILL 1983
+Official Title: SENATE BILL 1983
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+By Taylor
+HOUSE BILL 1932
+By Vaughan
+AN ACT to amend Tennessee Code Annotated, Section
+67-5-2701, relative to procedure for redemption of
+property.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 67-5-2701(a)(1)(C), is amended by
+deleting the subdivision and substituting instead the following:
+(C) The redemption period is determined for each parcel based on the period of
+delinquency. Once the period of delinquency is established, the redemption period must
+be set on the following scale:
+(i) If the period of delinquency is three (3) years or less, the redemption
+period is one (1) year from the entry of the order confirming the sale; or
+(ii) If the period of delinquency is more than three (3) years, the
+redemption period is ninety (90) days from the entry of the order confirming the
+sale.
+
+Section 3:
+SECTION 2. This act takes effect July 1, 2026, the public welfare requiring it, and
+applies to entries of orders confirming a tax sale of a parcel subject to redemption occurring on
+or after that date.
+HB1932
+011473
+- 1 -
+[DELETED: S(((S]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 1983
+By Taylor
+HOUSE BILL 1932
+By Vaughan
+AN ACT to amend Tennessee Code Annotated, Section
+67-5-2701, relative to procedure for redemption of
+property.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 67-5-2701(a)(1)(C), is amended by
+deleting the subdivision and substituting instead the following:
+(C) The redemption period is determined for each parcel based on the period of
+delinquency. Once the period of delinquency is established, the redemption period must
+be set on the following scale:
+(i) If the period of delinquency is three (3) years or less, the redemption
+period is one (1) year from the entry of the order confirming the sale; or
+(ii) If the period of delinquency is more than three (3) years, the
+redemption period is ninety (90) days from the entry of the order confirming the
+sale.
+SECTION 2. This act takes effect July 1, 2026, the public welfare requiring it, and
+applies to entries of orders confirming a tax sale of a parcel subject to redemption occurring on
+or after that date.
+HB1932
+011473
+- 1 -
+
+[DELETED: S(((S]

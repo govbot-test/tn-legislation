@@ -1,0 +1,149 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+HOUSE RESOLUTION 146
+By Lamberth
+A RESOLUTION to honor the memory of Paul Trowbridge
+Gillespie, Jr., of Memphis.
+WHEREAS, the members of this legislative body were greatly saddened to learn of the
+passing of Paul Trowbridge Gillespie, Jr., the father of our valued colleague Representative
+John Gillespie; and
+WHEREAS, Paul Trowbridge Gillespie, Jr., was an exemplary public servant and
+consummate professional who worked assiduously to improve the quality of life for his fellow
+citizens in numerous capacities; and
+WHEREAS, born on June 6, 1947, in Morristown, New Jersey, Mr. Gillespie was the son
+of the late Paul Trowbridge Gillespie and Dorothy Anderson Gillespie; and
+WHEREAS, Paul Gillespie moved to Memphis at a young age and attended
+Presbyterian Day School and then Memphis University School, where he excelled as a member
+of both the football and basketball teams; and
+WHEREAS, Mr. Gillespie continued his athletic career and played for legendary
+Memphis University School coaches Jake Rudolph and Jerry Peters; he earned a football
+scholarship to Vanderbilt University and played on the 1965 freshmen team before starting as a
+defensive back; and
+WHEREAS, following his graduation from Vanderbilt, Paul Gillespie returned to Memphis
+and began his career at First Tennessee Investment Management, while concurrently serving
+as a member of the Army National Guard; and
+WHEREAS, Mr. Gillespie cofounded Southeastern Asset Management in 1975; in 1985,
+he went on to cofound NewSouth Capital Management, where he fostered connections with
+colleagues and clients alike for forty years; and
+HR0146
+012105
+- 1 -
+WHEREAS, a highly respected member of his community, Mr. Gillespie served as
+chairman for a number of boards, including Memphis University School, ArtsMemphis, Baptist
+Memorial Health Care Corporation Community Advisory Board, and the Trezevant Manor
+Foundation; additionally, he was president of the Liberty Bowl in 1986 and served on the
+selection committee for a number of years; and
+WHEREAS, Mr. Gillespie was also deeply devoted to his family, and he always
+endeavored to remain true to family values of the highest order; and
+WHEREAS, Paul Gillespie will be sadly missed yet fondly remembered by his beloved
+wife of forty-seven years, Elizabeth Johnston Gillespie; his sons, Paul Trowbridge (Paige)
+Gillespie III, Stuart Johnston (Alexis) Gillespie, and John Marston Gillespie (fiancée Mackenzie);
+his grandchildren, Bailey Elizabeth Gillespie, Paul Trowbridge Gillespie IV, and Grace Hastings
+Gillespie; his sister, Grace "Gaye" Gillespie (Haywood) Henderson; and nine nieces and
+nephews, whom he loved dearly; and
+WHEREAS, Paul Gillespie was a lifelong member of St. John's Episcopal Church, which
+he served as senior warden on the vestry, helped lead the campaign to build the Parish Life
+Center, and contributed to numerous stewardship efforts; and
+WHEREAS, the epitome of diligence and joy, Mr. Gillespie was proud to live a life of
+service and always endeavored to leave a positive impact on the community he so ably served
+and cherished for nearly eighty years; and
+WHEREAS, Paul Gillespie leaves behind an indelible legacy of integrity and probity in
+public life, compassion and loyalty in private life, and diligence and dedication in all his chosen
+endeavors; and
+WHEREAS, it is fitting that the members of this legislative body should pause to
+remember the bountiful life of this exceptional public servant and human being; now, therefore,
+- 2 - 012105
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, that we honor the
+memory of Paul Trowbridge Gillespie, Jr., reflecting fondly upon his impeccable character and
+his stalwart commitment to living the examined life with courage and conviction.
+BE IT FURTHER RESOLVED, that we express our sympathy and offer our condolences
+to the family of Mr. Gillespie.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy.
+- 3 - 012105
+[DELETED: WWWWWWW]
+[DELETED:  -0WWWWWWW]
+[DELETED:  -0BBB]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+HOUSE RESOLUTION 146
+By Lamberth
+A RESOLUTION to honor the memory of Paul Trowbridge
+Gillespie, Jr., of Memphis.
+WHEREAS, the members of this legislative body were greatly saddened to learn of the
+passing of Paul Trowbridge Gillespie, Jr., the father of our valued colleague Representative
+John Gillespie; and
+WHEREAS, Paul Trowbridge Gillespie, Jr., was an exemplary public servant and
+consummate professional who worked assiduously to improve the quality of life for his fellow
+citizens in numerous capacities; and
+WHEREAS, born on June 6, 1947, in Morristown, New Jersey, Mr. Gillespie was the son
+of the late Paul Trowbridge Gillespie and Dorothy Anderson Gillespie; and
+WHEREAS, Paul Gillespie moved to Memphis at a young age and attended
+Presbyterian Day School and then Memphis University School, where he excelled as a member
+of both the football and basketball teams; and
+WHEREAS, Mr. Gillespie continued his athletic career and played for legendary
+Memphis University School coaches Jake Rudolph and Jerry Peters; he earned a football
+scholarship to Vanderbilt University and played on the 1965 freshmen team before starting as a
+defensive back; and
+WHEREAS, following his graduation from Vanderbilt, Paul Gillespie returned to Memphis
+and began his career at First Tennessee Investment Management, while concurrently serving
+as a member of the Army National Guard; and
+WHEREAS, Mr. Gillespie cofounded Southeastern Asset Management in 1975; in 1985,
+he went on to cofound NewSouth Capital Management, where he fostered connections with
+colleagues and clients alike for forty years; and
+HR0146
+012105
+- 1 -
+
+WHEREAS, a highly respected member of his community, Mr. Gillespie served as
+chairman for a number of boards, including Memphis University School, ArtsMemphis, Baptist
+Memorial Health Care Corporation Community Advisory Board, and the Trezevant Manor
+Foundation; additionally, he was president of the Liberty Bowl in 1986 and served on the
+selection committee for a number of years; and
+WHEREAS, Mr. Gillespie was also deeply devoted to his family, and he always
+endeavored to remain true to family values of the highest order; and
+WHEREAS, Paul Gillespie will be sadly missed yet fondly remembered by his beloved
+wife of forty-seven years, Elizabeth Johnston Gillespie; his sons, Paul Trowbridge (Paige)
+Gillespie III, Stuart Johnston (Alexis) Gillespie, and John Marston Gillespie (fiancée Mackenzie);
+his grandchildren, Bailey Elizabeth Gillespie, Paul Trowbridge Gillespie IV, and Grace Hastings
+Gillespie; his sister, Grace "Gaye" Gillespie (Haywood) Henderson; and nine nieces and
+nephews, whom he loved dearly; and
+WHEREAS, Paul Gillespie was a lifelong member of St. John's Episcopal Church, which
+he served as senior warden on the vestry, helped lead the campaign to build the Parish Life
+Center, and contributed to numerous stewardship efforts; and
+WHEREAS, the epitome of diligence and joy, Mr. Gillespie was proud to live a life of
+service and always endeavored to leave a positive impact on the community he so ably served
+and cherished for nearly eighty years; and
+WHEREAS, Paul Gillespie leaves behind an indelible legacy of integrity and probity in
+public life, compassion and loyalty in private life, and diligence and dedication in all his chosen
+endeavors; and
+WHEREAS, it is fitting that the members of this legislative body should pause to
+remember the bountiful life of this exceptional public servant and human being; now, therefore,
+- 2 - 012105
+
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, that we honor the
+memory of Paul Trowbridge Gillespie, Jr., reflecting fondly upon his impeccable character and
+his stalwart commitment to living the examined life with courage and conviction.
+BE IT FURTHER RESOLVED, that we express our sympathy and offer our condolences
+to the family of Mr. Gillespie.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy.
+- 3 - 012105
+
+[DELETED: WWWWWWW]
+[DELETED:  -0WWWWWWW]
+[DELETED:  -0BBB]

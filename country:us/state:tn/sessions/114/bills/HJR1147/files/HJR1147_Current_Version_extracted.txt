@@ -1,0 +1,73 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+HOUSE JOINT RESOLUTION 1147
+By Sherrell
+A RESOLUTION opposing the closure of the McMinnville VA clinic
+in Warren County.
+WHEREAS, Warren County and the surrounding area are home to a United States
+military veteran population of thousands of citizens who have served in the defense and
+protection of our country; and
+WHEREAS, the United States government has put in place a mechanism to care for the
+medical needs of United States military veterans, and that mechanism is the Department of
+Veterans Affairs (VA), which operates medical facilities throughout this nation; and
+WHEREAS, one of those medical facilities, the McMinnville VA Clinic, is operated within
+the jurisdictional boundaries of Warren County to serve the physical and mental health of the
+military veterans who live in Warren County and surrounding counties; and
+WHEREAS, the Department of Veterans Affairs has officially announced the closure of
+the McMinnville VA clinic by May 31, 2026, putting an undue burden on our United States
+military veterans in obtaining quality health care in their community; now, therefore,
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE SENATE
+CONCURRING, that we urge the Tennessee Congressional delegation to take all necessary
+measures to ensure that the McMinnville VA Clinic in Warren County remain in operation to
+serve the healthcare needs of our military veterans who have sacrificed so much in service to
+their country.
+BE IT FURTHER RESOLVED, that a certified copy of this resolution be transmitted to
+each member of the Tennessee Congressional delegation.
+HJR1147
+015094
+- 1 -
+[DELETED: WWWWBB]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+HOUSE JOINT RESOLUTION 1147
+By Sherrell
+A RESOLUTION opposing the closure of the McMinnville VA clinic
+in Warren County.
+WHEREAS, Warren County and the surrounding area are home to a United States
+military veteran population of thousands of citizens who have served in the defense and
+protection of our country; and
+WHEREAS, the United States government has put in place a mechanism to care for the
+medical needs of United States military veterans, and that mechanism is the Department of
+Veterans Affairs (VA), which operates medical facilities throughout this nation; and
+WHEREAS, one of those medical facilities, the McMinnville VA Clinic, is operated within
+the jurisdictional boundaries of Warren County to serve the physical and mental health of the
+military veterans who live in Warren County and surrounding counties; and
+WHEREAS, the Department of Veterans Affairs has officially announced the closure of
+the McMinnville VA clinic by May 31, 2026, putting an undue burden on our United States
+military veterans in obtaining quality health care in their community; now, therefore,
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE SENATE
+CONCURRING, that we urge the Tennessee Congressional delegation to take all necessary
+measures to ensure that the McMinnville VA Clinic in Warren County remain in operation to
+serve the healthcare needs of our military veterans who have sacrificed so much in service to
+their country.
+BE IT FURTHER RESOLVED, that a certified copy of this resolution be transmitted to
+each member of the Tennessee Congressional delegation.
+HJR1147
+015094
+- 1 -
+
+[DELETED: WWWWBB]

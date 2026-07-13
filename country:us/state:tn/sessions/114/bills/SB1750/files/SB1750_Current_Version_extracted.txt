@@ -1,0 +1,118 @@
+Title: HOUSE BILL 1509
+Official Title: HOUSE BILL 1509
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+By Warner
+SENATE BILL 1750
+By Bowling
+AN ACT to amend Tennessee Code Annotated, Title 4;
+Title 68, Chapter 221 and Title 69, relative to
+drinking water.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Title 68, Chapter 221, Part 7, is amended by
+adding the following as a new section:
+(a) As used in this section "utility":
+(1) Means:
+(A) An entity that provides drinking water services to the public;
+and
+(B) Is owned or operated by a county, metropolitan government,
+city, or town, or is subject to the jurisdiction of the Tennessee board of
+utility regulation in accordance with § 7-82-701; and
+(2) Includes a public water system.
+(b)
+(1) Notwithstanding another law and except as provided in subdivision
+(b)(2), the department shall not prohibit a utility from pumping or otherwise
+withdrawing water from natural waters for purposes of providing drinking water,
+including as a prerequisite for renewal of the utility's permit.
+(2)
+(A) The department may prohibit a utility from pumping or
+otherwise withdrawing water from natural waters for purposes of providing
+drinking water if required to comply with a federal law, including the
+SB1750
+010268
+- 1 -
+federal Safe Drinking Water Act, as amended (42 U.S.C. §§ 300g-4 and
+300g-5), the federal Water Pollution Control Act of 1972, P.L. 92-500, as
+amended, (33 U.S.C. § 1251 et seq.), or the federal Endangered Species
+Act of 1973, Public Law 93-205 (87 Stat. 884) (16 U.S.C. § 1531 et seq.).
+This exemption does not apply if the prohibition is only recommended
+under federal law.
+(B) If the department prohibits a utility from pumping or otherwise
+withdrawing water from natural waters under subdivision (b)(2)(A), then
+the department must provide the utility with written notice of the action.
+The notice must describe the basis for the action, including a citation to
+the specific federal law for which the action was taken to comply.
+(c) If the department prohibits a utility from pumping or otherwise withdrawing
+water in violation of subdivisions (b)(1) or (2), then the utility may submit a complaint to
+the board.
+
+Section 3:
+SECTION 2. This act takes effect July 1, 2026, the public welfare requiring it, and
+applies to actions taken on or after that date.
+- 2 - 010268
+[DELETED: S(((((((((]
+[DELETED:  -0((S]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 1509
+By Warner
+SENATE BILL 1750
+By Bowling
+AN ACT to amend Tennessee Code Annotated, Title 4;
+Title 68, Chapter 221 and Title 69, relative to
+drinking water.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Title 68, Chapter 221, Part 7, is amended by
+adding the following as a new section:
+(a) As used in this section "utility":
+(1) Means:
+(A) An entity that provides drinking water services to the public;
+and
+(B) Is owned or operated by a county, metropolitan government,
+city, or town, or is subject to the jurisdiction of the Tennessee board of
+utility regulation in accordance with § 7-82-701; and
+(2) Includes a public water system.
+(b)
+(1) Notwithstanding another law and except as provided in subdivision
+(b)(2), the department shall not prohibit a utility from pumping or otherwise
+withdrawing water from natural waters for purposes of providing drinking water,
+including as a prerequisite for renewal of the utility's permit.
+(2)
+(A) The department may prohibit a utility from pumping or
+otherwise withdrawing water from natural waters for purposes of providing
+drinking water if required to comply with a federal law, including the
+SB1750
+010268
+- 1 -
+
+federal Safe Drinking Water Act, as amended (42 U.S.C. §§ 300g-4 and
+300g-5), the federal Water Pollution Control Act of 1972, P.L. 92-500, as
+amended, (33 U.S.C. § 1251 et seq.), or the federal Endangered Species
+Act of 1973, Public Law 93-205 (87 Stat. 884) (16 U.S.C. § 1531 et seq.).
+This exemption does not apply if the prohibition is only recommended
+under federal law.
+(B) If the department prohibits a utility from pumping or otherwise
+withdrawing water from natural waters under subdivision (b)(2)(A), then
+the department must provide the utility with written notice of the action.
+The notice must describe the basis for the action, including a citation to
+the specific federal law for which the action was taken to comply.
+(c) If the department prohibits a utility from pumping or otherwise withdrawing
+water in violation of subdivisions (b)(1) or (2), then the utility may submit a complaint to
+the board.
+SECTION 2. This act takes effect July 1, 2026, the public welfare requiring it, and
+applies to actions taken on or after that date.
+- 2 - 010268
+
+[DELETED: S(((((((((]
+[DELETED:  -0((S]
