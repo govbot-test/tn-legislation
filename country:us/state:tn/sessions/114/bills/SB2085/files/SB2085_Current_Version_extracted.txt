@@ -1,0 +1,100 @@
+Title: HOUSE BILL 2023
+Official Title: HOUSE BILL 2023
+Number of Sections: 4
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+By Martin B
+SENATE BILL 2085
+By Jackson
+AN ACT to amend Tennessee Code Annotated, Section
+40-24-109, relative to the victims assistance
+assessment.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 40-24-109, is amended by deleting
+subsection (c) and substituting instead the following:
+(c) The clerks of all courts of general sessions, circuit and criminal courts,
+municipal courts exercising general sessions court jurisdiction, and any other court
+exercising similar criminal jurisdiction shall collect a victims assistance assessment in
+the sum of one hundred twenty-five dollars ($125) from a person who:
+(1) Enters a plea of guilty;
+(2) Is found guilty by a judge or jury;
+(3) Enters a plea of nolo contendere;
+(4) Enters a plea, pursuant to a diversionary sentencing statute, to a
+criminal offense described in subsection (d);
+(5) Is found guilty, or enters a plea of guilty or nolo contendere, to the
+offense of attempting or conspiring to commit an offense described in subsection
+(d); or
+(6) Is found to be criminally responsible as principal for the commission
+of an offense described in subsection (d).
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 40-24-109(g)(1), is amended by
+deleting the subdivision and substituting:
+SB2085
+010968
+- 1 -
+(1) The victims assistance assessment is subject to § 8-21-401 and is in addition
+to all other taxes, costs, and fines. The first fifteen dollars ($15.00) of each assessment
+must be paid to the clerk of the court imposing the assessment for processing and
+handling. The remaining one hundred ten dollars ($110) must be transmitted to the
+county in which the offense occurred for the exclusive use of the victims assistance
+program previously designated by the county legislative body.
+
+Section 4:
+SECTION 3. This act takes effect upon becoming a law, the public welfare requiring it.
+- 2 - 010968
+[DELETED: S(((((((S]
+[DELETED:  -0(S]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 2023
+By Martin B
+SENATE BILL 2085
+By Jackson
+AN ACT to amend Tennessee Code Annotated, Section
+40-24-109, relative to the victims assistance
+assessment.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 40-24-109, is amended by deleting
+subsection (c) and substituting instead the following:
+(c) The clerks of all courts of general sessions, circuit and criminal courts,
+municipal courts exercising general sessions court jurisdiction, and any other court
+exercising similar criminal jurisdiction shall collect a victims assistance assessment in
+the sum of one hundred twenty-five dollars ($125) from a person who:
+(1) Enters a plea of guilty;
+(2) Is found guilty by a judge or jury;
+(3) Enters a plea of nolo contendere;
+(4) Enters a plea, pursuant to a diversionary sentencing statute, to a
+criminal offense described in subsection (d);
+(5) Is found guilty, or enters a plea of guilty or nolo contendere, to the
+offense of attempting or conspiring to commit an offense described in subsection
+(d); or
+(6) Is found to be criminally responsible as principal for the commission
+of an offense described in subsection (d).
+SECTION 2. Tennessee Code Annotated, Section 40-24-109(g)(1), is amended by
+deleting the subdivision and substituting:
+SB2085
+010968
+- 1 -
+
+(1) The victims assistance assessment is subject to § 8-21-401 and is in addition
+to all other taxes, costs, and fines. The first fifteen dollars ($15.00) of each assessment
+must be paid to the clerk of the court imposing the assessment for processing and
+handling. The remaining one hundred ten dollars ($110) must be transmitted to the
+county in which the offense occurred for the exclusive use of the victims assistance
+program previously designated by the county legislative body.
+SECTION 3. This act takes effect upon becoming a law, the public welfare requiring it.
+- 2 - 010968
+
+[DELETED: S(((((((S]
+[DELETED:  -0(S]

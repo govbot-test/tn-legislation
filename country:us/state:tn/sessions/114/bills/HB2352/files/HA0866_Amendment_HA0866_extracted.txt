@@ -1,0 +1,114 @@
+Title: AMEND S e n ate Bill No. 2219* House Bill No. 2352
+Official Title: AMEND S e n ate Bill No. 2219* House Bill No. 2352
+Number of Sections: 4
+Source: versions - Amendment HA0866
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+House Judiciary 1
+Amendment No. 1 to HB2352
+Farmer
+Signature of Sponsor
+by deleting all language after the enacting clause and substituting:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 37-1-187(a), is amended by adding
+the following new subdivisions:
+( ) "Dependency and neglect case" means a court proceeding concerning a
+child alleged to be a dependent and neglected child. Each new petition filed alleging
+dependency and neglect is a new case. A petition and case may contain multiple
+children;
+( ) "Dependent and neglected child" means the same as defined in § 37-1-
+102(b);
+( ) "Extension of foster care" means the service provided by the department of
+children's services as described in § 37-2-604;
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 37-1-187(d), is amended by adding
+the following new subdivisions:
+(3) Each new dependency and neglect case, including for each child named in
+the petition:
+(A) The date the case was filed or opened;
+(B) The referring agency or person filing the petition;
+(C) The statutory allegations in the petition;
+(D) The child's unique child ID number, which may be the same number
+used if the child has a delinquent or unruly case;
+HA0866
+014201
+- 1 -
+(E) The unique case or docket number, followed by -01, -02, -03 for each
+child named in the petition; and
+(F) The child's name, date of birth, race, sex, ethnicity, and social
+security number; and
+(4) For each case reported pursuant to subdivision (d)(3), the following
+information, as applicable, along with the unique case or docket number:
+(A) The beginning and ending date and type of out-of-home placement;
+(B) The beginning and ending date of a trial home placement;
+(C) The date the child was adjudicated a dependent and neglected child
+or the date the case was dismissed or transferred to another court;
+(D) For a child in the custody of the department of children's services, the
+permanency goal achieved or the reason for not achieving permanency;
+(E) The date of case closure; and
+(F) The beginning and ending date of an extension of foster care.
+
+Section 4:
+SECTION 3. This act takes effect January 1, 2027, the public welfare requiring it.
+- 2 - 014201
+[DELETED:  a HS(((S(((((]
+[DELETED:  -0(((((((((S]
+
+
+================================================================================
+
+Raw Text:
+House Judiciary 1
+Amendment No. 1 to HB2352
+Farmer
+Signature of Sponsor
+AMEND S e n ate Bill No. 2219* House Bill No. 2352
+by deleting all language after the enacting clause and substituting:
+SECTION 1. Tennessee Code Annotated, Section 37-1-187(a), is amended by adding
+the following new subdivisions:
+( ) "Dependency and neglect case" means a court proceeding concerning a
+child alleged to be a dependent and neglected child. Each new petition filed alleging
+dependency and neglect is a new case. A petition and case may contain multiple
+children;
+( ) "Dependent and neglected child" means the same as defined in § 37-1-
+102(b);
+( ) "Extension of foster care" means the service provided by the department of
+children's services as described in § 37-2-604;
+SECTION 2. Tennessee Code Annotated, Section 37-1-187(d), is amended by adding
+the following new subdivisions:
+(3) Each new dependency and neglect case, including for each child named in
+the petition:
+(A) The date the case was filed or opened;
+(B) The referring agency or person filing the petition;
+(C) The statutory allegations in the petition;
+(D) The child's unique child ID number, which may be the same number
+used if the child has a delinquent or unruly case;
+HA0866
+014201
+- 1 -
+
+(E) The unique case or docket number, followed by -01, -02, -03 for each
+child named in the petition; and
+(F) The child's name, date of birth, race, sex, ethnicity, and social
+security number; and
+(4) For each case reported pursuant to subdivision (d)(3), the following
+information, as applicable, along with the unique case or docket number:
+(A) The beginning and ending date and type of out-of-home placement;
+(B) The beginning and ending date of a trial home placement;
+(C) The date the child was adjudicated a dependent and neglected child
+or the date the case was dismissed or transferred to another court;
+(D) For a child in the custody of the department of children's services, the
+permanency goal achieved or the reason for not achieving permanency;
+(E) The date of case closure; and
+(F) The beginning and ending date of an extension of foster care.
+SECTION 3. This act takes effect January 1, 2027, the public welfare requiring it.
+- 2 - 014201
+
+[DELETED:  a HS(((S(((((]
+[DELETED:  -0(((((((((S]

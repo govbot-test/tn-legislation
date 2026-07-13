@@ -1,0 +1,332 @@
+Title: AMEND S e n ate Bill No. 2586 House Bill No. 2246*
+Official Title: AMEND S e n ate Bill No. 2586 House Bill No. 2246*
+Number of Sections: 3
+Source: versions - Amendment SA0975
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+Senate Health and Welfare 1
+Amendment No. 1 to SB2586
+Crowe
+Signature of Sponsor
+by deleting all language after the enacting clause and substituting:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Title 63, Chapter 6, Part 2, is amended by
+adding the following as a new section:
+(a) As used in this section:
+(1) "Human cells, tissues, or cellular or tissue-based products":
+(A) Means articles containing or consisting of human cells or
+tissues that are intended for implantation, transplantation, infusion, or
+transfer into a human recipient; and
+(B) Does not include:
+(i) Vascularized human organs for transplantation;
+(ii) Ancillary products used in the manufacture of human
+cells, tissues, or cellular or tissue-based products;
+(iii) Cells, tissues, media, serums, and organs derived
+from an animal;
+(iv) In vitro diagnostic products; and
+(v) Blood vessels recovered with an organ that is intended
+for use in organ transplantation and are clearly labeled "For use in
+organ transplantation only";
+(2) "Physician" means a person licensed pursuant to chapter 6 or 9 of
+this title;
+(3) "Regenerative medicine therapy":
+SA0975
+016888
+- 1 -
+(A) Means the use of products that:
+(i) Are supplied by a manufacturer that validates its
+isolation techniques by including cell viability and surface marker
+reports for cellular products, a viscosity report for Wharton's jelly,
+and particle counts for exosome-based regenerative products;
+(ii) Contain a lot-specific sterility report and certificate of
+analysis for each product before the product is used on a patient;
+and
+(iii) Are supplied by a manufacturer that retrieves,
+manufactures, and stores the product in a facility that is registered
+with the United States food and drug administration or accredited
+or certified by a recognized third-party accrediting organization,
+including:
+(a) American Association of Tissue Banks;
+(b) American Academy of Stem Cell Medicine;
+(c) Association for the Advancement of Blood and
+Biotherapies;
+(d) Foundation for the Accreditation of Cellular
+Therapy; and
+(e) World Marrow Donor Program; and
+(B) Does not include treatment or research using human
+cells or tissues that were derived from a fetus or an embryo after
+an abortion; and
+(4) "Stem cell therapy":
+(A) Means a treatment involving the use of cellular or tissue-
+based products that:
+- 2 - 016888
+(i) Are retrieved, manufactured, and stored in a facility that
+provides the physician proof of registration from the United States
+food and drug administration for allogeneic therapy or are
+retrieved, manufactured, and stored in a facility with a Clinical
+Laboratory Improvement Amendments of 1988 (CLIA) certificate
+of compliance for autologous therapy;
+(ii) Are stored in a freezer that maintains a temperature no
+higher than negative eighty degrees centigrade (-80° C), unless
+the cellular or tissue-based products are for autologous therapy;
+(iii) Contain viable or live cells greater than ninety percent
+(90%), as indicated in a pre-thaw certificate of analysis report, and
+contain no less than eighty percent (80%) viable or live cells, as
+indicated in a post-thaw viability analysis report for the product lot
+sent before use on the patient, unless the cellular or tissue-based
+products are for autologous therapy; and
+(iv) Contain documentation that the cellular or tissue-
+based products meet acceptance criteria established by validated
+manufacturing procedures, if used for allogeneic therapy, and
+consistent with applicable regulatory standards before cell
+administration, unless the cellular or tissue-based products are
+used for same-day autologous therapy; and
+(B) Does not include:
+(i) Treatment or research using human cells or tissues that
+were derived from a fetus or an embryo after an abortion;
+(ii) Whole blood, blood components, or blood derivative
+products; and
+- 3 - 016888
+(iii) Secreted or extracted human products, such as milk,
+collagen, and cell factors, other than semen.
+(b) A physician may perform stem cell therapy or regenerative medicine therapy
+that is not approved by the United States food and drug administration if the therapy is
+used for a treatment or procedure that is within the scope of practice of the physician.
+(c) A physician who performs stem cell therapy or regenerative medicine therapy
+shall obtain human cells, tissues, or cellular or tissue-based products for the therapy
+only from a facility that complies with this section.
+(d)
+(1) A physician who conducts stem cell therapy or regenerative medicine
+therapy under this section must include the following notice in each
+advertisement for therapy:
+THIS NOTICE MUST BE PROVIDED TO YOU UNDER
+TENNESSEE LAW. This physician performs one (1) or more stem cell or
+regenerative medicine therapies that have not yet been approved by the
+United States food and drug administration. You are encouraged to
+consult with your primary care provider before undergoing any stem cell
+or regenerative medicine therapy.
+(2) The notice required by subdivision (d)(1) must be clearly legible and
+in a type size no smaller than the largest type size used in the advertisement.
+(e) Before performing stem cell therapy or regenerative medicine therapy under
+this section, a physician must obtain a written consent form signed by the patient or, if
+the patient is not legally competent, the patient's representative.
+(f) This section does not apply to:
+(1) A physician who performs therapy approved for an investigational
+new drug or device by the United States food and drug administration for the use
+of human cells, tissues, or cellular or tissue-based products;
+- 4 - 016888
+(2) A hospital as defined in § 68-11-201(31), or an affiliated hospital
+outpatient clinic; or
+(3) A therapy performed pursuant to the Phil Timp-Amanda Wilcox Right
+to Try Act, compiled in chapter 6, part 3 of this title.
+(g) A physician who violates this section may be subject to disciplinary action by
+the physician's licensing authority.
+(h)
+(1) A physician who performs allogeneic stem cell therapy or
+regenerative medicine therapy under this section shall report an adverse event
+associated with such therapy to the manufacturer and, if applicable, to an
+accrediting organization as described in subdivision (a)(3)(A)(iii) within thirty (30)
+days after the physician becomes aware of such adverse event.
+(2) A physician who performs stem cell therapy or regenerative medicine
+therapy under this section is encouraged to participate in clinical outcomes
+registries maintained by an accredited organization for purposes of ongoing
+safety monitoring, quality improvement, and evidence-based practice
+development.
+(3) A physician who performs stem cell therapy or regenerative medicine
+therapy under this section shall report an adverse event associated with such
+therapy to the physician's licensing authority.
+(4) As used in this subsection (h), "adverse event" means any untoward
+medical occurrence associated with the use of stem cell therapy or regenerative
+medicine therapy, regardless of whether such event is considered related to the
+therapy, including infection, allergic reaction, disease transmission, or an
+unanticipated clinical outcome.
+(i)
+- 5 - 016888
+(1) The board of medical examiners may promulgate rules to effectuate
+this section. The rules must be promulgated in accordance with the Uniform
+Administrative Procedures Act, compiled in title 4, chapter 5.
+(2) The board of osteopathic examination may promulgate rules to
+effectuate this section. The rules must be promulgated in accordance with the
+Uniform Administrative Procedures Act, compiled in title 4, chapter 5.
+
+Section 3:
+SECTION 2. For purposes of promulgating rules, this act takes effect upon becoming a
+law, the public welfare requiring it. For all other purposes, this act takes effect July 1, 2026, the
+public welfare requiring it.
+- 6 - 016888
+[DELETED:  a HS(((((((((((]
+[DELETED:  -0((((()()()()()(((]
+[DELETED:  -0(((((((]
+[DELETED:  -0(((((T((((]
+[DELETED:  -0(((((((((]
+[DELETED:  -0((S]
+
+
+================================================================================
+
+Raw Text:
+Senate Health and Welfare 1
+Amendment No. 1 to SB2586
+Crowe
+Signature of Sponsor
+AMEND S e n ate Bill No. 2586 House Bill No. 2246*
+by deleting all language after the enacting clause and substituting:
+SECTION 1. Tennessee Code Annotated, Title 63, Chapter 6, Part 2, is amended by
+adding the following as a new section:
+(a) As used in this section:
+(1) "Human cells, tissues, or cellular or tissue-based products":
+(A) Means articles containing or consisting of human cells or
+tissues that are intended for implantation, transplantation, infusion, or
+transfer into a human recipient; and
+(B) Does not include:
+(i) Vascularized human organs for transplantation;
+(ii) Ancillary products used in the manufacture of human
+cells, tissues, or cellular or tissue-based products;
+(iii) Cells, tissues, media, serums, and organs derived
+from an animal;
+(iv) In vitro diagnostic products; and
+(v) Blood vessels recovered with an organ that is intended
+for use in organ transplantation and are clearly labeled "For use in
+organ transplantation only";
+(2) "Physician" means a person licensed pursuant to chapter 6 or 9 of
+this title;
+(3) "Regenerative medicine therapy":
+SA0975
+016888
+- 1 -
+
+(A) Means the use of products that:
+(i) Are supplied by a manufacturer that validates its
+isolation techniques by including cell viability and surface marker
+reports for cellular products, a viscosity report for Wharton's jelly,
+and particle counts for exosome-based regenerative products;
+(ii) Contain a lot-specific sterility report and certificate of
+analysis for each product before the product is used on a patient;
+and
+(iii) Are supplied by a manufacturer that retrieves,
+manufactures, and stores the product in a facility that is registered
+with the United States food and drug administration or accredited
+or certified by a recognized third-party accrediting organization,
+including:
+(a) American Association of Tissue Banks;
+(b) American Academy of Stem Cell Medicine;
+(c) Association for the Advancement of Blood and
+Biotherapies;
+(d) Foundation for the Accreditation of Cellular
+Therapy; and
+(e) World Marrow Donor Program; and
+(B) Does not include treatment or research using human
+cells or tissues that were derived from a fetus or an embryo after
+an abortion; and
+(4) "Stem cell therapy":
+(A) Means a treatment involving the use of cellular or tissue-
+based products that:
+- 2 - 016888
+
+(i) Are retrieved, manufactured, and stored in a facility that
+provides the physician proof of registration from the United States
+food and drug administration for allogeneic therapy or are
+retrieved, manufactured, and stored in a facility with a Clinical
+Laboratory Improvement Amendments of 1988 (CLIA) certificate
+of compliance for autologous therapy;
+(ii) Are stored in a freezer that maintains a temperature no
+higher than negative eighty degrees centigrade (-80° C), unless
+the cellular or tissue-based products are for autologous therapy;
+(iii) Contain viable or live cells greater than ninety percent
+(90%), as indicated in a pre-thaw certificate of analysis report, and
+contain no less than eighty percent (80%) viable or live cells, as
+indicated in a post-thaw viability analysis report for the product lot
+sent before use on the patient, unless the cellular or tissue-based
+products are for autologous therapy; and
+(iv) Contain documentation that the cellular or tissue-
+based products meet acceptance criteria established by validated
+manufacturing procedures, if used for allogeneic therapy, and
+consistent with applicable regulatory standards before cell
+administration, unless the cellular or tissue-based products are
+used for same-day autologous therapy; and
+(B) Does not include:
+(i) Treatment or research using human cells or tissues that
+were derived from a fetus or an embryo after an abortion;
+(ii) Whole blood, blood components, or blood derivative
+products; and
+- 3 - 016888
+
+(iii) Secreted or extracted human products, such as milk,
+collagen, and cell factors, other than semen.
+(b) A physician may perform stem cell therapy or regenerative medicine therapy
+that is not approved by the United States food and drug administration if the therapy is
+used for a treatment or procedure that is within the scope of practice of the physician.
+(c) A physician who performs stem cell therapy or regenerative medicine therapy
+shall obtain human cells, tissues, or cellular or tissue-based products for the therapy
+only from a facility that complies with this section.
+(d)
+(1) A physician who conducts stem cell therapy or regenerative medicine
+therapy under this section must include the following notice in each
+advertisement for therapy:
+THIS NOTICE MUST BE PROVIDED TO YOU UNDER
+TENNESSEE LAW. This physician performs one (1) or more stem cell or
+regenerative medicine therapies that have not yet been approved by the
+United States food and drug administration. You are encouraged to
+consult with your primary care provider before undergoing any stem cell
+or regenerative medicine therapy.
+(2) The notice required by subdivision (d)(1) must be clearly legible and
+in a type size no smaller than the largest type size used in the advertisement.
+(e) Before performing stem cell therapy or regenerative medicine therapy under
+this section, a physician must obtain a written consent form signed by the patient or, if
+the patient is not legally competent, the patient's representative.
+(f) This section does not apply to:
+(1) A physician who performs therapy approved for an investigational
+new drug or device by the United States food and drug administration for the use
+of human cells, tissues, or cellular or tissue-based products;
+- 4 - 016888
+
+(2) A hospital as defined in § 68-11-201(31), or an affiliated hospital
+outpatient clinic; or
+(3) A therapy performed pursuant to the Phil Timp-Amanda Wilcox Right
+to Try Act, compiled in chapter 6, part 3 of this title.
+(g) A physician who violates this section may be subject to disciplinary action by
+the physician's licensing authority.
+(h)
+(1) A physician who performs allogeneic stem cell therapy or
+regenerative medicine therapy under this section shall report an adverse event
+associated with such therapy to the manufacturer and, if applicable, to an
+accrediting organization as described in subdivision (a)(3)(A)(iii) within thirty (30)
+days after the physician becomes aware of such adverse event.
+(2) A physician who performs stem cell therapy or regenerative medicine
+therapy under this section is encouraged to participate in clinical outcomes
+registries maintained by an accredited organization for purposes of ongoing
+safety monitoring, quality improvement, and evidence-based practice
+development.
+(3) A physician who performs stem cell therapy or regenerative medicine
+therapy under this section shall report an adverse event associated with such
+therapy to the physician's licensing authority.
+(4) As used in this subsection (h), "adverse event" means any untoward
+medical occurrence associated with the use of stem cell therapy or regenerative
+medicine therapy, regardless of whether such event is considered related to the
+therapy, including infection, allergic reaction, disease transmission, or an
+unanticipated clinical outcome.
+(i)
+- 5 - 016888
+
+(1) The board of medical examiners may promulgate rules to effectuate
+this section. The rules must be promulgated in accordance with the Uniform
+Administrative Procedures Act, compiled in title 4, chapter 5.
+(2) The board of osteopathic examination may promulgate rules to
+effectuate this section. The rules must be promulgated in accordance with the
+Uniform Administrative Procedures Act, compiled in title 4, chapter 5.
+SECTION 2. For purposes of promulgating rules, this act takes effect upon becoming a
+law, the public welfare requiring it. For all other purposes, this act takes effect July 1, 2026, the
+public welfare requiring it.
+- 6 - 016888
+
+[DELETED:  a HS(((((((((((]
+[DELETED:  -0((((()()()()()(((]
+[DELETED:  -0(((((((]
+[DELETED:  -0(((((T((((]
+[DELETED:  -0(((((((((]
+[DELETED:  -0((S]

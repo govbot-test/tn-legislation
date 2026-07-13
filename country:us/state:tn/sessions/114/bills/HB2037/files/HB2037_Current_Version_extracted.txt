@@ -1,0 +1,332 @@
+Title: SENATE BILL 2120
+Official Title: SENATE BILL 2120
+Number of Sections: 8
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+By Bowling
+HOUSE BILL 2037
+By Hulsey
+AN ACT to amend Tennessee Code Annotated, Title 29
+and Title 42, relative to the exercise of eminent
+domain by airport authorities.
+WHEREAS, the framers of the United States Constitution placed limits on forced
+property takings by eminent domain, expressing limits on such takings in the Takings Clause of
+the 5th Amendment to the United States Constitution, stating, in part, "nor shall private property
+be taken for public use, without just compensation"; and
+WHEREAS, the definition of "public use" as used in the 5th Amendment has been eroded
+by court decisions, including Berman v. Parker, 348 U.S. 26 (1954) and Kelo v. City of New
+London, Connecticut, 545 U.S. 469 (2005), and the definition of "public use" has been further
+eroded by Tennessee Code Annotated, Section 29-17-102, which allows private property to be
+taken by the power of eminent domain for private use, namely takings by airport authorities that
+routinely lease property for private, forprofit interests; and
+WHEREAS, private property owners whose property is taken by the power of eminent
+domain for private use by airport authorities are damaged in multiple ways, including, but not
+limited to, loss of all future financial gains in the property, bearing the cost of relocation
+expenses, loss of work, disruption of life and family activities, loss of profits from a business,
+bearing the cost of having their property appraised, and bearing the cost of attorneys' fees in a
+contested taking; and
+WHEREAS, property owners that are subjected to property takings by eminent domain
+by airport authorities deserve enhanced, just compensation for the taking of their property; now,
+therefore,
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+HB2037
+009758
+- 1 -
+
+Section 2:
+SECTION 1. This act is known and may be cited as the "Tennessee Just Compensation
+for Property Owners Act."
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Title 29, Chapter 16, Part 2, is amended by
+adding the following as a new section:
+(a)
+(1) This section only applies to an eminent domain proceeding initiated
+by an airport authority pursuant to § 42-3-109, § 42-4-108, or § 42-5-108.
+(2) Notwithstanding this chapter or chapter 17 of this title to the contrary,
+to the extent this section conflicts with another provision of this chapter or
+chapter 17 of this title, this section governs the determination of damages and
+costs owed to a property owner in an eminent domain proceeding initiated by an
+airport authority pursuant to § 42-3-109, § 42-4-108, or § 42-5-108.
+(b) As used in this section:
+(1) "Airport authority" means an airport authority created pursuant to title
+42, chapters 3-5; and
+(2) "Eminent domain" means the authority conferred upon an airport
+authority to condemn and take, in whole or in part, the private property of
+another, so long as the property is taken for a legitimate public use in accordance
+with the fifth and fourteenth amendments to the United States Constitution and
+Article I, § 21 of the Constitution of Tennessee.
+(c) Damages based on value of real property.
+(1) In an action brought by an airport authority to acquire real property by
+eminent domain, the property owner of the subject real property shall select a
+certified property appraiser for purposes of assessing the value of the real
+property subject to condemnation.
+- 2 - 009758
+(2) If the court finds that a second appraisal is needed to accurately and
+equitably determine the value of the real property subject to condemnation, then
+the court shall appoint an independent certified property appraiser to assess the
+value of the real property.
+(3) Each appraisal must be based on comparable properties that have
+not been depressed in value due to airport authority acquisitions in proximity to
+the real property that the airport authority is seeking to acquire.
+(4) The court shall order that the costs associated with each appraisal
+used in the condemnation proceeding be paid by the airport authority seeking to
+acquire the real property.
+(5) In determining the value of the subject real property for purposes of
+calculating damages, the jury shall base the value of the real property on the
+average assessed value of the certified appraisals admitted in the proceeding
+and multiplying the average assessed value by one hundred fifty percent (150%).
+(d) Damages based on relocation costs.
+(1) In an action brought by an airport authority to acquire real property by
+eminent domain, the jury shall award reasonable damages to the real property
+owner based on the costs to relocate the owner's personal property, if any, that is
+located at the subject real property, including, but not limited to, residential and
+business personal property and business inventory and fixtures.
+(2) To establish such damages, the property owner shall submit not less
+than three (3) competitive estimates from contractors to relocate the owner's
+personal property.
+- 3 - 009758
+(3) The court shall order that the costs, if any, associated with obtaining
+each estimate for the relocation of personal property be paid by the airport
+authority seeking to acquire the real property.
+(e) Damages based on lost wages and profits.
+(1) In an action brought by an airport authority to acquire real property by
+eminent domain, if the owner of the real property operated a business on the real
+property, then the owner of the subject real property may petition the court for
+consideration of an award of reasonable damages based on lost wages and
+profits, if any, as the result of the relocation of the business.
+(2) If the court approves the owner's petition, then the jury may consider
+testimony, sworn affidavits, business records, and other evidence at the
+discretion of the court.
+(f) Damages based on increased interest rate.
+(1) In an action brought by an airport authority to acquire real property by
+eminent domain, the owner of the subject real property may petition the court for
+consideration of an award of reasonable damages based on the difference
+between the owner's interest rate for a residential or business loan, if any, in
+existence at the time of the initiation of the condemnation proceedings and the
+interest rate for a new residential or business loan as a result of the relocation of
+the property owner's residence or business.
+(2) If the court approves the owner's petition, then the jury must consider
+not less than three (3) interest rate estimates or actuarial damage assessments
+from or prepared by financial institutions or other qualified financial experts
+provided by the owner of the subject real property and any other evidence at the
+discretion of the court.
+- 4 - 009758
+(3) The jury may base an award of damages only on the estimated
+increase in amortized interest over the remaining term of the owner's residential
+or business loan in existence at the time the condemnation action was initiated.
+(4) The court may award the costs of any estimates or assessments to
+the owner of the subject real property.
+(g) Attorneys' fees and costs and other damages.
+(1) In an action brought by an airport authority to acquire real property by
+eminent domain, the court shall award reasonable attorneys' fees and costs to
+the owner of the subject real property if the subject real property cannot be
+acquired by the airport authority or if the airport authority withdraws its petition to
+acquire the real property.
+(2) The court may award additional damages to the owner of the subject
+real property if the court finds that the award of damages calculated in
+accordance with this section is insufficient to make the owner of the real property
+financially whole as the result of the property acquisition by eminent domain.
+(h) A court shall not finalize an order authorizing an airport authority to take
+ownership and possession of real property by eminent domain until the airport has paid
+all damages and costs in accordance with this section.
+
+Section 4:
+SECTION 3. Tennessee Code Annotated, Section 42-3-109, is amended by deleting the
+third sentence and substituting:
+An authority that acquires property by eminent domain in accordance with this section
+shall pay damages and costs in accordance with SECTION 2.
+
+Section 5:
+SECTION 4. Tennessee Code Annotated, Section 42-4-108, is amended by deleting the
+third sentence in subsection (b) and substituting:
+- 5 - 009758
+An authority that acquires property by eminent domain in accordance with this
+subsection (b) shall pay damages and costs in accordance with SECTION 2.
+
+Section 6:
+SECTION 5. Tennessee Code Annotated, Section 42-5-108, is amended by deleting
+subsection (b) and substituting:
+(b) A municipality that acquires property by eminent domain in accordance with
+this chapter shall pay damages and costs in accordance with SECTION 2.
+
+Section 7:
+SECTION 6. The subsection headings in this act are for reference purposes only and do
+not constitute a part of the law enacted by this act. However, the Tennessee Code Commission
+is requested to include the subsection headings in any compilation or publication containing this
+act.
+
+Section 8:
+SECTION 7. This act takes effect July 1, 2026, the public welfare requiring it.
+- 6 - 009758
+[DELETED: W5 W5  ,rKWW]
+[DELETED:  -0SS((((((((]
+[DELETED:  -0(((((((]
+[DELETED:  -0(((((((]
+[DELETED:  -0((((((SS]
+[DELETED:  -0S(SS]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 2120
+By Bowling
+HOUSE BILL 2037
+By Hulsey
+AN ACT to amend Tennessee Code Annotated, Title 29
+and Title 42, relative to the exercise of eminent
+domain by airport authorities.
+WHEREAS, the framers of the United States Constitution placed limits on forced
+property takings by eminent domain, expressing limits on such takings in the Takings Clause of
+the 5th Amendment to the United States Constitution, stating, in part, "nor shall private property
+be taken for public use, without just compensation"; and
+WHEREAS, the definition of "public use" as used in the 5th Amendment has been eroded
+by court decisions, including Berman v. Parker, 348 U.S. 26 (1954) and Kelo v. City of New
+London, Connecticut, 545 U.S. 469 (2005), and the definition of "public use" has been further
+eroded by Tennessee Code Annotated, Section 29-17-102, which allows private property to be
+taken by the power of eminent domain for private use, namely takings by airport authorities that
+routinely lease property for private, forprofit interests; and
+WHEREAS, private property owners whose property is taken by the power of eminent
+domain for private use by airport authorities are damaged in multiple ways, including, but not
+limited to, loss of all future financial gains in the property, bearing the cost of relocation
+expenses, loss of work, disruption of life and family activities, loss of profits from a business,
+bearing the cost of having their property appraised, and bearing the cost of attorneys' fees in a
+contested taking; and
+WHEREAS, property owners that are subjected to property takings by eminent domain
+by airport authorities deserve enhanced, just compensation for the taking of their property; now,
+therefore,
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+HB2037
+009758
+- 1 -
+
+SECTION 1. This act is known and may be cited as the "Tennessee Just Compensation
+for Property Owners Act."
+SECTION 2. Tennessee Code Annotated, Title 29, Chapter 16, Part 2, is amended by
+adding the following as a new section:
+(a)
+(1) This section only applies to an eminent domain proceeding initiated
+by an airport authority pursuant to § 42-3-109, § 42-4-108, or § 42-5-108.
+(2) Notwithstanding this chapter or chapter 17 of this title to the contrary,
+to the extent this section conflicts with another provision of this chapter or
+chapter 17 of this title, this section governs the determination of damages and
+costs owed to a property owner in an eminent domain proceeding initiated by an
+airport authority pursuant to § 42-3-109, § 42-4-108, or § 42-5-108.
+(b) As used in this section:
+(1) "Airport authority" means an airport authority created pursuant to title
+42, chapters 3-5; and
+(2) "Eminent domain" means the authority conferred upon an airport
+authority to condemn and take, in whole or in part, the private property of
+another, so long as the property is taken for a legitimate public use in accordance
+with the fifth and fourteenth amendments to the United States Constitution and
+Article I, § 21 of the Constitution of Tennessee.
+(c) Damages based on value of real property.
+(1) In an action brought by an airport authority to acquire real property by
+eminent domain, the property owner of the subject real property shall select a
+certified property appraiser for purposes of assessing the value of the real
+property subject to condemnation.
+- 2 - 009758
+
+(2) If the court finds that a second appraisal is needed to accurately and
+equitably determine the value of the real property subject to condemnation, then
+the court shall appoint an independent certified property appraiser to assess the
+value of the real property.
+(3) Each appraisal must be based on comparable properties that have
+not been depressed in value due to airport authority acquisitions in proximity to
+the real property that the airport authority is seeking to acquire.
+(4) The court shall order that the costs associated with each appraisal
+used in the condemnation proceeding be paid by the airport authority seeking to
+acquire the real property.
+(5) In determining the value of the subject real property for purposes of
+calculating damages, the jury shall base the value of the real property on the
+average assessed value of the certified appraisals admitted in the proceeding
+and multiplying the average assessed value by one hundred fifty percent (150%).
+(d) Damages based on relocation costs.
+(1) In an action brought by an airport authority to acquire real property by
+eminent domain, the jury shall award reasonable damages to the real property
+owner based on the costs to relocate the owner's personal property, if any, that is
+located at the subject real property, including, but not limited to, residential and
+business personal property and business inventory and fixtures.
+(2) To establish such damages, the property owner shall submit not less
+than three (3) competitive estimates from contractors to relocate the owner's
+personal property.
+- 3 - 009758
+
+(3) The court shall order that the costs, if any, associated with obtaining
+each estimate for the relocation of personal property be paid by the airport
+authority seeking to acquire the real property.
+(e) Damages based on lost wages and profits.
+(1) In an action brought by an airport authority to acquire real property by
+eminent domain, if the owner of the real property operated a business on the real
+property, then the owner of the subject real property may petition the court for
+consideration of an award of reasonable damages based on lost wages and
+profits, if any, as the result of the relocation of the business.
+(2) If the court approves the owner's petition, then the jury may consider
+testimony, sworn affidavits, business records, and other evidence at the
+discretion of the court.
+(f) Damages based on increased interest rate.
+(1) In an action brought by an airport authority to acquire real property by
+eminent domain, the owner of the subject real property may petition the court for
+consideration of an award of reasonable damages based on the difference
+between the owner's interest rate for a residential or business loan, if any, in
+existence at the time of the initiation of the condemnation proceedings and the
+interest rate for a new residential or business loan as a result of the relocation of
+the property owner's residence or business.
+(2) If the court approves the owner's petition, then the jury must consider
+not less than three (3) interest rate estimates or actuarial damage assessments
+from or prepared by financial institutions or other qualified financial experts
+provided by the owner of the subject real property and any other evidence at the
+discretion of the court.
+- 4 - 009758
+
+(3) The jury may base an award of damages only on the estimated
+increase in amortized interest over the remaining term of the owner's residential
+or business loan in existence at the time the condemnation action was initiated.
+(4) The court may award the costs of any estimates or assessments to
+the owner of the subject real property.
+(g) Attorneys' fees and costs and other damages.
+(1) In an action brought by an airport authority to acquire real property by
+eminent domain, the court shall award reasonable attorneys' fees and costs to
+the owner of the subject real property if the subject real property cannot be
+acquired by the airport authority or if the airport authority withdraws its petition to
+acquire the real property.
+(2) The court may award additional damages to the owner of the subject
+real property if the court finds that the award of damages calculated in
+accordance with this section is insufficient to make the owner of the real property
+financially whole as the result of the property acquisition by eminent domain.
+(h) A court shall not finalize an order authorizing an airport authority to take
+ownership and possession of real property by eminent domain until the airport has paid
+all damages and costs in accordance with this section.
+SECTION 3. Tennessee Code Annotated, Section 42-3-109, is amended by deleting the
+third sentence and substituting:
+An authority that acquires property by eminent domain in accordance with this section
+shall pay damages and costs in accordance with SECTION 2.
+SECTION 4. Tennessee Code Annotated, Section 42-4-108, is amended by deleting the
+third sentence in subsection (b) and substituting:
+- 5 - 009758
+
+An authority that acquires property by eminent domain in accordance with this
+subsection (b) shall pay damages and costs in accordance with SECTION 2.
+SECTION 5. Tennessee Code Annotated, Section 42-5-108, is amended by deleting
+subsection (b) and substituting:
+(b) A municipality that acquires property by eminent domain in accordance with
+this chapter shall pay damages and costs in accordance with SECTION 2.
+SECTION 6. The subsection headings in this act are for reference purposes only and do
+not constitute a part of the law enacted by this act. However, the Tennessee Code Commission
+is requested to include the subsection headings in any compilation or publication containing this
+act.
+SECTION 7. This act takes effect July 1, 2026, the public welfare requiring it.
+- 6 - 009758
+
+[DELETED: W5 W5  ,rKWW]
+[DELETED:  -0SS((((((((]
+[DELETED:  -0(((((((]
+[DELETED:  -0(((((((]
+[DELETED:  -0((((((SS]
+[DELETED:  -0S(SS]
