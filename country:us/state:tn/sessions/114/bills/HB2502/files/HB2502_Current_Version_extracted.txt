@@ -1,0 +1,159 @@
+Title: SENATE BILL 2166
+Official Title: SENATE BILL 2166
+Number of Sections: 5
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+By Watson
+HOUSE BILL 2502
+By Sexton
+AN ACT to amend Tennessee Code Annotated, Title 4;
+Title 38; Title 39; Title 45; Title 47; Title 49 and
+Title 67, relative to money transmission.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 67-6-205(c), is amended by adding
+the following as a new subdivision (10):
+(10) The transmitting of money from a location originating in this state to a
+location outside of the United States or its territories by an entity licensed under the
+Money Transmission Modernization Act, compiled in title 45, chapter 7;
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 67-6-205(b), is amended by deleting
+"Notwithstanding any other provision of law to the contrary," and substituting "Except as
+provided in subsection (d) and notwithstanding any other law to the contrary,".
+
+Section 4:
+SECTION 3. Tennessee Code Annotated, Section 67-6-205, is amended by adding the
+following as a new subsection (d):
+(d) Notwithstanding § 67-6-103 or any other law to the contrary, revenues
+generated from the tax imposed by subdivision (c)(10):
+(1) Must be deposited in a special account in the state general fund to be
+known as the international money transmission tax fund. Revenues must be
+retained in the account until such time as the revenues are unencumbered.
+Revenues are unencumbered on July 1 of each year after the expiration of the
+refund application period described in subdivision (d)(3);
+HB2502
+012314
+- 1 -
+(2) May be invested by the state treasurer pursuant to title 9, chapter 4,
+part 6 for the sole benefit of the international money transmission tax fund while
+encumbered;
+(3) Are subject to refund upon application made by the individual who
+paid the tax imposed by subdivision (c)(10); provided, that the application must
+be submitted to the department between June 1 and June 30 and include the
+applicant's social security number or taxpayer identification number in addition to
+proof of the taxes paid and any additional information the department may
+require; and
+(4) Must be allocated and distributed on July 1 of each year as follows:
+(A) Twenty-five percent (25%) to the state general fund;
+(B) Twenty-five percent (25%) to all counties and metropolitan
+governments in this state in proportion as the population of each county
+or metropolitan government bears to the aggregate population of the
+state, according to the latest federal census, to be used for capital
+improvement projects and infrastructure expenditures;
+(C) Twenty-five percent (25%) to the K-12 education teacher
+compensation fund that is hereby created in the state treasury to be:
+(i) Used to provide a pool of funds for employee salary
+increases or bonuses for teachers;
+(ii) Allocated each August 1 to local education agencies
+throughout the state in accordance with rules promulgated by the
+department of education; and
+- 2 - 012314
+(iii) Allocated by each local education agency for salary
+increases or bonuses for teachers according to the agency's
+salary and compensation schedules or bonus program; and
+(D) Twenty-five percent (25%) to the Tennessee peace officer
+standards and training commission to provide an additional pay
+supplement to law enforcement officers who, pursuant to § 38-8-111,
+complete in-service training requirements and receive the corresponding
+pay supplement provided by that statute.
+
+Section 5:
+SECTION 4. For purposes of promulgating rules and forms, this act takes effect upon
+becoming a law, the public welfare requiring it. For all other purposes, this act takes effect
+January 1, 2027, the public welfare requiring it.
+- 3 - 012314
+[DELETED: S(SS((]
+[DELETED:  -0((((((((]
+[DELETED:  -0((S]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 2166
+By Watson
+HOUSE BILL 2502
+By Sexton
+AN ACT to amend Tennessee Code Annotated, Title 4;
+Title 38; Title 39; Title 45; Title 47; Title 49 and
+Title 67, relative to money transmission.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 67-6-205(c), is amended by adding
+the following as a new subdivision (10):
+(10) The transmitting of money from a location originating in this state to a
+location outside of the United States or its territories by an entity licensed under the
+Money Transmission Modernization Act, compiled in title 45, chapter 7;
+SECTION 2. Tennessee Code Annotated, Section 67-6-205(b), is amended by deleting
+"Notwithstanding any other provision of law to the contrary," and substituting "Except as
+provided in subsection (d) and notwithstanding any other law to the contrary,".
+SECTION 3. Tennessee Code Annotated, Section 67-6-205, is amended by adding the
+following as a new subsection (d):
+(d) Notwithstanding § 67-6-103 or any other law to the contrary, revenues
+generated from the tax imposed by subdivision (c)(10):
+(1) Must be deposited in a special account in the state general fund to be
+known as the international money transmission tax fund. Revenues must be
+retained in the account until such time as the revenues are unencumbered.
+Revenues are unencumbered on July 1 of each year after the expiration of the
+refund application period described in subdivision (d)(3);
+HB2502
+012314
+- 1 -
+
+(2) May be invested by the state treasurer pursuant to title 9, chapter 4,
+part 6 for the sole benefit of the international money transmission tax fund while
+encumbered;
+(3) Are subject to refund upon application made by the individual who
+paid the tax imposed by subdivision (c)(10); provided, that the application must
+be submitted to the department between June 1 and June 30 and include the
+applicant's social security number or taxpayer identification number in addition to
+proof of the taxes paid and any additional information the department may
+require; and
+(4) Must be allocated and distributed on July 1 of each year as follows:
+(A) Twenty-five percent (25%) to the state general fund;
+(B) Twenty-five percent (25%) to all counties and metropolitan
+governments in this state in proportion as the population of each county
+or metropolitan government bears to the aggregate population of the
+state, according to the latest federal census, to be used for capital
+improvement projects and infrastructure expenditures;
+(C) Twenty-five percent (25%) to the K-12 education teacher
+compensation fund that is hereby created in the state treasury to be:
+(i) Used to provide a pool of funds for employee salary
+increases or bonuses for teachers;
+(ii) Allocated each August 1 to local education agencies
+throughout the state in accordance with rules promulgated by the
+department of education; and
+- 2 - 012314
+
+(iii) Allocated by each local education agency for salary
+increases or bonuses for teachers according to the agency's
+salary and compensation schedules or bonus program; and
+(D) Twenty-five percent (25%) to the Tennessee peace officer
+standards and training commission to provide an additional pay
+supplement to law enforcement officers who, pursuant to § 38-8-111,
+complete in-service training requirements and receive the corresponding
+pay supplement provided by that statute.
+SECTION 4. For purposes of promulgating rules and forms, this act takes effect upon
+becoming a law, the public welfare requiring it. For all other purposes, this act takes effect
+January 1, 2027, the public welfare requiring it.
+- 3 - 012314
+
+[DELETED: S(SS((]
+[DELETED:  -0((((((((]
+[DELETED:  -0((S]

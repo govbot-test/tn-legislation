@@ -1,0 +1,157 @@
+Title: HOUSE BILL 2529
+Official Title: HOUSE BILL 2529
+Number of Sections: 9
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+By Lamberth
+SENATE BILL 1866
+By Johnson
+AN ACT to amend Tennessee Code Annotated, Title 48,
+Chapter 1, Part 1 and Title 49, Chapter 4, Part 1,
+relative to matters regulated by the department of
+commerce and insurance.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 48-1-109(c), is amended by adding
+the following as a new subdivision:
+(4) The person is exempted from the definition of an investment adviser or
+investment adviser representative by rule adopted by the commissioner pursuant to §
+48-1-102(13)(F) or § 48-1-102(14)(B).
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 48-1-111(d)(4), is amended by
+deleting "in this subdivision (d)(4)" and substituting "in subdivision (d)(3)".
+
+Section 4:
+SECTION 3. Tennessee Code Annotated, Section 48-1-119(b), is amended by adding
+the following language at the end of the subsection:
+Upon request of the commissioner, the chancery court shall appoint the commissioner
+as the receiver or the conservator for the defendant or the defendant's assets.
+
+Section 5:
+SECTION 4. Tennessee Code Annotated, Section 48-1-122(h), is amended by deleting
+the subsection and substituting:
+(h) A private right of action brought by any person under this section must not be
+maintained unless commenced before the expiration of five (5) years after the act or
+transaction constituting the violation or the expiration of two (2) years after the discovery
+of the facts constituting the violation, or after such discovery should have been made by
+the exercise of reasonable diligence, whichever expires first.
+SB1866
+011707
+- 1 -
+
+Section 6:
+SECTION 5. Tennessee Code Annotated, Section 48-1-128, is amended by deleting the
+
+Section 7:
+section and substituting:
+(a) The requirements of subsection (b) apply to the following:
+(1) A broker-dealer or an agent with a principal place of business, branch
+office, or other business location in this state; or
+(2) A broker-dealer or an agent previously registered in this state, with a
+principal place of business, branch office, or other business location in this state
+at the time during which the underlying customer dispute being sought to be
+expunged occurred.
+(b) Prior to initiating a proceeding described in subdivision (b)(1)(A) or (b)(1)(B),
+a person described in subdivision (a)(1) or (a)(2) must:
+(1) Provide the department with written notice at least sixty (60) days
+prior to:
+(A) Filing to vacate, modify, or confirm an arbitration award
+relating to expungement of customer dispute information from the Central
+Registration Depository (CRD) system; or
+(B) Filing an action in a court of competent jurisdiction to obtain
+expungement of customer dispute information from the CRD system; and
+(2) Name the department as a party to the proceeding described in
+subdivision (b)(1)(A) or (b)(1)(B).
+(c) Notwithstanding subdivision (b)(2), upon receiving the written notice required
+by subdivision (b)(1), the commissioner may, in the commissioner's discretion, waive the
+obligation of a person described in subdivision (a)(1) or (a)(2) to name the department
+as a party pursuant to a proceeding described in subdivision (b)(1)(A) or (b)(1)(B).
+- 2 - 011707
+
+Section 8:
+SECTION 6. Tennessee Code Annotated, Title 49, Chapter 4, Part 1, is amended by
+deleting the part.
+
+Section 9:
+SECTION 7. This act takes effect upon becoming a law, the public welfare requiring it.
+- 3 - 011707
+[DELETED: SSSS]
+[DELETED:  -0S]
+[DELETED:  -0SS]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 2529
+By Lamberth
+SENATE BILL 1866
+By Johnson
+AN ACT to amend Tennessee Code Annotated, Title 48,
+Chapter 1, Part 1 and Title 49, Chapter 4, Part 1,
+relative to matters regulated by the department of
+commerce and insurance.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 48-1-109(c), is amended by adding
+the following as a new subdivision:
+(4) The person is exempted from the definition of an investment adviser or
+investment adviser representative by rule adopted by the commissioner pursuant to §
+48-1-102(13)(F) or § 48-1-102(14)(B).
+SECTION 2. Tennessee Code Annotated, Section 48-1-111(d)(4), is amended by
+deleting "in this subdivision (d)(4)" and substituting "in subdivision (d)(3)".
+SECTION 3. Tennessee Code Annotated, Section 48-1-119(b), is amended by adding
+the following language at the end of the subsection:
+Upon request of the commissioner, the chancery court shall appoint the commissioner
+as the receiver or the conservator for the defendant or the defendant's assets.
+SECTION 4. Tennessee Code Annotated, Section 48-1-122(h), is amended by deleting
+the subsection and substituting:
+(h) A private right of action brought by any person under this section must not be
+maintained unless commenced before the expiration of five (5) years after the act or
+transaction constituting the violation or the expiration of two (2) years after the discovery
+of the facts constituting the violation, or after such discovery should have been made by
+the exercise of reasonable diligence, whichever expires first.
+SB1866
+011707
+- 1 -
+
+SECTION 5. Tennessee Code Annotated, Section 48-1-128, is amended by deleting the
+section and substituting:
+(a) The requirements of subsection (b) apply to the following:
+(1) A broker-dealer or an agent with a principal place of business, branch
+office, or other business location in this state; or
+(2) A broker-dealer or an agent previously registered in this state, with a
+principal place of business, branch office, or other business location in this state
+at the time during which the underlying customer dispute being sought to be
+expunged occurred.
+(b) Prior to initiating a proceeding described in subdivision (b)(1)(A) or (b)(1)(B),
+a person described in subdivision (a)(1) or (a)(2) must:
+(1) Provide the department with written notice at least sixty (60) days
+prior to:
+(A) Filing to vacate, modify, or confirm an arbitration award
+relating to expungement of customer dispute information from the Central
+Registration Depository (CRD) system; or
+(B) Filing an action in a court of competent jurisdiction to obtain
+expungement of customer dispute information from the CRD system; and
+(2) Name the department as a party to the proceeding described in
+subdivision (b)(1)(A) or (b)(1)(B).
+(c) Notwithstanding subdivision (b)(2), upon receiving the written notice required
+by subdivision (b)(1), the commissioner may, in the commissioner's discretion, waive the
+obligation of a person described in subdivision (a)(1) or (a)(2) to name the department
+as a party pursuant to a proceeding described in subdivision (b)(1)(A) or (b)(1)(B).
+- 2 - 011707
+
+SECTION 6. Tennessee Code Annotated, Title 49, Chapter 4, Part 1, is amended by
+deleting the part.
+SECTION 7. This act takes effect upon becoming a law, the public welfare requiring it.
+- 3 - 011707
+
+[DELETED: SSSS]
+[DELETED:  -0S]
+[DELETED:  -0SS]

@@ -1,0 +1,98 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+HOUSE JOINT RESOLUTION 1145
+By Butler
+A RESOLUTION to honor and recognize American Legion Post
+137 of Jamestown on the occasion of its 100th
+anniversary.
+WHEREAS, the American Legion was founded in 1919 by veterans of the Great War,
+dedicated to strengthening communities, supporting fellow servicemembers, and upholding the
+values of American patriotism; and
+WHEREAS, in May of 1926, Sergeant Alvin C. York—one of Tennessee's most
+distinguished sons and one of the most decorated American soldiers of World War I—led the
+establishment of American Legion Post 137 in Jamestown, ensuring that the veterans of
+Fentress County would have a place of fellowship, purpose, and continued service; and
+WHEREAS, for one hundred years, Post 137 has remained a steadfast pillar of the
+Upper Cumberland region, honoring veterans, supporting military families, mentoring youth, and
+strengthening civic life through programs such as Boys' State, community service initiatives, and
+patriotic observances; and
+WHEREAS, the members of Post 137, past and present, have embodied the Legion's
+four pillars—Veterans Affairs & Rehabilitation, National Security, Americanism, and Children
+and Youth—through a century of unwavering dedication; and
+WHEREAS, the legacy of Sergeant Alvin C. York continues to inspire the Post's mission,
+reminding Tennesseans of the enduring courage, humility, and service that define our State's
+veterans; and
+WHEREAS, May 2026 marks the 100th anniversary of American Legion Post 137, a
+milestone that reflects not only the longevity of the organization but also the strength of the
+community it serves; now, therefore,
+HJR1145
+015536
+- 1 -
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE SENATE
+CONCURRING, that we honor and commend the members of American Legion Post 137 of
+Jamestown on the occasion of their 100th anniversary as they celebrate the month of May 2026
+as "American Legion Post 137 Centennial Month."
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy and upon proper request made to
+the appropriate clerk, the language appearing immediately following the State seal appear
+without House or Senate designation.
+- 2 - 015536
+[DELETED: 0WWWWWW0 ]
+[DELETED:  -0B0 B]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+HOUSE JOINT RESOLUTION 1145
+By Butler
+A RESOLUTION to honor and recognize American Legion Post
+137 of Jamestown on the occasion of its 100th
+anniversary.
+WHEREAS, the American Legion was founded in 1919 by veterans of the Great War,
+dedicated to strengthening communities, supporting fellow servicemembers, and upholding the
+values of American patriotism; and
+WHEREAS, in May of 1926, Sergeant Alvin C. York—one of Tennessee's most
+distinguished sons and one of the most decorated American soldiers of World War I—led the
+establishment of American Legion Post 137 in Jamestown, ensuring that the veterans of
+Fentress County would have a place of fellowship, purpose, and continued service; and
+WHEREAS, for one hundred years, Post 137 has remained a steadfast pillar of the
+Upper Cumberland region, honoring veterans, supporting military families, mentoring youth, and
+strengthening civic life through programs such as Boys' State, community service initiatives, and
+patriotic observances; and
+WHEREAS, the members of Post 137, past and present, have embodied the Legion's
+four pillars—Veterans Affairs & Rehabilitation, National Security, Americanism, and Children
+and Youth—through a century of unwavering dedication; and
+WHEREAS, the legacy of Sergeant Alvin C. York continues to inspire the Post's mission,
+reminding Tennesseans of the enduring courage, humility, and service that define our State's
+veterans; and
+WHEREAS, May 2026 marks the 100th anniversary of American Legion Post 137, a
+milestone that reflects not only the longevity of the organization but also the strength of the
+community it serves; now, therefore,
+HJR1145
+015536
+- 1 -
+
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE SENATE
+CONCURRING, that we honor and commend the members of American Legion Post 137 of
+Jamestown on the occasion of their 100th anniversary as they celebrate the month of May 2026
+as "American Legion Post 137 Centennial Month."
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy and upon proper request made to
+the appropriate clerk, the language appearing immediately following the State seal appear
+without House or Senate designation.
+- 2 - 015536
+
+[DELETED: 0WWWWWW0 ]
+[DELETED:  -0B0 B]

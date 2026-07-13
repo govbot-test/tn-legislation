@@ -1,0 +1,411 @@
+Title: AMEND S e n ate Bill No. 564* House Bill No. 803
+Official Title: AMEND S e n ate Bill No. 564* House Bill No. 803
+Number of Sections: 6
+Source: versions - Amendment HA0621
+Media Type: application/pdf
+Strikethrough Detection: 7 sections found
+
+================================================================================
+
+Section 1:
+House Agriculture & Natural Resources 1
+Amendment No. 1 to HB0803
+Todd
+Signature of Sponsor
+by deleting all language after the enacting clause and substituting:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Title 68, Chapter 221, Part 1, is amended by
+adding the following as new sections:
+68-221-109. Expiration of approved engineering plans – Extensions.
+(a) This section applies to engineering reports, design documents, plans, and
+specifications approved for:
+(1) Sewage works construction projects under title 68, chapter 221, part
+2; and
+(2) Wastewater facilities requiring plan approvals associated with permits
+under title 69, chapter 3, for decentralized systems using land application.
+(b) Approval of engineering plans and specifications by the commissioner
+expires twelve (12) months from the date of issuance unless:
+(1) Construction has commenced; or
+(2) The owner obtained an extension under subsection (c).
+(c) Upon receipt of a written request prior to expiration of an existing approval,
+the department may grant extensions in increments not exceeding twelve (12) months,
+up to a cumulative maximum of sixty (60) months from the original approval date. The
+department may condition extensions on confirmation that no material revisions, as
+determined by the department by rule, were made to the original submittal.
+HA0621
+015451
+- 1 -
+(d) If material changes in design, capacity, treatment process, or site conditions
+occur, the owner shall submit revised plans, engineering reports, and specifications to
+the department for review and approval.
+(e) The department shall maintain an electronic tracking system for plan
+approvals and extensions.
+(f) Construction of a decentralized wastewater system using land application
+shall be completed within sixty (60) months of the initial engineering plan approval. If
+construction is not completed within sixty (60) months, the owner shall submit new plans,
+engineering reports, and specifications for review and approval. No decentralized
+wastewater system using land application may commence operation until construction
+has been completed in accordance with approved plans.
+68-221-110. Design and construction criteria for decentralized wastewater
+treatment systems using land application.
+No later than July 31, 2027, the commissioner shall promulgate rules applicable
+to the design and construction of decentralized wastewater treatment systems using
+land application. These rules apply to permits issued pursuant to § 69-3-108(b)(2) and
+(c) and plan approvals issued pursuant to § 68-221-102 for decentralized wastewater
+treatment systems using land application. At a minimum, the rules must define material
+revisions for purposes of § 68-221-109(c), address proper siting, soil characterization,
+soil mapping, hydraulic loading, redundancy and reserve area requirements, and long-
+term performance standards to ensure adequate protection of surface waters,
+groundwater, and public health.
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Title 68, Chapter 221, is amended by adding
+the following as a new part:
+68-221-1401.
+As used in this part:
+- 2 - 015451
+(1) "Department'' means the department of environment and
+conservation;
+(2) "Treatment works" means any devices and systems used in the
+storage, treatment, recycling, and reclamation of sewage or industrial wastes of a
+liquid nature to restore and maintain the chemical, physical, and biological
+integrity of the state's waters, or any devices and systems used in the treatment,
+collection, and land application of wastewater, including intercepting sewers,
+sewage collection systems, wastewater facilities, wastewater transmission lines,
+pumping, power, and other equipment, and their appurtenances, extensions,
+improvements, remodeling, additions, and alterations thereof; elements essential
+to provide a reliable recycled supply, such as standby treatment units and clear
+well facilities; or other such works; and
+(3) "Utility" means:
+(A) The wastewater system of a county, metropolitan
+government, or municipality;
+(B) A treatment authority created pursuant to:
+(i) The Water and Wastewater Treatment Authority Act,
+compiled in part 6 of this chapter;
+(ii) The Regional Water and Wastewater Treatment
+Authority Act, compiled in part 13 of this chapter; or
+(iii) Another public or private act of the general assembly
+that operates a wastewater facility; or
+(C) The wastewater service system of an energy or utility
+authority created pursuant to the Municipal Energy Authority Act,
+compiled in title 7, chapter 36, or a private act of the general assembly.
+68-221-1402.
+- 3 - 015451
+(a) If the developer of a subdivision or other neighborhood proposes to construct
+a treatment works for use by the subdivision or neighborhood, and the design and
+construction of the treatment works has been approved by the department, then the
+developer shall submit an application to the utility serving the area in which the system is
+located requesting that the utility:
+(1) Agree to assume operational responsibility and ownership of the
+treatment works in writing within thirty (30) days of the receipt of the application
+by the utility and approve the engineered plans for the treatment works within
+ninety (90) days; or
+(2)
+(A) Refuse to own and operate the treatment works. If the utility
+refuses to own and operate the treatment works pursuant to this
+subdivision (a)(2), then the utility shall provide written notice of the refusal
+to:
+(i) The developer within thirty (30) days of receipt of the
+application. A utility's failure to respond to the application within
+thirty (30) days of receipt is a refusal to own or operate the
+treatment works; and
+(ii) The Tennessee board of utility regulation, created by §
+7-82-701, within seven (7) business days of the refusal. Upon
+providing notice pursuant to this subdivision (a)(2)(A)(ii), the utility
+is released from any future operational responsibility and
+ownership rights for the treatment works, unless the utility
+subsequently chooses to assume operational responsibilities and
+ownership rights pursuant to subsection (c).
+(B) A utility that refuses to own and operate a treatment works
+pursuant to this subdivision (a)(2) shall not restrict the availability of
+- 4 - 015451
+services provided by the utility based on the utility's refusal to own or
+operate the treatment works.
+(b) If a developer receives written notice of the utility's refusal to own and
+operate the treatment works under subdivision (a)(2)(A)(i), or if the utility fails to respond
+to the application within thirty (30) days of receipt, then the developer may contract with
+another utility for ownership and operation of the treatment works.
+(c) Notwithstanding subsection (b), or any contract entered into between the
+developer and another utility, the utility to which the initial application for approval was
+submitted may negotiate with the current owner and operator of the treatment works to
+allow the utility to assume operational responsibilities and ownership rights to the
+treatment works for up to two (2) years after the date that the utility received the
+application under subsection (a).
+68-221-1403.
+Upon at least fifty percent (50%) of the units within a development being issued a
+certificate of use and occupancy:
+(1) The local government for the jurisdiction where the treatment works is
+or will be installed shall require the developer to obtain and file a reasonable
+performance bond for the first two (2) years that the treatment works is in
+operation, in an amount to be determined by such local government when the
+developer submits an application under § 68-221-1402(a). The amount of the
+bond required under this subdivision (1) must be one hundred percent (100%) of
+the total replacement cost; and
+(2) The local government for the jurisdiction where the treatment works is
+installed shall require the operator of the treatment works to obtain and file a
+reasonable performance bond for the third through tenth years that the treatment
+works is in operation. The amount of the bond required under this subdivision (2)
+must be fifty percent (50%) of the total replacement cost.
+- 5 - 015451
+68-221-1404.
+(a) All treatment works constructed under this part must:
+(1) Comply with applicable federal and state laws, rules, and regulations;
+and
+(2) Be systems approved by the department and installed in accordance
+with approved design and construction plans.
+(b) Prior to the transfer of ownership or operation of a treatment works, a utility
+and developers must provide the department with documentation of regulatory
+compliance and operational readiness, as specified by the department.
+(c) In addition to the requirements of subsections (a) and (b), prior to the transfer
+of ownership or operation of a treatment works, a utility must, as determined by the
+department:
+(1) Comply with all state and federal regulatory licenses and certificates
+in order to perform the function of the utility;
+(2) Be current on all required filings, fees, and bonds related to the
+treatment works; and
+(3) Demonstrate compliance with environmental and operational
+standards related to the function of the utility.
+(d) A developer shall demonstrate that the treatment works have the ability to
+meet or exceed the greater of the following at the time of permit approval:
+(1) The department's published minimum treatment limit standards; or
+(2) The actual treatment limits being delivered by a similarly situated
+system in the same operating utility.
+
+Section 4:
+SECTION 3. Tennessee Code Annotated, Section 69-3-108, is amended by adding the
+following as a new, appropriately designated subsection:
+(1) The commissioner shall not issue a new permit, or modify an existing permit,
+to expand capacity or scope of decentralized wastewater systems using land application,
+- 6 - 015451
+if the commissioner determines the applicant is not substantially in compliance with an
+order issued under § 69-3-109, § 69-3-115, or § 69-3-116.
+(2) The commissioner may determine an applicant is not in compliance with an
+order, for purposes of subdivision ( )(1), if:
+(A) An order has been issued, but is not yet final, including by reason of
+appeal;
+(B) A deadline for corrective action in a final order passed without
+documented completion;
+(C) Civil penalties or damages assessed in a final order have become
+due and have not been paid; or
+(D) The applicant has not completed requirements of a final order other
+than those described in subdivisions ( )(2)(A) and (B).
+
+Section 5:
+SECTION 4. The headings in this act are for reference purposes only and do not
+constitute a part of the law enacted by this act. However, the Tennessee Code Commission is
+requested to include the headings in any compilation or publication containing this act.
+
+Section 6:
+SECTION 5. This act takes effect July 1, 2026, the public welfare requiring it, and
+applies to conduct or construction occurring on or after that date.
+- 7 - 015451
+[DELETED:  a HS6(((((((]
+[DELETED:  -0(((6NS6A]
+[DELETED:  -0(((((((((6]
+[DELETED:  -0(((((((]
+[DELETED:  -0((6U((]
+[DELETED:  -06(((((((((((S(]
+[DELETED:  -0(((((SS]
+
+
+================================================================================
+
+Raw Text:
+House Agriculture & Natural Resources 1
+Amendment No. 1 to HB0803
+Todd
+Signature of Sponsor
+AMEND S e n ate Bill No. 564* House Bill No. 803
+by deleting all language after the enacting clause and substituting:
+SECTION 1. Tennessee Code Annotated, Title 68, Chapter 221, Part 1, is amended by
+adding the following as new sections:
+68-221-109. Expiration of approved engineering plans – Extensions.
+(a) This section applies to engineering reports, design documents, plans, and
+specifications approved for:
+(1) Sewage works construction projects under title 68, chapter 221, part
+2; and
+(2) Wastewater facilities requiring plan approvals associated with permits
+under title 69, chapter 3, for decentralized systems using land application.
+(b) Approval of engineering plans and specifications by the commissioner
+expires twelve (12) months from the date of issuance unless:
+(1) Construction has commenced; or
+(2) The owner obtained an extension under subsection (c).
+(c) Upon receipt of a written request prior to expiration of an existing approval,
+the department may grant extensions in increments not exceeding twelve (12) months,
+up to a cumulative maximum of sixty (60) months from the original approval date. The
+department may condition extensions on confirmation that no material revisions, as
+determined by the department by rule, were made to the original submittal.
+HA0621
+015451
+- 1 -
+
+(d) If material changes in design, capacity, treatment process, or site conditions
+occur, the owner shall submit revised plans, engineering reports, and specifications to
+the department for review and approval.
+(e) The department shall maintain an electronic tracking system for plan
+approvals and extensions.
+(f) Construction of a decentralized wastewater system using land application
+shall be completed within sixty (60) months of the initial engineering plan approval. If
+construction is not completed within sixty (60) months, the owner shall submit new plans,
+engineering reports, and specifications for review and approval. No decentralized
+wastewater system using land application may commence operation until construction
+has been completed in accordance with approved plans.
+68-221-110. Design and construction criteria for decentralized wastewater
+treatment systems using land application.
+No later than July 31, 2027, the commissioner shall promulgate rules applicable
+to the design and construction of decentralized wastewater treatment systems using
+land application. These rules apply to permits issued pursuant to § 69-3-108(b)(2) and
+(c) and plan approvals issued pursuant to § 68-221-102 for decentralized wastewater
+treatment systems using land application. At a minimum, the rules must define material
+revisions for purposes of § 68-221-109(c), address proper siting, soil characterization,
+soil mapping, hydraulic loading, redundancy and reserve area requirements, and long-
+term performance standards to ensure adequate protection of surface waters,
+groundwater, and public health.
+SECTION 2. Tennessee Code Annotated, Title 68, Chapter 221, is amended by adding
+the following as a new part:
+68-221-1401.
+As used in this part:
+- 2 - 015451
+
+(1) "Department'' means the department of environment and
+conservation;
+(2) "Treatment works" means any devices and systems used in the
+storage, treatment, recycling, and reclamation of sewage or industrial wastes of a
+liquid nature to restore and maintain the chemical, physical, and biological
+integrity of the state's waters, or any devices and systems used in the treatment,
+collection, and land application of wastewater, including intercepting sewers,
+sewage collection systems, wastewater facilities, wastewater transmission lines,
+pumping, power, and other equipment, and their appurtenances, extensions,
+improvements, remodeling, additions, and alterations thereof; elements essential
+to provide a reliable recycled supply, such as standby treatment units and clear
+well facilities; or other such works; and
+(3) "Utility" means:
+(A) The wastewater system of a county, metropolitan
+government, or municipality;
+(B) A treatment authority created pursuant to:
+(i) The Water and Wastewater Treatment Authority Act,
+compiled in part 6 of this chapter;
+(ii) The Regional Water and Wastewater Treatment
+Authority Act, compiled in part 13 of this chapter; or
+(iii) Another public or private act of the general assembly
+that operates a wastewater facility; or
+(C) The wastewater service system of an energy or utility
+authority created pursuant to the Municipal Energy Authority Act,
+compiled in title 7, chapter 36, or a private act of the general assembly.
+68-221-1402.
+- 3 - 015451
+
+(a) If the developer of a subdivision or other neighborhood proposes to construct
+a treatment works for use by the subdivision or neighborhood, and the design and
+construction of the treatment works has been approved by the department, then the
+developer shall submit an application to the utility serving the area in which the system is
+located requesting that the utility:
+(1) Agree to assume operational responsibility and ownership of the
+treatment works in writing within thirty (30) days of the receipt of the application
+by the utility and approve the engineered plans for the treatment works within
+ninety (90) days; or
+(2)
+(A) Refuse to own and operate the treatment works. If the utility
+refuses to own and operate the treatment works pursuant to this
+subdivision (a)(2), then the utility shall provide written notice of the refusal
+to:
+(i) The developer within thirty (30) days of receipt of the
+application. A utility's failure to respond to the application within
+thirty (30) days of receipt is a refusal to own or operate the
+treatment works; and
+(ii) The Tennessee board of utility regulation, created by §
+7-82-701, within seven (7) business days of the refusal. Upon
+providing notice pursuant to this subdivision (a)(2)(A)(ii), the utility
+is released from any future operational responsibility and
+ownership rights for the treatment works, unless the utility
+subsequently chooses to assume operational responsibilities and
+ownership rights pursuant to subsection (c).
+(B) A utility that refuses to own and operate a treatment works
+pursuant to this subdivision (a)(2) shall not restrict the availability of
+- 4 - 015451
+
+services provided by the utility based on the utility's refusal to own or
+operate the treatment works.
+(b) If a developer receives written notice of the utility's refusal to own and
+operate the treatment works under subdivision (a)(2)(A)(i), or if the utility fails to respond
+to the application within thirty (30) days of receipt, then the developer may contract with
+another utility for ownership and operation of the treatment works.
+(c) Notwithstanding subsection (b), or any contract entered into between the
+developer and another utility, the utility to which the initial application for approval was
+submitted may negotiate with the current owner and operator of the treatment works to
+allow the utility to assume operational responsibilities and ownership rights to the
+treatment works for up to two (2) years after the date that the utility received the
+application under subsection (a).
+68-221-1403.
+Upon at least fifty percent (50%) of the units within a development being issued a
+certificate of use and occupancy:
+(1) The local government for the jurisdiction where the treatment works is
+or will be installed shall require the developer to obtain and file a reasonable
+performance bond for the first two (2) years that the treatment works is in
+operation, in an amount to be determined by such local government when the
+developer submits an application under § 68-221-1402(a). The amount of the
+bond required under this subdivision (1) must be one hundred percent (100%) of
+the total replacement cost; and
+(2) The local government for the jurisdiction where the treatment works is
+installed shall require the operator of the treatment works to obtain and file a
+reasonable performance bond for the third through tenth years that the treatment
+works is in operation. The amount of the bond required under this subdivision (2)
+must be fifty percent (50%) of the total replacement cost.
+- 5 - 015451
+
+68-221-1404.
+(a) All treatment works constructed under this part must:
+(1) Comply with applicable federal and state laws, rules, and regulations;
+and
+(2) Be systems approved by the department and installed in accordance
+with approved design and construction plans.
+(b) Prior to the transfer of ownership or operation of a treatment works, a utility
+and developers must provide the department with documentation of regulatory
+compliance and operational readiness, as specified by the department.
+(c) In addition to the requirements of subsections (a) and (b), prior to the transfer
+of ownership or operation of a treatment works, a utility must, as determined by the
+department:
+(1) Comply with all state and federal regulatory licenses and certificates
+in order to perform the function of the utility;
+(2) Be current on all required filings, fees, and bonds related to the
+treatment works; and
+(3) Demonstrate compliance with environmental and operational
+standards related to the function of the utility.
+(d) A developer shall demonstrate that the treatment works have the ability to
+meet or exceed the greater of the following at the time of permit approval:
+(1) The department's published minimum treatment limit standards; or
+(2) The actual treatment limits being delivered by a similarly situated
+system in the same operating utility.
+SECTION 3. Tennessee Code Annotated, Section 69-3-108, is amended by adding the
+following as a new, appropriately designated subsection:
+(1) The commissioner shall not issue a new permit, or modify an existing permit,
+to expand capacity or scope of decentralized wastewater systems using land application,
+- 6 - 015451
+
+if the commissioner determines the applicant is not substantially in compliance with an
+order issued under § 69-3-109, § 69-3-115, or § 69-3-116.
+(2) The commissioner may determine an applicant is not in compliance with an
+order, for purposes of subdivision ( )(1), if:
+(A) An order has been issued, but is not yet final, including by reason of
+appeal;
+(B) A deadline for corrective action in a final order passed without
+documented completion;
+(C) Civil penalties or damages assessed in a final order have become
+due and have not been paid; or
+(D) The applicant has not completed requirements of a final order other
+than those described in subdivisions ( )(2)(A) and (B).
+SECTION 4. The headings in this act are for reference purposes only and do not
+constitute a part of the law enacted by this act. However, the Tennessee Code Commission is
+requested to include the headings in any compilation or publication containing this act.
+SECTION 5. This act takes effect July 1, 2026, the public welfare requiring it, and
+applies to conduct or construction occurring on or after that date.
+- 7 - 015451
+
+[DELETED:  a HS6(((((((]
+[DELETED:  -0(((6NS6A]
+[DELETED:  -0(((((((((6]
+[DELETED:  -0(((((((]
+[DELETED:  -0((6U((]
+[DELETED:  -06(((((((((((S(]
+[DELETED:  -0(((((SS]

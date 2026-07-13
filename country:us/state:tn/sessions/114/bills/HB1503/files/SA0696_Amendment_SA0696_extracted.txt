@@ -1,0 +1,199 @@
+Title: AMEND S e n ate Bill No. 1761 House Bill No. 1503*
+Official Title: AMEND S e n ate Bill No. 1761 House Bill No. 1503*
+Number of Sections: 12
+Source: versions - Amendment SA0696
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+Senate Energy, Ag., and Nat. Resources 1
+Amendment No. 1 to SB1761
+Reeves
+Signature of Sponsor
+by deleting all language after the enacting clause and substituting:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 57-7-102, is amended by deleting "or
+entity" wherever that language appears in subdivisions (7) and (16), and by deleting subdivision
+(9) and substituting:
+(9) "Supplier" means a person that:
+(A) Is located either inside or outside of this state and that sells HDCPs
+to wholesalers or to suppliers licensed under this chapter for repackaging or for
+resale, but not for consumption;
+(B) Manufactures hemp-derived cannabinoids or HDCPs in this state; or
+(C) Contracts for the manufacture of hemp-derived cannabinoids or
+HDCPs, whether located inside or outside of this state, and that sells finished,
+packaged HDCPs to wholesalers or to suppliers licensed under this chapter for
+resale and not for consumption;
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 57-7-103(a)(1), is amended by
+deleting "or entity".
+
+Section 4:
+SECTION 3. Tennessee Code Annotated, Section 57-7-106, is amended by deleting "or
+entity" wherever that language appears in subsection (a) and subdivisions (b)(1) and (f)(1).
+
+Section 5:
+SECTION 4. Tennessee Code Annotated, Section 57-7-106(f)(1)(A)(iv), is amended by
+deleting "the name of the person legally responsible for each applicant's operations," and
+substituting "each applicant's".
+SA0696
+015308
+- 1 -
+
+Section 6:
+SECTION 5. Tennessee Code Annotated, Section 57-7-106(f)(1)(D), is amended by
+deleting "With respect to the person legally responsible for the management of the applicant's
+operations, submit" and substituting "Submit".
+
+Section 7:
+SECTION 6. Tennessee Code Annotated, Section 57-7-110(a)(1)(C)(ii), is amended by
+deleting the subdivision and substituting:
+(ii) A conspicuous warning statement having a minimum font size of six-point
+font concerning the risk of impairment from consumption of the product, keeping the
+product out of reach of children, and other warning information as required by rule of the
+commission;
+
+Section 8:
+SECTION 7. Tennessee Code Annotated, Section 57-7-110(a)(1)(C)(vi), is amended by
+deleting the subdivision and substituting:
+(vi)
+(a) A batch number and a quick response (QR) code that can be
+scanned to access a website providing the product's batch number, date
+received, date of testing completion, and method of analysis for the testing report
+required under § 57-7-107, including information regarding results of the
+product's full-panel and potency tests conducted pursuant to § 57-7-107(a);
+(b) The QR code required by subdivision (a)(1)(C)(vi)(a) may link to a
+webpage that includes certificates of analysis for multiple products or batch
+numbers of the supplier. A separate website or QR code is not required for each
+individual product or batch number; provided, that:
+(1) The certificate of analysis for the specific batch is accessible
+within no more than three (3) navigational steps from the initial webpage
+accessed through the QR code;
+(2) The batch number may be entered into a search function that
+returns a direct link to that batch's certificate of analysis, or no individual
+- 2 - 015308
+landing page contains more than one hundred fifty (150) clickable links or
+options;
+(3) The webpage is maintained with current and accurate
+information for all products and batches offered for sale in this state; and
+(4) The required information for each product and batch remains
+publicly accessible for the longer of twelve (12) months after the product
+or batch is no longer offered for sale in this state by the supplier or ninety
+(90) days after the product's stated expiration date;
+
+Section 9:
+SECTION 8. Tennessee Code Annotated, Section 57-7-110(a)(2), is amended by
+deleting the subdivision and substituting:
+(2) For HDCP beverage products, the container must utilize a traditional pull-tab,
+an aluminum can device currently approved for soft drinks and malt beverages, or a
+screw-top or cork-style cap used for containers of wine and other alcoholic beverage
+products.
+
+Section 10:
+SECTION 9. Tennessee Code Annotated, Section 57-7-113(c), is amended by deleting
+"or entity".
+
+Section 11:
+SECTION 10. Tennessee Code Annotated, Section 57-7-118(1), is amended by adding
+the following immediately after the existing language in the subdivision:
+Notwithstanding this subdivision (1) to the contrary, the department of agriculture shall
+not issue or renew HDCP supplier and retail licenses after the effective date of this act.
+
+Section 12:
+SECTION 11. This act takes effect upon becoming a law, the public welfare requiring it.
+- 3 - 015308
+[DELETED:  a HS((((SSS]
+[DELETED:  -0SS(S(()()()()()]
+[DELETED:  -0()()S(SSS]
+
+
+================================================================================
+
+Raw Text:
+Senate Energy, Ag., and Nat. Resources 1
+Amendment No. 1 to SB1761
+Reeves
+Signature of Sponsor
+AMEND S e n ate Bill No. 1761 House Bill No. 1503*
+by deleting all language after the enacting clause and substituting:
+SECTION 1. Tennessee Code Annotated, Section 57-7-102, is amended by deleting "or
+entity" wherever that language appears in subdivisions (7) and (16), and by deleting subdivision
+(9) and substituting:
+(9) "Supplier" means a person that:
+(A) Is located either inside or outside of this state and that sells HDCPs
+to wholesalers or to suppliers licensed under this chapter for repackaging or for
+resale, but not for consumption;
+(B) Manufactures hemp-derived cannabinoids or HDCPs in this state; or
+(C) Contracts for the manufacture of hemp-derived cannabinoids or
+HDCPs, whether located inside or outside of this state, and that sells finished,
+packaged HDCPs to wholesalers or to suppliers licensed under this chapter for
+resale and not for consumption;
+SECTION 2. Tennessee Code Annotated, Section 57-7-103(a)(1), is amended by
+deleting "or entity".
+SECTION 3. Tennessee Code Annotated, Section 57-7-106, is amended by deleting "or
+entity" wherever that language appears in subsection (a) and subdivisions (b)(1) and (f)(1).
+SECTION 4. Tennessee Code Annotated, Section 57-7-106(f)(1)(A)(iv), is amended by
+deleting "the name of the person legally responsible for each applicant's operations," and
+substituting "each applicant's".
+SA0696
+015308
+- 1 -
+
+SECTION 5. Tennessee Code Annotated, Section 57-7-106(f)(1)(D), is amended by
+deleting "With respect to the person legally responsible for the management of the applicant's
+operations, submit" and substituting "Submit".
+SECTION 6. Tennessee Code Annotated, Section 57-7-110(a)(1)(C)(ii), is amended by
+deleting the subdivision and substituting:
+(ii) A conspicuous warning statement having a minimum font size of six-point
+font concerning the risk of impairment from consumption of the product, keeping the
+product out of reach of children, and other warning information as required by rule of the
+commission;
+SECTION 7. Tennessee Code Annotated, Section 57-7-110(a)(1)(C)(vi), is amended by
+deleting the subdivision and substituting:
+(vi)
+(a) A batch number and a quick response (QR) code that can be
+scanned to access a website providing the product's batch number, date
+received, date of testing completion, and method of analysis for the testing report
+required under § 57-7-107, including information regarding results of the
+product's full-panel and potency tests conducted pursuant to § 57-7-107(a);
+(b) The QR code required by subdivision (a)(1)(C)(vi)(a) may link to a
+webpage that includes certificates of analysis for multiple products or batch
+numbers of the supplier. A separate website or QR code is not required for each
+individual product or batch number; provided, that:
+(1) The certificate of analysis for the specific batch is accessible
+within no more than three (3) navigational steps from the initial webpage
+accessed through the QR code;
+(2) The batch number may be entered into a search function that
+returns a direct link to that batch's certificate of analysis, or no individual
+- 2 - 015308
+
+landing page contains more than one hundred fifty (150) clickable links or
+options;
+(3) The webpage is maintained with current and accurate
+information for all products and batches offered for sale in this state; and
+(4) The required information for each product and batch remains
+publicly accessible for the longer of twelve (12) months after the product
+or batch is no longer offered for sale in this state by the supplier or ninety
+(90) days after the product's stated expiration date;
+SECTION 8. Tennessee Code Annotated, Section 57-7-110(a)(2), is amended by
+deleting the subdivision and substituting:
+(2) For HDCP beverage products, the container must utilize a traditional pull-tab,
+an aluminum can device currently approved for soft drinks and malt beverages, or a
+screw-top or cork-style cap used for containers of wine and other alcoholic beverage
+products.
+SECTION 9. Tennessee Code Annotated, Section 57-7-113(c), is amended by deleting
+"or entity".
+SECTION 10. Tennessee Code Annotated, Section 57-7-118(1), is amended by adding
+the following immediately after the existing language in the subdivision:
+Notwithstanding this subdivision (1) to the contrary, the department of agriculture shall
+not issue or renew HDCP supplier and retail licenses after the effective date of this act.
+SECTION 11. This act takes effect upon becoming a law, the public welfare requiring it.
+- 3 - 015308
+
+[DELETED:  a HS((((SSS]
+[DELETED:  -0SS(S(()()()()()]
+[DELETED:  -0()()S(SSS]

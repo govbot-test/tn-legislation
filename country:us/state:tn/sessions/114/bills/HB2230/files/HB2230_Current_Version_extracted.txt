@@ -1,0 +1,65 @@
+Title: SENATE BILL 2288
+Official Title: SENATE BILL 2288
+Number of Sections: 4
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+By Lamar
+HOUSE BILL 2230
+By Dixie
+AN ACT to amend Tennessee Code Annotated, Title 12;
+Title 54 and Title 55, relative to transportation.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 54-3-103(21), is amended by
+deleting "fee or charge" and substituting instead "fee or charge, including a toll,".
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 54-3-104(b), is amended by adding
+the following as a new subdivision:
+(3) Existing transportation facilities that are part of the state highway system or
+interstate and national defense highway system, located at the border of this state with
+another state, and where, on or after July 1, 2026:
+(A) One (1) or more new vehicle travel lanes are added to the facility; or
+(B) An HOV lane on the facility is converted to a high occupancy user fee
+lane.
+
+Section 4:
+SECTION 3. This act takes effect July 1, 2026, the public welfare requiring it.
+HB2230
+012594
+- 1 -
+[DELETED: SS(]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 2288
+By Lamar
+HOUSE BILL 2230
+By Dixie
+AN ACT to amend Tennessee Code Annotated, Title 12;
+Title 54 and Title 55, relative to transportation.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 54-3-103(21), is amended by
+deleting "fee or charge" and substituting instead "fee or charge, including a toll,".
+SECTION 2. Tennessee Code Annotated, Section 54-3-104(b), is amended by adding
+the following as a new subdivision:
+(3) Existing transportation facilities that are part of the state highway system or
+interstate and national defense highway system, located at the border of this state with
+another state, and where, on or after July 1, 2026:
+(A) One (1) or more new vehicle travel lanes are added to the facility; or
+(B) An HOV lane on the facility is converted to a high occupancy user fee
+lane.
+SECTION 3. This act takes effect July 1, 2026, the public welfare requiring it.
+HB2230
+012594
+- 1 -
+
+[DELETED: SS(]
