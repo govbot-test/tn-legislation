@@ -1,0 +1,138 @@
+Title: HOUSE BILL 1502
+Official Title: HOUSE BILL 1502
+Number of Sections: 6
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+By Lamberth
+SENATE BILL 1589
+By Haile
+AN ACT to amend Tennessee Code Annotated, Title 4;
+Title 38; Title 39 and Title 41, relative to the
+Tennessee corrections institute.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 41-4-140(a), is amended by adding
+the following new subdivisions:
+(6) Establish certification requirements for corrections officers; and
+(7) Inspect and certify local correctional training academies associated with local
+jails, lock-ups, and workhouses.
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 41-4-140, is amended by deleting
+subsection (d) and substituting:
+(d)
+(1) A local currently certified facility must not be decertified if the local
+government has submitted a plan of action within ninety (90) days of the initial
+annual inspection that is reasonably expected to eliminate fixed ratio
+deficiencies, staffing emergencies, capital projects, or deficiencies that do not
+impact the life or safety of the inmates or employees in that facility and cause
+that facility to remain certified. A plan of action must not:
+(A) Exceed five (5) consecutive years without unanimous
+approval from the board of control;
+(B) Exceed twelve (12) months if the board of control determines
+that reasonable efforts by the local government could have resolved the
+deficiency; and
+SB1589
+009677
+- 1 -
+(C) Be approved for deficiencies that directly impact the safety
+and security of the facility or public welfare.
+(2) The board of control may direct the executive director to consult with
+necessary state agencies to ensure the safety and security of the facility prior to
+approving an extension exceeding five (5) years.
+
+Section 4:
+SECTION 3. Tennessee Code Annotated, Section 41-7-106, is amended by adding the
+following new subsections:
+(j) The board is authorized to establish uniform standards for the training of
+corrections recruits and corrections officers, including requirements for corrections
+officer certification, continued certification, and revocation of certification.
+(k) The board is authorized to establish uniform standards for the certification of
+local correctional training academies for the purpose of training corrections recruits and
+corrections officers.
+(l) The board may issue, or revoke as required, special certifications to persons
+who, by reason of experience and completion of in-service training, advanced education,
+or specialized training, are especially qualified for particular aspects or classes relevant
+to the corrections profession.
+
+Section 5:
+SECTION 4. Tennessee Code Annotated, Section 39-17-1315(a)(1)(A), is amended by
+adding the following as a new subdivision (a)(1)(A)(iv) and redesignating the existing
+subdivision (a)(1)(A)(iv) as subdivision (a)(1)(A)(v):
+(iv) Any director or full-time employee of the Tennessee corrections institute in
+the performance of the director or employee's duty; or
+
+Section 6:
+SECTION 5. This act takes effect July 1, 2026, the public welfare requiring it.
+- 2 - 009677
+[DELETED: S((S((((]
+[DELETED:  -0((S(((S(S]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 1502
+By Lamberth
+SENATE BILL 1589
+By Haile
+AN ACT to amend Tennessee Code Annotated, Title 4;
+Title 38; Title 39 and Title 41, relative to the
+Tennessee corrections institute.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 41-4-140(a), is amended by adding
+the following new subdivisions:
+(6) Establish certification requirements for corrections officers; and
+(7) Inspect and certify local correctional training academies associated with local
+jails, lock-ups, and workhouses.
+SECTION 2. Tennessee Code Annotated, Section 41-4-140, is amended by deleting
+subsection (d) and substituting:
+(d)
+(1) A local currently certified facility must not be decertified if the local
+government has submitted a plan of action within ninety (90) days of the initial
+annual inspection that is reasonably expected to eliminate fixed ratio
+deficiencies, staffing emergencies, capital projects, or deficiencies that do not
+impact the life or safety of the inmates or employees in that facility and cause
+that facility to remain certified. A plan of action must not:
+(A) Exceed five (5) consecutive years without unanimous
+approval from the board of control;
+(B) Exceed twelve (12) months if the board of control determines
+that reasonable efforts by the local government could have resolved the
+deficiency; and
+SB1589
+009677
+- 1 -
+
+(C) Be approved for deficiencies that directly impact the safety
+and security of the facility or public welfare.
+(2) The board of control may direct the executive director to consult with
+necessary state agencies to ensure the safety and security of the facility prior to
+approving an extension exceeding five (5) years.
+SECTION 3. Tennessee Code Annotated, Section 41-7-106, is amended by adding the
+following new subsections:
+(j) The board is authorized to establish uniform standards for the training of
+corrections recruits and corrections officers, including requirements for corrections
+officer certification, continued certification, and revocation of certification.
+(k) The board is authorized to establish uniform standards for the certification of
+local correctional training academies for the purpose of training corrections recruits and
+corrections officers.
+(l) The board may issue, or revoke as required, special certifications to persons
+who, by reason of experience and completion of in-service training, advanced education,
+or specialized training, are especially qualified for particular aspects or classes relevant
+to the corrections profession.
+SECTION 4. Tennessee Code Annotated, Section 39-17-1315(a)(1)(A), is amended by
+adding the following as a new subdivision (a)(1)(A)(iv) and redesignating the existing
+subdivision (a)(1)(A)(iv) as subdivision (a)(1)(A)(v):
+(iv) Any director or full-time employee of the Tennessee corrections institute in
+the performance of the director or employee's duty; or
+SECTION 5. This act takes effect July 1, 2026, the public welfare requiring it.
+- 2 - 009677
+
+[DELETED: S((S((((]
+[DELETED:  -0((S(((S(S]

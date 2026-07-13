@@ -1,0 +1,53 @@
+Title: HOUSE BILL 1935
+Official Title: HOUSE BILL 1935
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+By Vaughan
+SENATE BILL 1706
+By Taylor
+AN ACT to amend Tennessee Code Annotated, Title 67,
+Chapter 5, relative to property tax in dispute.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Title 67, Chapter 5, Part 14, is amended by
+adding the following as a new section:
+A city or county collecting official shall not require a taxpayer to pay the full tax
+due for an assessment for which an appeal is pending before the county or state boards
+of equalization.
+
+Section 3:
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+SB1706
+010987
+- 1 -
+[DELETED: SA]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 1935
+By Vaughan
+SENATE BILL 1706
+By Taylor
+AN ACT to amend Tennessee Code Annotated, Title 67,
+Chapter 5, relative to property tax in dispute.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Title 67, Chapter 5, Part 14, is amended by
+adding the following as a new section:
+A city or county collecting official shall not require a taxpayer to pay the full tax
+due for an assessment for which an appeal is pending before the county or state boards
+of equalization.
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+SB1706
+010987
+- 1 -
+
+[DELETED: SA]

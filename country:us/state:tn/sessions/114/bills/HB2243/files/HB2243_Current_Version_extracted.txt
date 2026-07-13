@@ -1,0 +1,118 @@
+Title: SENATE BILL 2070
+Official Title: SENATE BILL 2070
+Number of Sections: 4
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+By Watson
+HOUSE BILL 2243
+By Martin B
+AN ACT to amend Tennessee Code Annotated, Title 8;
+Title 56 and Title 71, relative to healthcare
+provider reimbursement.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. This act is known and may be cited as the "Stopping Health Insurers from
+Excluding Legal Decisions (SHIELD) Act."
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Title 56, Chapter 7, Part 10, is amended by
+adding the following as a new section:
+56-7-1022. Prohibition on penalizing providers for patient vaccination exemptions.
+(a) As used in this section:
+(1) "Exempt patient" means a patient, or the parent or legal guardian of a
+minor patient, who has declined a specific vaccination or series of vaccinations
+and has provided the healthcare provider with a written statement of refusal
+based on religious tenets or medical contraindication as recognized under § 49-
+6-5001 or other applicable state law;
+(2) "Health insurance entity" has the same meaning as defined in § 56-7-
+109; and
+(3) "Quality measure" means a metric, standard, or benchmark used by a
+health insurance entity to determine a healthcare provider's reimbursement rate,
+incentive payments, bonus structure, star rating, or network participation status,
+including, but not limited to, the Healthcare Effectiveness Data and Information
+Set (HEDIS).
+HB2243
+011174
+- 1 -
+(b) A health insurance entity shall not calculate a quality measure, quality rating,
+incentive payment, or reimbursement tier for a healthcare provider by including any
+exempt patient in the denominator of any vaccination-related metric.
+(c) If a healthcare provider submits documentation to a health insurance entity
+indicating that a patient is an exempt patient, then the health insurance entity must
+exclude the patient from the calculation of the provider's vaccination rate performance or
+any other quality metric derived from vaccination status.
+(d) A health insurance entity shall not terminate a healthcare provider from a
+network, reduce a provider's reimbursement rate, or withhold an incentive payment
+solely because the provider retains exempt patients in the provider's practice.
+(e) For purposes of timely reimbursement under § 56-7-109, a claim for
+reimbursement that is denied, reduced, or recouped by a health insurance entity in
+violation of subsection (b) or (d) is a clean claim, as that term is defined in § 56-7-109,
+and is subject to the interest penalties and remediation requirements set forth under §
+56-7-109.
+
+Section 4:
+SECTION 3. This act takes effect July 1, 2026, the public welfare requiring it, and
+applies to contracts entered into, renewed, amended, or delivered on or after that date.
+- 2 - 011174
+[DELETED:  -0]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 2070
+By Watson
+HOUSE BILL 2243
+By Martin B
+AN ACT to amend Tennessee Code Annotated, Title 8;
+Title 56 and Title 71, relative to healthcare
+provider reimbursement.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. This act is known and may be cited as the "Stopping Health Insurers from
+Excluding Legal Decisions (SHIELD) Act."
+SECTION 2. Tennessee Code Annotated, Title 56, Chapter 7, Part 10, is amended by
+adding the following as a new section:
+56-7-1022. Prohibition on penalizing providers for patient vaccination exemptions.
+(a) As used in this section:
+(1) "Exempt patient" means a patient, or the parent or legal guardian of a
+minor patient, who has declined a specific vaccination or series of vaccinations
+and has provided the healthcare provider with a written statement of refusal
+based on religious tenets or medical contraindication as recognized under § 49-
+6-5001 or other applicable state law;
+(2) "Health insurance entity" has the same meaning as defined in § 56-7-
+109; and
+(3) "Quality measure" means a metric, standard, or benchmark used by a
+health insurance entity to determine a healthcare provider's reimbursement rate,
+incentive payments, bonus structure, star rating, or network participation status,
+including, but not limited to, the Healthcare Effectiveness Data and Information
+Set (HEDIS).
+HB2243
+011174
+- 1 -
+
+(b) A health insurance entity shall not calculate a quality measure, quality rating,
+incentive payment, or reimbursement tier for a healthcare provider by including any
+exempt patient in the denominator of any vaccination-related metric.
+(c) If a healthcare provider submits documentation to a health insurance entity
+indicating that a patient is an exempt patient, then the health insurance entity must
+exclude the patient from the calculation of the provider's vaccination rate performance or
+any other quality metric derived from vaccination status.
+(d) A health insurance entity shall not terminate a healthcare provider from a
+network, reduce a provider's reimbursement rate, or withhold an incentive payment
+solely because the provider retains exempt patients in the provider's practice.
+(e) For purposes of timely reimbursement under § 56-7-109, a claim for
+reimbursement that is denied, reduced, or recouped by a health insurance entity in
+violation of subsection (b) or (d) is a clean claim, as that term is defined in § 56-7-109,
+and is subject to the interest penalties and remediation requirements set forth under §
+56-7-109.
+SECTION 3. This act takes effect July 1, 2026, the public welfare requiring it, and
+applies to contracts entered into, renewed, amended, or delivered on or after that date.
+- 2 - 011174
+
+[DELETED:  -0]

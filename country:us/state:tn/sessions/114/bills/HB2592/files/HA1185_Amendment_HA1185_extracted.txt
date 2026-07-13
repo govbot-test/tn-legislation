@@ -1,0 +1,421 @@
+Title: AMEND S e n ate Bill No. 2102* House Bill No. 2592
+Official Title: AMEND S e n ate Bill No. 2102* House Bill No. 2592
+Number of Sections: 5
+Source: versions - Amendment HA1185
+Media Type: application/pdf
+Strikethrough Detection: 7 sections found
+
+================================================================================
+
+Section 1:
+House Finance, Ways, and Means 1
+Amendment No. 2 to HB2592
+Hicks G
+Signature of Sponsor
+by deleting all language after the enacting clause and substituting:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Title 7, is amended by adding the following
+as a new chapter:
+7-70-101.
+As used in this chapter:
+(1) "Electric utility":
+(A) Means a utility that provides electric utility services to the
+public and is owned by a municipality:
+(i) Having a population of not less than three hundred fifty
+thousand (350,000), according to the 2020 federal census or any
+subsequent federal census; or
+(ii) Located in a county having a population of not less
+than three hundred fifty thousand (350,000), according to the 2020
+federal census or any subsequent federal census;
+(B) Includes an electric utility that provides electric utility services:
+(i) Outside of this state; and
+(ii) Authorized under chapter 52 of this title, or another
+law, including, but not limited to, a city charter or private act; and
+(C) Does not include an energy authority or utility authority
+created pursuant to the Municipal Energy Authority Act, compiled in
+chapter 36 of this title, or a private act of the general assembly;
+HA1185
+018040
+- 1 -
+(2) "Home county" means the primary county in which the home
+municipality is located, if the home municipality is an incorporated city or town;
+(3) "Home municipality" means the municipality that owns an electric
+utility;
+(4) "Incorporated city or town" does not include a metropolitan
+government;
+(5) "Municipality" means a county, a county having a metropolitan form of
+government in this state, or an incorporated city or town;
+(6) "Outside county":
+(A) Means the county in which an outside locality is located; and
+(B) Does not include the home county;
+(7) "Outside locality" means a municipality that:
+(A) Receives electric utility services from an electric utility; and
+(B) Is located outside of the municipal boundaries of the home
+municipality; and
+(8) "Utility board" or "board":
+(A) Means the governing body of an electric utility; and
+(B) Does not include the governing body of the home
+municipality.
+7-70-102.
+(a) Notwithstanding another law to the contrary, and except as provided by § 7-
+70-107:
+(1) If an electric utility provides services outside the corporate limits of
+the home municipality but within the home county to not less than three thousand
+five hundred (3,500) customers and not more than one hundred thirty thousand
+(130,000) customers, then the home municipality must expand the utility board to
+include one (1) additional voting board member on the utility board for the home
+- 2 - 018040
+county, appointed by an incorporated city or town in accordance with § 7-70-
+103(a)(1), if the home county chooses to appoint a person pursuant to § 7-70-
+103(a)(1); and
+(2) If an electric utility provides services outside the corporate limits of
+the home municipality but within the home county to more than one hundred
+thirty thousand (130,000) customers, then the home municipality must expand
+the utility board to include one (1) more additional voting board member on the
+utility board for the home county, appointed by an incorporated city or town in
+accordance with § 7-70-103(a)(2), if the home county chooses to appoint such
+persons pursuant to § 7-70-103(a)(2).
+(b) Notwithstanding another law to the contrary, and except as provided by § 7-
+70-107, if an electric utility provides services to not less than three thousand five
+hundred (3,500) customers in an outside locality, then the home municipality must
+expand the utility board to include one (1) additional voting board member on the utility
+board for the outside county in which such outside locality is situated, if the outside
+county chooses to appoint a person pursuant to § 7-70-103(b). This subsection (b):
+(1) Only allows one (1) additional board member per outside county,
+regardless of the number of outside localities located within the outside county;
+and
+(2) Does not permit the expansion of a utility board to include a board
+member from a municipality in another state.
+7-70-103.
+(a)
+(1) If a home county that is entitled to a board member pursuant to § 7-
+70-102(a)(1) chooses to appoint a person, then the home county must notify the
+chief executive officer of the incorporated city or town that is located outside the
+corporate limits of the home municipality but within the home county and that has
+- 3 - 018040
+the largest number of customers served by the electric utility outside the
+corporate limits of the home municipality but within the home county. The chief
+executive officer of such incorporated city or town shall appoint a person to fill the
+new position, subject to approval by a majority vote of the governing legislative
+body of the applicable incorporated city or town.
+(2) If a home county that is entitled to a board member pursuant to § 7-
+70-102(a)(2) chooses to appoint a person, then the home county must notify the
+chief executive officer of the incorporated city or town that is located outside the
+corporate limits of the home municipality but within the home county and that has
+the second-largest number of customers served by the electric utility outside the
+corporate limits of the home municipality but within the home county. The chief
+executive officer of such incorporated city or town shall appoint a person to fill the
+new position, subject to approval by a majority vote of the governing legislative
+body of the applicable incorporated city or town.
+(b) If an outside county that is entitled to appoint a board member pursuant to §
+7-70-102(b) chooses to appoint a person, then the chief executive officer of the outside
+county for which an additional board position is added pursuant to § 7-70-102(b) must
+appoint a person to fill the new position, subject to approval by a majority vote of the
+governing legislative body of the applicable outside county.
+(c) The chief executive officer shall:
+(1) Appoint a person who is a resident of the incorporated city or town or
+outside county, as applicable, and a customer of the electric utility; and
+(2) Not appoint a person who is an employee or board member of the
+electric utility or another utility.
+7-70-104.
+(a) If a utility board is expanded pursuant to this chapter, then the home
+municipality may:
+- 4 - 018040
+(1) In consultation with the appointing chief executive officer, establish
+initial, staggered appointments of two (2) years to ensure consistent and
+experienced representation, followed by terms of four (4) years that begin on
+January 1 and end on December 31 of each applicable year; provided, that the
+first of such terms must be deemed to begin on January 1, 2027, or the January
+1 following an electric utility's expansion of service into an outside locality; or
+(2) In consultation and agreement with the appointing chief executive
+officer, establish term lengths, term limits, and term start dates that are similar to,
+and coincide with, the term lengths, term limits, and term start dates of board
+members appointed by the home municipality; provided, that the board member
+begins serving on January 1, 2027.
+(b) A board member appointed pursuant to this chapter may be reappointed for
+successive terms.
+(c) A board member appointed pursuant to this chapter serves until their
+successor is selected and assumes office. In the event of a vacancy, the chief executive
+officer of the appointing county or incorporated city or town shall appoint a person in
+accordance with § 7-70-103 to fill the vacancy for the remainder of the unexpired term.
+(d) A board member appointed pursuant to this section is subject to the same
+removal process used for other board members of the utility board; provided, that the
+chief executive officer who appointed the board member must be given written notice no
+less than ten (10) business days before removal proceedings occur.
+7-70-105.
+A board member appointed pursuant to this chapter is not an employee of the
+home municipality and is not entitled to compensation for service as a board member.
+However, this section does not prohibit or otherwise limit a utility board or other
+appropriate entity from choosing to provide compensation to a board member appointed
+pursuant to this chapter.
+- 5 - 018040
+7-70-106.
+Except as provided in § 7-70-102, a home municipality shall not expand board
+membership for a home county, outside county, or outside locality if the home county,
+outside county, or outside locality is represented by a voting member on the board. This
+
+Section 3:
+section does not exempt an electric utility or home municipality from the requirements of
+
+Section 4:
+§ 7-70-102 for the home county or another outside county or outside locality for which a
+voting board member position does not exist.
+7-70-107.
+(a) Except for new board positions required by § 7-70-102 or subsection (c), this
+chapter does not authorize an electric utility to create additional board positions in
+excess of the membership limits imposed by another state law or private act.
+(b) This chapter does not require a home county or outside county to choose to
+appoint a person to a board member position or otherwise utilize the board member
+position to which the home county or outside county is entitled under § 7-70-102.
+(c)
+(1) If the application of this chapter results in a majority of the positions of
+a utility board not being appointed by the home municipality, then the home
+municipality may increase the membership limits of the utility board to such
+minimum number of board positions that ensures the home municipality holds the
+appointment authority for a simple majority of the positions on the utility board.
+(2) The home municipality shall fill such additional board positions in the
+manner established for regular utility board members.
+7-70-108.
+(a) If a home county or outside locality reaches the customer thresholds
+described in § 7-70-102, then the electric utility shall notify, no later than November 1
+following the date such threshold is reached, the home municipality and the chief
+executive officer that would be entitled to choose to appoint a board member.
+- 6 - 018040
+(b) If the home county or outside county chooses to appoint a person, then the
+applicable chief executive officer entitled to appoint a board member must appoint a
+board member by the following January 1.
+7-70-109.
+(a) Except as provided in subsection (c), if an electric utility is governed by a
+utility board on May 1, 2026, then the utility must continue to be governed by a utility
+board.
+(b) Except as provided in subsection (c), the governance of an electric utility
+described in this section must not be changed from a utility board to the governing body
+of the municipality on or after May 1, 2026.
+(c) An electric utility may become an energy authority or utility authority pursuant
+to the Municipal Energy Authority Act, compiled in chapter 36 of this title, or a private act
+of the general assembly, as long as its utility board includes board members appointed
+consistent with this chapter.
+7-70-110.
+This chapter does not apply to an electric utility operated by the governing body
+of a home municipality, or to an energy authority or utility authority created pursuant to
+the Municipal Energy Authority Act, compiled in chapter 36 of this title.
+
+Section 5:
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+- 7 - 018040
+[DELETED:  a HS7A((((]
+[DELETED:  -0(((((((((((((7((]
+[DELETED:  -0((((7(]
+[DELETED:  -0(((7(]
+[DELETED:  -0(((((7A]
+[DELETED:  -07E7(((((7(]
+[DELETED:  -0(7(((TS]
+
+
+================================================================================
+
+Raw Text:
+House Finance, Ways, and Means 1
+Amendment No. 2 to HB2592
+Hicks G
+Signature of Sponsor
+AMEND S e n ate Bill No. 2102* House Bill No. 2592
+by deleting all language after the enacting clause and substituting:
+SECTION 1. Tennessee Code Annotated, Title 7, is amended by adding the following
+as a new chapter:
+7-70-101.
+As used in this chapter:
+(1) "Electric utility":
+(A) Means a utility that provides electric utility services to the
+public and is owned by a municipality:
+(i) Having a population of not less than three hundred fifty
+thousand (350,000), according to the 2020 federal census or any
+subsequent federal census; or
+(ii) Located in a county having a population of not less
+than three hundred fifty thousand (350,000), according to the 2020
+federal census or any subsequent federal census;
+(B) Includes an electric utility that provides electric utility services:
+(i) Outside of this state; and
+(ii) Authorized under chapter 52 of this title, or another
+law, including, but not limited to, a city charter or private act; and
+(C) Does not include an energy authority or utility authority
+created pursuant to the Municipal Energy Authority Act, compiled in
+chapter 36 of this title, or a private act of the general assembly;
+HA1185
+018040
+- 1 -
+
+(2) "Home county" means the primary county in which the home
+municipality is located, if the home municipality is an incorporated city or town;
+(3) "Home municipality" means the municipality that owns an electric
+utility;
+(4) "Incorporated city or town" does not include a metropolitan
+government;
+(5) "Municipality" means a county, a county having a metropolitan form of
+government in this state, or an incorporated city or town;
+(6) "Outside county":
+(A) Means the county in which an outside locality is located; and
+(B) Does not include the home county;
+(7) "Outside locality" means a municipality that:
+(A) Receives electric utility services from an electric utility; and
+(B) Is located outside of the municipal boundaries of the home
+municipality; and
+(8) "Utility board" or "board":
+(A) Means the governing body of an electric utility; and
+(B) Does not include the governing body of the home
+municipality.
+7-70-102.
+(a) Notwithstanding another law to the contrary, and except as provided by § 7-
+70-107:
+(1) If an electric utility provides services outside the corporate limits of
+the home municipality but within the home county to not less than three thousand
+five hundred (3,500) customers and not more than one hundred thirty thousand
+(130,000) customers, then the home municipality must expand the utility board to
+include one (1) additional voting board member on the utility board for the home
+- 2 - 018040
+
+county, appointed by an incorporated city or town in accordance with § 7-70-
+103(a)(1), if the home county chooses to appoint a person pursuant to § 7-70-
+103(a)(1); and
+(2) If an electric utility provides services outside the corporate limits of
+the home municipality but within the home county to more than one hundred
+thirty thousand (130,000) customers, then the home municipality must expand
+the utility board to include one (1) more additional voting board member on the
+utility board for the home county, appointed by an incorporated city or town in
+accordance with § 7-70-103(a)(2), if the home county chooses to appoint such
+persons pursuant to § 7-70-103(a)(2).
+(b) Notwithstanding another law to the contrary, and except as provided by § 7-
+70-107, if an electric utility provides services to not less than three thousand five
+hundred (3,500) customers in an outside locality, then the home municipality must
+expand the utility board to include one (1) additional voting board member on the utility
+board for the outside county in which such outside locality is situated, if the outside
+county chooses to appoint a person pursuant to § 7-70-103(b). This subsection (b):
+(1) Only allows one (1) additional board member per outside county,
+regardless of the number of outside localities located within the outside county;
+and
+(2) Does not permit the expansion of a utility board to include a board
+member from a municipality in another state.
+7-70-103.
+(a)
+(1) If a home county that is entitled to a board member pursuant to § 7-
+70-102(a)(1) chooses to appoint a person, then the home county must notify the
+chief executive officer of the incorporated city or town that is located outside the
+corporate limits of the home municipality but within the home county and that has
+- 3 - 018040
+
+the largest number of customers served by the electric utility outside the
+corporate limits of the home municipality but within the home county. The chief
+executive officer of such incorporated city or town shall appoint a person to fill the
+new position, subject to approval by a majority vote of the governing legislative
+body of the applicable incorporated city or town.
+(2) If a home county that is entitled to a board member pursuant to § 7-
+70-102(a)(2) chooses to appoint a person, then the home county must notify the
+chief executive officer of the incorporated city or town that is located outside the
+corporate limits of the home municipality but within the home county and that has
+the second-largest number of customers served by the electric utility outside the
+corporate limits of the home municipality but within the home county. The chief
+executive officer of such incorporated city or town shall appoint a person to fill the
+new position, subject to approval by a majority vote of the governing legislative
+body of the applicable incorporated city or town.
+(b) If an outside county that is entitled to appoint a board member pursuant to §
+7-70-102(b) chooses to appoint a person, then the chief executive officer of the outside
+county for which an additional board position is added pursuant to § 7-70-102(b) must
+appoint a person to fill the new position, subject to approval by a majority vote of the
+governing legislative body of the applicable outside county.
+(c) The chief executive officer shall:
+(1) Appoint a person who is a resident of the incorporated city or town or
+outside county, as applicable, and a customer of the electric utility; and
+(2) Not appoint a person who is an employee or board member of the
+electric utility or another utility.
+7-70-104.
+(a) If a utility board is expanded pursuant to this chapter, then the home
+municipality may:
+- 4 - 018040
+
+(1) In consultation with the appointing chief executive officer, establish
+initial, staggered appointments of two (2) years to ensure consistent and
+experienced representation, followed by terms of four (4) years that begin on
+January 1 and end on December 31 of each applicable year; provided, that the
+first of such terms must be deemed to begin on January 1, 2027, or the January
+1 following an electric utility's expansion of service into an outside locality; or
+(2) In consultation and agreement with the appointing chief executive
+officer, establish term lengths, term limits, and term start dates that are similar to,
+and coincide with, the term lengths, term limits, and term start dates of board
+members appointed by the home municipality; provided, that the board member
+begins serving on January 1, 2027.
+(b) A board member appointed pursuant to this chapter may be reappointed for
+successive terms.
+(c) A board member appointed pursuant to this chapter serves until their
+successor is selected and assumes office. In the event of a vacancy, the chief executive
+officer of the appointing county or incorporated city or town shall appoint a person in
+accordance with § 7-70-103 to fill the vacancy for the remainder of the unexpired term.
+(d) A board member appointed pursuant to this section is subject to the same
+removal process used for other board members of the utility board; provided, that the
+chief executive officer who appointed the board member must be given written notice no
+less than ten (10) business days before removal proceedings occur.
+7-70-105.
+A board member appointed pursuant to this chapter is not an employee of the
+home municipality and is not entitled to compensation for service as a board member.
+However, this section does not prohibit or otherwise limit a utility board or other
+appropriate entity from choosing to provide compensation to a board member appointed
+pursuant to this chapter.
+- 5 - 018040
+
+7-70-106.
+Except as provided in § 7-70-102, a home municipality shall not expand board
+membership for a home county, outside county, or outside locality if the home county,
+outside county, or outside locality is represented by a voting member on the board. This
+section does not exempt an electric utility or home municipality from the requirements of
+§ 7-70-102 for the home county or another outside county or outside locality for which a
+voting board member position does not exist.
+7-70-107.
+(a) Except for new board positions required by § 7-70-102 or subsection (c), this
+chapter does not authorize an electric utility to create additional board positions in
+excess of the membership limits imposed by another state law or private act.
+(b) This chapter does not require a home county or outside county to choose to
+appoint a person to a board member position or otherwise utilize the board member
+position to which the home county or outside county is entitled under § 7-70-102.
+(c)
+(1) If the application of this chapter results in a majority of the positions of
+a utility board not being appointed by the home municipality, then the home
+municipality may increase the membership limits of the utility board to such
+minimum number of board positions that ensures the home municipality holds the
+appointment authority for a simple majority of the positions on the utility board.
+(2) The home municipality shall fill such additional board positions in the
+manner established for regular utility board members.
+7-70-108.
+(a) If a home county or outside locality reaches the customer thresholds
+described in § 7-70-102, then the electric utility shall notify, no later than November 1
+following the date such threshold is reached, the home municipality and the chief
+executive officer that would be entitled to choose to appoint a board member.
+- 6 - 018040
+
+(b) If the home county or outside county chooses to appoint a person, then the
+applicable chief executive officer entitled to appoint a board member must appoint a
+board member by the following January 1.
+7-70-109.
+(a) Except as provided in subsection (c), if an electric utility is governed by a
+utility board on May 1, 2026, then the utility must continue to be governed by a utility
+board.
+(b) Except as provided in subsection (c), the governance of an electric utility
+described in this section must not be changed from a utility board to the governing body
+of the municipality on or after May 1, 2026.
+(c) An electric utility may become an energy authority or utility authority pursuant
+to the Municipal Energy Authority Act, compiled in chapter 36 of this title, or a private act
+of the general assembly, as long as its utility board includes board members appointed
+consistent with this chapter.
+7-70-110.
+This chapter does not apply to an electric utility operated by the governing body
+of a home municipality, or to an energy authority or utility authority created pursuant to
+the Municipal Energy Authority Act, compiled in chapter 36 of this title.
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+- 7 - 018040
+
+[DELETED:  a HS7A((((]
+[DELETED:  -0(((((((((((((7((]
+[DELETED:  -0((((7(]
+[DELETED:  -0(((7(]
+[DELETED:  -0(((((7A]
+[DELETED:  -07E7(((((7(]
+[DELETED:  -0(7(((TS]

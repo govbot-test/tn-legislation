@@ -1,0 +1,53 @@
+Title: HOUSE BILL 2385
+Official Title: HOUSE BILL 2385
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+By Vaughan
+SENATE BILL 2057
+By Taylor
+AN ACT to amend Tennessee Code Annotated, Title 7,
+Chapter 35; Title 7, Chapter 82 and Title 68,
+Chapter 221, relative to sewer systems.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 7-82-710(a)(1), is amended by
+deleting the subdivision and substituting:
+Has an existing gravity sewer line located on or adjacent to the owner's property;
+and
+
+Section 3:
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+SB2057
+011979
+- 1 -
+[DELETED: SHS]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 2385
+By Vaughan
+SENATE BILL 2057
+By Taylor
+AN ACT to amend Tennessee Code Annotated, Title 7,
+Chapter 35; Title 7, Chapter 82 and Title 68,
+Chapter 221, relative to sewer systems.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 7-82-710(a)(1), is amended by
+deleting the subdivision and substituting:
+Has an existing gravity sewer line located on or adjacent to the owner's property;
+and
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+SB2057
+011979
+- 1 -
+
+[DELETED: SHS]

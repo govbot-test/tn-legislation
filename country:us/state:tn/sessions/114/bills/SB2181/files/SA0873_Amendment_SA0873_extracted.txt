@@ -1,0 +1,228 @@
+Title: AMEND S e n ate Bill No. 2181* House Bill No. 2405
+Official Title: AMEND S e n ate Bill No. 2181* House Bill No. 2405
+Number of Sections: 4
+Source: versions - Amendment SA0873
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+Senate State and Local Government 1
+Amendment No. 1 to SB2181
+Briggs
+Signature of Sponsor
+by deleting all language after the enacting clause and substituting:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Title 8, Chapter 27, Part 2, is amended by
+adding the following as a new section:
+8-27-212.
+(a) As used in this section:
+(1) "Catastrophic injury" means a permanent impairment or disability:
+(A) From one (1) or more of the following:
+(i) Paraplegia or permanent paralysis of both legs and the
+lower part of the body resulting from traumatic injury or disease to
+the spinal cord or brain;
+(ii) Legal blindness;
+(iii) Loss or loss of use of two (2) or more limbs from any
+service-connected cause;
+(iv) An acquired injury to the brain or spinal cord, or both,
+caused by an external physical force;
+(v) Second- or third-degree burns; or
+(vi) Injuries to the skin that involve the likelihood of
+permanent or protracted disfigurement; or
+(B) That is of a nature and severity that would qualify an
+employee to receive social security disability insurance (SSDI) benefits or
+supplemental security income (SSI);
+SA0873
+015740
+- 1 -
+(2) "Eligible injured officer" means a person:
+(A) Who is a former state law enforcement officer;
+(B) Who, on or after January 1, 2024, suffered a catastrophic
+injury in the line of duty while employed as a state law enforcement
+officer; and
+(C) Whose coverage in a health insurance plan under this chapter
+was discontinued due to separation of service as a state law enforcement
+officer; and
+(3) "State law enforcement officer" means a full-time, salaried employee
+of this state who is a commissioned member of the department of safety, an
+agent of the Tennessee bureau of investigation, a commissioned employee of
+the wildlife resources agency engaged in law enforcement activities on a day-to-
+day basis, a commissioned member of the alcoholic beverage commission who
+is engaged in law enforcement activities on a day-to-day basis, or a correctional
+officer vested with the powers of a law enforcement officer by the commissioner
+of correction.
+(b) The state insurance committee may, in approving a health insurance plan
+that covers state law enforcement officers, offer or continue to provide health insurance
+benefits to an eligible injured officer and the spouse and eligible dependent children,
+including an unborn child, of the eligible injured officer for a period not to exceed two (2)
+years after the date of the officer's separation of service, and the employing entity shall
+pay the employer portion of the premium.
+(c) The criteria for determination of eligibility of dependent children is the same
+as the criteria established by the state insurance committee for state employees and
+their families.
+(d) If the spouse is or becomes eligible for insurance coverage through a
+subsequent marriage, then the extension of coverage authorized in this section must be
+- 2 - 015740
+terminated on the first day of the following month. The state insurance committee may
+establish specific conditions for extensions in instances where preexisting conditions
+may apply during the transfer of coverage.
+(e) If insurance coverage under the state plan is terminated for the spouse
+pursuant to subsection (d), but the spouse is unable to secure through the new coverage
+insurance coverage for the eligible dependent children, then the eligible dependent
+children may continue coverage under this section; provided, that the eligible dependent
+children continue to meet all dependent eligibility requirements.
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Title 8, Chapter 27, Part 4, is amended by
+adding the following as a new section:
+8-27-405.
+(a) As used in this section:
+(1) "Catastrophic injury" has the same meaning as defined in § 8-27-212;
+(2) "Eligible injured officer" means a person:
+(A) Who is a former local law enforcement officer;
+(B) Who, on or after January 1, 2024, suffered a catastrophic
+injury in the line of duty while employed as a local law enforcement
+officer; and
+(C) Whose coverage in a health insurance plan was discontinued
+due to separation of service as a local law enforcement officer; and
+(3) "Local law enforcement officer" means a full-time, salaried employee
+of a political subdivision who is a sheriff, sheriff's deputy, police officer, chief of
+police, or other law enforcement officer whose primary responsibility is the
+prevention and detection of crime and apprehension of offenders, or who is a
+correctional officer with the political subdivision.
+(b) If a political subdivision offers health insurance benefits to local law
+enforcement officers, then the political subdivision may offer or continue to provide
+- 3 - 015740
+health insurance benefits to an eligible injured officer and the spouse and eligible
+dependent children, including an unborn child, of the eligible injured officer for a period
+not to exceed two (2) years after the date of the officer's separation of service, and the
+political subdivision shall pay the employer portion of the premium.
+(c) A political subdivision that offers or provides health insurance benefits in
+accordance with subsection (b) shall notify the commissioner of finance and
+administration.
+(d) This state shall reimburse a political subdivision that provides health
+insurance benefits in accordance with this section in an amount equal to that portion of
+health insurance premiums or expenses for COBRA coverage for benefits for which the
+political subdivision is responsible.
+
+Section 4:
+SECTION 3. This act takes effect July 1, 2026, the public welfare requiring it.
+- 4 - 015740
+[DELETED:  a HS8]
+[DELETED:  -0]
+[DELETED:  -0S]
+[DELETED:  -0S]
+
+
+================================================================================
+
+Raw Text:
+Senate State and Local Government 1
+Amendment No. 1 to SB2181
+Briggs
+Signature of Sponsor
+AMEND S e n ate Bill No. 2181* House Bill No. 2405
+by deleting all language after the enacting clause and substituting:
+SECTION 1. Tennessee Code Annotated, Title 8, Chapter 27, Part 2, is amended by
+adding the following as a new section:
+8-27-212.
+(a) As used in this section:
+(1) "Catastrophic injury" means a permanent impairment or disability:
+(A) From one (1) or more of the following:
+(i) Paraplegia or permanent paralysis of both legs and the
+lower part of the body resulting from traumatic injury or disease to
+the spinal cord or brain;
+(ii) Legal blindness;
+(iii) Loss or loss of use of two (2) or more limbs from any
+service-connected cause;
+(iv) An acquired injury to the brain or spinal cord, or both,
+caused by an external physical force;
+(v) Second- or third-degree burns; or
+(vi) Injuries to the skin that involve the likelihood of
+permanent or protracted disfigurement; or
+(B) That is of a nature and severity that would qualify an
+employee to receive social security disability insurance (SSDI) benefits or
+supplemental security income (SSI);
+SA0873
+015740
+- 1 -
+
+(2) "Eligible injured officer" means a person:
+(A) Who is a former state law enforcement officer;
+(B) Who, on or after January 1, 2024, suffered a catastrophic
+injury in the line of duty while employed as a state law enforcement
+officer; and
+(C) Whose coverage in a health insurance plan under this chapter
+was discontinued due to separation of service as a state law enforcement
+officer; and
+(3) "State law enforcement officer" means a full-time, salaried employee
+of this state who is a commissioned member of the department of safety, an
+agent of the Tennessee bureau of investigation, a commissioned employee of
+the wildlife resources agency engaged in law enforcement activities on a day-to-
+day basis, a commissioned member of the alcoholic beverage commission who
+is engaged in law enforcement activities on a day-to-day basis, or a correctional
+officer vested with the powers of a law enforcement officer by the commissioner
+of correction.
+(b) The state insurance committee may, in approving a health insurance plan
+that covers state law enforcement officers, offer or continue to provide health insurance
+benefits to an eligible injured officer and the spouse and eligible dependent children,
+including an unborn child, of the eligible injured officer for a period not to exceed two (2)
+years after the date of the officer's separation of service, and the employing entity shall
+pay the employer portion of the premium.
+(c) The criteria for determination of eligibility of dependent children is the same
+as the criteria established by the state insurance committee for state employees and
+their families.
+(d) If the spouse is or becomes eligible for insurance coverage through a
+subsequent marriage, then the extension of coverage authorized in this section must be
+- 2 - 015740
+
+terminated on the first day of the following month. The state insurance committee may
+establish specific conditions for extensions in instances where preexisting conditions
+may apply during the transfer of coverage.
+(e) If insurance coverage under the state plan is terminated for the spouse
+pursuant to subsection (d), but the spouse is unable to secure through the new coverage
+insurance coverage for the eligible dependent children, then the eligible dependent
+children may continue coverage under this section; provided, that the eligible dependent
+children continue to meet all dependent eligibility requirements.
+SECTION 2. Tennessee Code Annotated, Title 8, Chapter 27, Part 4, is amended by
+adding the following as a new section:
+8-27-405.
+(a) As used in this section:
+(1) "Catastrophic injury" has the same meaning as defined in § 8-27-212;
+(2) "Eligible injured officer" means a person:
+(A) Who is a former local law enforcement officer;
+(B) Who, on or after January 1, 2024, suffered a catastrophic
+injury in the line of duty while employed as a local law enforcement
+officer; and
+(C) Whose coverage in a health insurance plan was discontinued
+due to separation of service as a local law enforcement officer; and
+(3) "Local law enforcement officer" means a full-time, salaried employee
+of a political subdivision who is a sheriff, sheriff's deputy, police officer, chief of
+police, or other law enforcement officer whose primary responsibility is the
+prevention and detection of crime and apprehension of offenders, or who is a
+correctional officer with the political subdivision.
+(b) If a political subdivision offers health insurance benefits to local law
+enforcement officers, then the political subdivision may offer or continue to provide
+- 3 - 015740
+
+health insurance benefits to an eligible injured officer and the spouse and eligible
+dependent children, including an unborn child, of the eligible injured officer for a period
+not to exceed two (2) years after the date of the officer's separation of service, and the
+political subdivision shall pay the employer portion of the premium.
+(c) A political subdivision that offers or provides health insurance benefits in
+accordance with subsection (b) shall notify the commissioner of finance and
+administration.
+(d) This state shall reimburse a political subdivision that provides health
+insurance benefits in accordance with this section in an amount equal to that portion of
+health insurance premiums or expenses for COBRA coverage for benefits for which the
+political subdivision is responsible.
+SECTION 3. This act takes effect July 1, 2026, the public welfare requiring it.
+- 4 - 015740
+
+[DELETED:  a HS8]
+[DELETED:  -0]
+[DELETED:  -0S]
+[DELETED:  -0S]

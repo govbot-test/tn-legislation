@@ -1,0 +1,126 @@
+Title: AMEND S e n ate Bill No. 1626* House Bill No. 1775
+Official Title: AMEND S e n ate Bill No. 1626* House Bill No. 1775
+Number of Sections: 4
+Source: versions - Amendment SA0538
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+Senate Commerce and Labor 1
+Amendment No. 1 to SB1626
+Bailey
+Signature of Sponsor
+by deleting all language after the enacting clause and substituting:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Title 56, Chapter 7, Part 10, is amended by
+adding the following as a new section:
+(a) As used in this section:
+(1) "Cost-sharing requirement" means a deductible, coinsurance,
+copayment, or any similar out-of-pocket expense;
+(2) "Evidenced-based cancer imaging" means evidence-based cancer
+imaging modalities in accordance with the most recent version of the National
+Comprehensive Cancer Network (NCCN) clinical practice guidelines;
+(3) "Genetic testing for an inherited mutation" means germline, multi-
+gene testing for an inherited mutation associated with an increased risk of cancer
+in accordance with evidence-based, clinical practice guidelines;
+(4) ''Health plan'' means a policy, contract, certification, or agreement
+offered or issued by an insurer pursuant to a state insurance program under title
+8, chapter 27, to provide, deliver, arrange for, pay for, or reimburse any of the
+costs of healthcare services for employees of this state;
+(5) ''Healthcare service'' means an item or service furnished to an
+individual for the purpose of preventing, diagnosing, alleviating, curing, or healing
+human illness, injury, or physical disability; and
+(6) "Insurer'' means an entity subject to the insurance laws and rules of
+insurance in this state or subject to the jurisdiction of the commissioner, that
+SA0538
+014238
+- 1 -
+contracts or offers to contract to provide, deliver, arrange for, pay for, or
+reimburse the costs of healthcare services under a health plan in this state.
+(b) Cost-sharing requirements must not apply to coverage under a health plan,
+or an insurer offering a health plan, that provides coverage for:
+(1) Clinical genetic testing for an inherited gene mutation for an individual
+with a personal or family history of cancer that is recommended by a healthcare
+professional; and
+(2) Evidenced-based cancer imaging for an individual with an increased
+risk of cancer as recommended by NCCN clinical practice guidelines.
+(c) If, under federal law, application of subsection (b) would result in health
+savings account ineligibility under § 223 of the federal internal revenue code (26 U.S.C.
+
+Section 3:
+§ 223), then this requirement applies for health savings account-qualified high deductible
+health plans with respect to the deductible of such a plan after the enrollee has satisfied
+the minimum deductible under § 223 of the federal internal revenue code (26 U.S.C. §
+223), except for items or services that are preventive care pursuant to § 223(c)(2)(C) of
+the federal internal revenue code (26 U.S.C. § 223(c)(2)(C)), in which case the
+requirements of subsection (b) apply regardless of whether such minimum deductible
+has been satisfied.
+
+Section 4:
+SECTION 2. This act takes effect January 1, 2027, the public welfare requiring it, and
+applies to plans issued, amended, or renewed on or after that date.
+- 2 - 014238
+[DELETED:  a HS]
+[DELETED:  -0S]
+
+
+================================================================================
+
+Raw Text:
+Senate Commerce and Labor 1
+Amendment No. 1 to SB1626
+Bailey
+Signature of Sponsor
+AMEND S e n ate Bill No. 1626* House Bill No. 1775
+by deleting all language after the enacting clause and substituting:
+SECTION 1. Tennessee Code Annotated, Title 56, Chapter 7, Part 10, is amended by
+adding the following as a new section:
+(a) As used in this section:
+(1) "Cost-sharing requirement" means a deductible, coinsurance,
+copayment, or any similar out-of-pocket expense;
+(2) "Evidenced-based cancer imaging" means evidence-based cancer
+imaging modalities in accordance with the most recent version of the National
+Comprehensive Cancer Network (NCCN) clinical practice guidelines;
+(3) "Genetic testing for an inherited mutation" means germline, multi-
+gene testing for an inherited mutation associated with an increased risk of cancer
+in accordance with evidence-based, clinical practice guidelines;
+(4) ''Health plan'' means a policy, contract, certification, or agreement
+offered or issued by an insurer pursuant to a state insurance program under title
+8, chapter 27, to provide, deliver, arrange for, pay for, or reimburse any of the
+costs of healthcare services for employees of this state;
+(5) ''Healthcare service'' means an item or service furnished to an
+individual for the purpose of preventing, diagnosing, alleviating, curing, or healing
+human illness, injury, or physical disability; and
+(6) "Insurer'' means an entity subject to the insurance laws and rules of
+insurance in this state or subject to the jurisdiction of the commissioner, that
+SA0538
+014238
+- 1 -
+
+contracts or offers to contract to provide, deliver, arrange for, pay for, or
+reimburse the costs of healthcare services under a health plan in this state.
+(b) Cost-sharing requirements must not apply to coverage under a health plan,
+or an insurer offering a health plan, that provides coverage for:
+(1) Clinical genetic testing for an inherited gene mutation for an individual
+with a personal or family history of cancer that is recommended by a healthcare
+professional; and
+(2) Evidenced-based cancer imaging for an individual with an increased
+risk of cancer as recommended by NCCN clinical practice guidelines.
+(c) If, under federal law, application of subsection (b) would result in health
+savings account ineligibility under § 223 of the federal internal revenue code (26 U.S.C.
+§ 223), then this requirement applies for health savings account-qualified high deductible
+health plans with respect to the deductible of such a plan after the enrollee has satisfied
+the minimum deductible under § 223 of the federal internal revenue code (26 U.S.C. §
+223), except for items or services that are preventive care pursuant to § 223(c)(2)(C) of
+the federal internal revenue code (26 U.S.C. § 223(c)(2)(C)), in which case the
+requirements of subsection (b) apply regardless of whether such minimum deductible
+has been satisfied.
+SECTION 2. This act takes effect January 1, 2027, the public welfare requiring it, and
+applies to plans issued, amended, or renewed on or after that date.
+- 2 - 014238
+
+[DELETED:  a HS]
+[DELETED:  -0S]

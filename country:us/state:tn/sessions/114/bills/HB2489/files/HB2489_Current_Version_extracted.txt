@@ -1,0 +1,65 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+HOUSE BILL 2489
+By Reedy
+AN ACT to amend Tennessee Code Annotated, Title 49,
+Chapter 2, relative to directors of schools.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 49-2-203(a)(13), is amended by
+adding the following as a new subdivision:
+(D)
+(i) If a school board terminates its director of schools without cause, then
+the school board may offer or provide severance pay to the terminated director of
+schools; provided, that the amount of severance pay offered or provided must not
+exceed the annual salary amount the director of schools was receiving at the
+time of termination;
+(ii) If a school board terminates its director of schools with cause, then
+the school board shall not offer or provide severance pay to the terminated
+director of schools;
+
+Section 3:
+SECTION 2. This act takes effect July 1, 2025, the public welfare requiring it, and
+applies to contracts entered into or renewed on or after such date.
+HB2489
+000024
+- 1 -
+[DELETED: S(((S]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+HOUSE BILL 2489
+By Reedy
+AN ACT to amend Tennessee Code Annotated, Title 49,
+Chapter 2, relative to directors of schools.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 49-2-203(a)(13), is amended by
+adding the following as a new subdivision:
+(D)
+(i) If a school board terminates its director of schools without cause, then
+the school board may offer or provide severance pay to the terminated director of
+schools; provided, that the amount of severance pay offered or provided must not
+exceed the annual salary amount the director of schools was receiving at the
+time of termination;
+(ii) If a school board terminates its director of schools with cause, then
+the school board shall not offer or provide severance pay to the terminated
+director of schools;
+SECTION 2. This act takes effect July 1, 2025, the public welfare requiring it, and
+applies to contracts entered into or renewed on or after such date.
+HB2489
+000024
+- 1 -
+
+[DELETED: S(((S]

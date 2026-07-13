@@ -1,0 +1,73 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+HOUSE RESOLUTION 156
+By Lafferty
+A RESOLUTION to recognize and commend LuLu's Tea Room on
+the occasion of its twentieth anniversary.
+WHEREAS, it is fitting that the members of this legislative body should recognize those
+small businesses that are beloved mainstays in their communities and that, through dedicated
+service and hospitality, contribute to the character and charm of our great State; and
+WHEREAS, LuLu's Tea Room, located in Powell, is one such cherished establishment,
+known throughout the area for its outstanding service, family-friendly atmosphere, and a
+thoughtfully curated menu of family recipes prepared with fresh ingredients; and
+WHEREAS, LuLu's Tea Room is proudly owned and operated by Deana "LuLu" Hurd,
+whose warmth and vision have made the restaurant a local favorite and a gathering place for
+friends, families, and neighbors alike; and
+WHEREAS, a true staple of the Powell community, LuLu's Tea Room recently
+celebrated twenty years of continuous operation, marking two decades of joyfully welcoming
+guests and serving up not only delicious meals but also comfort, tradition, and Tennessee
+hospitality; now, therefore,
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, that we recognize
+and commend LuLu's Tea Room on the occasion of its twentieth anniversary, extending to
+Deana "LuLu" Hurd our sincerest appreciation for the meaningful role her establishment plays in
+its community and our best wishes for many more successful years to come.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy.
+HR0156
+012911
+- 1 -
+[DELETED: WWWWBB]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+HOUSE RESOLUTION 156
+By Lafferty
+A RESOLUTION to recognize and commend LuLu's Tea Room on
+the occasion of its twentieth anniversary.
+WHEREAS, it is fitting that the members of this legislative body should recognize those
+small businesses that are beloved mainstays in their communities and that, through dedicated
+service and hospitality, contribute to the character and charm of our great State; and
+WHEREAS, LuLu's Tea Room, located in Powell, is one such cherished establishment,
+known throughout the area for its outstanding service, family-friendly atmosphere, and a
+thoughtfully curated menu of family recipes prepared with fresh ingredients; and
+WHEREAS, LuLu's Tea Room is proudly owned and operated by Deana "LuLu" Hurd,
+whose warmth and vision have made the restaurant a local favorite and a gathering place for
+friends, families, and neighbors alike; and
+WHEREAS, a true staple of the Powell community, LuLu's Tea Room recently
+celebrated twenty years of continuous operation, marking two decades of joyfully welcoming
+guests and serving up not only delicious meals but also comfort, tradition, and Tennessee
+hospitality; now, therefore,
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, that we recognize
+and commend LuLu's Tea Room on the occasion of its twentieth anniversary, extending to
+Deana "LuLu" Hurd our sincerest appreciation for the meaningful role her establishment plays in
+its community and our best wishes for many more successful years to come.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy.
+HR0156
+012911
+- 1 -
+
+[DELETED: WWWWBB]

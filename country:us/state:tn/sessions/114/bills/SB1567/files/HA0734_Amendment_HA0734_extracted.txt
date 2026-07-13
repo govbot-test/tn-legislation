@@ -1,0 +1,564 @@
+Title: AMEND S e n ate Bill No. 1567* House Bill No. 1499
+Official Title: AMEND S e n ate Bill No. 1567* House Bill No. 1499
+Number of Sections: 4
+Source: versions - Amendment HA0734
+Media Type: application/pdf
+Strikethrough Detection: 10 sections found
+
+================================================================================
+
+Section 1:
+House State & Local Government 1
+Amendment No. 1 to HB1499
+Crawford
+Signature of Sponsor
+by deleting all language after the enacting clause and substituting:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Title 3, Chapter 18, is amended by deleting
+the chapter and substituting:
+3-18-101. Application of chapter.
+This chapter applies to a convention for proposing amendments held under
+Article V of the United States Constitution.
+3-18-102. Chapter definitions.
+As used in this chapter, unless the context otherwise requires:
+(1) "Advisory committee" means the Article V convention advisory
+committee created pursuant to § 3-18-113;
+(2) "Alternate commissioner" means a person elected as an alternate
+commissioner of a paired commissioner pursuant to § 3-18-105;
+(3) "Article V convention" or "convention" means a convention for
+proposing amendments to the United States Constitution called for by the states
+under Article V of the United States Constitution;
+HA0734
+013114
+- 1 -
+(4) "Commissioner" means a person selected by resolution of the general
+assembly as a commissioner or alternate commissioner pursuant to § 3-18-105;
+(5) "Commissioning resolution" means the resolution adopted by the
+senate and house of representatives of the general assembly that sets forth the
+names of the appointed commissioners and their commissions and instructions;
+(6) "Delegation" means the group of commissioners and alternate
+commissioners chosen by the general assembly to attend an Article V convention
+with the powers and duties defined in this chapter;
+(7) "House of representatives" means the house of representatives of the
+general assembly;
+(8) "Paired commissioner" means the commissioner with whom an
+alternate commissioner is paired as provided by this chapter; and
+(9) "Senate" means the senate of the general assembly.
+3-18-103. Qualifications of commissioners.
+At the time of appointment and throughout the Article V convention, a
+commissioner:
+(1) Must be a United States citizen for at least five (5) years;
+(2) Must be a resident of this state for at least five (5) years;
+(3) Must be at least twenty-five (25) years of age;
+(4) Must be a registered voter in this state;
+(5) Must not be registered or required to be registered at any time within
+the last five (5) years as a lobbyist under chapter 6, part 3 of this title or under 2
+U.S.C. § 1603, or rules or regulations adopted under such laws;
+(6) Must not currently be a federal employee, other than a member of the
+United States armed forces, or contractor, nor have been such an employee or
+contractor at any time within the last ten (10) years;
+- 2 - 013114
+(7) Must not have held a federal elected or appointed office at any time
+within the last ten (10) years;
+(8) Must not have had any felony convictions for crimes involving moral
+turpitude in any jurisdiction of the United States, nor any felony convictions for
+any crime in such a jurisdiction within the last ten (10) years; and
+(9) Must not hold a statewide office while performing the duties of
+commissioner or alternate commissioner. As used in this subdivision (9),
+"statewide office" does not include a person elected to serve in the general
+assembly.
+3-18-104. Participation in Article V conventions.
+Costs related to an Article V convention, except for the costs of any special
+session to consider whether to participate in an Article V convention, must not be
+incurred until the general assembly passes a resolution agreeing to participate in an
+Article V convention. The joint resolution agreeing to participate in the Article V
+convention and any additional joint resolutions related to that participation must request
+a specific appropriation for all expenditures related to each such joint resolution.
+3-18-105. Joint commissioning resolution - Commissioner selection and removal.
+(a) Commissioners and alternate commissioners must be named by a joint
+resolution passed by a two-thirds (2/3) vote of those present and voting in a joint session
+of the general assembly. The general assembly shall appoint commissioners and
+alternate commissioners so that, as near as practicable, the three (3) grand divisions of
+the state are equally represented.
+(b) At the time of election, each commissioner must be paired with an alternate
+commissioner as provided in the joint resolution adopted by the general assembly.
+(c) If the general assembly is not in session during the time at which
+commissioners to an Article V convention must be appointed, the governor shall call the
+- 3 - 013114
+general assembly into special session under Article III, § 9 of the Constitution of
+Tennessee for the purpose of appointing commissioners and alternate commissioners.
+(d) The general assembly shall maintain an odd number of commissioners in the
+delegation.
+(e) A commissioner or alternate commissioner may be suspended, recalled, or
+removed at any time and for any reason by a joint resolution of the general assembly or
+by a majority of those present and voting in a joint session thereof.
+(f) A commissioner or alternate commissioner may also be suspended, recalled,
+or removed by the advisory committee pursuant to a determination under § 3-18-114.
+3-18-106. Joint commissioning resolution - Commission and scope of authority.
+(a) The joint resolution adopted pursuant to § 3-18-105 naming the
+commissioners and alternate commissioners must include their commission. The
+commission must include, but is not limited to, the following:
+(1) A commissioner shall not vote for or otherwise promote any change
+to the traditional convention rule of decision on the floor and in the committee of
+the whole, to-wit, that each state has one (1) vote;
+(2) A commissioner shall not vote for or otherwise promote a convention
+rule that does not require recorded roll call votes or the electronic equivalent;
+(3) A proposed amendment is not germane unless its subject matter is
+consistent with the resolutions of the legislatures of the several states that were
+the basis of calling the convention; and
+(4) A commissioner shall not vote in favor of a proposed amendment that
+would alter the text of the specific guarantees of individual liberty established by
+the United States Constitution.
+(b) The commissioning resolution must clearly state the scope of the
+commissioners' and alternate commissioners' authority, which must be limited as
+follows:
+- 4 - 013114
+(1) If this state is not one (1) of the two-thirds (2/3) of the states applying
+for the convention, to the subject matter enumerated in the thirty-four (34) or
+more state applications that triggered the convention;
+(2) If this state is one (1) of the two-thirds (2/3) of the states applying for
+the convention, to the subject matter enumerated in this state's application for the
+convention; and
+(3) To additional instructions from the general assembly, whether in the
+joint commissioning resolution or by a subsequent joint resolution.
+(c) The general assembly may provide additional instructions at any time by the
+adoption of a subsequent joint resolution, a copy of which the clerk of the house of
+representatives shall provide to each commissioner, alternate commissioner, and to the
+advisory committee.
+3-18-107. Oath.
+(a) Each commissioner and alternate commissioner shall, after appointment and
+before the commissioner or alternate commissioner may exercise any function as
+commissioner or alternate commissioner, execute an oath in writing that the
+commissioner or alternate commissioner:
+(1) Will support the United States Constitution and the Constitution of
+Tennessee;
+(2) Will faithfully abide by and execute all instructions to commissioners
+and alternate commissioners adopted by the general assembly and as may be
+amended by the general assembly from time to time;
+(3) Will accept and act according to the limit of authority specified in the
+commissioning resolution;
+(4) Acknowledges that violating this oath may subject the commissioner
+or alternate commissioner to penalties as provided by law, and such
+- 5 - 013114
+commissioner or alternate commissioner may be suspended, recalled, or
+removed by the general assembly or the advisory committee; and
+(5) Will otherwise faithfully discharge the duties of commissioner or
+alternate commissioner.
+(b) Each commissioner's or alternate commissioner's executed oath must be
+filed with the secretary of state.
+3-18-108. Credentials.
+After a commissioner's executed oath is filed with the secretary of state, the clerk
+of the house of representatives shall provide to the commissioner an official copy of the
+executed oath and the commissioning resolution, which together serves as the
+commissioner's credentials.
+3-18-109. Vacancies - Authority of alternate commissioners.
+(a) The alternate commissioner shall fill the vacancy of the paired commissioner.
+Any additional vacancies must be filled by the advisory committee's selection of an
+alternate commissioner until such time as a vote by a joint session of the general
+assembly selects a permanent replacement.
+(b) An alternate commissioner shall:
+(1) Act in the place of the paired commissioner when the paired
+commissioner is absent from the Article V convention; or
+(2) Replace the paired commissioner if the paired commissioner vacates
+the office.
+3-18-110. Compensation and expenses.
+(a) A commissioner must receive the same compensation as a member of the
+house of representatives, prorated for length of time served.
+(b) A commissioner is entitled to receive the same per diem and allowance for
+expenses and mileage as provided to a member of the house of representatives in
+- 6 - 013114
+accordance with the regulations promulgated by the commissioner of finance and
+administration and approved by the attorney general and reporter.
+(c) All funds necessary to pay expenses under subsection (a) must be paid from
+appropriations to the general assembly subject to approval by joint resolution under § 3-
+18-104.
+3-18-111. Emolument and gift prohibition.
+(a) A commissioner or an alternate commissioner shall not accept, during such
+commissioner's time of service, any gifts or benefits with a combined value of more than
+two hundred dollars ($200), other than from a member of such commissioner's
+immediate family and of the kind customarily granted by such immediate family member.
+(b) As used in this section, "gift or benefit" must be construed liberally to include
+current and future loans, lodging, food, offers of prospective employment, and other
+actual and prospective benefits; provided, that an employer's decision to continue paying
+a commissioner's current salary is not a gift.
+3-18-112. Quorum, conduct, and rule of decision within the delegation.
+(a) The commissioners within the delegation, including any alternate
+commissioners filling a vacancy, shall choose from among them a chair of the
+delegation, a person who must cast the state's vote on the convention floor, and a
+person to speak to the media on behalf of the delegation. If the delegation so decides,
+the same person may exercise any or all such functions. The delegation may designate
+a different commissioner to perform any function at any time.
+(b) Each commissioner shall take care to avoid communicating the impression to
+a person outside of the delegation that the delegation is divided on a question on which
+the delegation has taken a formal position, including, but not limited to, whether to cast a
+vote for or against a proposal.
+(c) Except for the commissioner designated to communicate with the media on
+behalf of the delegation, a commissioner shall not communicate with the media about
+- 7 - 013114
+convention business during the convention or during any temporary recess or temporary
+adjournment.
+(d) A commissioner who violates subsection (b) or (c) may be suspended,
+recalled, or removed by the general assembly or the advisory committee.
+(e) Subsections (b) and (c) must not be construed to prevent a commissioner
+from presenting the commissioner's opinions at the convention or debating a matter at
+the convention on which the commissioner's delegation has not formally taken a
+position.
+(f) The quorum for decision by the delegation, including the designation of
+commissioners for particular duties or functions and the determination of how the state's
+vote will be cast, is a majority present and voting at the time the delegation is polled. A
+decision must not be made and a vote must not be cast if less than a majority of the
+delegation votes in the poll.
+(g) The rule of decision for the delegation, a quorum being present, is that a
+majority of commissioners must be present and voting at the time of polling.
+3-18-113. Article V convention advisory committee.
+(a) The Article V convention advisory committee consists of the following
+members:
+(1) One (1) state senator appointed by the speaker of the senate;
+(2) One (1) state representative appointed by the speaker of the house of
+representatives; and
+(3) One (1) member of the general assembly nominated by joint action of
+the speaker of the senate and the speaker of the house of representatives who is
+approved by the majority of those voting in each house of the general assembly.
+(b) The advisory committee shall select one (1) of its members as chair.
+- 8 - 013114
+(c) A commissioner may inquire from the advisory committee as to whether a
+proposed action by the commissioner would violate the commissioning resolution, the
+commissioner's oath, or any subsequent instruction of the general assembly.
+(d) The advisory committee:
+(1) Shall communicate to the commissioner requesting such advice a
+determination within twenty-four (24) hours of receiving the request;
+(2) May communicate such determination by any appropriate medium;
+and
+(3) Has the authority to hire staff and develop appropriate procedures
+and mechanisms for monitoring the convention, commissioners, its committees,
+and subcommittees.
+3-18-114. Monitoring the exercise of commissioner authority.
+(a) Whenever the advisory committee has reason to believe that a commissioner
+or alternate commissioner has exceeded such commissioner's scope of authority, the
+committee shall notify the speaker of the house of representatives, the speaker of the
+senate, and the attorney general and reporter.
+(b) Upon the request for a determination by the speaker of the house of
+representatives, the speaker of the senate, or the attorney general and reporter on
+whether a commissioner or alternate commissioner has exceeded the commissioner's
+scope of authority, the advisory committee shall expeditiously issue a determination on
+whether the commissioner or alternate commissioner exceeded such scope of authority
+and immediately communicate its determination to the requester.
+(c) Upon determining that a commissioner or alternate commissioner has
+exceeded the commissioner's scope of authority pursuant to subsection (a) or (b), the
+advisory committee shall immediately exercise its authority under § 3-18-105(f) to
+remove the commissioner, and shall communicate said action and the reasons therefor
+- 9 - 013114
+to the speaker of the house of representatives, the speaker of the senate, the attorney
+general and reporter, and the presiding officers of the convention.
+3-18-115. Offenses - Penalty.
+(a) It is an offense for a commissioner or alternate commissioner to knowingly or
+intentionally vote or attempt to vote outside the scope or in violation of:
+(1) The joint commissioning resolution, such commissioner's oath of
+office, or further instructions established by the general assembly; or
+(2) The limits placed by the general assembly in a joint resolution that
+calls for an Article V convention for the purpose of proposing amendments to the
+Constitution of the United States on the subjects and amendments that may be
+considered by the Article V convention.
+(b) A violation of subsection (a) is a Class E felony.
+
+Section 3:
+SECTION 2. The headings in this act are for reference purposes only and do not
+constitute a part of the law enacted by this act. However, the Tennessee Code Commission is
+requested to include the headings in any compilation or publication containing this act.
+
+Section 4:
+SECTION 3. This act takes effect upon becoming a law, the public welfare requiring it.
+- 10 - 013114
+[DELETED:  a HS3T3A(((]
+[DELETED:  -0((((((3A((((((]
+[DELETED:  -0(((3C3(((]
+[DELETED:  -0(((3((((((]
+[DELETED:  -0((((3(((((]
+[DELETED:  -0((3A3((((3((]
+[DELETED:  -0(3((3(((]
+[DELETED:  -0((((3(((((]
+[DELETED:  -0(((((3(((]
+[DELETED:  -0((((SS]
+
+
+================================================================================
+
+Raw Text:
+House State & Local Government 1
+Amendment No. 1 to HB1499
+Crawford
+Signature of Sponsor
+AMEND S e n ate Bill No. 1567* House Bill No. 1499
+by deleting all language after the enacting clause and substituting:
+SECTION 1. Tennessee Code Annotated, Title 3, Chapter 18, is amended by deleting
+the chapter and substituting:
+3-18-101. Application of chapter.
+This chapter applies to a convention for proposing amendments held under
+Article V of the United States Constitution.
+3-18-102. Chapter definitions.
+As used in this chapter, unless the context otherwise requires:
+(1) "Advisory committee" means the Article V convention advisory
+committee created pursuant to § 3-18-113;
+(2) "Alternate commissioner" means a person elected as an alternate
+commissioner of a paired commissioner pursuant to § 3-18-105;
+(3) "Article V convention" or "convention" means a convention for
+proposing amendments to the United States Constitution called for by the states
+under Article V of the United States Constitution;
+HA0734
+013114
+- 1 -
+
+(4) "Commissioner" means a person selected by resolution of the general
+assembly as a commissioner or alternate commissioner pursuant to § 3-18-105;
+(5) "Commissioning resolution" means the resolution adopted by the
+senate and house of representatives of the general assembly that sets forth the
+names of the appointed commissioners and their commissions and instructions;
+(6) "Delegation" means the group of commissioners and alternate
+commissioners chosen by the general assembly to attend an Article V convention
+with the powers and duties defined in this chapter;
+(7) "House of representatives" means the house of representatives of the
+general assembly;
+(8) "Paired commissioner" means the commissioner with whom an
+alternate commissioner is paired as provided by this chapter; and
+(9) "Senate" means the senate of the general assembly.
+3-18-103. Qualifications of commissioners.
+At the time of appointment and throughout the Article V convention, a
+commissioner:
+(1) Must be a United States citizen for at least five (5) years;
+(2) Must be a resident of this state for at least five (5) years;
+(3) Must be at least twenty-five (25) years of age;
+(4) Must be a registered voter in this state;
+(5) Must not be registered or required to be registered at any time within
+the last five (5) years as a lobbyist under chapter 6, part 3 of this title or under 2
+U.S.C. § 1603, or rules or regulations adopted under such laws;
+(6) Must not currently be a federal employee, other than a member of the
+United States armed forces, or contractor, nor have been such an employee or
+contractor at any time within the last ten (10) years;
+- 2 - 013114
+
+(7) Must not have held a federal elected or appointed office at any time
+within the last ten (10) years;
+(8) Must not have had any felony convictions for crimes involving moral
+turpitude in any jurisdiction of the United States, nor any felony convictions for
+any crime in such a jurisdiction within the last ten (10) years; and
+(9) Must not hold a statewide office while performing the duties of
+commissioner or alternate commissioner. As used in this subdivision (9),
+"statewide office" does not include a person elected to serve in the general
+assembly.
+3-18-104. Participation in Article V conventions.
+Costs related to an Article V convention, except for the costs of any special
+session to consider whether to participate in an Article V convention, must not be
+incurred until the general assembly passes a resolution agreeing to participate in an
+Article V convention. The joint resolution agreeing to participate in the Article V
+convention and any additional joint resolutions related to that participation must request
+a specific appropriation for all expenditures related to each such joint resolution.
+3-18-105. Joint commissioning resolution - Commissioner selection and removal.
+(a) Commissioners and alternate commissioners must be named by a joint
+resolution passed by a two-thirds (2/3) vote of those present and voting in a joint session
+of the general assembly. The general assembly shall appoint commissioners and
+alternate commissioners so that, as near as practicable, the three (3) grand divisions of
+the state are equally represented.
+(b) At the time of election, each commissioner must be paired with an alternate
+commissioner as provided in the joint resolution adopted by the general assembly.
+(c) If the general assembly is not in session during the time at which
+commissioners to an Article V convention must be appointed, the governor shall call the
+- 3 - 013114
+
+general assembly into special session under Article III, § 9 of the Constitution of
+Tennessee for the purpose of appointing commissioners and alternate commissioners.
+(d) The general assembly shall maintain an odd number of commissioners in the
+delegation.
+(e) A commissioner or alternate commissioner may be suspended, recalled, or
+removed at any time and for any reason by a joint resolution of the general assembly or
+by a majority of those present and voting in a joint session thereof.
+(f) A commissioner or alternate commissioner may also be suspended, recalled,
+or removed by the advisory committee pursuant to a determination under § 3-18-114.
+3-18-106. Joint commissioning resolution - Commission and scope of authority.
+(a) The joint resolution adopted pursuant to § 3-18-105 naming the
+commissioners and alternate commissioners must include their commission. The
+commission must include, but is not limited to, the following:
+(1) A commissioner shall not vote for or otherwise promote any change
+to the traditional convention rule of decision on the floor and in the committee of
+the whole, to-wit, that each state has one (1) vote;
+(2) A commissioner shall not vote for or otherwise promote a convention
+rule that does not require recorded roll call votes or the electronic equivalent;
+(3) A proposed amendment is not germane unless its subject matter is
+consistent with the resolutions of the legislatures of the several states that were
+the basis of calling the convention; and
+(4) A commissioner shall not vote in favor of a proposed amendment that
+would alter the text of the specific guarantees of individual liberty established by
+the United States Constitution.
+(b) The commissioning resolution must clearly state the scope of the
+commissioners' and alternate commissioners' authority, which must be limited as
+follows:
+- 4 - 013114
+
+(1) If this state is not one (1) of the two-thirds (2/3) of the states applying
+for the convention, to the subject matter enumerated in the thirty-four (34) or
+more state applications that triggered the convention;
+(2) If this state is one (1) of the two-thirds (2/3) of the states applying for
+the convention, to the subject matter enumerated in this state's application for the
+convention; and
+(3) To additional instructions from the general assembly, whether in the
+joint commissioning resolution or by a subsequent joint resolution.
+(c) The general assembly may provide additional instructions at any time by the
+adoption of a subsequent joint resolution, a copy of which the clerk of the house of
+representatives shall provide to each commissioner, alternate commissioner, and to the
+advisory committee.
+3-18-107. Oath.
+(a) Each commissioner and alternate commissioner shall, after appointment and
+before the commissioner or alternate commissioner may exercise any function as
+commissioner or alternate commissioner, execute an oath in writing that the
+commissioner or alternate commissioner:
+(1) Will support the United States Constitution and the Constitution of
+Tennessee;
+(2) Will faithfully abide by and execute all instructions to commissioners
+and alternate commissioners adopted by the general assembly and as may be
+amended by the general assembly from time to time;
+(3) Will accept and act according to the limit of authority specified in the
+commissioning resolution;
+(4) Acknowledges that violating this oath may subject the commissioner
+or alternate commissioner to penalties as provided by law, and such
+- 5 - 013114
+
+commissioner or alternate commissioner may be suspended, recalled, or
+removed by the general assembly or the advisory committee; and
+(5) Will otherwise faithfully discharge the duties of commissioner or
+alternate commissioner.
+(b) Each commissioner's or alternate commissioner's executed oath must be
+filed with the secretary of state.
+3-18-108. Credentials.
+After a commissioner's executed oath is filed with the secretary of state, the clerk
+of the house of representatives shall provide to the commissioner an official copy of the
+executed oath and the commissioning resolution, which together serves as the
+commissioner's credentials.
+3-18-109. Vacancies - Authority of alternate commissioners.
+(a) The alternate commissioner shall fill the vacancy of the paired commissioner.
+Any additional vacancies must be filled by the advisory committee's selection of an
+alternate commissioner until such time as a vote by a joint session of the general
+assembly selects a permanent replacement.
+(b) An alternate commissioner shall:
+(1) Act in the place of the paired commissioner when the paired
+commissioner is absent from the Article V convention; or
+(2) Replace the paired commissioner if the paired commissioner vacates
+the office.
+3-18-110. Compensation and expenses.
+(a) A commissioner must receive the same compensation as a member of the
+house of representatives, prorated for length of time served.
+(b) A commissioner is entitled to receive the same per diem and allowance for
+expenses and mileage as provided to a member of the house of representatives in
+- 6 - 013114
+
+accordance with the regulations promulgated by the commissioner of finance and
+administration and approved by the attorney general and reporter.
+(c) All funds necessary to pay expenses under subsection (a) must be paid from
+appropriations to the general assembly subject to approval by joint resolution under § 3-
+18-104.
+3-18-111. Emolument and gift prohibition.
+(a) A commissioner or an alternate commissioner shall not accept, during such
+commissioner's time of service, any gifts or benefits with a combined value of more than
+two hundred dollars ($200), other than from a member of such commissioner's
+immediate family and of the kind customarily granted by such immediate family member.
+(b) As used in this section, "gift or benefit" must be construed liberally to include
+current and future loans, lodging, food, offers of prospective employment, and other
+actual and prospective benefits; provided, that an employer's decision to continue paying
+a commissioner's current salary is not a gift.
+3-18-112. Quorum, conduct, and rule of decision within the delegation.
+(a) The commissioners within the delegation, including any alternate
+commissioners filling a vacancy, shall choose from among them a chair of the
+delegation, a person who must cast the state's vote on the convention floor, and a
+person to speak to the media on behalf of the delegation. If the delegation so decides,
+the same person may exercise any or all such functions. The delegation may designate
+a different commissioner to perform any function at any time.
+(b) Each commissioner shall take care to avoid communicating the impression to
+a person outside of the delegation that the delegation is divided on a question on which
+the delegation has taken a formal position, including, but not limited to, whether to cast a
+vote for or against a proposal.
+(c) Except for the commissioner designated to communicate with the media on
+behalf of the delegation, a commissioner shall not communicate with the media about
+- 7 - 013114
+
+convention business during the convention or during any temporary recess or temporary
+adjournment.
+(d) A commissioner who violates subsection (b) or (c) may be suspended,
+recalled, or removed by the general assembly or the advisory committee.
+(e) Subsections (b) and (c) must not be construed to prevent a commissioner
+from presenting the commissioner's opinions at the convention or debating a matter at
+the convention on which the commissioner's delegation has not formally taken a
+position.
+(f) The quorum for decision by the delegation, including the designation of
+commissioners for particular duties or functions and the determination of how the state's
+vote will be cast, is a majority present and voting at the time the delegation is polled. A
+decision must not be made and a vote must not be cast if less than a majority of the
+delegation votes in the poll.
+(g) The rule of decision for the delegation, a quorum being present, is that a
+majority of commissioners must be present and voting at the time of polling.
+3-18-113. Article V convention advisory committee.
+(a) The Article V convention advisory committee consists of the following
+members:
+(1) One (1) state senator appointed by the speaker of the senate;
+(2) One (1) state representative appointed by the speaker of the house of
+representatives; and
+(3) One (1) member of the general assembly nominated by joint action of
+the speaker of the senate and the speaker of the house of representatives who is
+approved by the majority of those voting in each house of the general assembly.
+(b) The advisory committee shall select one (1) of its members as chair.
+- 8 - 013114
+
+(c) A commissioner may inquire from the advisory committee as to whether a
+proposed action by the commissioner would violate the commissioning resolution, the
+commissioner's oath, or any subsequent instruction of the general assembly.
+(d) The advisory committee:
+(1) Shall communicate to the commissioner requesting such advice a
+determination within twenty-four (24) hours of receiving the request;
+(2) May communicate such determination by any appropriate medium;
+and
+(3) Has the authority to hire staff and develop appropriate procedures
+and mechanisms for monitoring the convention, commissioners, its committees,
+and subcommittees.
+3-18-114. Monitoring the exercise of commissioner authority.
+(a) Whenever the advisory committee has reason to believe that a commissioner
+or alternate commissioner has exceeded such commissioner's scope of authority, the
+committee shall notify the speaker of the house of representatives, the speaker of the
+senate, and the attorney general and reporter.
+(b) Upon the request for a determination by the speaker of the house of
+representatives, the speaker of the senate, or the attorney general and reporter on
+whether a commissioner or alternate commissioner has exceeded the commissioner's
+scope of authority, the advisory committee shall expeditiously issue a determination on
+whether the commissioner or alternate commissioner exceeded such scope of authority
+and immediately communicate its determination to the requester.
+(c) Upon determining that a commissioner or alternate commissioner has
+exceeded the commissioner's scope of authority pursuant to subsection (a) or (b), the
+advisory committee shall immediately exercise its authority under § 3-18-105(f) to
+remove the commissioner, and shall communicate said action and the reasons therefor
+- 9 - 013114
+
+to the speaker of the house of representatives, the speaker of the senate, the attorney
+general and reporter, and the presiding officers of the convention.
+3-18-115. Offenses - Penalty.
+(a) It is an offense for a commissioner or alternate commissioner to knowingly or
+intentionally vote or attempt to vote outside the scope or in violation of:
+(1) The joint commissioning resolution, such commissioner's oath of
+office, or further instructions established by the general assembly; or
+(2) The limits placed by the general assembly in a joint resolution that
+calls for an Article V convention for the purpose of proposing amendments to the
+Constitution of the United States on the subjects and amendments that may be
+considered by the Article V convention.
+(b) A violation of subsection (a) is a Class E felony.
+SECTION 2. The headings in this act are for reference purposes only and do not
+constitute a part of the law enacted by this act. However, the Tennessee Code Commission is
+requested to include the headings in any compilation or publication containing this act.
+SECTION 3. This act takes effect upon becoming a law, the public welfare requiring it.
+- 10 - 013114
+
+[DELETED:  a HS3T3A(((]
+[DELETED:  -0((((((3A((((((]
+[DELETED:  -0(((3C3(((]
+[DELETED:  -0(((3((((((]
+[DELETED:  -0((((3(((((]
+[DELETED:  -0((3A3((((3((]
+[DELETED:  -0(3((3(((]
+[DELETED:  -0((((3(((((]
+[DELETED:  -0(((((3(((]
+[DELETED:  -0((((SS]

@@ -1,0 +1,51 @@
+Title: HOUSE BILL 2508
+Official Title: HOUSE BILL 2508
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+By Sexton
+SENATE BILL 2588
+By Jackson
+AN ACT to amend Tennessee Code Annotated, Title 4;
+Title 5; Title 6; Title 7; Title 12; Title 13; Title 29;
+Title 54; Title 55; Title 59; Title 60; Title 66 and
+Title 68, relative to property rights.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 66-5-108(e)(3), is amended by
+deleting "ten (10) days after" and substituting "within ten (10) business days after".
+
+Section 3:
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+SB2588
+010229
+- 1 -
+[DELETED: SS]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 2508
+By Sexton
+SENATE BILL 2588
+By Jackson
+AN ACT to amend Tennessee Code Annotated, Title 4;
+Title 5; Title 6; Title 7; Title 12; Title 13; Title 29;
+Title 54; Title 55; Title 59; Title 60; Title 66 and
+Title 68, relative to property rights.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 66-5-108(e)(3), is amended by
+deleting "ten (10) days after" and substituting "within ten (10) business days after".
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+SB2588
+010229
+- 1 -
+
+[DELETED: SS]
