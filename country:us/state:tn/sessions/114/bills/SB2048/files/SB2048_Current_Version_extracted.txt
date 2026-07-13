@@ -1,0 +1,77 @@
+Title: HOUSE BILL 2155
+Official Title: HOUSE BILL 2155
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+By Baum
+SENATE BILL 2048
+By Gardenhire
+AN ACT to amend Tennessee Code Annotated, Title 24;
+Title 29, Chapter 26 and Title 50, Chapter 6,
+relative to opinions as to medical findings.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 24-7-115, is amended by designating
+the existing language as subsection (a) and adding the following new subsections:
+(b) A licensed nurse practitioner or licensed physician assistant who is properly
+qualified as an expert under the Tennessee Rules of Evidence may testify as to the
+diagnosis of an injury or condition; the reasonable and necessary medical care provided;
+the reasonableness of the associated treatment charges; the medical cause of an injury,
+condition, or impairment; and any additional matters within the scope of expert testimony
+ordinarily permitted to a physician under the Tennessee Rules of Evidence in any civil
+action other than:
+(1) A health care liability action filed pursuant to title 29, chapter 26; or
+(2) A workers' compensation claim filed pursuant to title 50, chapter 6.
+(c) This section does not permit the inclusion of an advance practice registered
+nurse or physician assistant on any workers' compensation panel pursuant to title 50,
+chapter 6, or the provision of any testimony by an advance practice registered nurse or
+physician assistant in a workers' compensation case regarding the injured worker's
+medical impairment rating or disability rating, or whether the injury is work-related.
+
+Section 3:
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+SB2048
+011872
+- 1 -
+[DELETED: S((((S]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 2155
+By Baum
+SENATE BILL 2048
+By Gardenhire
+AN ACT to amend Tennessee Code Annotated, Title 24;
+Title 29, Chapter 26 and Title 50, Chapter 6,
+relative to opinions as to medical findings.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 24-7-115, is amended by designating
+the existing language as subsection (a) and adding the following new subsections:
+(b) A licensed nurse practitioner or licensed physician assistant who is properly
+qualified as an expert under the Tennessee Rules of Evidence may testify as to the
+diagnosis of an injury or condition; the reasonable and necessary medical care provided;
+the reasonableness of the associated treatment charges; the medical cause of an injury,
+condition, or impairment; and any additional matters within the scope of expert testimony
+ordinarily permitted to a physician under the Tennessee Rules of Evidence in any civil
+action other than:
+(1) A health care liability action filed pursuant to title 29, chapter 26; or
+(2) A workers' compensation claim filed pursuant to title 50, chapter 6.
+(c) This section does not permit the inclusion of an advance practice registered
+nurse or physician assistant on any workers' compensation panel pursuant to title 50,
+chapter 6, or the provision of any testimony by an advance practice registered nurse or
+physician assistant in a workers' compensation case regarding the injured worker's
+medical impairment rating or disability rating, or whether the injury is work-related.
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+SB2048
+011872
+- 1 -
+
+[DELETED: S((((S]

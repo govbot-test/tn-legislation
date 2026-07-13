@@ -1,0 +1,277 @@
+Title: SENATE BILL 2576
+Official Title: SENATE BILL 2576
+Number of Sections: 12
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+By Harshbarger
+HOUSE BILL 2332
+By Butler
+AN ACT to amend Tennessee Code Annotated, Title 8,
+Chapter 27; Title 56, Chapter 7 and Title 71,
+Chapter 5, relative to pharmacy benefits
+managers.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 56-7-3206(c)(1), is amended by
+deleting the subdivision and substituting:
+(1) Notwithstanding another law to the contrary, a pharmacy benefits manager
+shall not reimburse a contracted pharmacy for a prescription drug or device or a
+pharmacy service in an amount that is less than the greatest of:
+(A) The actual cost to the pharmacy for the prescription drug or device or
+pharmacy service;
+(B) One hundred five percent (105%) of the national average drug
+acquisition cost (NADAC) as calculated by the centers for medicare and
+medicaid services and reflected in the most recently released public file for the
+prescription drug or device or pharmacy service at the time the drug or device is
+administered or dispensed or service is rendered;
+(C) The wholesale acquisition cost (WAC) of the drug, as defined in 42
+U.S.C. § 1395w-3a(c)(6)(B), if the national average drug acquisition cost is not
+available at the time the drug is administered or dispensed; or
+(D) The amount the pharmacy benefits manager reimburses the
+pharmacy benefits manager's self or an affiliate for the same prescription drug or
+device or pharmacy service on a per-unit basis using the same generic product
+identifier or generic code number.
+HB2332
+012480
+- 1 -
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 56-7-3206(c)(2)(A), is amended by
+deleting the subdivision and substituting:
+(A)
+(i) A pharmacy benefits manager shall establish a process for a
+pharmacy to appeal a reimbursement for failing to pay at least the actual cost to
+the pharmacy for the prescription drug or device or pharmacy service.
+(ii) If a pharmacy benefits manager fails to pay at least the amount
+required by subdivision (c)(1)(B), (C), and (D) for the prescription drug or device
+or pharmacy service, then the pharmacy may file a complaint against the
+pharmacy benefits manager with the department of commerce and insurance.
+(iii) It is a violation of this subsection (c) if a pharmacy benefits manager
+or covered entity fails to reimburse the pharmacy at least the amount required by
+subdivision (c)(1)(B), (C), and (D) for the prescription drug or device or pharmacy
+service.
+(iv) A pharmacy benefits manager or covered entity who fails to
+reimburse a pharmacy at least the amount required by subdivision (c)(1)(B), (C),
+and (D) for the prescription drug or device or pharmacy service shall pay the
+pharmacy twice the amount owed to the pharmacy.
+
+Section 4:
+SECTION 3. Tennessee Code Annotated, Section 56-7-3206(c)(3)(B), is amended by
+deleting the subdivision and substituting:
+(B)
+(i) It is a violation of this subsection (c) if, after an appeal in which a
+pharmacy or agent acting on behalf of a pharmacy prevails, a pharmacy benefits
+manager or covered entity fails to reimburse the pharmacy, at a minimum, the
+actual cost within fourteen (14) days.
+- 2 - 012480
+(ii) A pharmacy benefits manager or covered entity who fails to reimburse
+a pharmacy, as described in subdivision (c)(3)(B)(i), shall pay the pharmacy
+twice the amount owed to the pharmacy.
+
+Section 5:
+SECTION 4. Tennessee Code Annotated, Section 56-7-3206(c)(4)(B), is amended by
+deleting the subdivision and substituting:
+(B)
+(i) If the product associated with the national drug code number or unique
+device identifier is not available at a cost that is less than the challenged rate of
+reimbursement from the pharmaceutical wholesaler from whom the pharmacy
+purchases the majority of prescription pharmaceutical products for resale, then
+the pharmacy benefits manager shall adjust the challenged rate of
+reimbursement to an amount equal to or greater than the appealing pharmacy's
+actual cost for each claim affected by the inability to procure the pharmaceutical
+product at a cost that is equal to or less than the previously challenged rate of
+reimbursement. The pharmacy benefits manager shall pay or waive the cost of
+any transaction fee required to reverse and rebill the claim.
+(ii) A pharmacy benefits manager shall remit all additional monies owed
+and provide claim-level details for the adjustments to the pharmacy and its
+pharmacy services administrative organization within seven (7) business days of
+the appeal determination.
+
+Section 6:
+SECTION 5. Tennessee Code Annotated, Section 56-7-3206(d), is amended by
+deleting the subsection.
+
+Section 7:
+SECTION 6. Tennessee Code Annotated, Section 56-7-3206(e), is amended by
+deleting the subsection and substituting:
+- 3 - 012480
+(e) A pharmacy benefits manager shall not include within the amount calculated
+to reimburse a pharmacy pursuant to subdivision (c)(1) the amount of any professional
+dispensing fee that is payable to the pharmacy.
+
+Section 8:
+SECTION 7. Tennessee Code Annotated, Section 56-7-3206(c)(3)(A)(iii), is amended
+by deleting the subdivision and substituting:
+(iii) Not require the challenging pharmacy to reverse and rebill the claim upon
+which the appeal is based and waive or not require the challenging pharmacy to pay the
+cost of any transaction fee or other fees required to reverse and rebill the claim;
+
+Section 9:
+SECTION 8. Tennessee Code Annotated, Section 56-7-3206(c)(3)(A)(iv), is amended
+by deleting the subdivision and substituting:
+(iv) Pay all additional monies owed to the pharmacy and provide claim-level
+details for the payment to the pharmacy and its pharmacy services administrative
+organization within seven (7) business days;
+
+Section 10:
+SECTION 9. Tennessee Code Annotated, Section 56-7-3206(c)(3)(A), is amended by
+adding the following as a new subdivision:
+(vii) Apply the findings from the appeal as to the rate of the reimbursement and
+actual cost for the particular drug or medical product or device to all remaining refills on
+the issued prescription drug or medical product or device.
+
+Section 11:
+SECTION 10. Tennessee Code Annotated, Section 56-7-3206(f), is amended by
+deleting the subsection and substituting:
+(f) A pharmacy benefits manager shall pay a professional dispensing fee at a
+rate that is not less than the amount paid by the TennCare program to a pharmacy if the
+pharmacy dispenses a prescription drug or device pursuant to an agreement with the
+pharmacy benefits manager or a covered entity. This professional dispensing fee must
+- 4 - 012480
+not be added on to the patient's copayment cost share, deductible, or otherwise passed
+to the patient through any other out-of-pocket payment by the beneficiary.
+
+Section 12:
+SECTION 11. This act takes effect July 1, 2026, the public welfare requiring it, and
+applies to policies, plans, and contracts entered into, renewed, amended, or modified on or after
+that date.
+- 5 - 012480
+[DELETED: S(((((]
+[DELETED:  -0S(((((S((]
+[DELETED:  -0(S(((SS]
+[DELETED:  -0(S(S(S(S(]
+[DELETED:  -0S]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 2576
+By Harshbarger
+HOUSE BILL 2332
+By Butler
+AN ACT to amend Tennessee Code Annotated, Title 8,
+Chapter 27; Title 56, Chapter 7 and Title 71,
+Chapter 5, relative to pharmacy benefits
+managers.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 56-7-3206(c)(1), is amended by
+deleting the subdivision and substituting:
+(1) Notwithstanding another law to the contrary, a pharmacy benefits manager
+shall not reimburse a contracted pharmacy for a prescription drug or device or a
+pharmacy service in an amount that is less than the greatest of:
+(A) The actual cost to the pharmacy for the prescription drug or device or
+pharmacy service;
+(B) One hundred five percent (105%) of the national average drug
+acquisition cost (NADAC) as calculated by the centers for medicare and
+medicaid services and reflected in the most recently released public file for the
+prescription drug or device or pharmacy service at the time the drug or device is
+administered or dispensed or service is rendered;
+(C) The wholesale acquisition cost (WAC) of the drug, as defined in 42
+U.S.C. § 1395w-3a(c)(6)(B), if the national average drug acquisition cost is not
+available at the time the drug is administered or dispensed; or
+(D) The amount the pharmacy benefits manager reimburses the
+pharmacy benefits manager's self or an affiliate for the same prescription drug or
+device or pharmacy service on a per-unit basis using the same generic product
+identifier or generic code number.
+HB2332
+012480
+- 1 -
+
+SECTION 2. Tennessee Code Annotated, Section 56-7-3206(c)(2)(A), is amended by
+deleting the subdivision and substituting:
+(A)
+(i) A pharmacy benefits manager shall establish a process for a
+pharmacy to appeal a reimbursement for failing to pay at least the actual cost to
+the pharmacy for the prescription drug or device or pharmacy service.
+(ii) If a pharmacy benefits manager fails to pay at least the amount
+required by subdivision (c)(1)(B), (C), and (D) for the prescription drug or device
+or pharmacy service, then the pharmacy may file a complaint against the
+pharmacy benefits manager with the department of commerce and insurance.
+(iii) It is a violation of this subsection (c) if a pharmacy benefits manager
+or covered entity fails to reimburse the pharmacy at least the amount required by
+subdivision (c)(1)(B), (C), and (D) for the prescription drug or device or pharmacy
+service.
+(iv) A pharmacy benefits manager or covered entity who fails to
+reimburse a pharmacy at least the amount required by subdivision (c)(1)(B), (C),
+and (D) for the prescription drug or device or pharmacy service shall pay the
+pharmacy twice the amount owed to the pharmacy.
+SECTION 3. Tennessee Code Annotated, Section 56-7-3206(c)(3)(B), is amended by
+deleting the subdivision and substituting:
+(B)
+(i) It is a violation of this subsection (c) if, after an appeal in which a
+pharmacy or agent acting on behalf of a pharmacy prevails, a pharmacy benefits
+manager or covered entity fails to reimburse the pharmacy, at a minimum, the
+actual cost within fourteen (14) days.
+- 2 - 012480
+
+(ii) A pharmacy benefits manager or covered entity who fails to reimburse
+a pharmacy, as described in subdivision (c)(3)(B)(i), shall pay the pharmacy
+twice the amount owed to the pharmacy.
+SECTION 4. Tennessee Code Annotated, Section 56-7-3206(c)(4)(B), is amended by
+deleting the subdivision and substituting:
+(B)
+(i) If the product associated with the national drug code number or unique
+device identifier is not available at a cost that is less than the challenged rate of
+reimbursement from the pharmaceutical wholesaler from whom the pharmacy
+purchases the majority of prescription pharmaceutical products for resale, then
+the pharmacy benefits manager shall adjust the challenged rate of
+reimbursement to an amount equal to or greater than the appealing pharmacy's
+actual cost for each claim affected by the inability to procure the pharmaceutical
+product at a cost that is equal to or less than the previously challenged rate of
+reimbursement. The pharmacy benefits manager shall pay or waive the cost of
+any transaction fee required to reverse and rebill the claim.
+(ii) A pharmacy benefits manager shall remit all additional monies owed
+and provide claim-level details for the adjustments to the pharmacy and its
+pharmacy services administrative organization within seven (7) business days of
+the appeal determination.
+SECTION 5. Tennessee Code Annotated, Section 56-7-3206(d), is amended by
+deleting the subsection.
+SECTION 6. Tennessee Code Annotated, Section 56-7-3206(e), is amended by
+deleting the subsection and substituting:
+- 3 - 012480
+
+(e) A pharmacy benefits manager shall not include within the amount calculated
+to reimburse a pharmacy pursuant to subdivision (c)(1) the amount of any professional
+dispensing fee that is payable to the pharmacy.
+SECTION 7. Tennessee Code Annotated, Section 56-7-3206(c)(3)(A)(iii), is amended
+by deleting the subdivision and substituting:
+(iii) Not require the challenging pharmacy to reverse and rebill the claim upon
+which the appeal is based and waive or not require the challenging pharmacy to pay the
+cost of any transaction fee or other fees required to reverse and rebill the claim;
+SECTION 8. Tennessee Code Annotated, Section 56-7-3206(c)(3)(A)(iv), is amended
+by deleting the subdivision and substituting:
+(iv) Pay all additional monies owed to the pharmacy and provide claim-level
+details for the payment to the pharmacy and its pharmacy services administrative
+organization within seven (7) business days;
+SECTION 9. Tennessee Code Annotated, Section 56-7-3206(c)(3)(A), is amended by
+adding the following as a new subdivision:
+(vii) Apply the findings from the appeal as to the rate of the reimbursement and
+actual cost for the particular drug or medical product or device to all remaining refills on
+the issued prescription drug or medical product or device.
+SECTION 10. Tennessee Code Annotated, Section 56-7-3206(f), is amended by
+deleting the subsection and substituting:
+(f) A pharmacy benefits manager shall pay a professional dispensing fee at a
+rate that is not less than the amount paid by the TennCare program to a pharmacy if the
+pharmacy dispenses a prescription drug or device pursuant to an agreement with the
+pharmacy benefits manager or a covered entity. This professional dispensing fee must
+- 4 - 012480
+
+not be added on to the patient's copayment cost share, deductible, or otherwise passed
+to the patient through any other out-of-pocket payment by the beneficiary.
+SECTION 11. This act takes effect July 1, 2026, the public welfare requiring it, and
+applies to policies, plans, and contracts entered into, renewed, amended, or modified on or after
+that date.
+- 5 - 012480
+
+[DELETED: S(((((]
+[DELETED:  -0S(((((S((]
+[DELETED:  -0(S(((SS]
+[DELETED:  -0(S(S(S(S(]
+[DELETED:  -0S]

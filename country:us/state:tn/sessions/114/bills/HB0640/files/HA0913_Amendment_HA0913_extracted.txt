@@ -1,0 +1,100 @@
+Title: AMEND S e n ate Bill No. 400* House Bill No. 640
+Official Title: AMEND S e n ate Bill No. 400* House Bill No. 640
+Number of Sections: 6
+Source: versions - Amendment HA0913
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+House Education 1
+Amendment No. 1 to HB0640
+White
+Signature of Sponsor
+by deleting all language after the enacting clause and substituting:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 49-6-1507(a), is amended by adding
+the following as a new subdivision:
+(4) Guidance for TALLC members on how to align tutoring services for students
+with the remediation the student needs and with the academic standards adopted by the
+state board of education for the student's grade level.
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 49-6-1509(b)(1), is amended by
+adding "and the Tennessee accelerating literacy and learning corps (TALLC)" after "the learning
+loss remediation and student acceleration program".
+
+Section 4:
+SECTION 3. Tennessee Code Annotated, Section 49-6-1509(b)(2), is amended by
+adding the following as a new subdivision:
+(D) A comparison of the effectiveness of after-school learning mini-camps,
+learning loss bridge camps, summer learning camps, and tutoring services provided by
+TALLC members in remediating learning loss and improving student academic
+performance.
+
+Section 5:
+SECTION 4. Tennessee Code Annotated, Title 49, Chapter 6, Part 15, is amended by
+adding the following as a new section:
+The department shall provide LEAs with a list of secure data management
+systems that utilize platforms capable of tracking the effectiveness of intervention
+methods, resource allocation, and student progress in real time across all schools in the
+LEA. The systems listed must be capable of complying with the Family Educational
+HA0913
+014870
+- 1 -
+Rights and Privacy Act (FERPA) (20 U.S.C. § 1232g); § 10-7-504; the Data Accessibility,
+Transparency, and Accountability Act, compiled in chapter 1, part 7 of this title; and all
+other relevant privacy laws. This section does not require an LEA to utilize a system
+listed by the department pursuant to this section.
+
+Section 6:
+SECTION 5. This act takes effect July 1, 2026, the public welfare requiring it.
+- 2 - 014870
+[DELETED:  a HS(SS(ST]
+[DELETED:  -0S]
+
+
+================================================================================
+
+Raw Text:
+House Education 1
+Amendment No. 1 to HB0640
+White
+Signature of Sponsor
+AMEND S e n ate Bill No. 400* House Bill No. 640
+by deleting all language after the enacting clause and substituting:
+SECTION 1. Tennessee Code Annotated, Section 49-6-1507(a), is amended by adding
+the following as a new subdivision:
+(4) Guidance for TALLC members on how to align tutoring services for students
+with the remediation the student needs and with the academic standards adopted by the
+state board of education for the student's grade level.
+SECTION 2. Tennessee Code Annotated, Section 49-6-1509(b)(1), is amended by
+adding "and the Tennessee accelerating literacy and learning corps (TALLC)" after "the learning
+loss remediation and student acceleration program".
+SECTION 3. Tennessee Code Annotated, Section 49-6-1509(b)(2), is amended by
+adding the following as a new subdivision:
+(D) A comparison of the effectiveness of after-school learning mini-camps,
+learning loss bridge camps, summer learning camps, and tutoring services provided by
+TALLC members in remediating learning loss and improving student academic
+performance.
+SECTION 4. Tennessee Code Annotated, Title 49, Chapter 6, Part 15, is amended by
+adding the following as a new section:
+The department shall provide LEAs with a list of secure data management
+systems that utilize platforms capable of tracking the effectiveness of intervention
+methods, resource allocation, and student progress in real time across all schools in the
+LEA. The systems listed must be capable of complying with the Family Educational
+HA0913
+014870
+- 1 -
+
+Rights and Privacy Act (FERPA) (20 U.S.C. § 1232g); § 10-7-504; the Data Accessibility,
+Transparency, and Accountability Act, compiled in chapter 1, part 7 of this title; and all
+other relevant privacy laws. This section does not require an LEA to utilize a system
+listed by the department pursuant to this section.
+SECTION 5. This act takes effect July 1, 2026, the public welfare requiring it.
+- 2 - 014870
+
+[DELETED:  a HS(SS(ST]
+[DELETED:  -0S]

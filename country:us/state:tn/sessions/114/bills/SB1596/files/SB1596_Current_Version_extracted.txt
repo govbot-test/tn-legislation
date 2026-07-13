@@ -1,0 +1,210 @@
+Title: HOUSE BILL 1494
+Official Title: HOUSE BILL 1494
+Number of Sections: 4
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+By Slater
+SENATE BILL 1596
+By Haile
+AN ACT to amend Tennessee Code Annotated, Title 4;
+Title 56 and Title 67, Chapter 4, relative to tax
+credits.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Title 67, Chapter 4, Part 20, is amended by
+adding the following as a new section:
+67-4-2024.
+(a) As used in this section:
+(1) "Eligible charitable organization" means an organization that is
+approved by the office as meeting the eligibility criteria established in subsection
+(e), and that:
+(A) Is exempt from federal income taxation under § 501(c)(3) of
+the Internal Revenue Code (26 U.S.C. § 501(c)(3));
+(B) Is a nonprofit organization formed under title 48;
+(C) Has residents of this state comprising at least fifty percent
+(50%) of the organization's beneficiaries, clients, or users; and
+(D) Has residents of a tier 3 or tier 4 enhancement county, as
+defined in § 67-4-2109(a)(2)(C), comprising at least twenty-five percent
+(25%) of the organization's beneficiaries, clients, or users;
+(2) "Office" means the governor's office of faith-based and community
+initiatives established pursuant to title 4, chapter 32; and
+(3) "Qualified business" means a taxpayer subject to tax under this part
+and part 21 of this chapter, including a C corporation, S corporation, limited
+SB1596
+008805
+- 1 -
+liability company, or limited liability partnership, that is approved by the
+department for the tax credit in this section.
+(b) For tax years beginning on or after January 1, 2027, but prior to January 1,
+2032, there is allowed a credit of fifty percent (50%) of a monetary contribution made by
+a qualified business to an eligible charitable organization against the taxes imposed
+pursuant to this part and part 21 of this chapter in the tax year in which the contribution
+is made.
+(c) The credit allowed under subsection (b) must not exceed five thousand
+dollars ($5,000) per qualified business for each contribution made to an eligible
+charitable organization in a tax year.
+(d) For credits allocated during a tax year from contributions to eligible charitable
+organizations, no more than twenty percent (20%) of the credits may be allocated for
+contributions to a single eligible charitable organization, and no more than ten (10)
+eligible charitable organizations may be approved by the office.
+(e) To be approved as an eligible charitable organization, the organization must
+submit an application to the office that describes its specific projects and how the
+contributions made to the organization are to be used for each project, and that
+demonstrates that the organization's projects expand this state's values of volunteerism
+and human flourishing, as determined by the office. The application must be
+accompanied by a written certification, signed by an officer of the organization under
+penalty of perjury, confirming the organization's eligibility under the criteria established in
+subdivisions (a)(1)(A)-(D) and this subsection (e).
+(f) The office shall review each application submitted by an organization
+pursuant to subsection (e) and determine whether the organization meets all the criteria
+to be considered an eligible charitable organization and notify the organization of its
+- 2 - 008805
+determination. The organization shall notify the office within sixty (60) days of any
+changes that may adversely affect the organization's eligibility status. An organization
+approved by the office in a tax year must reapply to be approved in a subsequent tax
+year, and must not be approved for more than three (3) consecutive tax years.
+(g) To claim a credit, the taxpayer shall file an application with the commissioner
+on a form prescribed by the commissioner. The taxpayer shall provide the name of the
+eligible charitable organization receiving funds from the taxpayer and the amount of the
+contribution. In the application, the taxpayer shall certify to the department the dollar
+amount of the contributions made to the eligible charitable organization during the tax
+year and provide evidence of the contributions as required by the department.
+(h) The commissioner may conduct audits or require the filing of additional
+information necessary to substantiate or adjust the amount of the credit allowed by this
+
+Section 3:
+section and to determine that the taxpayer has complied with all statutory requirements
+for the credit.
+(i) The commissioner shall review the documentation submitted by the taxpayer
+and notify the taxpayer of the approved credit.
+(j) Unused credit may be carried forward in any tax period until the credit is
+taken; provided, however, that the credit must not be carried forward for more than
+twenty-five (25) years.
+(k) The commissioner is authorized to promulgate rules to effectuate the
+purposes of this section. The rules must be promulgated in accordance with the Uniform
+Administrative Procedures Act, compiled in title 4, chapter 5.
+(l) On or before January 1, 2027, the department shall submit a one-time report
+to the finance, ways and means committee of the senate and the committee of the
+house of representatives having jurisdiction over finance matters, setting forth the clear,
+- 3 - 008805
+relevant, and ascertainable metrics and data requirements that the department will track
+under this section in order to allow the general assembly to measure the effectiveness of
+the tax expenditure allowed in this section.
+
+Section 4:
+SECTION 2. For purposes of promulgating forms, this act takes effect upon becoming a
+law, the public welfare requiring it. For all other purposes, this act takes effect July 1, 2026, the
+public welfare requiring it.
+- 4 - 008805
+[DELETED: S6(]
+[DELETED:  -0]
+[DELETED:  -0]
+[DELETED:  -0]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 1494
+By Slater
+SENATE BILL 1596
+By Haile
+AN ACT to amend Tennessee Code Annotated, Title 4;
+Title 56 and Title 67, Chapter 4, relative to tax
+credits.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Title 67, Chapter 4, Part 20, is amended by
+adding the following as a new section:
+67-4-2024.
+(a) As used in this section:
+(1) "Eligible charitable organization" means an organization that is
+approved by the office as meeting the eligibility criteria established in subsection
+(e), and that:
+(A) Is exempt from federal income taxation under § 501(c)(3) of
+the Internal Revenue Code (26 U.S.C. § 501(c)(3));
+(B) Is a nonprofit organization formed under title 48;
+(C) Has residents of this state comprising at least fifty percent
+(50%) of the organization's beneficiaries, clients, or users; and
+(D) Has residents of a tier 3 or tier 4 enhancement county, as
+defined in § 67-4-2109(a)(2)(C), comprising at least twenty-five percent
+(25%) of the organization's beneficiaries, clients, or users;
+(2) "Office" means the governor's office of faith-based and community
+initiatives established pursuant to title 4, chapter 32; and
+(3) "Qualified business" means a taxpayer subject to tax under this part
+and part 21 of this chapter, including a C corporation, S corporation, limited
+SB1596
+008805
+- 1 -
+
+liability company, or limited liability partnership, that is approved by the
+department for the tax credit in this section.
+(b) For tax years beginning on or after January 1, 2027, but prior to January 1,
+2032, there is allowed a credit of fifty percent (50%) of a monetary contribution made by
+a qualified business to an eligible charitable organization against the taxes imposed
+pursuant to this part and part 21 of this chapter in the tax year in which the contribution
+is made.
+(c) The credit allowed under subsection (b) must not exceed five thousand
+dollars ($5,000) per qualified business for each contribution made to an eligible
+charitable organization in a tax year.
+(d) For credits allocated during a tax year from contributions to eligible charitable
+organizations, no more than twenty percent (20%) of the credits may be allocated for
+contributions to a single eligible charitable organization, and no more than ten (10)
+eligible charitable organizations may be approved by the office.
+(e) To be approved as an eligible charitable organization, the organization must
+submit an application to the office that describes its specific projects and how the
+contributions made to the organization are to be used for each project, and that
+demonstrates that the organization's projects expand this state's values of volunteerism
+and human flourishing, as determined by the office. The application must be
+accompanied by a written certification, signed by an officer of the organization under
+penalty of perjury, confirming the organization's eligibility under the criteria established in
+subdivisions (a)(1)(A)-(D) and this subsection (e).
+(f) The office shall review each application submitted by an organization
+pursuant to subsection (e) and determine whether the organization meets all the criteria
+to be considered an eligible charitable organization and notify the organization of its
+- 2 - 008805
+
+determination. The organization shall notify the office within sixty (60) days of any
+changes that may adversely affect the organization's eligibility status. An organization
+approved by the office in a tax year must reapply to be approved in a subsequent tax
+year, and must not be approved for more than three (3) consecutive tax years.
+(g) To claim a credit, the taxpayer shall file an application with the commissioner
+on a form prescribed by the commissioner. The taxpayer shall provide the name of the
+eligible charitable organization receiving funds from the taxpayer and the amount of the
+contribution. In the application, the taxpayer shall certify to the department the dollar
+amount of the contributions made to the eligible charitable organization during the tax
+year and provide evidence of the contributions as required by the department.
+(h) The commissioner may conduct audits or require the filing of additional
+information necessary to substantiate or adjust the amount of the credit allowed by this
+section and to determine that the taxpayer has complied with all statutory requirements
+for the credit.
+(i) The commissioner shall review the documentation submitted by the taxpayer
+and notify the taxpayer of the approved credit.
+(j) Unused credit may be carried forward in any tax period until the credit is
+taken; provided, however, that the credit must not be carried forward for more than
+twenty-five (25) years.
+(k) The commissioner is authorized to promulgate rules to effectuate the
+purposes of this section. The rules must be promulgated in accordance with the Uniform
+Administrative Procedures Act, compiled in title 4, chapter 5.
+(l) On or before January 1, 2027, the department shall submit a one-time report
+to the finance, ways and means committee of the senate and the committee of the
+house of representatives having jurisdiction over finance matters, setting forth the clear,
+- 3 - 008805
+
+relevant, and ascertainable metrics and data requirements that the department will track
+under this section in order to allow the general assembly to measure the effectiveness of
+the tax expenditure allowed in this section.
+SECTION 2. For purposes of promulgating forms, this act takes effect upon becoming a
+law, the public welfare requiring it. For all other purposes, this act takes effect July 1, 2026, the
+public welfare requiring it.
+- 4 - 008805
+
+[DELETED: S6(]
+[DELETED:  -0]
+[DELETED:  -0]
+[DELETED:  -0]

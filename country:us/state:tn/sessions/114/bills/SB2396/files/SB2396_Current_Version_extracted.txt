@@ -1,0 +1,674 @@
+Title: HOUSE BILL 2524
+Official Title: HOUSE BILL 2524
+Number of Sections: 10
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 12 sections found
+
+================================================================================
+
+Section 1:
+By Behn
+SENATE BILL 2396
+By Yarbro
+AN ACT to amend Tennessee Code Annotated, Title 29
+and Title 39, relative to criminal offenses.
+WHEREAS, this act establishes criminal penalties for employers who:
+(1) Facilitate labor trafficking of foreign workers;
+(2) Exploit and profit from employing unauthorized workers through systematic
+schemes;
+(3) Systematically evade employment verification and reporting requirements,
+resulting in lost tax revenues; and
+(4) Undermine wage and labor standards for Tennessee workers; now,
+therefore,
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 39-13-301, is amended by adding
+the following as new subdivisions:
+( ) "Employer" means a person, company, corporation, partnership, or business
+entity that hires or employs one (1) or more persons in this state;
+( ) "General contractor" means a person or entity that contracts for construction,
+alteration, repair, or improvement of any structure or building and subcontracts any
+portion of that work to another person or entity;
+( ) "Pattern of systematic evasion of verification and reporting" means
+repeatedly or systematically:
+(A) Failing to complete or maintain employment eligibility verification
+forms, such as an I-9, required by federal law;
+SB2396
+011833
+- 1 -
+(B) Failing to examine identity and work authorization documents
+required by federal law;
+(C) Failing to report employee wages and withholdings to state and
+federal authorities as required by law; or
+(D) Maintaining inadequate or false employment records for three (3) or
+more workers within any twenty-four-month period, where such pattern or
+systematic evasion facilitates the employment of unauthorized workers;
+( ) "Unauthorized worker" means a person who does not have legal
+authorization to work in the United States under federal law;
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Title 39, Chapter 13, Part 3, is amended by
+adding the following as new sections:
+39-13-317. Systematic unauthorized employment.
+(a) A person commits systematic unauthorized employment who is an officer,
+manager, or hiring agent with authority to act on behalf of an employer and:
+(1) Recklessly engages in a pattern of systematic evasion of verification
+and reporting requirements;
+(2) Misclassifies a worker as an independent contractor rather than an
+employee with intent to evade employment verification requirements;
+(3) As a general contractor, employs a subcontractor, knowing that the
+subcontractor is employing unauthorized workers on the general contractor's
+project or in reckless disregard of obvious evidence of such employment; or
+(4) Knowingly uses or contracts with an independent contractor or
+subcontractor whose business is substantially reliant on unauthorized labor.
+- 2 - 011833
+(b) A violation of subsection (a) is a Class E felony. Notwithstanding § 40-35-
+115, the sentencing court may order a person convicted of violations of subsection (a)
+involving multiple victims to serve the sentences for each conviction consecutively.
+(c) It is an affirmative defense to a violation of subsection (a), which must be
+proven by a preponderance of the evidence, that a general contractor required
+subcontractor compliance with employment verification laws in the subcontract, verified
+the subcontractor's compliance systems, and terminated the subcontractor upon
+discovering any violation.
+(d)
+(1) In addition to any other amount of loss identified or any other
+punishment imposed, the court shall order restitution to the victim, unless
+otherwise designated, in an amount equal to the greater of:
+(A)
+(i) The gross income or value of the benefit received by
+the defendant as the result of the victim's labor or services; or
+(ii) The value of the victim's labor as guaranteed under the
+minimum wage and overtime provisions of the Fair Labor
+Standards Act (FLSA) (29 U.S.C. § 201 et seq.), or the minimum
+wage required in this state, whichever is higher;
+(B) The value of unpaid benefits that were legally required;
+(C) Unpaid taxes and unemployment contributions, which must
+be paid to the appropriate government entity;
+(D) Workers' compensation premiums evaded; and
+(E) Damages to a competing business if proven at the
+defendant's sentencing hearing.
+- 3 - 011833
+(2) Defendants are jointly and severally liable with their subcontractors or
+independent contractors for all restitution amounts related to a shared project or
+work.
+(e)
+(1) A person may be held individually liable for the debts, obligations, and
+liabilities of the employer under this section.
+(2) An officer or director of a corporation or other business entity may be
+held personally criminally liable for the corporation's or other business entity's
+violation of this section if the officer or director directed, authorized, or knowingly
+permitted the violation.
+(3) In addition to any other penalty authorized by law, a defendant that is
+a corporation or other business entity must be subject to:
+(A) An additional fine of no less than fifty thousand dollars
+($50,000) and no more than five hundred thousand dollars ($500,000);
+and
+(B) Mandatory compliance monitoring of future employment
+practices as a condition of the defendant's probation. The court may
+appoint an independent compliance monitor at the defendant's expense.
+(f) The successor business of a business that is sold, transferred, or reorganized
+to avoid prosecution under this section may be subject to:
+(1) Pending criminal charges;
+(2) Restitution orders; and
+(3) Licensure revocation.
+- 4 - 011833
+(g) An employer who discriminates against an employee in violation of title 4,
+chapter 21, part 3, while claiming compliance with this section may face separate
+criminal charges and enhanced civil penalties.
+39-13-318. Aggravated systematic unauthorized employment.
+(a) An employer commits aggravated systematic unauthorized employment if the
+employer violates § 39-13-317(a) and:
+(1) Commits a pattern of ten (10) or more knowing violations within a
+period of twenty-four (24) months;
+(2) Pays the workers a wage that is below the federal minimum wage or
+denies legally required overtime pay;
+(3) Creates or provides false documents to workers;
+(4) Maintains unsafe or substandard working conditions for workers;
+(5) Maintains substandard or overcrowded housing for workers;
+(6) Retaliates against workers who report violations or exercise
+workplace rights;
+(7) Threatens workers with deportation, law enforcement contact, or
+immigration consequences;
+(8) Withholds wages, final pay, or earned benefits from workers;
+(9) Systematically evades employment tax obligations, including payroll
+withholding, workers' compensation, and unemployment insurance;
+(10) Has a prior conviction for violating this section or another criminal
+offense related to labor, employment, or tax law;
+(11) Confiscates or controls workers' identification documents or
+immigration papers;
+- 5 - 011833
+(12) Uses layers of subcontracting or misclassification schemes to
+conceal unauthorized employment; or
+(13) Acts as general contractor while knowingly utilizing multiple
+subcontractors who employ unauthorized workers.
+(b) A violation of subsection (a) is a Class D felony. Notwithstanding § 40-35-
+115, the sentencing court may order a person convicted of violations of subsection (a)
+involving multiple victims to serve the sentences for each conviction consecutively.
+(c)
+(1) In addition to any other amount of loss identified or any other
+punishment imposed, the court shall order restitution to the victim, unless
+otherwise designated, in an amount equal to the greater of:
+(A)
+(i) The gross income or value of the benefit received by
+the defendant as the result of the victim's labor or services; or
+(ii) The value of the victim's labor as guaranteed under the
+minimum wage and overtime provisions of the Fair Labor
+Standards Act (FLSA) (29 U.S.C. § 201 et seq.), or the minimum
+wage required in this state, whichever is higher;
+(B) The value of unpaid benefits that were legally required;
+(C) Unpaid taxes and unemployment contributions to the
+appropriate government entity;
+(D) Workers' compensation premiums evaded; and
+(E) Damages to a competing business if proven at the
+defendant's sentencing hearing.
+- 6 - 011833
+(2) Defendants are jointly and severally liable with their subcontractors or
+independent contractors for all restitution amounts related to a shared project or
+work.
+(d)
+(1) A person may be held individually liable for the debts, obligations, and
+liabilities of the employer under this section.
+(2) An officer or director of a corporation or other business entity may be
+held personally criminally liable for the corporation's or other business entity's
+violation of this section if the officer or director directed, authorized, or knowingly
+permitted the violation.
+(3) In addition to any other penalty authorized by law, a defendant that is
+a corporation or other business entity must be subject to:
+(A) An additional fine of no less than fifty thousand dollars
+($50,000) and no more than five hundred thousand dollars ($500,000);
+and
+(B) Mandatory compliance monitoring of future employment
+practices as a condition of the defendant's sentence. The court may
+appoint an independent compliance monitor at the defendant's expense.
+(e) The successor business of a business that is sold, transferred, or
+reorganized to avoid prosecution under this section may be subject to:
+(1) Pending criminal charges;
+(2) Restitution orders; and
+(3) Licensure revocation.
+- 7 - 011833
+(f) An employer who discriminates against an employee in violation of title 4,
+chapter 21, part 3, while claiming compliance with this section may face separate
+criminal charges and enhanced civil penalties.
+39-13-319. Revocation of professional or business license – Prohibition on
+contracting with the state.
+In addition to the criminal sentence authorized, a person or entity that is
+convicted of violating § 39-13-308, § 39-13-317, or § 39-17-318 is subject to the
+following:
+(1) Revocation of any professional or business license. Upon conviction,
+the clerk of court must forward a certified copy of the conviction to any state or
+local government agency under which the person or entity has a professional or
+business license. The state or local government agency shall, upon receipt of
+the conviction, revoke the person's or entity's professional or business license
+for:
+(A) One (1) year for a violation of § 39-13-317;
+(B) Three (3) years for a violation of § 39-13-318; or
+(C) A permanent revocation for a violation of § 39-13-308; and
+(2) A prohibition on contracting with the state for:
+(A) Five (5) years for a first violation of § 39-13-317;
+(B) Ten (10) years for a second violation of § 39-13-317;
+(C) A permanent prohibition for a third or subsequent violation of
+
+Section 4:
+§ 39-13-317;
+(D) Ten (10) years for a violation of § 39-13-318; or
+(E) A permanent prohibition for a violation of § 39-13-308.
+- 8 - 011833
+
+Section 5:
+SECTION 3. Tennessee Code Annotated, Section 39-13-308, is amended by deleting
+subsections (b) and (c) and substituting:
+(b)
+(1) Trafficking for forced labor or services is a Class C felony.
+(2) Trafficking for forced labor or services is a Class A felony if the victim
+was more than twelve (12) years of age but less than eighteen (18) years of age.
+(3) Notwithstanding § 40-35-115, the sentencing court may order a
+person convicted of trafficking for forced labor or services involving multiple
+victims to serve the sentences for each conviction consecutively.
+(c)
+(1) In addition to any other amount of loss identified or any other
+punishment imposed, the court shall order restitution to the victim, unless
+otherwise designated, in an amount equal to the greater of:
+(A)
+(i) The gross income or value of the benefit received by
+the defendant as the result of the victim's labor or services; or
+(ii) The value of the victim's labor as guaranteed under the
+minimum wage and overtime provisions of the Fair Labor
+Standards Act (FLSA) (29 U.S.C. § 201 et seq.), or the minimum
+wage required in this state, whichever is higher;
+(B) The value of unpaid benefits that were legally required;
+(C) Unpaid taxes and unemployment contributions to the
+appropriate government entity;
+(D) Workers' compensation premiums evaded; and
+- 9 - 011833
+(E) Damages to a competing business if proven at the
+defendant's sentencing hearing.
+(2) Defendants are jointly and severally liable with their subcontractors or
+independent contractors for all restitution amounts related to the project or work.
+(d)
+(1) A person may be held individually liable for the debts, obligations, and
+liabilities of the employer under this section.
+(2) An officer or director of a corporation or other business entity may be
+held personally criminally liable for the corporation's or other business entity's
+violation of this section if the officer or director directed, authorized, or knowingly
+permitted the violation.
+(3) In addition to any other penalty authorized by law, a defendant that is
+a corporation or other business entity must be subject to:
+(A) An additional fine of no less than fifty thousand dollars
+($50,000) and no more than five hundred thousand dollars ($500,000);
+and
+(B) Mandatory compliance monitoring of future employment
+practices as a condition of the defendant's probation. The court may
+appoint an independent compliance monitor at the defendant's expense.
+(e) The successor business of a business that is sold, transferred, or
+reorganized to avoid prosecution under this section may be subject to:
+(1) Pending criminal charges;
+(2) Restitution orders; and
+(3) Licensure revocation.
+- 10 - 011833
+(f) An employer who discriminates against an employee in violation of title 4,
+chapter 21, part 3, while claiming compliance with this section may face separate
+criminal charges and enhanced civil penalties.
+
+Section 6:
+SECTION 4. Tennessee Code Annotated, Title 39, Chapter 13, Part 3, is amended by
+adding the following as a new section:
+39-13-320. Civil action for unfair competition.
+(a) A business may file a claim for unfair competition against a competitor
+business if the competitor business:
+(1) Has been convicted of a violation of § 39-13-308, § 39-13-317, or §
+39-13-318; or
+(2) Is proven by preponderance of the evidence to have violated § 39-13-
+308, § 39-13-317, or § 39-13-318.
+(b) In order to bring a claim under this section, the plaintiff must:
+(1) Be in the same industry and geographic market as the competitor
+business; and
+(2) Demonstrate competitive harm, including, but not limited to, lost
+contracts, price disadvantages, or market share loss.
+(c) A plaintiff may recover:
+(1) Injunctive relief requiring the competitor business to cease employing
+unauthorized workers;
+(2) Actual damages, including, but not limited to, lost profits, lost
+contracts, and price differential damages;
+(3) Disgorgement of profits attributable to unauthorized labor;
+(4) If the plaintiff can prove that the defendant knowingly violated the
+criminal statute, treble damages; and
+- 11 - 011833
+(5) Attorney's fees and reasonable costs.
+(d) A criminal conviction for a violation of § 39-13-308, § 39-13-317, or § 39-13-
+318 is prima facie evidence of unfair competition.
+(e) An action under this section must be brought no more than three (3) years
+from the date of discovering the unfair competition; provided, however, that a claim shall
+not be brought more than five (5) years from the date of the violation.
+
+Section 7:
+SECTION 5. This act does not authorize:
+(1) Discrimination based on national origin, race, ethnicity, or accent;
+(2) Demanding more or different documents based on appearance or name; or
+(3) Selective enforcement based on protected characteristics.
+
+Section 8:
+SECTION 6.
+(a) If any provision of this act or its application to any person or circumstance is
+held invalid, then the invalidity does not affect other provisions or applications of the act
+that can be given effect without the invalid provision or application, and to that end, the
+provisions of this act are severable.
+(b) This act is independently enforceable under state criminal law authority and
+does not require federal immigration enforcement cooperation, investigation, or
+prosecution.
+(c) This act exercises Tennessee's concurrent authority to criminalize conduct
+that violates both state interests and federal law.
+
+Section 9:
+SECTION 7. The headings in this act are for reference purposes only and do not
+constitute a part of the law enacted by this act. However, the Tennessee Code Commission is
+requested to include the headings in any compilation or publication containing this act.
+
+Section 10:
+SECTION 8. This act takes effect January 1, 2027, the public welfare requiring it.
+- 12 - 011833
+[DELETED: W((((S((((]
+[DELETED:  -0((((S(((((]
+[DELETED:  -0(((((((((((]
+[DELETED:  -0((((((((((]
+[DELETED:  -0(((((((((((((]
+[DELETED:  -0((((((((((((]
+[DELETED:  -0((((((((((]
+[DELETED:  -0(I((((((((((]
+[DELETED:  -0S((((((((((((]
+[DELETED:  -0(((((((((((]
+[DELETED:  -0(S(((((((((((]
+[DELETED:  -0(((S(((S(((SS]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 2524
+By Behn
+SENATE BILL 2396
+By Yarbro
+AN ACT to amend Tennessee Code Annotated, Title 29
+and Title 39, relative to criminal offenses.
+WHEREAS, this act establishes criminal penalties for employers who:
+(1) Facilitate labor trafficking of foreign workers;
+(2) Exploit and profit from employing unauthorized workers through systematic
+schemes;
+(3) Systematically evade employment verification and reporting requirements,
+resulting in lost tax revenues; and
+(4) Undermine wage and labor standards for Tennessee workers; now,
+therefore,
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 39-13-301, is amended by adding
+the following as new subdivisions:
+( ) "Employer" means a person, company, corporation, partnership, or business
+entity that hires or employs one (1) or more persons in this state;
+( ) "General contractor" means a person or entity that contracts for construction,
+alteration, repair, or improvement of any structure or building and subcontracts any
+portion of that work to another person or entity;
+( ) "Pattern of systematic evasion of verification and reporting" means
+repeatedly or systematically:
+(A) Failing to complete or maintain employment eligibility verification
+forms, such as an I-9, required by federal law;
+SB2396
+011833
+- 1 -
+
+(B) Failing to examine identity and work authorization documents
+required by federal law;
+(C) Failing to report employee wages and withholdings to state and
+federal authorities as required by law; or
+(D) Maintaining inadequate or false employment records for three (3) or
+more workers within any twenty-four-month period, where such pattern or
+systematic evasion facilitates the employment of unauthorized workers;
+( ) "Unauthorized worker" means a person who does not have legal
+authorization to work in the United States under federal law;
+SECTION 2. Tennessee Code Annotated, Title 39, Chapter 13, Part 3, is amended by
+adding the following as new sections:
+39-13-317. Systematic unauthorized employment.
+(a) A person commits systematic unauthorized employment who is an officer,
+manager, or hiring agent with authority to act on behalf of an employer and:
+(1) Recklessly engages in a pattern of systematic evasion of verification
+and reporting requirements;
+(2) Misclassifies a worker as an independent contractor rather than an
+employee with intent to evade employment verification requirements;
+(3) As a general contractor, employs a subcontractor, knowing that the
+subcontractor is employing unauthorized workers on the general contractor's
+project or in reckless disregard of obvious evidence of such employment; or
+(4) Knowingly uses or contracts with an independent contractor or
+subcontractor whose business is substantially reliant on unauthorized labor.
+- 2 - 011833
+
+(b) A violation of subsection (a) is a Class E felony. Notwithstanding § 40-35-
+115, the sentencing court may order a person convicted of violations of subsection (a)
+involving multiple victims to serve the sentences for each conviction consecutively.
+(c) It is an affirmative defense to a violation of subsection (a), which must be
+proven by a preponderance of the evidence, that a general contractor required
+subcontractor compliance with employment verification laws in the subcontract, verified
+the subcontractor's compliance systems, and terminated the subcontractor upon
+discovering any violation.
+(d)
+(1) In addition to any other amount of loss identified or any other
+punishment imposed, the court shall order restitution to the victim, unless
+otherwise designated, in an amount equal to the greater of:
+(A)
+(i) The gross income or value of the benefit received by
+the defendant as the result of the victim's labor or services; or
+(ii) The value of the victim's labor as guaranteed under the
+minimum wage and overtime provisions of the Fair Labor
+Standards Act (FLSA) (29 U.S.C. § 201 et seq.), or the minimum
+wage required in this state, whichever is higher;
+(B) The value of unpaid benefits that were legally required;
+(C) Unpaid taxes and unemployment contributions, which must
+be paid to the appropriate government entity;
+(D) Workers' compensation premiums evaded; and
+(E) Damages to a competing business if proven at the
+defendant's sentencing hearing.
+- 3 - 011833
+
+(2) Defendants are jointly and severally liable with their subcontractors or
+independent contractors for all restitution amounts related to a shared project or
+work.
+(e)
+(1) A person may be held individually liable for the debts, obligations, and
+liabilities of the employer under this section.
+(2) An officer or director of a corporation or other business entity may be
+held personally criminally liable for the corporation's or other business entity's
+violation of this section if the officer or director directed, authorized, or knowingly
+permitted the violation.
+(3) In addition to any other penalty authorized by law, a defendant that is
+a corporation or other business entity must be subject to:
+(A) An additional fine of no less than fifty thousand dollars
+($50,000) and no more than five hundred thousand dollars ($500,000);
+and
+(B) Mandatory compliance monitoring of future employment
+practices as a condition of the defendant's probation. The court may
+appoint an independent compliance monitor at the defendant's expense.
+(f) The successor business of a business that is sold, transferred, or reorganized
+to avoid prosecution under this section may be subject to:
+(1) Pending criminal charges;
+(2) Restitution orders; and
+(3) Licensure revocation.
+- 4 - 011833
+
+(g) An employer who discriminates against an employee in violation of title 4,
+chapter 21, part 3, while claiming compliance with this section may face separate
+criminal charges and enhanced civil penalties.
+39-13-318. Aggravated systematic unauthorized employment.
+(a) An employer commits aggravated systematic unauthorized employment if the
+employer violates § 39-13-317(a) and:
+(1) Commits a pattern of ten (10) or more knowing violations within a
+period of twenty-four (24) months;
+(2) Pays the workers a wage that is below the federal minimum wage or
+denies legally required overtime pay;
+(3) Creates or provides false documents to workers;
+(4) Maintains unsafe or substandard working conditions for workers;
+(5) Maintains substandard or overcrowded housing for workers;
+(6) Retaliates against workers who report violations or exercise
+workplace rights;
+(7) Threatens workers with deportation, law enforcement contact, or
+immigration consequences;
+(8) Withholds wages, final pay, or earned benefits from workers;
+(9) Systematically evades employment tax obligations, including payroll
+withholding, workers' compensation, and unemployment insurance;
+(10) Has a prior conviction for violating this section or another criminal
+offense related to labor, employment, or tax law;
+(11) Confiscates or controls workers' identification documents or
+immigration papers;
+- 5 - 011833
+
+(12) Uses layers of subcontracting or misclassification schemes to
+conceal unauthorized employment; or
+(13) Acts as general contractor while knowingly utilizing multiple
+subcontractors who employ unauthorized workers.
+(b) A violation of subsection (a) is a Class D felony. Notwithstanding § 40-35-
+115, the sentencing court may order a person convicted of violations of subsection (a)
+involving multiple victims to serve the sentences for each conviction consecutively.
+(c)
+(1) In addition to any other amount of loss identified or any other
+punishment imposed, the court shall order restitution to the victim, unless
+otherwise designated, in an amount equal to the greater of:
+(A)
+(i) The gross income or value of the benefit received by
+the defendant as the result of the victim's labor or services; or
+(ii) The value of the victim's labor as guaranteed under the
+minimum wage and overtime provisions of the Fair Labor
+Standards Act (FLSA) (29 U.S.C. § 201 et seq.), or the minimum
+wage required in this state, whichever is higher;
+(B) The value of unpaid benefits that were legally required;
+(C) Unpaid taxes and unemployment contributions to the
+appropriate government entity;
+(D) Workers' compensation premiums evaded; and
+(E) Damages to a competing business if proven at the
+defendant's sentencing hearing.
+- 6 - 011833
+
+(2) Defendants are jointly and severally liable with their subcontractors or
+independent contractors for all restitution amounts related to a shared project or
+work.
+(d)
+(1) A person may be held individually liable for the debts, obligations, and
+liabilities of the employer under this section.
+(2) An officer or director of a corporation or other business entity may be
+held personally criminally liable for the corporation's or other business entity's
+violation of this section if the officer or director directed, authorized, or knowingly
+permitted the violation.
+(3) In addition to any other penalty authorized by law, a defendant that is
+a corporation or other business entity must be subject to:
+(A) An additional fine of no less than fifty thousand dollars
+($50,000) and no more than five hundred thousand dollars ($500,000);
+and
+(B) Mandatory compliance monitoring of future employment
+practices as a condition of the defendant's sentence. The court may
+appoint an independent compliance monitor at the defendant's expense.
+(e) The successor business of a business that is sold, transferred, or
+reorganized to avoid prosecution under this section may be subject to:
+(1) Pending criminal charges;
+(2) Restitution orders; and
+(3) Licensure revocation.
+- 7 - 011833
+
+(f) An employer who discriminates against an employee in violation of title 4,
+chapter 21, part 3, while claiming compliance with this section may face separate
+criminal charges and enhanced civil penalties.
+39-13-319. Revocation of professional or business license – Prohibition on
+contracting with the state.
+In addition to the criminal sentence authorized, a person or entity that is
+convicted of violating § 39-13-308, § 39-13-317, or § 39-17-318 is subject to the
+following:
+(1) Revocation of any professional or business license. Upon conviction,
+the clerk of court must forward a certified copy of the conviction to any state or
+local government agency under which the person or entity has a professional or
+business license. The state or local government agency shall, upon receipt of
+the conviction, revoke the person's or entity's professional or business license
+for:
+(A) One (1) year for a violation of § 39-13-317;
+(B) Three (3) years for a violation of § 39-13-318; or
+(C) A permanent revocation for a violation of § 39-13-308; and
+(2) A prohibition on contracting with the state for:
+(A) Five (5) years for a first violation of § 39-13-317;
+(B) Ten (10) years for a second violation of § 39-13-317;
+(C) A permanent prohibition for a third or subsequent violation of
+§ 39-13-317;
+(D) Ten (10) years for a violation of § 39-13-318; or
+(E) A permanent prohibition for a violation of § 39-13-308.
+- 8 - 011833
+
+SECTION 3. Tennessee Code Annotated, Section 39-13-308, is amended by deleting
+subsections (b) and (c) and substituting:
+(b)
+(1) Trafficking for forced labor or services is a Class C felony.
+(2) Trafficking for forced labor or services is a Class A felony if the victim
+was more than twelve (12) years of age but less than eighteen (18) years of age.
+(3) Notwithstanding § 40-35-115, the sentencing court may order a
+person convicted of trafficking for forced labor or services involving multiple
+victims to serve the sentences for each conviction consecutively.
+(c)
+(1) In addition to any other amount of loss identified or any other
+punishment imposed, the court shall order restitution to the victim, unless
+otherwise designated, in an amount equal to the greater of:
+(A)
+(i) The gross income or value of the benefit received by
+the defendant as the result of the victim's labor or services; or
+(ii) The value of the victim's labor as guaranteed under the
+minimum wage and overtime provisions of the Fair Labor
+Standards Act (FLSA) (29 U.S.C. § 201 et seq.), or the minimum
+wage required in this state, whichever is higher;
+(B) The value of unpaid benefits that were legally required;
+(C) Unpaid taxes and unemployment contributions to the
+appropriate government entity;
+(D) Workers' compensation premiums evaded; and
+- 9 - 011833
+
+(E) Damages to a competing business if proven at the
+defendant's sentencing hearing.
+(2) Defendants are jointly and severally liable with their subcontractors or
+independent contractors for all restitution amounts related to the project or work.
+(d)
+(1) A person may be held individually liable for the debts, obligations, and
+liabilities of the employer under this section.
+(2) An officer or director of a corporation or other business entity may be
+held personally criminally liable for the corporation's or other business entity's
+violation of this section if the officer or director directed, authorized, or knowingly
+permitted the violation.
+(3) In addition to any other penalty authorized by law, a defendant that is
+a corporation or other business entity must be subject to:
+(A) An additional fine of no less than fifty thousand dollars
+($50,000) and no more than five hundred thousand dollars ($500,000);
+and
+(B) Mandatory compliance monitoring of future employment
+practices as a condition of the defendant's probation. The court may
+appoint an independent compliance monitor at the defendant's expense.
+(e) The successor business of a business that is sold, transferred, or
+reorganized to avoid prosecution under this section may be subject to:
+(1) Pending criminal charges;
+(2) Restitution orders; and
+(3) Licensure revocation.
+- 10 - 011833
+
+(f) An employer who discriminates against an employee in violation of title 4,
+chapter 21, part 3, while claiming compliance with this section may face separate
+criminal charges and enhanced civil penalties.
+SECTION 4. Tennessee Code Annotated, Title 39, Chapter 13, Part 3, is amended by
+adding the following as a new section:
+39-13-320. Civil action for unfair competition.
+(a) A business may file a claim for unfair competition against a competitor
+business if the competitor business:
+(1) Has been convicted of a violation of § 39-13-308, § 39-13-317, or §
+39-13-318; or
+(2) Is proven by preponderance of the evidence to have violated § 39-13-
+308, § 39-13-317, or § 39-13-318.
+(b) In order to bring a claim under this section, the plaintiff must:
+(1) Be in the same industry and geographic market as the competitor
+business; and
+(2) Demonstrate competitive harm, including, but not limited to, lost
+contracts, price disadvantages, or market share loss.
+(c) A plaintiff may recover:
+(1) Injunctive relief requiring the competitor business to cease employing
+unauthorized workers;
+(2) Actual damages, including, but not limited to, lost profits, lost
+contracts, and price differential damages;
+(3) Disgorgement of profits attributable to unauthorized labor;
+(4) If the plaintiff can prove that the defendant knowingly violated the
+criminal statute, treble damages; and
+- 11 - 011833
+
+(5) Attorney's fees and reasonable costs.
+(d) A criminal conviction for a violation of § 39-13-308, § 39-13-317, or § 39-13-
+318 is prima facie evidence of unfair competition.
+(e) An action under this section must be brought no more than three (3) years
+from the date of discovering the unfair competition; provided, however, that a claim shall
+not be brought more than five (5) years from the date of the violation.
+SECTION 5. This act does not authorize:
+(1) Discrimination based on national origin, race, ethnicity, or accent;
+(2) Demanding more or different documents based on appearance or name; or
+(3) Selective enforcement based on protected characteristics.
+SECTION 6.
+(a) If any provision of this act or its application to any person or circumstance is
+held invalid, then the invalidity does not affect other provisions or applications of the act
+that can be given effect without the invalid provision or application, and to that end, the
+provisions of this act are severable.
+(b) This act is independently enforceable under state criminal law authority and
+does not require federal immigration enforcement cooperation, investigation, or
+prosecution.
+(c) This act exercises Tennessee's concurrent authority to criminalize conduct
+that violates both state interests and federal law.
+SECTION 7. The headings in this act are for reference purposes only and do not
+constitute a part of the law enacted by this act. However, the Tennessee Code Commission is
+requested to include the headings in any compilation or publication containing this act.
+SECTION 8. This act takes effect January 1, 2027, the public welfare requiring it.
+- 12 - 011833
+
+[DELETED: W((((S((((]
+[DELETED:  -0((((S(((((]
+[DELETED:  -0(((((((((((]
+[DELETED:  -0((((((((((]
+[DELETED:  -0(((((((((((((]
+[DELETED:  -0((((((((((((]
+[DELETED:  -0((((((((((]
+[DELETED:  -0(I((((((((((]
+[DELETED:  -0S((((((((((((]
+[DELETED:  -0(((((((((((]
+[DELETED:  -0(S(((((((((((]
+[DELETED:  -0(((S(((S(((SS]

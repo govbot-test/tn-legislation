@@ -1,0 +1,102 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 2
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+SENATE RESOLUTION 342
+By McNally
+A RESOLUTION to confirm the appointment of Kelly G Rollins of
+Murfreesboro to the State Board of Education.
+WHEREAS, Tennessee Code Annotated, Section 49-1-301, provides for the creation of
+the State Board of Education; and
+WHEREAS, Tennessee Code Annotated, Section 49-1-301, further provides that the
+Speaker of the Senate shall appoint members representing the third, fourth, and seventh
+congressional districts to the State Board of Education; and
+WHEREAS, Speaker Randy McNally has appointed Kelly G Rollins of Murfreesboro to
+the State Board of Education as a member representing the Fourth Congressional District for a
+term that will expire on March 31, 2031; and
+WHEREAS, a highly respected member of his community, Kelly Rollins retired in 2020
+after a distinguished thirty-seven-year career in management with United Parcel Service, having
+worked his way up the ranks from part-time employee to serve in a number of management
+roles, including package operations, marketing, business development, supply chain solutions,
+and sales; and
+WHEREAS, a first-generation graduate, Mr. Rollins holds a Bachelor of Business
+Administration in Marketing and Management degree from Middle Tennessee State University;
+and
+WHEREAS, an active part of his community, he has lent his time and expertise to a
+number of charitable, civic, and nonprofit endeavors, including the Boys & Girls Club, the
+Community Foundation of Rutherford County, the Blue Raider Athletic Association, Leadership
+Rutherford, and the Murfreesboro City Planning Commission; and
+SR0342
+015516
+- 1 -
+WHEREAS, Kelly Rollins is a person of integrity and an active citizen whose
+benevolence, acumen, and strong commitment to public service have helped to enhance the
+well-being of this State and its citizens; and
+WHEREAS, Tennessee Code Annotated, Section 49-1-301, provides that each member
+appointed by the Speaker of the Senate to the State Board of Education shall be subject to
+confirmation by the Senate; now, therefore,
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, that this body does hereby confirm
+the appointment of Kelly G Rollins of Murfreesboro to the State Board of Education as a
+member representing the Fourth Congressional District for a term that will expire on March 31,
+
+Section 2:
+2031.
+- 2 - 015516
+[DELETED: WWWWWW]
+[DELETED:  -0WWB]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+SENATE RESOLUTION 342
+By McNally
+A RESOLUTION to confirm the appointment of Kelly G Rollins of
+Murfreesboro to the State Board of Education.
+WHEREAS, Tennessee Code Annotated, Section 49-1-301, provides for the creation of
+the State Board of Education; and
+WHEREAS, Tennessee Code Annotated, Section 49-1-301, further provides that the
+Speaker of the Senate shall appoint members representing the third, fourth, and seventh
+congressional districts to the State Board of Education; and
+WHEREAS, Speaker Randy McNally has appointed Kelly G Rollins of Murfreesboro to
+the State Board of Education as a member representing the Fourth Congressional District for a
+term that will expire on March 31, 2031; and
+WHEREAS, a highly respected member of his community, Kelly Rollins retired in 2020
+after a distinguished thirty-seven-year career in management with United Parcel Service, having
+worked his way up the ranks from part-time employee to serve in a number of management
+roles, including package operations, marketing, business development, supply chain solutions,
+and sales; and
+WHEREAS, a first-generation graduate, Mr. Rollins holds a Bachelor of Business
+Administration in Marketing and Management degree from Middle Tennessee State University;
+and
+WHEREAS, an active part of his community, he has lent his time and expertise to a
+number of charitable, civic, and nonprofit endeavors, including the Boys & Girls Club, the
+Community Foundation of Rutherford County, the Blue Raider Athletic Association, Leadership
+Rutherford, and the Murfreesboro City Planning Commission; and
+SR0342
+015516
+- 1 -
+
+WHEREAS, Kelly Rollins is a person of integrity and an active citizen whose
+benevolence, acumen, and strong commitment to public service have helped to enhance the
+well-being of this State and its citizens; and
+WHEREAS, Tennessee Code Annotated, Section 49-1-301, provides that each member
+appointed by the Speaker of the Senate to the State Board of Education shall be subject to
+confirmation by the Senate; now, therefore,
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, that this body does hereby confirm
+the appointment of Kelly G Rollins of Murfreesboro to the State Board of Education as a
+member representing the Fourth Congressional District for a term that will expire on March 31,
+2031.
+- 2 - 015516
+
+[DELETED: WWWWWW]
+[DELETED:  -0WWB]
