@@ -1,0 +1,92 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+HOUSE JOINT RESOLUTION 790
+By Atchley
+A RESOLUTION to recognize fire protection services as an
+essential service.
+WHEREAS, the safety, health, and welfare of the citizens of Tennessee are the primary
+responsibility of the State and local governments; and
+WHEREAS, fire protection services constitute the first line of defense for Tennessee
+communities, not only against the ravages of fire but also as primary responders to medical
+emergencies, hazardous materials incidents, natural disasters, and technical rescues; and
+WHEREAS, the dedicated men and women of Tennessee's fire services, encompassing
+career, part-time, and volunteer professionals across the Volunteer State, place their lives in
+jeopardy daily to protect the lives and property of their neighbors; and
+WHEREAS, the availability of robust fire protection services is directly linked to the
+economic vitality of the State, influencing homeowner and business insurance rates through ISO
+ratings and ensuring the continuity of business operations; and
+WHEREAS, historically, while law enforcement and emergency medical services are
+frequently codified as essential services, fire protection has often been viewed as a
+discretionary service in certain jurisdictions, leading to disparities in funding, resources, and
+staffing stability; and
+WHEREAS, the recent increase in call volumes, the complexity of modern emergency
+response, and the challenges regarding recruitment and retention of qualified personnel require
+that fire protection be elevated to a status that reflects its critical nature; now, therefore,
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE SENATE
+CONCURRING, that the State of Tennessee recognizes fire protection services as an essential
+HJR0790
+011067
+- 1 -
+service and encourages all local governments in this State to ensure that fire protection services
+are available to all residents of this State.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy and upon proper request made to
+the appropriate clerk, the language appearing immediately following the State seal appear
+without House or Senate designation.
+- 2 - 011067
+[DELETED: WWWWWWB]
+[DELETED:  -0B]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+HOUSE JOINT RESOLUTION 790
+By Atchley
+A RESOLUTION to recognize fire protection services as an
+essential service.
+WHEREAS, the safety, health, and welfare of the citizens of Tennessee are the primary
+responsibility of the State and local governments; and
+WHEREAS, fire protection services constitute the first line of defense for Tennessee
+communities, not only against the ravages of fire but also as primary responders to medical
+emergencies, hazardous materials incidents, natural disasters, and technical rescues; and
+WHEREAS, the dedicated men and women of Tennessee's fire services, encompassing
+career, part-time, and volunteer professionals across the Volunteer State, place their lives in
+jeopardy daily to protect the lives and property of their neighbors; and
+WHEREAS, the availability of robust fire protection services is directly linked to the
+economic vitality of the State, influencing homeowner and business insurance rates through ISO
+ratings and ensuring the continuity of business operations; and
+WHEREAS, historically, while law enforcement and emergency medical services are
+frequently codified as essential services, fire protection has often been viewed as a
+discretionary service in certain jurisdictions, leading to disparities in funding, resources, and
+staffing stability; and
+WHEREAS, the recent increase in call volumes, the complexity of modern emergency
+response, and the challenges regarding recruitment and retention of qualified personnel require
+that fire protection be elevated to a status that reflects its critical nature; now, therefore,
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE SENATE
+CONCURRING, that the State of Tennessee recognizes fire protection services as an essential
+HJR0790
+011067
+- 1 -
+
+service and encourages all local governments in this State to ensure that fire protection services
+are available to all residents of this State.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy and upon proper request made to
+the appropriate clerk, the language appearing immediately following the State seal appear
+without House or Senate designation.
+- 2 - 011067
+
+[DELETED: WWWWWWB]
+[DELETED:  -0B]

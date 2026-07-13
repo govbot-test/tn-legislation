@@ -1,0 +1,293 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 5
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+SENATE BILL 2036
+By Harshbarger
+AN ACT to amend Tennessee Code Annotated, Title 8 and
+Title 56, relative to health insurance.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. This act is known and may be cited as the "Stabilizing Healthcare Access
+with Reimbursement Protections (SHARP) Act."
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Title 56, Chapter 7, Part 10, is amended by
+adding the following as a new section:
+(a) As used in this section:
+(1) "Annual benefit maximum" means the dollar cap on total covered
+services paid per insured individual, per policy year, where applicable;
+(2) "Health insurance entity":
+(A) Means an insurance company, managed care organization,
+health maintenance organization (HMO), or third-party administrator
+offering or administering health coverage and subject to regulation by the
+commissioner; and
+(B) Does not include a plan governed exclusively by the federal
+Employee Retirement Income Security Act of 1974 (ERISA)(29 U.S.C. §
+1001, et seq.);
+(3) "Inflation index" means the annual percentage increase in the
+consumer price index for all urban consumers (CPI-U), as published by the
+United States bureau of labor statistics; and
+SB2036
+011551
+- 1 -
+(4) "Reimbursement rate" means the maximum allowable amount
+payable by a health insurance entity for covered healthcare services rendered by
+in-network providers.
+(b) Beginning January 1, 2027, and January 1 of each year thereafter, each
+health insurance entity shall:
+(1) Adjust all in-network reimbursement rates upward by no less than the
+annual percentage increase in the inflation index for the preceding calendar year,
+which may be applied by provider type or specialty or service category;
+(2) Adjust annual benefit maximums under individual and group policies
+upward by no less than the annual percentage increase in the inflation index for
+the preceding calendar year, which may be applied by provider type or specialty
+or service category; and
+(3) Cap each annual increase at four percent (4%), even if the inflation
+index exceeds four percent (4%), unless otherwise approved by the
+commissioner of commerce and insurance.
+(c) This section does not apply to:
+(1) Policies covering fewer than one hundred (100) enrollees;
+(2) Self-insured plans governed exclusively by the federal Employee
+Retirement Income Security Act of 1974 (ERISA)(29 U.S.C. § 1001, et seq.);
+(3) Medicare advantage or TennCare managed care plans operating
+under federal waiver authority;
+(4) Out-of-network provider reimbursement rates; or
+(5) A plan granted a temporary exemption by the commissioner under
+subsection (f).
+(d)
+- 2 - 011551
+(1) This section applies prospectively to all applicable policies issued,
+amended, or renewed on or after January 1, 2027.
+(2) Adjustments must be included in provider contracts, reimbursement
+schedules, or benefit documents provided to the commissioner as part of rate or
+form filings.
+(e)
+(1) The commissioner shall develop a public annual report identifying
+health insurance entities in compliance with this section.
+(2) Health insurance entities shall file with the commissioner, no later
+than April 1 of each year, documentation of compliance with the inflation
+adjustment requirement.
+(3) The commissioner shall monitor and review rate filings submitted by
+health insurance entities to ensure that adjustments in premiums are
+proportionate and justified in relation to the inflation index-based reimbursement
+updates.
+(f)
+(1) A health insurance entity may request a waiver from the requirements
+of this section by submitting to the commissioner an actuarial certification
+demonstrating that compliance would cause material financial hardship or
+jeopardize solvency.
+(2) The commissioner may grant a full or partial exemption for no more
+than one (1) calendar year per filing.
+(g) A health insurance entity may voluntarily implement a one-time catch-up
+adjustment to any in-network reimbursement rates or annual benefit maximums that
+have remained unchanged for at least five (5) consecutive calendar years prior to the
+- 3 - 011551
+effective date of this section. The catch-up adjustment may equal the cumulative CPI-U
+change over that five-year period, subject to a cap of twenty percent (20%). Voluntary
+adjustments must be filed with the commissioner within sixty (60) days of
+implementation. A health insurance entity may prioritize adjustments for rural and small
+practices.
+(h)
+(1) A health insurance entity may voluntarily implement a qualifying
+catch-up adjustment under subsection (g) on or before December 31, 2029.
+(2) Beginning January 1, 2030, a health insurance entity shall implement
+a catch-up adjustment to any in-network reimbursement rates or annual benefit
+maximums that:
+(A) Have remained unchanged for five (5) consecutive calendar
+years prior to the effective date of this section; and
+(B) Fall within a line of coverage subject to regulation under this
+chapter.
+(3) The mandatory catch-up adjustment under subdivision (h)(2) must
+equal the cumulative CPI-U increase for the frozen period, subject to a cap of
+twenty percent (20%).
+(4) The commissioner shall establish procedures to monitor compliance,
+review filings, and enforce catch-up adjustments pursuant to this subsection (h).
+A healthinsurance entity that maintains a full provider network and makes good-
+faith efforts to comply with this section is eligible for safe harbor protections,
+subject to review by the attorney general and reporter or designated legal
+counsel.
+(i)
+- 4 - 011551
+(1) The commissioner may prioritize review and enforcement of this
+
+Section 4:
+section in counties identified as provider shortage areas or health professional
+shortage areas.
+(2) The commissioner shall ensure that small or rural providers receive
+equitable consideration in inflationary adjustments.
+(j) A health insurance entity shall not reduce the size of in-network provider
+panels in a discriminatory manner as a response to inflationary adjustments. The
+commissioner shall review provider network adequacy as part of rate oversight under
+this section.
+(k)
+(1) The department of commerce and insurance is authorized to allocate
+appropriations, hire additional staff, and procure technology necessary to support
+CPI tracking, compliance review, and public transparency.
+(2) The commissioner shall issue a transition timeline and guidance no
+later than ninety (90) days after the effective date of this act, including grace
+periods for systems integration.
+(l) The commissioner shall encourage insurers to conduct and submit multi-year
+rate reviews in conjunction with inflation index-based adjustments.
+(m) The commissioner of commerce and insurance is authorized to promulgate
+rules to implement this section The rules must be promulgated in accordance with the
+Uniform Administrative Procedures Act, compiled in title 4, chapter 5.
+
+Section 5:
+SECTION 3. This act takes effect upon becoming a law, the public welfare requiring it.
+- 5 - 011551
+[DELETED: SS((((((]
+[DELETED:  -0((((((((((((]
+[DELETED:  -0((((((((((]
+[DELETED:  -0((((((((]
+[DELETED:  -0((((((((S]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+SENATE BILL 2036
+By Harshbarger
+AN ACT to amend Tennessee Code Annotated, Title 8 and
+Title 56, relative to health insurance.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. This act is known and may be cited as the "Stabilizing Healthcare Access
+with Reimbursement Protections (SHARP) Act."
+SECTION 2. Tennessee Code Annotated, Title 56, Chapter 7, Part 10, is amended by
+adding the following as a new section:
+(a) As used in this section:
+(1) "Annual benefit maximum" means the dollar cap on total covered
+services paid per insured individual, per policy year, where applicable;
+(2) "Health insurance entity":
+(A) Means an insurance company, managed care organization,
+health maintenance organization (HMO), or third-party administrator
+offering or administering health coverage and subject to regulation by the
+commissioner; and
+(B) Does not include a plan governed exclusively by the federal
+Employee Retirement Income Security Act of 1974 (ERISA)(29 U.S.C. §
+1001, et seq.);
+(3) "Inflation index" means the annual percentage increase in the
+consumer price index for all urban consumers (CPI-U), as published by the
+United States bureau of labor statistics; and
+SB2036
+011551
+- 1 -
+
+(4) "Reimbursement rate" means the maximum allowable amount
+payable by a health insurance entity for covered healthcare services rendered by
+in-network providers.
+(b) Beginning January 1, 2027, and January 1 of each year thereafter, each
+health insurance entity shall:
+(1) Adjust all in-network reimbursement rates upward by no less than the
+annual percentage increase in the inflation index for the preceding calendar year,
+which may be applied by provider type or specialty or service category;
+(2) Adjust annual benefit maximums under individual and group policies
+upward by no less than the annual percentage increase in the inflation index for
+the preceding calendar year, which may be applied by provider type or specialty
+or service category; and
+(3) Cap each annual increase at four percent (4%), even if the inflation
+index exceeds four percent (4%), unless otherwise approved by the
+commissioner of commerce and insurance.
+(c) This section does not apply to:
+(1) Policies covering fewer than one hundred (100) enrollees;
+(2) Self-insured plans governed exclusively by the federal Employee
+Retirement Income Security Act of 1974 (ERISA)(29 U.S.C. § 1001, et seq.);
+(3) Medicare advantage or TennCare managed care plans operating
+under federal waiver authority;
+(4) Out-of-network provider reimbursement rates; or
+(5) A plan granted a temporary exemption by the commissioner under
+subsection (f).
+(d)
+- 2 - 011551
+
+(1) This section applies prospectively to all applicable policies issued,
+amended, or renewed on or after January 1, 2027.
+(2) Adjustments must be included in provider contracts, reimbursement
+schedules, or benefit documents provided to the commissioner as part of rate or
+form filings.
+(e)
+(1) The commissioner shall develop a public annual report identifying
+health insurance entities in compliance with this section.
+(2) Health insurance entities shall file with the commissioner, no later
+than April 1 of each year, documentation of compliance with the inflation
+adjustment requirement.
+(3) The commissioner shall monitor and review rate filings submitted by
+health insurance entities to ensure that adjustments in premiums are
+proportionate and justified in relation to the inflation index-based reimbursement
+updates.
+(f)
+(1) A health insurance entity may request a waiver from the requirements
+of this section by submitting to the commissioner an actuarial certification
+demonstrating that compliance would cause material financial hardship or
+jeopardize solvency.
+(2) The commissioner may grant a full or partial exemption for no more
+than one (1) calendar year per filing.
+(g) A health insurance entity may voluntarily implement a one-time catch-up
+adjustment to any in-network reimbursement rates or annual benefit maximums that
+have remained unchanged for at least five (5) consecutive calendar years prior to the
+- 3 - 011551
+
+effective date of this section. The catch-up adjustment may equal the cumulative CPI-U
+change over that five-year period, subject to a cap of twenty percent (20%). Voluntary
+adjustments must be filed with the commissioner within sixty (60) days of
+implementation. A health insurance entity may prioritize adjustments for rural and small
+practices.
+(h)
+(1) A health insurance entity may voluntarily implement a qualifying
+catch-up adjustment under subsection (g) on or before December 31, 2029.
+(2) Beginning January 1, 2030, a health insurance entity shall implement
+a catch-up adjustment to any in-network reimbursement rates or annual benefit
+maximums that:
+(A) Have remained unchanged for five (5) consecutive calendar
+years prior to the effective date of this section; and
+(B) Fall within a line of coverage subject to regulation under this
+chapter.
+(3) The mandatory catch-up adjustment under subdivision (h)(2) must
+equal the cumulative CPI-U increase for the frozen period, subject to a cap of
+twenty percent (20%).
+(4) The commissioner shall establish procedures to monitor compliance,
+review filings, and enforce catch-up adjustments pursuant to this subsection (h).
+A healthinsurance entity that maintains a full provider network and makes good-
+faith efforts to comply with this section is eligible for safe harbor protections,
+subject to review by the attorney general and reporter or designated legal
+counsel.
+(i)
+- 4 - 011551
+
+(1) The commissioner may prioritize review and enforcement of this
+section in counties identified as provider shortage areas or health professional
+shortage areas.
+(2) The commissioner shall ensure that small or rural providers receive
+equitable consideration in inflationary adjustments.
+(j) A health insurance entity shall not reduce the size of in-network provider
+panels in a discriminatory manner as a response to inflationary adjustments. The
+commissioner shall review provider network adequacy as part of rate oversight under
+this section.
+(k)
+(1) The department of commerce and insurance is authorized to allocate
+appropriations, hire additional staff, and procure technology necessary to support
+CPI tracking, compliance review, and public transparency.
+(2) The commissioner shall issue a transition timeline and guidance no
+later than ninety (90) days after the effective date of this act, including grace
+periods for systems integration.
+(l) The commissioner shall encourage insurers to conduct and submit multi-year
+rate reviews in conjunction with inflation index-based adjustments.
+(m) The commissioner of commerce and insurance is authorized to promulgate
+rules to implement this section The rules must be promulgated in accordance with the
+Uniform Administrative Procedures Act, compiled in title 4, chapter 5.
+SECTION 3. This act takes effect upon becoming a law, the public welfare requiring it.
+- 5 - 011551
+
+[DELETED: SS((((((]
+[DELETED:  -0((((((((((((]
+[DELETED:  -0((((((((((]
+[DELETED:  -0((((((((]
+[DELETED:  -0((((((((S]

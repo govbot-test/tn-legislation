@@ -1,0 +1,81 @@
+Title: HOUSE BILL 1939
+Official Title: HOUSE BILL 1939
+Number of Sections: 4
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+By Johnson
+SENATE BILL 2111
+By Campbell
+AN ACT to amend Tennessee Code Annotated, Section
+37-5-132, relative to the department of children's
+services caseload management.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 37-5-132, is amended by deleting the
+
+Section 3:
+section and substituting:
+(a) The department shall maintain staffing levels of case managers so that each
+region has enough case managers to ensure that caseloads do not exceed:
+(1) Twelve (12) active cases involving no more than twelve (12) families
+relating to initial assessments, including investigations of an allegation of child
+abuse or neglect; or
+(2) Twenty (20) children monitored and supervised in active cases
+relating to ongoing services.
+(b) The department shall comply with the maximum caseload limits described in
+subsection (a).
+(c) The department shall resolve each active case within twelve (12) months of
+the opening of the case. If the department does not resolve an active case within twelve
+(12) months, then the case must be brought before the juvenile court for a status review
+hearing to determine what specific actions are necessary to resolve the case. At the
+status review hearing, the court must issue specific and clear instructions regarding
+actions that must be completed by the parties for a timely resolution of the case.
+
+Section 4:
+SECTION 2. This act takes effect July 1, 2026, the public welfare requiring it.
+SB2111
+011582
+- 1 -
+[DELETED: S(((((S]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 1939
+By Johnson
+SENATE BILL 2111
+By Campbell
+AN ACT to amend Tennessee Code Annotated, Section
+37-5-132, relative to the department of children's
+services caseload management.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 37-5-132, is amended by deleting the
+section and substituting:
+(a) The department shall maintain staffing levels of case managers so that each
+region has enough case managers to ensure that caseloads do not exceed:
+(1) Twelve (12) active cases involving no more than twelve (12) families
+relating to initial assessments, including investigations of an allegation of child
+abuse or neglect; or
+(2) Twenty (20) children monitored and supervised in active cases
+relating to ongoing services.
+(b) The department shall comply with the maximum caseload limits described in
+subsection (a).
+(c) The department shall resolve each active case within twelve (12) months of
+the opening of the case. If the department does not resolve an active case within twelve
+(12) months, then the case must be brought before the juvenile court for a status review
+hearing to determine what specific actions are necessary to resolve the case. At the
+status review hearing, the court must issue specific and clear instructions regarding
+actions that must be completed by the parties for a timely resolution of the case.
+SECTION 2. This act takes effect July 1, 2026, the public welfare requiring it.
+SB2111
+011582
+- 1 -
+
+[DELETED: S(((((S]

@@ -1,0 +1,71 @@
+Title: SENATE BILL 1816
+Official Title: SENATE BILL 1816
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+By Powers
+HOUSE BILL 1803
+By McCalmon
+AN ACT to amend Tennessee Code Annotated, Title 57,
+Chapter 3, relative to manufacturing of alcohol.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 57-3-101, is amended by deleting
+subdivisions (a)(13) and (a)(14) and substituting instead:
+(13) "Manufacture" means:
+(A) Brewing high alcohol content beer;
+(B) Distilling distilled spirits;
+(C) Rectifying distilled spirits;
+(D) Bottling distilled spirits; or
+(E) Operating a winery;
+(14) "Manufacturer" means:
+(A) A brewer of high alcohol content beer;
+(B) A distiller;
+(C) A rectifier;
+(D) A bottler of distilled spirits; or
+(E) A vintner;
+
+Section 3:
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+HB1803
+011563
+- 1 -
+[DELETED: S((((((((((S]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 1816
+By Powers
+HOUSE BILL 1803
+By McCalmon
+AN ACT to amend Tennessee Code Annotated, Title 57,
+Chapter 3, relative to manufacturing of alcohol.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 57-3-101, is amended by deleting
+subdivisions (a)(13) and (a)(14) and substituting instead:
+(13) "Manufacture" means:
+(A) Brewing high alcohol content beer;
+(B) Distilling distilled spirits;
+(C) Rectifying distilled spirits;
+(D) Bottling distilled spirits; or
+(E) Operating a winery;
+(14) "Manufacturer" means:
+(A) A brewer of high alcohol content beer;
+(B) A distiller;
+(C) A rectifier;
+(D) A bottler of distilled spirits; or
+(E) A vintner;
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+HB1803
+011563
+- 1 -
+
+[DELETED: S((((((((((S]

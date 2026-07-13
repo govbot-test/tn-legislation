@@ -1,0 +1,186 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+SENATE JOINT RESOLUTION 705
+By Hensley
+A RESOLUTION to recognize the Columbia Rotary Club's 250th
+anniversary of the United States celebration and
+the public reading of its Declaration of
+Reverence.
+WHEREAS, it is fitting that the members of this General Assembly should join in
+commemorating significant milestones in our nation's history and honoring those civic
+organizations that inspire service, unity, and reflection within their communities; and
+WHEREAS, the year 2026 marks the 250th anniversary of the founding of the United
+States of America, and across Tennessee, citizens are planning commemorative events to
+recognize this historic occasion and the enduring principles of liberty, justice, and representative
+government; and
+WHEREAS, in observance of this milestone, the Columbia Rotary Club of Maury County
+will host a Fourth of July event at River Walk Park on July 4, 2026, offering an opportunity for
+citizens to come together in celebration, remembrance, and civic gratitude; and
+WHEREAS, as part of its commemorative ceremony, the Columbia Rotary Club will
+present a 250th Anniversary Declaration of Reverence, reflecting the club's patriotic values and
+honoring the rich tradition of American service, community, and civic responsibility; and
+WHEREAS, the full text of this Declaration of Reverence, as delivered by the Columbia
+Rotary Club, reads as follows:
+On this July 4, 2026, We the People of Tennessee and the Legislative
+Body, declare a Declaration of Reverence and vow to uphold the Constitution of
+the United States of America, to represent those we serve, and to speak up for
+those who cannot speak for themselves. To recognize that governmental power
+originates and comes from the citizens as the ultimate source of authority, setting
+SJR0705
+012881
+- 1 -
+aspirations for justice, welfare, and liberty for all. To recognize our nation's motto
+In God We Trust and to preserve the right to have this motto displayed in our
+public schools and public facilities.
+To recognize the importance of protecting all the constitutional rights of
+law-abiding citizens and to encourage the pursuit of happiness and the American
+Dream. To recognize the rights of our law-abiding citizens to live a life that is
+free from discrimination and to empower our fellow citizens to stand firm that all
+ethnic groups and races are created equal and to be treated with respect. To
+recognize that knowledge is power and that all citizens have access to good
+public education, and to encourage advanced learning in our state colleges and
+vocational schools.
+To recognize and empower our teachers and students with safe learning
+environments, to promote a drug-free learning environment, and to provide life
+skills training that will have continuing benefits for the rest of their lives. To
+recognize our law enforcement and first responders in the dangers they face and
+the sacrifices they make in the line of duty. To not forget the harsh realities that
+come from a service above self in the face of danger.
+To recognize and honor our Tennessee National Guard and Military
+Reserves that work and serve in our community, and are on standby at a
+moment's notice to leave everything for the call of duty, and for our veterans who
+have served here and overseas. To recognize that military service during war
+can leave long-term consequences of the effects of war that may never leave
+them or their families, by supporting mental health services and reconnecting
+services to help them adjust to civilian life. To recognize the need for suicide
+- 2 - 012881
+prevention efforts and education to be encouraged in our schools, workforce,
+military, and all citizens alike.
+To recognize our charitable volunteers, churches, and nonprofit
+organizations who make our state a better place to live. To recognize our
+farming communities' agriculture and commerce, and to support and preserve
+our farming heritage. We the People of Tennessee and our Legislative Body,
+vow on this 250th anniversary of our nation's independence to live up to our
+state's mission to protect Tennesseans, empower professionals, and to love our
+great State of Tennessee.
+WHEREAS, we acknowledge the Columbia Rotary Club's heartfelt expression of civic
+gratitude and patriotic reflection and commend the organization's commitment to honoring the
+250th anniversary of the United States with this thoughtful and unifying declaration; now,
+therefore,
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE HOUSE OF
+REPRESENTATIVES CONCURRING, that we honor the Columbia Rotary Club for its 250th
+anniversary of the United States celebration and its presentation of the Declaration of
+Reverence and commend the club's efforts to foster civic pride, community unity, and thoughtful
+patriotism in the citizens of this State.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy and upon proper request made to
+the appropriate clerk, the language appearing immediately following the State seal appear
+without House or Senate designation.
+- 3 - 012881
+- 4 - 012881
+[DELETED: 0WW0 WW0 WO]
+[DELETED:  -0TTT]
+[DELETED:  -0T0 W0 B0B]
+[DELETED:  -0]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+SENATE JOINT RESOLUTION 705
+By Hensley
+A RESOLUTION to recognize the Columbia Rotary Club's 250th
+anniversary of the United States celebration and
+the public reading of its Declaration of
+Reverence.
+WHEREAS, it is fitting that the members of this General Assembly should join in
+commemorating significant milestones in our nation's history and honoring those civic
+organizations that inspire service, unity, and reflection within their communities; and
+WHEREAS, the year 2026 marks the 250th anniversary of the founding of the United
+States of America, and across Tennessee, citizens are planning commemorative events to
+recognize this historic occasion and the enduring principles of liberty, justice, and representative
+government; and
+WHEREAS, in observance of this milestone, the Columbia Rotary Club of Maury County
+will host a Fourth of July event at River Walk Park on July 4, 2026, offering an opportunity for
+citizens to come together in celebration, remembrance, and civic gratitude; and
+WHEREAS, as part of its commemorative ceremony, the Columbia Rotary Club will
+present a 250th Anniversary Declaration of Reverence, reflecting the club's patriotic values and
+honoring the rich tradition of American service, community, and civic responsibility; and
+WHEREAS, the full text of this Declaration of Reverence, as delivered by the Columbia
+Rotary Club, reads as follows:
+On this July 4, 2026, We the People of Tennessee and the Legislative
+Body, declare a Declaration of Reverence and vow to uphold the Constitution of
+the United States of America, to represent those we serve, and to speak up for
+those who cannot speak for themselves. To recognize that governmental power
+originates and comes from the citizens as the ultimate source of authority, setting
+SJR0705
+012881
+- 1 -
+
+aspirations for justice, welfare, and liberty for all. To recognize our nation's motto
+In God We Trust and to preserve the right to have this motto displayed in our
+public schools and public facilities.
+To recognize the importance of protecting all the constitutional rights of
+law-abiding citizens and to encourage the pursuit of happiness and the American
+Dream. To recognize the rights of our law-abiding citizens to live a life that is
+free from discrimination and to empower our fellow citizens to stand firm that all
+ethnic groups and races are created equal and to be treated with respect. To
+recognize that knowledge is power and that all citizens have access to good
+public education, and to encourage advanced learning in our state colleges and
+vocational schools.
+To recognize and empower our teachers and students with safe learning
+environments, to promote a drug-free learning environment, and to provide life
+skills training that will have continuing benefits for the rest of their lives. To
+recognize our law enforcement and first responders in the dangers they face and
+the sacrifices they make in the line of duty. To not forget the harsh realities that
+come from a service above self in the face of danger.
+To recognize and honor our Tennessee National Guard and Military
+Reserves that work and serve in our community, and are on standby at a
+moment's notice to leave everything for the call of duty, and for our veterans who
+have served here and overseas. To recognize that military service during war
+can leave long-term consequences of the effects of war that may never leave
+them or their families, by supporting mental health services and reconnecting
+services to help them adjust to civilian life. To recognize the need for suicide
+- 2 - 012881
+
+prevention efforts and education to be encouraged in our schools, workforce,
+military, and all citizens alike.
+To recognize our charitable volunteers, churches, and nonprofit
+organizations who make our state a better place to live. To recognize our
+farming communities' agriculture and commerce, and to support and preserve
+our farming heritage. We the People of Tennessee and our Legislative Body,
+vow on this 250th anniversary of our nation's independence to live up to our
+state's mission to protect Tennesseans, empower professionals, and to love our
+great State of Tennessee.
+WHEREAS, we acknowledge the Columbia Rotary Club's heartfelt expression of civic
+gratitude and patriotic reflection and commend the organization's commitment to honoring the
+250th anniversary of the United States with this thoughtful and unifying declaration; now,
+therefore,
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE HOUSE OF
+REPRESENTATIVES CONCURRING, that we honor the Columbia Rotary Club for its 250th
+anniversary of the United States celebration and its presentation of the Declaration of
+Reverence and commend the club's efforts to foster civic pride, community unity, and thoughtful
+patriotism in the citizens of this State.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy and upon proper request made to
+the appropriate clerk, the language appearing immediately following the State seal appear
+without House or Senate designation.
+- 3 - 012881
+
+- 4 - 012881
+
+[DELETED: 0WW0 WW0 WO]
+[DELETED:  -0TTT]
+[DELETED:  -0T0 W0 B0B]
+[DELETED:  -0]

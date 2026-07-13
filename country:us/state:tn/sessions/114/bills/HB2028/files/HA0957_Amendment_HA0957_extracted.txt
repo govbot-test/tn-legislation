@@ -1,0 +1,130 @@
+Title: AMEND S e n ate Bill No. 2262 House Bill No. 2028*
+Official Title: AMEND S e n ate Bill No. 2262 House Bill No. 2028*
+Number of Sections: 3
+Source: versions - Amendment HA0957
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+House Commerce 1
+Amendment No. 1 to HB2028
+Vaughan
+Signature of Sponsor
+by deleting all language after the enacting clause and substituting:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Title 47, Chapter 18, Part 1, is amended by
+adding the following as a new section:
+(a) As used in this section:
+(1) "Blacklist" means to:
+(A) Reduce the visibility or accessibility of a small business's
+website on an online search engine;
+(B) Remove a small business's website or the search result for
+the small business's website from an online search engine; or
+(C) Delete or otherwise remove from the online search engine
+twenty-five percent (25%) or more of the reviews of a small business;
+(2) "Online search engine" means an internet website or application
+whose primary function is to provide a user a method, whether by query search
+or other means, to search the internet, including for websites, webpages, or other
+information, but does not include any other business entity, social media
+platform, review website, or other platform; and
+(3) "Small business" means a business entity, including the business
+entity's affiliates, that employs fifty (50) or fewer full-time employees.
+(b) A small business that believes an online search engine has blacklisted the
+small business may contact the online search engine and request a written or electronic
+response concerning the action.
+HA0957
+016070
+- 1 -
+(c) No later than five (5) business days after receiving a request under
+subsection (b), an online search engine must provide a written or electronic response to
+the small business that includes:
+(1) An explanation of the action and the justification for the action; or
+(2)
+(A) The process, steps, and requirements necessary for the small
+business to appeal the action or be restored or re-indexed; and
+(B) The contact information for a representative of the online
+search engine.
+(d)
+(1) A small business affected by an online search engine's failure to
+comply with subsection (c) may bring a civil action in a court of competent
+jurisdiction.
+(2) If a court finds that the online search engine violated subsection (c),
+then the court may award:
+(A) Actual damages;
+(B) Punitive damages; and
+(C) Reasonable court costs and attorneys' fees.
+(3) In addition to the remedies authorized by subdivision (d)(2), if a court
+finds that an online search engine violated subsection (c), then the court may
+enjoin the online search engine from continuing to violate subsection (c).
+
+Section 3:
+SECTION 2. This act takes effect July 1, 2026, the public welfare requiring it, and
+applies to conduct occurring on or after that date.
+- 2 - 016070
+[DELETED:  a HS(((]
+[DELETED:  -0S]
+
+
+================================================================================
+
+Raw Text:
+House Commerce 1
+Amendment No. 1 to HB2028
+Vaughan
+Signature of Sponsor
+AMEND S e n ate Bill No. 2262 House Bill No. 2028*
+by deleting all language after the enacting clause and substituting:
+SECTION 1. Tennessee Code Annotated, Title 47, Chapter 18, Part 1, is amended by
+adding the following as a new section:
+(a) As used in this section:
+(1) "Blacklist" means to:
+(A) Reduce the visibility or accessibility of a small business's
+website on an online search engine;
+(B) Remove a small business's website or the search result for
+the small business's website from an online search engine; or
+(C) Delete or otherwise remove from the online search engine
+twenty-five percent (25%) or more of the reviews of a small business;
+(2) "Online search engine" means an internet website or application
+whose primary function is to provide a user a method, whether by query search
+or other means, to search the internet, including for websites, webpages, or other
+information, but does not include any other business entity, social media
+platform, review website, or other platform; and
+(3) "Small business" means a business entity, including the business
+entity's affiliates, that employs fifty (50) or fewer full-time employees.
+(b) A small business that believes an online search engine has blacklisted the
+small business may contact the online search engine and request a written or electronic
+response concerning the action.
+HA0957
+016070
+- 1 -
+
+(c) No later than five (5) business days after receiving a request under
+subsection (b), an online search engine must provide a written or electronic response to
+the small business that includes:
+(1) An explanation of the action and the justification for the action; or
+(2)
+(A) The process, steps, and requirements necessary for the small
+business to appeal the action or be restored or re-indexed; and
+(B) The contact information for a representative of the online
+search engine.
+(d)
+(1) A small business affected by an online search engine's failure to
+comply with subsection (c) may bring a civil action in a court of competent
+jurisdiction.
+(2) If a court finds that the online search engine violated subsection (c),
+then the court may award:
+(A) Actual damages;
+(B) Punitive damages; and
+(C) Reasonable court costs and attorneys' fees.
+(3) In addition to the remedies authorized by subdivision (d)(2), if a court
+finds that an online search engine violated subsection (c), then the court may
+enjoin the online search engine from continuing to violate subsection (c).
+SECTION 2. This act takes effect July 1, 2026, the public welfare requiring it, and
+applies to conduct occurring on or after that date.
+- 2 - 016070
+
+[DELETED:  a HS(((]
+[DELETED:  -0S]

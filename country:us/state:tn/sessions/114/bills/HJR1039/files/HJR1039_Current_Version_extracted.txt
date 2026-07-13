@@ -1,0 +1,157 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+HOUSE JOINT RESOLUTION 1039
+By Jones J
+A RESOLUTION to honor Tennessee's fifteen African-American-
+owned Century Farms for their contributions to
+this State's history, culture, and economy.
+WHEREAS, for fifty years, the Tennessee Department of Agriculture has recognized and
+celebrated families that have owned and cultivated family farmland for 100 or more years
+through its Century Farm program; in addition to serving as the foundation of Tennessee
+agriculture, Century Farm families have been foundations for rural communities, contributing
+land and support for schools, churches, and cemeteries; and
+WHEREAS, today, fifteen African-American owned farms are recognized as Tennessee
+Century Farms; their history relates the resiliency and determination exhibited by African
+Americans in working their land despite many obstacles, including discriminatory loan practices
+based on race; and
+WHEREAS, post-Civil War, African Americans acquired fifteen million acres of farmland
+across the South between 1865 and 1919; and
+WHEREAS, in 1910, African-American farming peaked in Tennessee, with nearly 11,000
+African-American farmers, twenty-eight percent of Tennessee's total, at a time when the State's
+population was twenty-one percent African American; and
+WHEREAS, between 1910 and 1997, African Americans lost approximately ninety
+percent of their farmland; from the 1920s to today, the percentage of African-American
+agricultural landowners has steadily dropped from twenty-eight percent to only 1.3% across the
+nation; and
+WHEREAS, this mass exodus was fueled by violent racial animus, lynching, Jim
+Crowism, and underhanded land dealing and intimidation, coupled with better job prospects in
+the industrializing North; and
+HJR1039
+014020
+- 1 -
+WHEREAS, as a result of this Great Migration, decades-long USDA mismanagement of
+farm programs, and other factors, Century Farms founded by African-American farmers
+represent less than one-half of one percent of the total Century Farms recognized by the State
+of Tennessee today; and
+WHEREAS, although their numbers may be small, African-American-owned Century
+Farms are powerful reminders of the racial discrimination and economic struggles that African-
+American farmers endured for at least 160 years, as the history of these farms tells an
+inspirational story of persistence and dedication to overcome many societal obstacles and
+achieve success in their vocation; and
+WHEREAS, Tennessee's fifteen African-American-owned Century Farms include The
+Moore Family Farm (founded in 1870 in Benton County); The McDonald Craig Farm (founded in
+1871 in Perry County); The Drake Farm (founded in 1876 in Sumner County); The Butler Farm
+(founded in 1880 in Rutherford County); The Ol' Ledford Farm (founded in 1880 in Montgomery
+County); The Shaw Farm (founded in 1881 in Haywood County); Nelson Bond's Oakview Farm
+(founded in 1888 in Haywood County); The Robertson Farm (founded in1888 in Hardeman
+County); The Gardner Farm (founded in 1889 in Giles County); The Tony Angus Farm (founded
+in 1891 in Rutherford County); The Hatcher Family Farm (founded in 1903 in Williamson
+County); The William and Luella Carter Farm (founded in 1903 in Lauderdale County); The
+Luster Farm (founded in 1906 in Williamson County); The Dix Farm (founded in 1916 in
+Trousdale County); and The McKinnie Farm (founded in 1918 in Hardeman and Fayette
+counties); and
+WHEREAS, despite the bleak realities of today's agricultural economy, these fifteen
+African-American families are committed to keeping the rich legacy of African-American farming
+alive through their Century Farms, and they are most deserving of our approbation; now,
+therefore,
+- 2 - 014020
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE SENATE
+CONCURRING, that we honor the families who own and operate Tennessee's fifteen African-
+American Century Farms for their many contributions to this State's history, culture, and
+economy and their ongoing commitment to agriculture and their communities, extending to each
+of them our best wishes for much continued success and happiness.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy and upon proper request made to
+the appropriate clerk, the language appearing immediately following the State seal appear
+without House or Senate designation.
+- 3 - 014020
+[DELETED: WWWWWW]
+[DELETED:  -0WWWW]
+[DELETED:  -0BB]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+HOUSE JOINT RESOLUTION 1039
+By Jones J
+A RESOLUTION to honor Tennessee's fifteen African-American-
+owned Century Farms for their contributions to
+this State's history, culture, and economy.
+WHEREAS, for fifty years, the Tennessee Department of Agriculture has recognized and
+celebrated families that have owned and cultivated family farmland for 100 or more years
+through its Century Farm program; in addition to serving as the foundation of Tennessee
+agriculture, Century Farm families have been foundations for rural communities, contributing
+land and support for schools, churches, and cemeteries; and
+WHEREAS, today, fifteen African-American owned farms are recognized as Tennessee
+Century Farms; their history relates the resiliency and determination exhibited by African
+Americans in working their land despite many obstacles, including discriminatory loan practices
+based on race; and
+WHEREAS, post-Civil War, African Americans acquired fifteen million acres of farmland
+across the South between 1865 and 1919; and
+WHEREAS, in 1910, African-American farming peaked in Tennessee, with nearly 11,000
+African-American farmers, twenty-eight percent of Tennessee's total, at a time when the State's
+population was twenty-one percent African American; and
+WHEREAS, between 1910 and 1997, African Americans lost approximately ninety
+percent of their farmland; from the 1920s to today, the percentage of African-American
+agricultural landowners has steadily dropped from twenty-eight percent to only 1.3% across the
+nation; and
+WHEREAS, this mass exodus was fueled by violent racial animus, lynching, Jim
+Crowism, and underhanded land dealing and intimidation, coupled with better job prospects in
+the industrializing North; and
+HJR1039
+014020
+- 1 -
+
+WHEREAS, as a result of this Great Migration, decades-long USDA mismanagement of
+farm programs, and other factors, Century Farms founded by African-American farmers
+represent less than one-half of one percent of the total Century Farms recognized by the State
+of Tennessee today; and
+WHEREAS, although their numbers may be small, African-American-owned Century
+Farms are powerful reminders of the racial discrimination and economic struggles that African-
+American farmers endured for at least 160 years, as the history of these farms tells an
+inspirational story of persistence and dedication to overcome many societal obstacles and
+achieve success in their vocation; and
+WHEREAS, Tennessee's fifteen African-American-owned Century Farms include The
+Moore Family Farm (founded in 1870 in Benton County); The McDonald Craig Farm (founded in
+1871 in Perry County); The Drake Farm (founded in 1876 in Sumner County); The Butler Farm
+(founded in 1880 in Rutherford County); The Ol' Ledford Farm (founded in 1880 in Montgomery
+County); The Shaw Farm (founded in 1881 in Haywood County); Nelson Bond's Oakview Farm
+(founded in 1888 in Haywood County); The Robertson Farm (founded in1888 in Hardeman
+County); The Gardner Farm (founded in 1889 in Giles County); The Tony Angus Farm (founded
+in 1891 in Rutherford County); The Hatcher Family Farm (founded in 1903 in Williamson
+County); The William and Luella Carter Farm (founded in 1903 in Lauderdale County); The
+Luster Farm (founded in 1906 in Williamson County); The Dix Farm (founded in 1916 in
+Trousdale County); and The McKinnie Farm (founded in 1918 in Hardeman and Fayette
+counties); and
+WHEREAS, despite the bleak realities of today's agricultural economy, these fifteen
+African-American families are committed to keeping the rich legacy of African-American farming
+alive through their Century Farms, and they are most deserving of our approbation; now,
+therefore,
+- 2 - 014020
+
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE SENATE
+CONCURRING, that we honor the families who own and operate Tennessee's fifteen African-
+American Century Farms for their many contributions to this State's history, culture, and
+economy and their ongoing commitment to agriculture and their communities, extending to each
+of them our best wishes for much continued success and happiness.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy and upon proper request made to
+the appropriate clerk, the language appearing immediately following the State seal appear
+without House or Senate designation.
+- 3 - 014020
+
+[DELETED: WWWWWW]
+[DELETED:  -0WWWW]
+[DELETED:  -0BB]

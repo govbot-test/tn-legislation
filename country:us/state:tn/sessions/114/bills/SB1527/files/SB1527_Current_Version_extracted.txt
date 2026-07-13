@@ -1,0 +1,57 @@
+Title: HOUSE BILL 1585
+Official Title: HOUSE BILL 1585
+Number of Sections: 4
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+By Lafferty
+SENATE BILL 1527
+By Jackson
+AN ACT to amend Tennessee Code Annotated, Title 4,
+Chapter 29 and Title 8, Chapter 27, Part 3, relative
+to the local education insurance committee.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 4-29-247(a), is amended by deleting
+subdivision (33).
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 4-29-253(a), is amended by inserting
+the following as a new subdivision:
+( ) Local education insurance committee, created by § 8-27-301;
+
+Section 4:
+SECTION 3. This act takes effect upon becoming a law, the public welfare requiring it.
+SB1527
+010085
+- 1 -
+[DELETED: SS (S]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 1585
+By Lafferty
+SENATE BILL 1527
+By Jackson
+AN ACT to amend Tennessee Code Annotated, Title 4,
+Chapter 29 and Title 8, Chapter 27, Part 3, relative
+to the local education insurance committee.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 4-29-247(a), is amended by deleting
+subdivision (33).
+SECTION 2. Tennessee Code Annotated, Section 4-29-253(a), is amended by inserting
+the following as a new subdivision:
+( ) Local education insurance committee, created by § 8-27-301;
+SECTION 3. This act takes effect upon becoming a law, the public welfare requiring it.
+SB1527
+010085
+- 1 -
+
+[DELETED: SS (S]

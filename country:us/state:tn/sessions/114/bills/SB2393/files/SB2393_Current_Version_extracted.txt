@@ -1,0 +1,61 @@
+Title: HOUSE BILL 2621
+Official Title: HOUSE BILL 2621
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+By Harris
+SENATE BILL 2393
+By Akbari
+AN ACT to amend Tennessee Code Annotated, Title 6;
+Title 7 and Title 65, relative to public utilities.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 7-52-115(a), is amended by deleting
+"A copy of the schedule of the current rates and charges in effect from time to time and a copy
+of all rules and regulations of the supervisory body relating to electric service shall be kept on
+public file at the main and all branch offices of the electric plant and also in the office of the
+municipal clerk or recorder." and substituting:
+A copy of the current schedule of rates and charges and all rules and regulations of the
+supervisory body relating to electric service must be kept on public file at the main and
+all branch offices of the electric plant, in the office of the municipal clerk or recorder, and
+available to the public in an electronic format published online.
+
+Section 3:
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+SB2393
+012611
+- 1 -
+[DELETED: SS]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 2621
+By Harris
+SENATE BILL 2393
+By Akbari
+AN ACT to amend Tennessee Code Annotated, Title 6;
+Title 7 and Title 65, relative to public utilities.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 7-52-115(a), is amended by deleting
+"A copy of the schedule of the current rates and charges in effect from time to time and a copy
+of all rules and regulations of the supervisory body relating to electric service shall be kept on
+public file at the main and all branch offices of the electric plant and also in the office of the
+municipal clerk or recorder." and substituting:
+A copy of the current schedule of rates and charges and all rules and regulations of the
+supervisory body relating to electric service must be kept on public file at the main and
+all branch offices of the electric plant, in the office of the municipal clerk or recorder, and
+available to the public in an electronic format published online.
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+SB2393
+012611
+- 1 -
+
+[DELETED: SS]

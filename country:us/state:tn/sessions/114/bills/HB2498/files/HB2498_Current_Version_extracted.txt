@@ -1,0 +1,179 @@
+Title: SENATE BILL 2118
+Official Title: SENATE BILL 2118
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+By Lowe
+HOUSE BILL 2498
+By Capley
+AN ACT to amend Tennessee Code Annotated, Title 71,
+Chapter 5, relative to TennCare.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Title 71, Chapter 5, Part 1, is amended by
+adding the following as a new section:
+(a) As used in this section:
+(1) "Congenital defect" means a physical or chemical abnormality present
+in an individual that is inconsistent with the normal development of a human
+being of the individual's sex, including abnormalities caused by a medically
+verifiable disorder of sex development, but does not include gender dysphoria,
+gender identity disorder, gender incongruence, or any mental condition, disorder,
+disability, or abnormality;
+(2) "Division" means the division of TennCare;
+(3) "Hormone" means androgen or estrogen;
+(4) "Medical procedure" means:
+(A) Surgically removing, modifying, altering, or entering into
+tissues, cavities, or organs of a human being; or
+(B) Prescribing, administering, or dispensing any puberty blocker
+or hormone to a human being;
+(5) "Minor" means an individual under eighteen (18) years of age;
+(6) "Puberty blocker" means a drug or device that suppresses the
+production of hormones in a minor's body to stop, delay, or suppress pubertal
+development; and
+HB2498
+011208
+- 1 -
+(7) "Sex" means an individual's immutable characteristics of the
+reproductive system that define the individual as male or female, as determined
+by anatomy and genetics existing at the time of birth.
+(b)
+(1) The division shall not provide coverage or reimbursement for a
+medical procedure if the performance or administration of the procedure is for the
+purpose of:
+(A) Enabling an individual to identify with, or live as, a purported
+identity inconsistent with the individual's sex; or
+(B) Treating purported discomfort or distress from a discordance
+between the individual's sex and asserted identity.
+(2) Subdivision (b)(1) applies to medical procedures that are:
+(A) Performed or administered in this state; or
+(B) Performed or administered on an individual located in this
+state, including via telehealth, as defined in § 63-1-155.
+(c)
+(1) It is not a violation of subsection (b) if the division provides medical
+assistance coverage or reimbursement for a medical procedure performed on or
+administered to an individual, if:
+(A) The performance or administration of the medical procedure
+is to treat an individual's congenital defect, precocious puberty, disease,
+or physical injury; or
+(B) The performance or administration of the medical procedure
+on the individual began prior to the effective date of this act and
+concludes on or before March 31, 2027.
+- 2 - 011208
+(2) For purposes of subdivision (c)(1)(A), "disease" does not include
+gender dysphoria, gender identity disorder, gender incongruence, or any mental
+condition, disorder, disability, or abnormality.
+(3) For the exception in subdivision (c)(1)(B) to apply, the individual's
+treating physician must certify in writing that, in the physician's good faith medical
+judgment, based upon the facts known to the physician at the time, ending the
+medical procedure would be harmful to the individual. The certification must
+include the findings supporting the certification and must be made a part of the
+individual's medical record.
+(4) The exception in subdivision (c)(1)(B) does not allow the division to
+provide coverage or reimbursement for the performance or administration of a
+medical procedure that is different from the medical procedure performed prior to
+the effective date of this act when the sole purpose of the subsequent medical
+procedure is to:
+(A) Enable the individual to identify with, or live as, a purported
+identity inconsistent with the individual's sex; or
+(B) Treat purported discomfort or distress from a discordance
+between the individual's sex and asserted identity.
+
+Section 3:
+SECTION 2. This act takes effect July 1, 2026, the public welfare requiring it.
+- 3 - 011208
+[DELETED: S(((((((((]
+[DELETED:  -0((((((((((((]
+[DELETED:  -0(((((S]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 2118
+By Lowe
+HOUSE BILL 2498
+By Capley
+AN ACT to amend Tennessee Code Annotated, Title 71,
+Chapter 5, relative to TennCare.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Title 71, Chapter 5, Part 1, is amended by
+adding the following as a new section:
+(a) As used in this section:
+(1) "Congenital defect" means a physical or chemical abnormality present
+in an individual that is inconsistent with the normal development of a human
+being of the individual's sex, including abnormalities caused by a medically
+verifiable disorder of sex development, but does not include gender dysphoria,
+gender identity disorder, gender incongruence, or any mental condition, disorder,
+disability, or abnormality;
+(2) "Division" means the division of TennCare;
+(3) "Hormone" means androgen or estrogen;
+(4) "Medical procedure" means:
+(A) Surgically removing, modifying, altering, or entering into
+tissues, cavities, or organs of a human being; or
+(B) Prescribing, administering, or dispensing any puberty blocker
+or hormone to a human being;
+(5) "Minor" means an individual under eighteen (18) years of age;
+(6) "Puberty blocker" means a drug or device that suppresses the
+production of hormones in a minor's body to stop, delay, or suppress pubertal
+development; and
+HB2498
+011208
+- 1 -
+
+(7) "Sex" means an individual's immutable characteristics of the
+reproductive system that define the individual as male or female, as determined
+by anatomy and genetics existing at the time of birth.
+(b)
+(1) The division shall not provide coverage or reimbursement for a
+medical procedure if the performance or administration of the procedure is for the
+purpose of:
+(A) Enabling an individual to identify with, or live as, a purported
+identity inconsistent with the individual's sex; or
+(B) Treating purported discomfort or distress from a discordance
+between the individual's sex and asserted identity.
+(2) Subdivision (b)(1) applies to medical procedures that are:
+(A) Performed or administered in this state; or
+(B) Performed or administered on an individual located in this
+state, including via telehealth, as defined in § 63-1-155.
+(c)
+(1) It is not a violation of subsection (b) if the division provides medical
+assistance coverage or reimbursement for a medical procedure performed on or
+administered to an individual, if:
+(A) The performance or administration of the medical procedure
+is to treat an individual's congenital defect, precocious puberty, disease,
+or physical injury; or
+(B) The performance or administration of the medical procedure
+on the individual began prior to the effective date of this act and
+concludes on or before March 31, 2027.
+- 2 - 011208
+
+(2) For purposes of subdivision (c)(1)(A), "disease" does not include
+gender dysphoria, gender identity disorder, gender incongruence, or any mental
+condition, disorder, disability, or abnormality.
+(3) For the exception in subdivision (c)(1)(B) to apply, the individual's
+treating physician must certify in writing that, in the physician's good faith medical
+judgment, based upon the facts known to the physician at the time, ending the
+medical procedure would be harmful to the individual. The certification must
+include the findings supporting the certification and must be made a part of the
+individual's medical record.
+(4) The exception in subdivision (c)(1)(B) does not allow the division to
+provide coverage or reimbursement for the performance or administration of a
+medical procedure that is different from the medical procedure performed prior to
+the effective date of this act when the sole purpose of the subsequent medical
+procedure is to:
+(A) Enable the individual to identify with, or live as, a purported
+identity inconsistent with the individual's sex; or
+(B) Treat purported discomfort or distress from a discordance
+between the individual's sex and asserted identity.
+SECTION 2. This act takes effect July 1, 2026, the public welfare requiring it.
+- 3 - 011208
+
+[DELETED: S(((((((((]
+[DELETED:  -0((((((((((((]
+[DELETED:  -0(((((S]

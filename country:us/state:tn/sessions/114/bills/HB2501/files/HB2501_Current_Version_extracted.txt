@@ -1,0 +1,47 @@
+Title: SENATE BILL 2328
+Official Title: SENATE BILL 2328
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+By Haile
+HOUSE BILL 2501
+By Farmer
+AN ACT to amend Tennessee Code Annotated, Title 16,
+relative to judicial districts.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 16-2-522(a)(4), is amended by
+deleting the language "January 1, 2027" and substituting instead "January 15, 2027".
+
+Section 3:
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+HB2501
+012222
+- 1 -
+[DELETED: SS]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 2328
+By Haile
+HOUSE BILL 2501
+By Farmer
+AN ACT to amend Tennessee Code Annotated, Title 16,
+relative to judicial districts.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 16-2-522(a)(4), is amended by
+deleting the language "January 1, 2027" and substituting instead "January 15, 2027".
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+HB2501
+012222
+- 1 -
+
+[DELETED: SS]

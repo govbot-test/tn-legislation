@@ -1,0 +1,242 @@
+Title: AMEND S e n ate Bill No. 1820 House Bill No. 1718*
+Official Title: AMEND S e n ate Bill No. 1820 House Bill No. 1718*
+Number of Sections: 6
+Source: versions - Amendment HA1149
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+House Finance, Ways, and Means 1
+Amendment No. 2 to HB1718
+Hicks G
+Signature of Sponsor
+by deleting all language after the enacting clause and substituting:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Title 41, Chapter 51, is amended by adding
+the following as a new part:
+41-51-401. Part definitions.
+As used in this part:
+(1) "Correctional facility" means an adult correctional facility located:
+(A) On public property that houses, in whole or in part, inmates
+under the custody of the department for which correctional services are
+provided to such inmates by a prison contractor; and
+(B) In a county that has a metropolitan form of government with a
+population of not less than eleven thousand six hundred (11,600) and not
+more than eleven thousand six hundred sixteen (11,616), according to the
+2020 federal census or a subsequent federal census;
+(2) "Correctional officer" means a facility employee assigned to a security
+post on a schedule shift whose job title or position is defined as a correctional
+officer, sergeant, lieutenant, captain, correctional counselor, or unit manager;
+(3) "Correctional services" has the same meaning as defined in § 41-24-
+102;
+(4) "Department" means the department of correction; and
+(5) "Prison contractor" has the same meaning as defined in § 41-24-102.
+41-51-402. Body cameras in correctional facilities.
+HA1149
+017819
+- 1 -
+(a) Each correctional officer at a correctional facility shall utilize a body camera
+at all times when the officer is on duty at the facility and is in contact with or may
+reasonably anticipate contact or interaction with an inmate. The body camera must be
+recording at all times when utilized in accordance with this subsection (a).
+(b)
+(1) A prison contractor providing correctional services at a correctional
+facility is responsible for the costs of procuring an adequate number of body
+cameras to comply with this section, including the costs of data storage and
+maintenance. The prison contractor shall transmit body camera footage to the
+department for review and transmission, as applicable, pursuant to subdivision
+(b)(2) as soon as practicable.
+(2) The department, within the existing resources of the department:
+(A) Shall designate one (1) or more employees to review
+captured body camera recordings for each incident, interaction between
+two (2) or more inmates, or interaction between a correctional officer and
+an inmate or another correctional officer that is or that is suspected to be
+unlawful, abusive, or that may otherwise require a report or the discipline
+of an inmate. The review of each body camera recording must occur no
+later than five (5) business days after any investigation into an incident or
+interaction, as necessary. Body camera recordings that must be
+transmitted or that may be subject to a request must be stored and
+maintained securely and preserved for a period of not less than one (1)
+year. The body camera recordings must be stored and maintained in a
+manner that makes such recordings readily transmissible to the district
+attorney general and a prosecuting authority in accordance with
+subdivisions (b)(2)(B) and (C). A body camera recording, or a portion
+thereof, that is not subject to storage and maintenance under this
+- 2 - 017819
+subdivision (b)(2)(A) may be deleted no earlier than seven (7) days after
+the recording is reviewed;
+(B) Shall transmit to the district attorney general each portion of a
+body camera recording that captures an incident, interaction between two
+(2) or more inmates, or interaction between a correctional officer and an
+inmate or another correctional officer that is or that is suspected to be
+unlawful, abusive, or that may otherwise require a report or the discipline
+of an inmate. Such recordings must be transmitted to the district attorney
+general no later than forty-eight (48) hours after the body camera
+recording is reviewed pursuant to subdivision (b)(2)(A). If the district
+attorney general, after reviewing a body camera recording, determines
+that the recording does not capture activity that is unlawful or
+prosecutable, the district attorney general shall notify the department and
+prison contractor that the recording may be deleted in accordance with
+subdivision (b)(2)(A); and
+(C) Shall provide to any federal, state, or local prosecuting
+authority any body camera recording upon request within forty-eight (48)
+hours of such request, or as otherwise specified by the prosecuting
+authority.
+(c) The department shall aggregate body camera data that requires transmission
+pursuant to subdivision (b)(2) and submit a quarterly report to the chair of the corrections
+subcommittee of the state and local government committee of the senate and to the
+chair of the committee of the house of representatives with jurisdiction over corrections.
+The department shall submit an annual report to such chairs no later than June 30,
+
+Section 3:
+2027.
+41-51-403. Repealer.
+This part is repealed on July 1, 2027.
+- 3 - 017819
+
+Section 4:
+SECTION 2. Tennessee Code Annotated, Section 10-7-504(a), is amended by adding
+the following as a new subdivision:
+( ) Notwithstanding another law and except as provided in this subdivision (a)( ),
+a body camera recording captured and maintained pursuant to title 41, chapter 51, part 4
+is confidential and not open to public inspection. If the body camera recording is
+relevant to a civil action or criminal prosecution, then the recording may be released to a
+law enforcement agency, a federal, state, or local prosecuting authority, or in compliance
+with a subpoena or an order of a court of record in accordance with the Tennessee rules
+of civil or criminal procedure. The court or administrative judge having jurisdiction over
+the proceedings shall issue appropriate protective orders, as necessary, to ensure that
+the video footage is disclosed only to appropriate persons. Release of a segment or
+segments of the body camera recording must not be construed as waiving the
+confidentiality of the remaining segments of the body camera recording.
+
+Section 5:
+SECTION 3. The headings in this act are for reference purposes only and do not
+constitute a part of the law enacted by this act. However, the Tennessee Code Commission is
+requested to include the headings in any compilation or publication containing this act.
+
+Section 6:
+SECTION 4. This act takes effect July 1, 2026, the public welfare requiring it.
+- 4 - 017819
+[DELETED:  a HSA(((((((]
+[DELETED:  -0(((((]
+[DELETED:  -0(((T]
+[DELETED:  -0S(SS]
+
+
+================================================================================
+
+Raw Text:
+House Finance, Ways, and Means 1
+Amendment No. 2 to HB1718
+Hicks G
+Signature of Sponsor
+AMEND S e n ate Bill No. 1820 House Bill No. 1718*
+by deleting all language after the enacting clause and substituting:
+SECTION 1. Tennessee Code Annotated, Title 41, Chapter 51, is amended by adding
+the following as a new part:
+41-51-401. Part definitions.
+As used in this part:
+(1) "Correctional facility" means an adult correctional facility located:
+(A) On public property that houses, in whole or in part, inmates
+under the custody of the department for which correctional services are
+provided to such inmates by a prison contractor; and
+(B) In a county that has a metropolitan form of government with a
+population of not less than eleven thousand six hundred (11,600) and not
+more than eleven thousand six hundred sixteen (11,616), according to the
+2020 federal census or a subsequent federal census;
+(2) "Correctional officer" means a facility employee assigned to a security
+post on a schedule shift whose job title or position is defined as a correctional
+officer, sergeant, lieutenant, captain, correctional counselor, or unit manager;
+(3) "Correctional services" has the same meaning as defined in § 41-24-
+102;
+(4) "Department" means the department of correction; and
+(5) "Prison contractor" has the same meaning as defined in § 41-24-102.
+41-51-402. Body cameras in correctional facilities.
+HA1149
+017819
+- 1 -
+
+(a) Each correctional officer at a correctional facility shall utilize a body camera
+at all times when the officer is on duty at the facility and is in contact with or may
+reasonably anticipate contact or interaction with an inmate. The body camera must be
+recording at all times when utilized in accordance with this subsection (a).
+(b)
+(1) A prison contractor providing correctional services at a correctional
+facility is responsible for the costs of procuring an adequate number of body
+cameras to comply with this section, including the costs of data storage and
+maintenance. The prison contractor shall transmit body camera footage to the
+department for review and transmission, as applicable, pursuant to subdivision
+(b)(2) as soon as practicable.
+(2) The department, within the existing resources of the department:
+(A) Shall designate one (1) or more employees to review
+captured body camera recordings for each incident, interaction between
+two (2) or more inmates, or interaction between a correctional officer and
+an inmate or another correctional officer that is or that is suspected to be
+unlawful, abusive, or that may otherwise require a report or the discipline
+of an inmate. The review of each body camera recording must occur no
+later than five (5) business days after any investigation into an incident or
+interaction, as necessary. Body camera recordings that must be
+transmitted or that may be subject to a request must be stored and
+maintained securely and preserved for a period of not less than one (1)
+year. The body camera recordings must be stored and maintained in a
+manner that makes such recordings readily transmissible to the district
+attorney general and a prosecuting authority in accordance with
+subdivisions (b)(2)(B) and (C). A body camera recording, or a portion
+thereof, that is not subject to storage and maintenance under this
+- 2 - 017819
+
+subdivision (b)(2)(A) may be deleted no earlier than seven (7) days after
+the recording is reviewed;
+(B) Shall transmit to the district attorney general each portion of a
+body camera recording that captures an incident, interaction between two
+(2) or more inmates, or interaction between a correctional officer and an
+inmate or another correctional officer that is or that is suspected to be
+unlawful, abusive, or that may otherwise require a report or the discipline
+of an inmate. Such recordings must be transmitted to the district attorney
+general no later than forty-eight (48) hours after the body camera
+recording is reviewed pursuant to subdivision (b)(2)(A). If the district
+attorney general, after reviewing a body camera recording, determines
+that the recording does not capture activity that is unlawful or
+prosecutable, the district attorney general shall notify the department and
+prison contractor that the recording may be deleted in accordance with
+subdivision (b)(2)(A); and
+(C) Shall provide to any federal, state, or local prosecuting
+authority any body camera recording upon request within forty-eight (48)
+hours of such request, or as otherwise specified by the prosecuting
+authority.
+(c) The department shall aggregate body camera data that requires transmission
+pursuant to subdivision (b)(2) and submit a quarterly report to the chair of the corrections
+subcommittee of the state and local government committee of the senate and to the
+chair of the committee of the house of representatives with jurisdiction over corrections.
+The department shall submit an annual report to such chairs no later than June 30,
+2027.
+41-51-403. Repealer.
+This part is repealed on July 1, 2027.
+- 3 - 017819
+
+SECTION 2. Tennessee Code Annotated, Section 10-7-504(a), is amended by adding
+the following as a new subdivision:
+( ) Notwithstanding another law and except as provided in this subdivision (a)( ),
+a body camera recording captured and maintained pursuant to title 41, chapter 51, part 4
+is confidential and not open to public inspection. If the body camera recording is
+relevant to a civil action or criminal prosecution, then the recording may be released to a
+law enforcement agency, a federal, state, or local prosecuting authority, or in compliance
+with a subpoena or an order of a court of record in accordance with the Tennessee rules
+of civil or criminal procedure. The court or administrative judge having jurisdiction over
+the proceedings shall issue appropriate protective orders, as necessary, to ensure that
+the video footage is disclosed only to appropriate persons. Release of a segment or
+segments of the body camera recording must not be construed as waiving the
+confidentiality of the remaining segments of the body camera recording.
+SECTION 3. The headings in this act are for reference purposes only and do not
+constitute a part of the law enacted by this act. However, the Tennessee Code Commission is
+requested to include the headings in any compilation or publication containing this act.
+SECTION 4. This act takes effect July 1, 2026, the public welfare requiring it.
+- 4 - 017819
+
+[DELETED:  a HSA(((((((]
+[DELETED:  -0(((((]
+[DELETED:  -0(((T]
+[DELETED:  -0S(SS]
