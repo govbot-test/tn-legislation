@@ -1,0 +1,155 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+HOUSE JOINT RESOLUTION 1552
+By Camper
+A RESOLUTION to commemorate the 160th anniversary of the
+Memphis Massacre of 1866.
+WHEREAS, millions of Africans and their descendants were enslaved in the United
+States from 1619 through 1865, and the system of slavery and the racial discrimination upon
+which it depended became deeply embedded in the nation's social and legal structures; and
+WHEREAS, although slavery was abolished by the ratification of the Thirteenth
+Amendment to the United States Constitution in 1865 following the Civil War, the period of
+Reconstruction that followed was marked by significant unrest and violence, particularly in the
+Southern states; and
+WHEREAS, during Reconstruction, newly freed African Americans sought to exercise
+their rights as citizens, including the rights to work, to assemble, to worship, and to participate in
+civic life, often in the face of hostility and resistance; and
+WHEREAS, the Memphis Massacre occurred in Memphis from May 1 to May 3, 1866,
+during the early Reconstruction era, constituting a tragic and significant chapter in the history of
+this State and the nation; and
+WHEREAS, during this event, a white mob carried out a brutal and unprovoked attack
+on Black residents of Memphis, including formerly enslaved persons and Union veterans,
+resulting in the deaths of dozens of African Americans, injuries to many others, and the
+destruction of numerous homes, schools, and churches; and
+WHEREAS, the scale and nature of the violence, including the targeting of homes,
+educational institutions, and places of worship, inflicted lasting harm on the Black community in
+Memphis and underscored the vulnerability of newly freed citizens during this period; and
+HJR1552
+018263
+- 1 -
+WHEREAS, the violence and devastation of the Memphis Massacre drew national
+attention to the urgent need for legal protections for the civil rights of African Americans and
+contributed to the broader national dialogue that culminated in the adoption of the Fourteenth
+Amendment to the United States Constitution, guaranteeing equal protection under the law; and
+WHEREAS, the events in Memphis were among the first large-scale acts of racial
+violence during Reconstruction and were followed by similar incidents elsewhere, further
+illustrating the challenges faced in securing civil rights and equal protection; and
+WHEREAS, despite the magnitude of the violence and the extensive documentation of
+the events, those responsible for the Memphis Massacre were not held accountable, and acts of
+racial violence continued during Reconstruction and beyond; and
+WHEREAS, in the years following Reconstruction, the erosion of federal protections led
+to the rise of segregation and disenfranchisement, reinforcing the importance of continued
+vigilance in the protection of civil rights; and
+WHEREAS, it is important that the history of the Memphis Massacre and the broader
+experiences of African Americans during Reconstruction be remembered accurately and not
+minimized, so that future generations may better understand the challenges faced in the pursuit
+of justice and equality; and
+WHEREAS, commemorating such events provides an opportunity for reflection,
+education, and a renewed commitment to the principles upon which this State and nation are
+founded; and
+WHEREAS, reflection upon such events provides an opportunity to reaffirm a shared
+commitment to the principles of equal protection, justice, and opportunity for all citizens; now,
+therefore,
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE SENATE
+- 2 - 018263
+CONCURRING, that we commemorate the 160th anniversary of the Memphis Massacre of
+1866, honor the memory of those who lost their lives, and recognize this event as a solemn and
+significant chapter in the history of Tennessee and the United States.
+BE IT FURTHER RESOLVED, that the members of this General Assembly
+commemorate this solemn occasion as an opportunity for reflection, greater civic awareness,
+and a continued commitment to a more just and unified society grounded in equality and respect
+for the dignity of all persons.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy and upon proper request made to
+the appropriate clerk, the language appearing immediately following the State seal appear
+without House or Senate designation.
+- 3 - 018263
+[DELETED: 0 WWWWWW]
+[DELETED:  -0WWWWWWWB]
+[DELETED:  -00 BB]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+HOUSE JOINT RESOLUTION 1552
+By Camper
+A RESOLUTION to commemorate the 160th anniversary of the
+Memphis Massacre of 1866.
+WHEREAS, millions of Africans and their descendants were enslaved in the United
+States from 1619 through 1865, and the system of slavery and the racial discrimination upon
+which it depended became deeply embedded in the nation's social and legal structures; and
+WHEREAS, although slavery was abolished by the ratification of the Thirteenth
+Amendment to the United States Constitution in 1865 following the Civil War, the period of
+Reconstruction that followed was marked by significant unrest and violence, particularly in the
+Southern states; and
+WHEREAS, during Reconstruction, newly freed African Americans sought to exercise
+their rights as citizens, including the rights to work, to assemble, to worship, and to participate in
+civic life, often in the face of hostility and resistance; and
+WHEREAS, the Memphis Massacre occurred in Memphis from May 1 to May 3, 1866,
+during the early Reconstruction era, constituting a tragic and significant chapter in the history of
+this State and the nation; and
+WHEREAS, during this event, a white mob carried out a brutal and unprovoked attack
+on Black residents of Memphis, including formerly enslaved persons and Union veterans,
+resulting in the deaths of dozens of African Americans, injuries to many others, and the
+destruction of numerous homes, schools, and churches; and
+WHEREAS, the scale and nature of the violence, including the targeting of homes,
+educational institutions, and places of worship, inflicted lasting harm on the Black community in
+Memphis and underscored the vulnerability of newly freed citizens during this period; and
+HJR1552
+018263
+- 1 -
+
+WHEREAS, the violence and devastation of the Memphis Massacre drew national
+attention to the urgent need for legal protections for the civil rights of African Americans and
+contributed to the broader national dialogue that culminated in the adoption of the Fourteenth
+Amendment to the United States Constitution, guaranteeing equal protection under the law; and
+WHEREAS, the events in Memphis were among the first large-scale acts of racial
+violence during Reconstruction and were followed by similar incidents elsewhere, further
+illustrating the challenges faced in securing civil rights and equal protection; and
+WHEREAS, despite the magnitude of the violence and the extensive documentation of
+the events, those responsible for the Memphis Massacre were not held accountable, and acts of
+racial violence continued during Reconstruction and beyond; and
+WHEREAS, in the years following Reconstruction, the erosion of federal protections led
+to the rise of segregation and disenfranchisement, reinforcing the importance of continued
+vigilance in the protection of civil rights; and
+WHEREAS, it is important that the history of the Memphis Massacre and the broader
+experiences of African Americans during Reconstruction be remembered accurately and not
+minimized, so that future generations may better understand the challenges faced in the pursuit
+of justice and equality; and
+WHEREAS, commemorating such events provides an opportunity for reflection,
+education, and a renewed commitment to the principles upon which this State and nation are
+founded; and
+WHEREAS, reflection upon such events provides an opportunity to reaffirm a shared
+commitment to the principles of equal protection, justice, and opportunity for all citizens; now,
+therefore,
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE SENATE
+- 2 - 018263
+
+CONCURRING, that we commemorate the 160th anniversary of the Memphis Massacre of
+1866, honor the memory of those who lost their lives, and recognize this event as a solemn and
+significant chapter in the history of Tennessee and the United States.
+BE IT FURTHER RESOLVED, that the members of this General Assembly
+commemorate this solemn occasion as an opportunity for reflection, greater civic awareness,
+and a continued commitment to a more just and unified society grounded in equality and respect
+for the dignity of all persons.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy and upon proper request made to
+the appropriate clerk, the language appearing immediately following the State seal appear
+without House or Senate designation.
+- 3 - 018263
+
+[DELETED: 0 WWWWWW]
+[DELETED:  -0WWWWWWWB]
+[DELETED:  -00 BB]

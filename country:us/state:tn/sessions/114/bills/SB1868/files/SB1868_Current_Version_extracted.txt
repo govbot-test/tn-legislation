@@ -1,0 +1,155 @@
+Title: HOUSE BILL 2526
+Official Title: HOUSE BILL 2526
+Number of Sections: 10
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+By Lamberth
+SENATE BILL 1868
+By Johnson
+AN ACT to amend Tennessee Code Annotated, Title 37,
+Chapter 1, Part 1, relative to children.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 37-1-102(b), is amended by adding
+the following as a new subdivision:
+( ) "Child in need of heightened supervision" means a child who a court
+determines:
+(A) Has exhibited or threatened violent behavior consistent with an
+offense enumerated in § 37-1-131(a)(2)(B)(i) or § 39-14-202, regardless of
+whether a petition has been filed alleging the child committed a delinquent act
+and regardless of the child's adjudication or diversion status; or
+(B) Is incompetent to be adjudicated delinquent but has exhibited
+behavior consistent with a violent offense or an attempt to commit a violent
+offense, including offenses enumerated in § 37-1-131(a)(2)(B)(i) and § 39-14-
+202;
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 37-1-114(c), is amended by
+redesignating the current subdivisions (c)(7) and (c)(8) as subdivisions (c)(8) and (c)(9) and
+adding the following as a new subdivision (c)(7):
+(7) There is probable cause to believe the child is a child in need of heightened
+supervision;
+
+Section 4:
+SECTION 3. Tennessee Code Annotated, Section 37-1-114(c), is amended by deleting
+"listed in subdivisions (c)(1)-(6)" and substituting "listed in subdivisions (c)(1)-(7)".
+SB1868
+011269
+- 1 -
+
+Section 5:
+SECTION 4. Tennessee Code Annotated, Section 37-1-116(a), is amended by deleting
+"delinquent or unruly" and substituting "delinquent, unruly, or a child in need of heightened
+supervision".
+
+Section 6:
+SECTION 5. Tennessee Code Annotated, Section 37-1-116(d), is amended by deleting
+"alleged to be delinquent" and substituting "alleged to be delinquent, unless the child is also a
+child in need of heightened supervision".
+
+Section 7:
+SECTION 6. Tennessee Code Annotated, Section 37-1-116(k)(1), is amended by
+deleting "unless the following" and substituting "unless the child is also a child in need of
+heightened supervision or the following".
+
+Section 8:
+SECTION 7. Tennessee Code Annotated, Section 37-1-130(b), is amended by deleting
+"to be delinquent" and substituting "to be delinquent or a child in need of heightened
+supervision".
+
+Section 9:
+SECTION 8. Tennessee Code Annotated, Section 37-1-137(b)(1), is amended by
+adding the following as a new subdivision:
+(D)
+(i) The child is alleged to have committed an assault against a staff
+member at the child's residential placement. If the child is found to have
+committed such an assault following a disciplinary offense hearing or if the child
+is adjudicated delinquent for an assault that was committed against a staff
+member at the child's residential placement, then the child's indefinite
+commitment must not be discharged and the child must not be placed on home
+placement supervision for an additional six (6) months from the date of the
+assault.
+(ii) A child committed to the custody of the department for an indefinite
+time must be informed of this subdivision (b)(1)(D) upon commitment.
+- 2 - 011269
+
+Section 10:
+SECTION 9. This act takes effect July 1, 2026, the public welfare requiring it.
+- 3 - 011269
+[DELETED: S((S(S]
+[DELETED:  -0SSSSS]
+[DELETED:  -0S]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 2526
+By Lamberth
+SENATE BILL 1868
+By Johnson
+AN ACT to amend Tennessee Code Annotated, Title 37,
+Chapter 1, Part 1, relative to children.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 37-1-102(b), is amended by adding
+the following as a new subdivision:
+( ) "Child in need of heightened supervision" means a child who a court
+determines:
+(A) Has exhibited or threatened violent behavior consistent with an
+offense enumerated in § 37-1-131(a)(2)(B)(i) or § 39-14-202, regardless of
+whether a petition has been filed alleging the child committed a delinquent act
+and regardless of the child's adjudication or diversion status; or
+(B) Is incompetent to be adjudicated delinquent but has exhibited
+behavior consistent with a violent offense or an attempt to commit a violent
+offense, including offenses enumerated in § 37-1-131(a)(2)(B)(i) and § 39-14-
+202;
+SECTION 2. Tennessee Code Annotated, Section 37-1-114(c), is amended by
+redesignating the current subdivisions (c)(7) and (c)(8) as subdivisions (c)(8) and (c)(9) and
+adding the following as a new subdivision (c)(7):
+(7) There is probable cause to believe the child is a child in need of heightened
+supervision;
+SECTION 3. Tennessee Code Annotated, Section 37-1-114(c), is amended by deleting
+"listed in subdivisions (c)(1)-(6)" and substituting "listed in subdivisions (c)(1)-(7)".
+SB1868
+011269
+- 1 -
+
+SECTION 4. Tennessee Code Annotated, Section 37-1-116(a), is amended by deleting
+"delinquent or unruly" and substituting "delinquent, unruly, or a child in need of heightened
+supervision".
+SECTION 5. Tennessee Code Annotated, Section 37-1-116(d), is amended by deleting
+"alleged to be delinquent" and substituting "alleged to be delinquent, unless the child is also a
+child in need of heightened supervision".
+SECTION 6. Tennessee Code Annotated, Section 37-1-116(k)(1), is amended by
+deleting "unless the following" and substituting "unless the child is also a child in need of
+heightened supervision or the following".
+SECTION 7. Tennessee Code Annotated, Section 37-1-130(b), is amended by deleting
+"to be delinquent" and substituting "to be delinquent or a child in need of heightened
+supervision".
+SECTION 8. Tennessee Code Annotated, Section 37-1-137(b)(1), is amended by
+adding the following as a new subdivision:
+(D)
+(i) The child is alleged to have committed an assault against a staff
+member at the child's residential placement. If the child is found to have
+committed such an assault following a disciplinary offense hearing or if the child
+is adjudicated delinquent for an assault that was committed against a staff
+member at the child's residential placement, then the child's indefinite
+commitment must not be discharged and the child must not be placed on home
+placement supervision for an additional six (6) months from the date of the
+assault.
+(ii) A child committed to the custody of the department for an indefinite
+time must be informed of this subdivision (b)(1)(D) upon commitment.
+- 2 - 011269
+
+SECTION 9. This act takes effect July 1, 2026, the public welfare requiring it.
+- 3 - 011269
+
+[DELETED: S((S(S]
+[DELETED:  -0SSSSS]
+[DELETED:  -0S]

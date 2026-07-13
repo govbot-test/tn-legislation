@@ -1,0 +1,98 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+HOUSE RESOLUTION 191
+By Lafferty
+A RESOLUTION to commend Makayla Paris for exemplary
+service as a legislative intern.
+WHEREAS, each legislative session, the members of this legislative body are pleased to
+recognize certain persons who have committed themselves, through their adroit service, to the
+betterment of the legislative process; and
+WHEREAS, Makayla Paris is one such individual, who has distinguished herself in her
+role as a legislative intern for Representative Justin Lafferty; Ms. Paris's work has resulted in
+innumerable benefits for the legislators she assisted and the General Assembly as a whole; and
+WHEREAS, born in Ripley, Ms. Paris spent most of her life in Chattanooga but has lived
+across the State, gaining a deep understanding of various Tennessee families, lifestyles, and
+values; and
+WHEREAS, Makayla Paris is a student at the University of Tennessee, Knoxville, where
+she is pursuing a Bachelor of Arts degree in Public Affairs with a concentration in National
+Security; during her collegiate career, she has served as an ambassador for the Howard H.
+Baker, Jr., School of Public Policy and Public Affairs; and
+WHEREAS, she has a deep passion for public service and continues to engage in
+experiences that are centered on serving others; after her internship with the legislature, she will
+begin a position with Big Brothers Big Sisters as a statewide policy strategist; and
+WHEREAS, eager to familiarize herself with the characteristics and complexities of
+Tennessee State government and to further her studies, Makayla Paris brought her many
+abilities and singular expertise to Capitol Hill for the 2026 session of the One Hundred
+Fourteenth General Assembly; and
+HR0191
+017520
+- 1 -
+WHEREAS, throughout the 2026 legislative session, Ms. Paris has surpassed all criteria
+that define a devoted and conscientious legislative intern; and
+WHEREAS, Makayla Paris has performed her many duties with extraordinary insight
+and rare decorum; now, therefore,
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, that we commend
+Makayla Paris for outstanding service as a legislative intern for Representative Justin Lafferty
+and extend to her our best wishes for every future success.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy.
+- 2 - 017520
+[DELETED: WWWWWW]
+[DELETED:  -0WWBB]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+HOUSE RESOLUTION 191
+By Lafferty
+A RESOLUTION to commend Makayla Paris for exemplary
+service as a legislative intern.
+WHEREAS, each legislative session, the members of this legislative body are pleased to
+recognize certain persons who have committed themselves, through their adroit service, to the
+betterment of the legislative process; and
+WHEREAS, Makayla Paris is one such individual, who has distinguished herself in her
+role as a legislative intern for Representative Justin Lafferty; Ms. Paris's work has resulted in
+innumerable benefits for the legislators she assisted and the General Assembly as a whole; and
+WHEREAS, born in Ripley, Ms. Paris spent most of her life in Chattanooga but has lived
+across the State, gaining a deep understanding of various Tennessee families, lifestyles, and
+values; and
+WHEREAS, Makayla Paris is a student at the University of Tennessee, Knoxville, where
+she is pursuing a Bachelor of Arts degree in Public Affairs with a concentration in National
+Security; during her collegiate career, she has served as an ambassador for the Howard H.
+Baker, Jr., School of Public Policy and Public Affairs; and
+WHEREAS, she has a deep passion for public service and continues to engage in
+experiences that are centered on serving others; after her internship with the legislature, she will
+begin a position with Big Brothers Big Sisters as a statewide policy strategist; and
+WHEREAS, eager to familiarize herself with the characteristics and complexities of
+Tennessee State government and to further her studies, Makayla Paris brought her many
+abilities and singular expertise to Capitol Hill for the 2026 session of the One Hundred
+Fourteenth General Assembly; and
+HR0191
+017520
+- 1 -
+
+WHEREAS, throughout the 2026 legislative session, Ms. Paris has surpassed all criteria
+that define a devoted and conscientious legislative intern; and
+WHEREAS, Makayla Paris has performed her many duties with extraordinary insight
+and rare decorum; now, therefore,
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, that we commend
+Makayla Paris for outstanding service as a legislative intern for Representative Justin Lafferty
+and extend to her our best wishes for every future success.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy.
+- 2 - 017520
+
+[DELETED: WWWWWW]
+[DELETED:  -0WWBB]

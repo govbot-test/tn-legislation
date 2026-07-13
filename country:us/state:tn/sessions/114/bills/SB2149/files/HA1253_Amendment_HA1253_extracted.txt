@@ -1,0 +1,169 @@
+Title: AMEND S e n ate Bill No. 2149 House Bill No. 2075*
+Official Title: AMEND S e n ate Bill No. 2149 House Bill No. 2075*
+Number of Sections: 5
+Source: versions - Amendment HA1253
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+House Finance, Ways, and Means 1
+Amendment No. 3 to HB2075
+Hicks G
+Signature of Sponsor
+by deleting all language after the caption and substituting:
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Title 53, is amended by adding the following
+as a new chapter:
+53-16-101. Short title.
+This chapter is known and may be cited as the "HOPE Treatment Act."
+53-16-102. Legislative intent.
+It is the intent of the general assembly to encourage Tennessee-based research
+institutions to participate in federally authorized ibogaine clinical trials and multistate
+research collaborations addressing opioid use disorder, post-traumatic stress disorder,
+traumatic brain injury, and other serious conditions.
+53-16-103. Chapter definitions.
+As used in this chapter:
+(1) "Healthcare provider" means an individual who is licensed, registered,
+certified, authorized, or permitted by the laws of this state to administer health
+care in the ordinary course of business or practice of a profession;
+(2) "Ibogaine" means ibogaine and ibogaine-based therapeutics,
+including analogs;
+(3) "Researcher" means an individual who conducts research or
+research-related activities as part of a federally authorized clinical trial; and
+HA1253
+018655
+- 1 -
+(4) "Research institution" means a hospital, academic medical center, or
+institution of higher education with clinical research capacity located in this state.
+53-16-104. Authorization for research participation.
+(a) Notwithstanding another law to the contrary, a research institution may
+participate in one (1) or more clinical trials involving ibogaine, whether alone or in
+participation with a multistate research consortium, as long as all clinical trial activity is
+conducted in compliance with applicable state and federal law.
+(b) Participation in a clinical trial under this section must include compliance with
+a valid United States food and drug administration investigational new drug (IND)
+authorization, when such authorization is required by federal law.
+(c) A research institution may receive and administer federal, private, or
+philanthropic funding for purposes of conducting research authorized under this section.
+53-16-105. Scope of authorized activity.
+This chapter does not authorize the administration of ibogaine except in the
+context of a clinical trial conducted pursuant to applicable state and federal law.
+53-16-106. Medical direction and safety.
+(a) Ibogaine may only be administered in this state:
+(1) As part of a clinical trial conducted at a hospital or qualified research
+facility; and
+(2) Under the medical direction of a physician licensed in this state.
+(b) A research institution that is conducting or participating in a federally
+authorized clinical trial for ibogaine shall implement appropriate patient screening and
+safety protocols consistent with federal law, rule, and guidance.
+53-16-107. Liability protection.
+Notwithstanding chapter 11 of this title, the Tennessee Drug Control Act of 1989,
+compiled in title 39, chapter 17, part 4, or another law to the contrary, a healthcare
+provider, researcher, patient, or research institution participating in a clinical trial
+- 2 - 018655
+involving ibogaine in compliance with this chapter and applicable federal law is not
+subject to criminal liability under the controlled substance laws of this state solely for
+conduct that occurs as part of such clinical trial, if such conduct is authorized by federal
+law.
+
+Section 3:
+SECTION 2. If any provision of this act or its application to any person or circumstance
+is held invalid, then the invalidity does not affect other provisions or applications of the act that
+can be given effect without the invalid provision or application, and to that end, the provisions of
+this act are severable.
+
+Section 4:
+SECTION 3. The headings in this act are for reference purposes only and do not
+constitute a part of the law enacted by this act. However, the Tennessee Code Commission is
+requested to include the headings in any compilation or publication containing this act.
+
+Section 5:
+SECTION 4. This act takes effect upon becoming a law, the public welfare requiring it.
+- 3 - 018655
+[DELETED:  a HS5T5I5A(((]
+[DELETED:  -0(5(((5T5((((5N]
+[DELETED:  -0SSS]
+
+
+================================================================================
+
+Raw Text:
+House Finance, Ways, and Means 1
+Amendment No. 3 to HB2075
+Hicks G
+Signature of Sponsor
+AMEND S e n ate Bill No. 2149 House Bill No. 2075*
+by deleting all language after the caption and substituting:
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Title 53, is amended by adding the following
+as a new chapter:
+53-16-101. Short title.
+This chapter is known and may be cited as the "HOPE Treatment Act."
+53-16-102. Legislative intent.
+It is the intent of the general assembly to encourage Tennessee-based research
+institutions to participate in federally authorized ibogaine clinical trials and multistate
+research collaborations addressing opioid use disorder, post-traumatic stress disorder,
+traumatic brain injury, and other serious conditions.
+53-16-103. Chapter definitions.
+As used in this chapter:
+(1) "Healthcare provider" means an individual who is licensed, registered,
+certified, authorized, or permitted by the laws of this state to administer health
+care in the ordinary course of business or practice of a profession;
+(2) "Ibogaine" means ibogaine and ibogaine-based therapeutics,
+including analogs;
+(3) "Researcher" means an individual who conducts research or
+research-related activities as part of a federally authorized clinical trial; and
+HA1253
+018655
+- 1 -
+
+(4) "Research institution" means a hospital, academic medical center, or
+institution of higher education with clinical research capacity located in this state.
+53-16-104. Authorization for research participation.
+(a) Notwithstanding another law to the contrary, a research institution may
+participate in one (1) or more clinical trials involving ibogaine, whether alone or in
+participation with a multistate research consortium, as long as all clinical trial activity is
+conducted in compliance with applicable state and federal law.
+(b) Participation in a clinical trial under this section must include compliance with
+a valid United States food and drug administration investigational new drug (IND)
+authorization, when such authorization is required by federal law.
+(c) A research institution may receive and administer federal, private, or
+philanthropic funding for purposes of conducting research authorized under this section.
+53-16-105. Scope of authorized activity.
+This chapter does not authorize the administration of ibogaine except in the
+context of a clinical trial conducted pursuant to applicable state and federal law.
+53-16-106. Medical direction and safety.
+(a) Ibogaine may only be administered in this state:
+(1) As part of a clinical trial conducted at a hospital or qualified research
+facility; and
+(2) Under the medical direction of a physician licensed in this state.
+(b) A research institution that is conducting or participating in a federally
+authorized clinical trial for ibogaine shall implement appropriate patient screening and
+safety protocols consistent with federal law, rule, and guidance.
+53-16-107. Liability protection.
+Notwithstanding chapter 11 of this title, the Tennessee Drug Control Act of 1989,
+compiled in title 39, chapter 17, part 4, or another law to the contrary, a healthcare
+provider, researcher, patient, or research institution participating in a clinical trial
+- 2 - 018655
+
+involving ibogaine in compliance with this chapter and applicable federal law is not
+subject to criminal liability under the controlled substance laws of this state solely for
+conduct that occurs as part of such clinical trial, if such conduct is authorized by federal
+law.
+SECTION 2. If any provision of this act or its application to any person or circumstance
+is held invalid, then the invalidity does not affect other provisions or applications of the act that
+can be given effect without the invalid provision or application, and to that end, the provisions of
+this act are severable.
+SECTION 3. The headings in this act are for reference purposes only and do not
+constitute a part of the law enacted by this act. However, the Tennessee Code Commission is
+requested to include the headings in any compilation or publication containing this act.
+SECTION 4. This act takes effect upon becoming a law, the public welfare requiring it.
+- 3 - 018655
+
+[DELETED:  a HS5T5I5A(((]
+[DELETED:  -0(5(((5T5((((5N]
+[DELETED:  -0SSS]

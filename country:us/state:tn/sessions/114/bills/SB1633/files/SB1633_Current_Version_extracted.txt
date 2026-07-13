@@ -1,0 +1,61 @@
+Title: HOUSE BILL 1525
+Official Title: HOUSE BILL 1525
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+By Stinnett
+SENATE BILL 1633
+By Hatcher
+AN ACT to amend Tennessee Code Annotated, Title 40,
+relative to victims of crime.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 40-35-115, is amended by adding
+the following new subsection:
+(e) If the defendant is convicted of two (2) or more offenses, irrespective of
+whether the multiple offenses were part of a single criminal episode, involving more than
+one (1) victim that is a minor, then the court shall order the sentences to run
+consecutively unless the court finds by a preponderance of the evidence that the facts of
+the case do not warrant the imposition of consecutive sentences and the imposition of
+consecutive sentences would not be in the best interest of justice.
+
+Section 3:
+SECTION 2. This act takes effect July 1, 2026, the public welfare requiring it, and
+applies to offenses committed on or after that date.
+SB1633
+009948
+- 1 -
+[DELETED: S(S]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 1525
+By Stinnett
+SENATE BILL 1633
+By Hatcher
+AN ACT to amend Tennessee Code Annotated, Title 40,
+relative to victims of crime.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 40-35-115, is amended by adding
+the following new subsection:
+(e) If the defendant is convicted of two (2) or more offenses, irrespective of
+whether the multiple offenses were part of a single criminal episode, involving more than
+one (1) victim that is a minor, then the court shall order the sentences to run
+consecutively unless the court finds by a preponderance of the evidence that the facts of
+the case do not warrant the imposition of consecutive sentences and the imposition of
+consecutive sentences would not be in the best interest of justice.
+SECTION 2. This act takes effect July 1, 2026, the public welfare requiring it, and
+applies to offenses committed on or after that date.
+SB1633
+009948
+- 1 -
+
+[DELETED: S(S]

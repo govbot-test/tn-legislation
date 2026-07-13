@@ -1,0 +1,108 @@
+Title: SENATE BILL 2152
+Official Title: SENATE BILL 2152
+Number of Sections: 8
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+By Walley
+HOUSE BILL 2024
+By Marsh
+AN ACT to amend Tennessee Code Annotated, Title 65,
+Chapter 31, Part 1, relative to underground utility
+damage prevention.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 65-31-102(12)(A), is amended by
+deleting "digging, ditching" and substituting "digging, dredging, ditching".
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 65-31-102, is amended by adding
+the following as a new subdivision:
+( ) "Digital locating" means the application of a visual indicator to digital imagery
+or an electronic map to indicate the location of underground utilities;
+
+Section 4:
+SECTION 3. Tennessee Code Annotated, Section 65-31-106(a)(1), is amended by
+deleting "fifteen (15) calendar days" and substituting "twenty (20) calendar days", and by
+deleting "fifteenth calendar day" and substituting "twentieth calendar day".
+
+Section 5:
+SECTION 4. Tennessee Code Annotated, Section 65-31-106(b), is amended by
+deleting subdivisions (1), (2), (3), and (4), and by deleting "electric white lining, unless:" and
+substituting:
+electric white lining, unless the person responsible for the excavation or demolition and
+all operators with underground facilities in the proposed area of excavation have had a
+meeting prior to the beginning of the excavation or demolition for the exchange of
+information on the location of the proposed excavation or demolition.
+
+Section 6:
+SECTION 5. Tennessee Code Annotated, Section 65-31-106(e), is amended by adding
+the following as a new subdivision:
+HB2024
+012014
+- 1 -
+(3) The use of vacuum excavation by or on behalf of a member operator for
+locating or protecting the member operator's underground facilities once notified in
+accordance with the requirements of this section.
+
+Section 7:
+SECTION 6. Tennessee Code Annotated, Section 65-31-118(b)(1)(B), is amended by
+deleting "area, or other facility records" and substituting "area, digital locating, or other facility
+records".
+
+Section 8:
+SECTION 7. This act takes effect upon becoming a law, the public welfare requiring it.
+- 2 - 012014
+[DELETED: SS(S]
+[DELETED:  -0SS]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 2152
+By Walley
+HOUSE BILL 2024
+By Marsh
+AN ACT to amend Tennessee Code Annotated, Title 65,
+Chapter 31, Part 1, relative to underground utility
+damage prevention.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 65-31-102(12)(A), is amended by
+deleting "digging, ditching" and substituting "digging, dredging, ditching".
+SECTION 2. Tennessee Code Annotated, Section 65-31-102, is amended by adding
+the following as a new subdivision:
+( ) "Digital locating" means the application of a visual indicator to digital imagery
+or an electronic map to indicate the location of underground utilities;
+SECTION 3. Tennessee Code Annotated, Section 65-31-106(a)(1), is amended by
+deleting "fifteen (15) calendar days" and substituting "twenty (20) calendar days", and by
+deleting "fifteenth calendar day" and substituting "twentieth calendar day".
+SECTION 4. Tennessee Code Annotated, Section 65-31-106(b), is amended by
+deleting subdivisions (1), (2), (3), and (4), and by deleting "electric white lining, unless:" and
+substituting:
+electric white lining, unless the person responsible for the excavation or demolition and
+all operators with underground facilities in the proposed area of excavation have had a
+meeting prior to the beginning of the excavation or demolition for the exchange of
+information on the location of the proposed excavation or demolition.
+SECTION 5. Tennessee Code Annotated, Section 65-31-106(e), is amended by adding
+the following as a new subdivision:
+HB2024
+012014
+- 1 -
+
+(3) The use of vacuum excavation by or on behalf of a member operator for
+locating or protecting the member operator's underground facilities once notified in
+accordance with the requirements of this section.
+SECTION 6. Tennessee Code Annotated, Section 65-31-118(b)(1)(B), is amended by
+deleting "area, or other facility records" and substituting "area, digital locating, or other facility
+records".
+SECTION 7. This act takes effect upon becoming a law, the public welfare requiring it.
+- 2 - 012014
+
+[DELETED: SS(S]
+[DELETED:  -0SS]

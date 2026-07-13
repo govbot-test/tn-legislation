@@ -1,0 +1,425 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 15
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 7 sections found
+
+================================================================================
+
+Section 1:
+SENATE BILL 2074
+By Watson
+AN ACT to amend Tennessee Code Annotated, Title 5;
+Title 6; Title 7; Title 49; Title 54 and Title 67,
+relative to the Local Government Revenue
+Stability Act.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. This act is known and may be cited as the "Local Government Revenue
+Stability Act."
+
+Section 3:
+SECTION 2. The General Assembly finds and declares that:
+(1) Local governments historically relied upon property taxation for essential
+public services, including education, law enforcement, public works, transportation, debt
+service, and general governmental operations;
+(2) With the elimination of the authority of local governments to levy ad valorem
+taxes upon real and personal property, it is necessary to establish a broad-based,
+stable, state-administered revenue system to ensure continuity of public services;
+(3) A dedicated local government sales tax replacement fund that is financed by
+a statewide surtax on sales taxable under the Retailers' Sales Tax Act, compiled in
+Tennessee Code Annotated, Title 67, Chapter 6, is the most efficient and equitable
+means of maintaining local funding levels without imposing undue administrative
+burdens on local governments; and
+(4) The intent of this act is to keep all ninety-five (95) counties, municipalities,
+local education agencies (LEAs), and special taxing districts whole, by guaranteeing
+them the equivalent of their 2028 property tax revenues, adjusted annually for economic
+growth.
+SB2074
+010582
+- 1 -
+
+Section 4:
+SECTION 3. Tennessee Code Annotated, Title 67, Chapter 5, is amended by deleting
+the chapter and substituting instead the following:
+67-5-101.
+Except as provided in § 67-5-102, a tax shall not be levied on property in this
+state, be it real, personal, or mixed. This section does not absolve a taxpayer of liability
+for a tax duly levied by this chapter as it existed prior to January 1, 2031, for a tax year
+ending before that date. This chapter as it existed prior to January 1, 2031, applies to
+taxes levied prior to that date and taxes described in § 67-5-102.
+67-5-102.
+(a) A county, municipality, or special district that issued debt prior to January 1,
+2031, may continue to levy a property tax in accordance with this chapter as it existed
+prior to January 1, 2031, for the sole purpose of servicing such debt until the outstanding
+bonded indebtedness is fully retired.
+(b) No debt issued on or after January 1, 2031, may be secured by a pledge of
+property tax revenue.
+
+Section 5:
+SECTION 4. Tennessee Code Annotated, Section 5-8-101, is amended by adding the
+following language as a new subsection (c):
+Notwithstanding another law to the contrary and except as provided in § 67-5-
+102, a county shall not levy a tax on property in this state, be it real, personal, or mixed.
+
+Section 6:
+SECTION 5. Tennessee Code Annotated, Title 6, Chapter 2, Part 2, is amended by
+adding the following as a new section:
+6-2-202.
+Notwithstanding another law to the contrary and except as provided in § 67-5-
+102, a municipality incorporated under this chapter shall not levy a tax on property in this
+state, be it real, personal, or mixed.
+- 2 - 010582
+
+Section 7:
+SECTION 6. Tennessee Code Annotated, Title 6, Chapter 19, is amended by adding
+the following as a new section:
+6-19-106.
+Notwithstanding another law to the contrary and except as provided in § 67-5-
+102, a city incorporated under chapters 18-22 of this title shall not levy a tax on property
+in this state, be it real, personal, or mixed.
+
+Section 8:
+SECTION 7. Tennessee Code Annotated, Title 6, Chapter 33, is amended by adding
+the following as a new section:
+6-33-114.
+Notwithstanding another law to the contrary and except as provided in § 67-5-
+102, a city incorporated under chapters 30-36 of this title shall not levy a tax on property
+in this state, be it real, personal, or mixed.
+
+Section 9:
+SECTION 8. Tennessee Code Annotated, Title 6, Chapter 54, Part 1, is amended by
+adding the following as a new section:
+6-54-153.
+Notwithstanding another law to the contrary and except as provided in § 67-5-
+102, a municipality shall not levy a tax on property in this state, be it real, personal, or
+mixed.
+
+Section 10:
+SECTION 9. Tennessee Code Annotated, Title 7, Chapter 3, Part 2, is amended by
+adding the following as a new section:
+7-3-205.
+Notwithstanding another law to the contrary and except as provided in § 67-5-
+102, a metropolitan government created and established pursuant to chapters 1-3 of this
+title shall not levy a tax on property in this state, be it real, personal, or mixed.
+- 3 - 010582
+
+Section 11:
+SECTION 10. Tennessee Code Annotated, Title 7, is amended by adding the following
+as a new chapter:
+7-92-101.
+Notwithstanding another law to the contrary and except as provided in § 67-5-
+102, a special district created and established pursuant to chapters 81-90 of this title
+shall not levy a tax on property in this state, be it real, personal, or mixed.
+
+Section 12:
+SECTION 11. Tennessee Code Annotated, Title 49, Chapter 2, Part 1, is amended by
+adding the following as a new section:
+49-2-143.
+Notwithstanding another law to the contrary and except as provided in § 67-5-
+102, a special school district created and established pursuant to this title shall not levy a
+tax on property in this state, be it real, personal, or mixed.
+
+Section 13:
+SECTION 12. Tennessee Code Annotated, Title 67, is amended by adding the following
+as a new chapter:
+67-11-101.
+This chapter is known and may be cited as the "Local Government Revenue
+Stability Tax."
+67-11-102.
+As used in this chapter:
+(1) "Department" means the department of revenue;
+(2) "Fund" means the local government revenue stability tax fund,
+created in § 67-11-103; and
+(3) "Local government" includes a:
+(A) County;
+(B) Municipality;
+- 4 - 010582
+(C) Special district created and established pursuant to title 7,
+chapters 81-90; and
+(D) Special school district created and established pursuant to
+title 49.
+67-11-103.
+(a) There is created in the state treasury a dedicated account known as the local
+government revenue stability tax fund.
+(b) Beginning January 1, 2031, there is levied a statewide local government
+revenue surtax of four percent (4.0%) on all sales subject to the sales and use tax levied
+in accordance with chapter 6 of this title. The surtax is in addition to the rate set in § 67-
+6-202 and any local option sales tax rate set in chapter 6, part 7 of this title.
+(c) All revenue collected pursuant to the surtax must be deposited in the local
+government revenue stability tax fund, shall not revert or otherwise be transferred to the
+general fund, and must be retained in the local government revenue stability tax fund
+until expended, notwithstanding any law to the contrary. Moneys in the fund must be
+invested by the state treasurer pursuant to title 9, chapter 4, part 6, for the sole benefit of
+the fund, and interest accruing on investments of and deposits into such fund must be
+returned to such fund and remain part of the fund. Any balance remaining unexpended
+at the end of a fiscal year in the local government revenue stability tax fund shall not
+revert to the general fund but shall be carried forward into the subsequent fiscal year.
+(d) Moneys in the local government revenue stability tax fund must be used
+solely to provide revenue disbursements to counties, municipalities, local education
+agencies and special school districts, and special taxing districts in accordance with §
+67-11-104.
+67-11-104.
+- 5 - 010582
+(a) Each local government shall receive an annual distribution from the local
+government revenue stability tax fund equal to:
+(1) The local government's property tax revenues from 2028, as reported
+to or certified by the comptroller of the treasury or state board of equalization;
+plus
+(2) A growth supplement calculated by multiplying the property tax
+revenues under subdivision (a)(1) by a growth factor that is equal to the
+percentage increase in revenues over the prior year from the sales and use tax
+levied under § 67-6-202.
+(b) The department shall calculate and disburse monthly payments from the fund
+as follows:
+(1) Each county, including those with a metropolitan form of government,
+shall receive funds in proportion to the county's share of the total amount of
+county property tax revenues collected statewide for 2028;
+(2) Each municipality shall receive funds in proportion to the
+municipality's share of the total amount of municipal property tax revenues
+collected statewide for 2028;
+(3) Each special school district created and established pursuant to title
+49 shall receive funds in proportion to the district's share of the total amount of
+special school district property tax revenues collected statewide for 2028; and
+(4) Each special district created and established pursuant to title 7,
+chapters 81-90 shall receive funds in proportion to the district's share of total
+amount of special district property tax revenues collected statewide for 2028.
+(c) For purposes of §§ 49-3-314 and 49-3-316, disbursements made pursuant to
+this section are deemed to be a source of local funds.
+- 6 - 010582
+(d) Any reduction in fund disbursements shall not relieve a local government of
+any maintenance of effort obligations unless expressly authorized by statute.
+67-11-105.
+No later than February 1 of each year, the department, in consultation with the
+comptroller of the treasury, shall submit a report to the chief clerks of the senate and the
+house of representatives, the finance, ways and means committee of the senate, the
+committee in the house of representatives having jurisdiction over tax-related matters,
+the office of legislative budget analysis, and the legislative librarian detailing revenue
+collected pursuant to this chapter, growth factor calculations, and disbursements from
+the fund to each local government. The department shall also publish the report on the
+department's website.
+67-11-106.
+The department is authorized to promulgate rules to effectuate this chapter.
+Rules must be promulgated in accordance with the Uniform Administrative Procedures
+Act, compiled in title 4, chapter 5.
+
+Section 14:
+SECTION 13. This act is contingent on the approval and ratification of an amendment,
+in accordance with Article XI, Section 3, of the Constitution of Tennessee, to Article II, Section
+28, to remove the requirement that all property real, personal, or mixed be taxed. The Attorney
+General and Reporter shall notify the executive secretary of the Code Commission in writing of
+the occurrence of such approval and ratification.
+
+Section 15:
+SECTION 14. Subject to the contingency described in Section 13, this act takes effect
+January 1, 2031, the public welfare requiring it.
+- 7 - 010582
+[DELETED: SS((((]
+[DELETED:  -0S6E6((SNS6N]
+[DELETED:  -0S6NS6NS6NS7N]
+[DELETED:  -0S7NS4NS6T6A(((((]
+[DELETED:  -0((6((((6]
+[DELETED:  -0(((((((((]
+[DELETED:  -0(6N6TSS]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+SENATE BILL 2074
+By Watson
+AN ACT to amend Tennessee Code Annotated, Title 5;
+Title 6; Title 7; Title 49; Title 54 and Title 67,
+relative to the Local Government Revenue
+Stability Act.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. This act is known and may be cited as the "Local Government Revenue
+Stability Act."
+SECTION 2. The General Assembly finds and declares that:
+(1) Local governments historically relied upon property taxation for essential
+public services, including education, law enforcement, public works, transportation, debt
+service, and general governmental operations;
+(2) With the elimination of the authority of local governments to levy ad valorem
+taxes upon real and personal property, it is necessary to establish a broad-based,
+stable, state-administered revenue system to ensure continuity of public services;
+(3) A dedicated local government sales tax replacement fund that is financed by
+a statewide surtax on sales taxable under the Retailers' Sales Tax Act, compiled in
+Tennessee Code Annotated, Title 67, Chapter 6, is the most efficient and equitable
+means of maintaining local funding levels without imposing undue administrative
+burdens on local governments; and
+(4) The intent of this act is to keep all ninety-five (95) counties, municipalities,
+local education agencies (LEAs), and special taxing districts whole, by guaranteeing
+them the equivalent of their 2028 property tax revenues, adjusted annually for economic
+growth.
+SB2074
+010582
+- 1 -
+
+SECTION 3. Tennessee Code Annotated, Title 67, Chapter 5, is amended by deleting
+the chapter and substituting instead the following:
+67-5-101.
+Except as provided in § 67-5-102, a tax shall not be levied on property in this
+state, be it real, personal, or mixed. This section does not absolve a taxpayer of liability
+for a tax duly levied by this chapter as it existed prior to January 1, 2031, for a tax year
+ending before that date. This chapter as it existed prior to January 1, 2031, applies to
+taxes levied prior to that date and taxes described in § 67-5-102.
+67-5-102.
+(a) A county, municipality, or special district that issued debt prior to January 1,
+2031, may continue to levy a property tax in accordance with this chapter as it existed
+prior to January 1, 2031, for the sole purpose of servicing such debt until the outstanding
+bonded indebtedness is fully retired.
+(b) No debt issued on or after January 1, 2031, may be secured by a pledge of
+property tax revenue.
+SECTION 4. Tennessee Code Annotated, Section 5-8-101, is amended by adding the
+following language as a new subsection (c):
+Notwithstanding another law to the contrary and except as provided in § 67-5-
+102, a county shall not levy a tax on property in this state, be it real, personal, or mixed.
+SECTION 5. Tennessee Code Annotated, Title 6, Chapter 2, Part 2, is amended by
+adding the following as a new section:
+6-2-202.
+Notwithstanding another law to the contrary and except as provided in § 67-5-
+102, a municipality incorporated under this chapter shall not levy a tax on property in this
+state, be it real, personal, or mixed.
+- 2 - 010582
+
+SECTION 6. Tennessee Code Annotated, Title 6, Chapter 19, is amended by adding
+the following as a new section:
+6-19-106.
+Notwithstanding another law to the contrary and except as provided in § 67-5-
+102, a city incorporated under chapters 18-22 of this title shall not levy a tax on property
+in this state, be it real, personal, or mixed.
+SECTION 7. Tennessee Code Annotated, Title 6, Chapter 33, is amended by adding
+the following as a new section:
+6-33-114.
+Notwithstanding another law to the contrary and except as provided in § 67-5-
+102, a city incorporated under chapters 30-36 of this title shall not levy a tax on property
+in this state, be it real, personal, or mixed.
+SECTION 8. Tennessee Code Annotated, Title 6, Chapter 54, Part 1, is amended by
+adding the following as a new section:
+6-54-153.
+Notwithstanding another law to the contrary and except as provided in § 67-5-
+102, a municipality shall not levy a tax on property in this state, be it real, personal, or
+mixed.
+SECTION 9. Tennessee Code Annotated, Title 7, Chapter 3, Part 2, is amended by
+adding the following as a new section:
+7-3-205.
+Notwithstanding another law to the contrary and except as provided in § 67-5-
+102, a metropolitan government created and established pursuant to chapters 1-3 of this
+title shall not levy a tax on property in this state, be it real, personal, or mixed.
+- 3 - 010582
+
+SECTION 10. Tennessee Code Annotated, Title 7, is amended by adding the following
+as a new chapter:
+7-92-101.
+Notwithstanding another law to the contrary and except as provided in § 67-5-
+102, a special district created and established pursuant to chapters 81-90 of this title
+shall not levy a tax on property in this state, be it real, personal, or mixed.
+SECTION 11. Tennessee Code Annotated, Title 49, Chapter 2, Part 1, is amended by
+adding the following as a new section:
+49-2-143.
+Notwithstanding another law to the contrary and except as provided in § 67-5-
+102, a special school district created and established pursuant to this title shall not levy a
+tax on property in this state, be it real, personal, or mixed.
+SECTION 12. Tennessee Code Annotated, Title 67, is amended by adding the following
+as a new chapter:
+67-11-101.
+This chapter is known and may be cited as the "Local Government Revenue
+Stability Tax."
+67-11-102.
+As used in this chapter:
+(1) "Department" means the department of revenue;
+(2) "Fund" means the local government revenue stability tax fund,
+created in § 67-11-103; and
+(3) "Local government" includes a:
+(A) County;
+(B) Municipality;
+- 4 - 010582
+
+(C) Special district created and established pursuant to title 7,
+chapters 81-90; and
+(D) Special school district created and established pursuant to
+title 49.
+67-11-103.
+(a) There is created in the state treasury a dedicated account known as the local
+government revenue stability tax fund.
+(b) Beginning January 1, 2031, there is levied a statewide local government
+revenue surtax of four percent (4.0%) on all sales subject to the sales and use tax levied
+in accordance with chapter 6 of this title. The surtax is in addition to the rate set in § 67-
+6-202 and any local option sales tax rate set in chapter 6, part 7 of this title.
+(c) All revenue collected pursuant to the surtax must be deposited in the local
+government revenue stability tax fund, shall not revert or otherwise be transferred to the
+general fund, and must be retained in the local government revenue stability tax fund
+until expended, notwithstanding any law to the contrary. Moneys in the fund must be
+invested by the state treasurer pursuant to title 9, chapter 4, part 6, for the sole benefit of
+the fund, and interest accruing on investments of and deposits into such fund must be
+returned to such fund and remain part of the fund. Any balance remaining unexpended
+at the end of a fiscal year in the local government revenue stability tax fund shall not
+revert to the general fund but shall be carried forward into the subsequent fiscal year.
+(d) Moneys in the local government revenue stability tax fund must be used
+solely to provide revenue disbursements to counties, municipalities, local education
+agencies and special school districts, and special taxing districts in accordance with §
+67-11-104.
+67-11-104.
+- 5 - 010582
+
+(a) Each local government shall receive an annual distribution from the local
+government revenue stability tax fund equal to:
+(1) The local government's property tax revenues from 2028, as reported
+to or certified by the comptroller of the treasury or state board of equalization;
+plus
+(2) A growth supplement calculated by multiplying the property tax
+revenues under subdivision (a)(1) by a growth factor that is equal to the
+percentage increase in revenues over the prior year from the sales and use tax
+levied under § 67-6-202.
+(b) The department shall calculate and disburse monthly payments from the fund
+as follows:
+(1) Each county, including those with a metropolitan form of government,
+shall receive funds in proportion to the county's share of the total amount of
+county property tax revenues collected statewide for 2028;
+(2) Each municipality shall receive funds in proportion to the
+municipality's share of the total amount of municipal property tax revenues
+collected statewide for 2028;
+(3) Each special school district created and established pursuant to title
+49 shall receive funds in proportion to the district's share of the total amount of
+special school district property tax revenues collected statewide for 2028; and
+(4) Each special district created and established pursuant to title 7,
+chapters 81-90 shall receive funds in proportion to the district's share of total
+amount of special district property tax revenues collected statewide for 2028.
+(c) For purposes of §§ 49-3-314 and 49-3-316, disbursements made pursuant to
+this section are deemed to be a source of local funds.
+- 6 - 010582
+
+(d) Any reduction in fund disbursements shall not relieve a local government of
+any maintenance of effort obligations unless expressly authorized by statute.
+67-11-105.
+No later than February 1 of each year, the department, in consultation with the
+comptroller of the treasury, shall submit a report to the chief clerks of the senate and the
+house of representatives, the finance, ways and means committee of the senate, the
+committee in the house of representatives having jurisdiction over tax-related matters,
+the office of legislative budget analysis, and the legislative librarian detailing revenue
+collected pursuant to this chapter, growth factor calculations, and disbursements from
+the fund to each local government. The department shall also publish the report on the
+department's website.
+67-11-106.
+The department is authorized to promulgate rules to effectuate this chapter.
+Rules must be promulgated in accordance with the Uniform Administrative Procedures
+Act, compiled in title 4, chapter 5.
+SECTION 13. This act is contingent on the approval and ratification of an amendment,
+in accordance with Article XI, Section 3, of the Constitution of Tennessee, to Article II, Section
+28, to remove the requirement that all property real, personal, or mixed be taxed. The Attorney
+General and Reporter shall notify the executive secretary of the Code Commission in writing of
+the occurrence of such approval and ratification.
+SECTION 14. Subject to the contingency described in Section 13, this act takes effect
+January 1, 2031, the public welfare requiring it.
+- 7 - 010582
+
+[DELETED: SS((((]
+[DELETED:  -0S6E6((SNS6N]
+[DELETED:  -0S6NS6NS6NS7N]
+[DELETED:  -0S7NS4NS6T6A(((((]
+[DELETED:  -0((6((((6]
+[DELETED:  -0(((((((((]
+[DELETED:  -0(6N6TSS]

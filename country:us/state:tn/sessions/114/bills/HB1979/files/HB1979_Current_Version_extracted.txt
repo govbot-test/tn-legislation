@@ -1,0 +1,906 @@
+Title: SENATE BILL 2062
+Official Title: SENATE BILL 2062
+Number of Sections: 17
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 16 sections found
+
+================================================================================
+
+Section 1:
+By Watson
+HOUSE BILL 1979
+By White
+AN ACT to amend Tennessee Code Annotated, Title 4;
+Title 43; Title 49; Title 57; Title 67 and Title 71,
+relative to child care.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Title 71, Chapter 1, is amended by adding
+the following as a new part:
+71-1-301. Short title.
+This part is known and may be cited as the "Promising Futures Act."
+71-1-302. Findings and purpose.
+(a) The general assembly finds that:
+(1) Access to affordable, reliable child care is essential to workforce
+participation, economic stability for working families, and the long-term well-being
+of children;
+(2) Employers across multiple sectors in this state report that the lack of
+available and affordable child care is a significant barrier to employee recruitment
+and retention;
+(3) The child care workforce experiences persistent shortages and high
+turnover, in part due to the cost of child care for workers with young children;
+(4) Strategic, targeted investments in child care assistance can
+strengthen the workforce, support employers, and promote economic growth;
+and
+HB1979
+011953
+- 1 -
+(5) Dedicated revenues derived from vapor products and hemp-derived
+cannabinoid products provide an opportunity to support child care initiatives
+without reliance on general fund revenues.
+(b) The purpose of this part is to establish the promising futures fund to support
+pilot programs and targeted child care assistance initiatives that:
+(1) Strengthen and stabilize this state's child care workforce;
+(2) Support employer participation in shared child care cost models;
+(3) Expand access to child care for working families who are ineligible for
+existing subsidy programs; and
+(4) Provide accountability, transparency, and data-driven evaluation to
+inform future programming and policy decisions.
+71-1-303. Part definitions.
+As used in this part, unless the context otherwise requires:
+(1) "Department" means the department of human services;
+(2) "Eligible child care provider" means a child care provider licensed by
+the department of human services or certified by the department of education to
+provide child care services in this state;
+(3) "Fund" means the promising futures fund created in this part;
+(4) "State median income" means the most recent estimate of the median
+household income for residents of this state, as determined by the United States
+census bureau, adjusted for family size; and
+(5) "Third-party administrator" means a private entity under contract with
+the department to administer a program authorized in this part.
+71-1-304. Promising futures fund - Revenue dedication.
+- 2 - 011953
+(a) There is created in the state treasury a special fund to be known as the
+promising futures fund, hereinafter referred to as the fund.
+(b) The fund consists of:
+(1) Any amounts credited to the fund pursuant to title 57, chapter 7, part
+1 or pursuant to title 67, chapter 4, part 10;
+(2) Moneys specifically appropriated to the fund by the general assembly;
+(3) Any federal funds, grants, gifts, or donations received by the
+department for purposes consistent with this part; and
+(4) Any other moneys authorized by law to be deposited into the fund.
+(c) Moneys in the fund must be used solely for the purposes authorized in this
+part and used as funds are available, subject to appropriation by the general assembly.
+(d) Notwithstanding § 9-4-205 or another law to the contrary, interest earned on
+moneys in the fund must be credited to and remain in the fund. Any moneys in the fund
+remaining unexpended at the end of any fiscal year do not revert to the general fund.
+(e) From any amounts credited to the fund, the department may retain and use
+up to ten percent (10%) of the fund balance for administrative purposes and to
+implement, operate, oversee, evaluate, and report on the programs created in this part,
+including payments to third-party administrators or vendors. Any amounts used by the
+department pursuant to this subsection (e) are separate from, and may not be used for,
+the regulation, enforcement, or collection of any taxes, fees, or assessments.
+(f) This section must not be construed to limit the authority of any state agency
+to expend moneys, pursuant to appropriation, for the administration, enforcement, or
+collection of any taxes, fees, or assessments authorized under title 57 or title 67.
+71-1-305. Programs supported by the fund.
+- 3 - 011953
+(a) Moneys in the fund must be used to establish and operate the following
+programs, in the following order:
+(1) The child care workforce scholarship pilot program created in § 71-1-
+306 to provide categorical eligibility for free child care for children of eligible child
+care workers. It is the general assembly's intent that the child care workforce
+pilot program receives allocations from the fund over each three-year period of
+the pilot program's operation totaling five million dollars ($5,000,000);
+(2) The CareShare Tennessee pilot program created in § 71-1-307,
+which is an employer-supported child care assistance program. It is the general
+assembly's intent that the CareShare Tennessee pilot program receive
+allocations from the fund over each three-year period of the pilot program's
+operation totaling five million dollars ($5,000,000); and
+(3) The smart steps plus program created in § 71-1-308, if any funds
+remain available in the promising futures fund after the funding goals expressed
+in subdivisions (a)(1) and (2) are met for the respective programs.
+(b) Subject to available funding, the department may continue or expand the
+child care workforce scholarship pilot program created in § 71-1-306, and the CareShare
+Tennessee pilot program created in § 71-1-307, if the department's continuation or
+expansion of one (1) or more of the programs are approved by the governor.
+71-1-306. Child care workforce scholarship pilot program.
+(a) As used in this section:
+(1) "Categorical eligibility" means eligibility for child care assistance
+based solely on an individual's employment in the child care workforce, without
+regard to the individual's household income;
+- 4 - 011953
+(2) "Child care workforce" means individuals employed in this state by an
+eligible child care provider in a position involving the direct care, supervision, or
+education of children, including, but not limited to, teachers, assistant teachers,
+aides, and other instructional or caregiving staff, as determined by the
+department;
+(3) "Eligible child care worker" means a member of the child care
+workforce who works at least thirty (30) hours per week on average and who
+meets any additional employment, residency, and participation requirements
+established by the department;
+(4) "Free child care" means child care services provided to an eligible
+child care worker at no cost to the worker, after application of any federal or state
+child care assistance for which the worker or child is otherwise eligible;
+(5) "Marketing and outreach vendor" means a private entity under
+contract with the department to conduct recruitment, outreach, and related
+activities for the pilot program;
+(6) "Pilot program" means the child care workforce scholarship pilot
+program created in this section; and
+(7) "Scholarship" means financial assistance paid on behalf of an eligible
+child to an eligible child care provider to cover the costs of child care services
+through the pilot program.
+(b) The department shall administer a child care workforce scholarship pilot
+program to provide categorical eligibility for free child care for children of eligible child
+care workers employed in this state after application of any federal or state child care
+assistance for which the child or family is otherwise eligible to receive.
+- 5 - 011953
+(c) The department shall enter into a contract with one (1) or more marketing
+and outreach vendors to conduct recruitment and outreach activities for the pilot
+program. Any contract entered into pursuant to this subsection (c) must be
+performance-based and include measurable targets and key performance indicators tied
+to the recruitment of new child care workers into the workforce.
+(d) A marketing and outreach vendor under contract with the department
+pursuant to subsection (c) is responsible for collecting, maintaining, and reporting data
+necessary to measure performance against the key performance indicators established
+in the contract and documenting all outreach and recruitment activity.
+(e) The department shall submit the report required in § 71-1-309 for purposes
+of evaluating the pilot program. The following are the minimum key performance
+indicators that must be used to evaluate the pilot program:
+(1) The number of individuals entering the child care workforce for the
+first time that is attributable to outreach and recruitment activities;
+(2) The number of eligible child care workers with categorical eligibility;
+(3) Child care workforce retention rates for each three-year period for
+which the pilot program is in operation;
+(4) Geographic distribution of eligible child care workers and eligible child
+care providers participating in the pilot program; and
+(5) Outreach efficiency measures, including costs per recruited worker.
+(f) All reports submitted for purposes of the pilot program must be independently
+verified by the office of research and education accountability in the office of the
+comptroller of the treasury or by an independent entity selected by the comptroller.
+(g) The department shall coordinate eligibility criteria and benefit administration
+for the pilot program with existing child care subsidy programs.
+- 6 - 011953
+(h) At the end of each three-year period for which the pilot program operates, the
+department may, subject to available funding, continue or expand the pilot program if the
+pilot program's continuation or expansion is approved by the governor.
+(i) The department shall complete procurement and selection of any marketing
+and outreach vendors required for the pilot program by November 1, 2026, and, subject
+to available funding, begin operating the pilot program by January 1, 2027.
+71-1-307. CareShare Tennessee pilot program.
+(a) The department shall establish a CareShare Tennessee pilot program within
+the department to provide employer-supported child care assistance through shared
+contributions by participating employers, participating employees, and the state.
+(b) As used in this section:
+(1) "Contribution" means a payment made by an employer or employee,
+whether directly or through a third-party administrator, to subsidize eligible child
+care costs;
+(2) "Eligible child care costs" means the costs incurred for child care
+services provided by an eligible child care provider;
+(3) "Employee" means an individual employed in this state by a
+participating employer;
+(4) "Employer" means a for-profit or nonprofit entity, including, but not
+limited to, a local government or local education agency, that employs one (1) or
+more employees in this state;
+(5) "Participating employer" means an employer approved by the
+department or a third-party administrator to participate in the program;
+(6) "Pilot program" means the CareShare Tennessee pilot program
+created in this section; and
+- 7 - 011953
+(7) "State match" means the funds paid from the promising futures fund
+created in § 71-1-304 to an eligible child care provider to match employer and
+employee contributions received through the pilot program.
+(c)
+(1) The state match for the pilot program must be used to supplement
+employer and employee contributions toward eligible child care costs.
+(2) Subject to available funds, the state match must be determined using
+a declining match formula based on household income as follows:
+(A) The state match may equal up to one hundred percent
+(100%) of the employer contribution for participating employees with
+household incomes at or below one hundred percent (100%) of the state
+median income;
+(B) The state match must decrease by ten percent (10%) for each
+twenty percent (20%) increase in household income over one hundred
+percent (100%) of the state median household income up to one hundred
+fifty percent (150%) of the state median household income; and
+(C) The state match is fifty percent (50%) if the employee's
+household income exceeds one hundred fifty percent (150%) of the state
+median household income.
+(d)
+(1) The department shall contract with one (1) third-party administrator to
+administer the pilot program. The contract must be performance-based and
+include measurable targets and key performance indicators.
+(2) The third-party administrator is responsible for:
+- 8 - 011953
+(A) Developing and managing standardized participation
+agreements among employers, employees, and child care providers;
+(B) Verifying eligibility of employers, employees, and child care
+providers for purposes of the pilot program;
+(C) Collecting and disbursing employer and employee
+contributions and issuing state match payments to child care providers;
+(D) Collecting, maintaining, and reporting data necessary to
+measure performance against the key performance indicators established
+in the contract and documenting all pilot program activity;
+(E) Ensuring that state match payments are made only when
+sufficient funds are available and that program obligations do not exceed
+the balance of the promising futures fund created in § 71-1-304; and
+(F) Maintaining waitlists when sufficient funding is unavailable.
+(3) The department shall submit the report required in § 71-1-309 for
+purposes of evaluating the pilot program. The following are the minimum key
+performance indicators that must be used to evaluate the pilot program:
+(A) The number of participating employers, disaggregated by
+size, sector, and geographic region;
+(B) The number of participating employees receiving child care
+assistance;
+(C) The total amount of employer, employee, and state
+contributions made through the pilot program;
+(D) The number and characteristics of participating child care
+providers;
+- 9 - 011953
+(E) Utilization rates of approved child care assistance by
+participating employees; and
+(F) Administrative timeliness and accuracy, including contract
+processing times and payment disbursement timelines.
+(e) All reports submitted for purposes of the pilot program must be independently
+verified by the office of research and education accountability in the office of the
+comptroller of the treasury or by an independent entity selected by the comptroller.
+(f) Participation in the pilot program is voluntary for employers, employees, and
+child care providers.
+(g) At the end of each three-year period for which the pilot program operates, the
+department may, subject to available funding, continue or expand the pilot program if the
+pilot program's continuation or expansion is approved by the governor.
+(h) The department shall complete procurement and selection of the third-party
+administrator for the pilot program by November 1, 2026, and, subject to available
+funding, begin operating the pilot program by January 1, 2027.
+71-1-308. Smart Steps Plus program.
+(a) There is established the Smart Steps Plus program to provide child care
+scholarships to eligible working families whose household income exceeds eligibility
+thresholds for existing child care assistance programs.
+(b) As used in this section:
+(1) "Eligible working family" means a household with one (1) or more
+children requiring child care in which the household income is greater than
+eighty-five percent (85%) of the state median income, but does not exceed one
+hundred fifty percent (150%) of the state median income; and
+- 10 - 011953
+(2) "Program" means the Smart Steps Plus program created in this
+
+Section 3:
+section.
+(c) Subject to available funding, the department shall administer a Smart Steps
+Plus program to provide child care scholarships on a sliding scale basis, after application
+of any federal or state child care assistance for which the child or family is otherwise
+eligible to receive.
+(d) The department may establish eligibility criteria, benefit levels, copayment
+requirements, and prioritization schedules for the program by rule; provided, that the
+assistance must be targeted to support workforce participation and employment stability.
+Any rules promulgated by the department must be promulgated in accordance with the
+Uniform Administrative Procedures Act, compiled in title 4, chapter 5.
+(e) The department may administer and begin operating the program on or after
+January 1, 2027, subject to available funding.
+71-1-309. Reporting and evaluation.
+(a) The department shall submit an annual report for evaluating each of the
+programs created in this part. Each report must be submitted to the governor, the
+speaker of the senate, the speaker of the house of representatives, the chair of the
+finance, ways and means committee of the senate, and the chair of the committee of the
+house of representatives having jurisdiction over finance by March 31 immediately
+following a year for which one (1) or more of the programs operated in this state.
+(b) Each report must include, at a minimum:
+(1) A summary of fund revenues, expenditures, and balances, including
+amounts expended for administrative, regulatory, and evaluation purposes;
+(2) Verified performance data for the child care workforce scholarship
+pilot program, including the key performance indicators specified in § 71-1-306;
+- 11 - 011953
+(3) Verified performance data for the CareShare Tennessee pilot
+program, including the key performance indicators specified in § 71-1-307;
+(4) Participation and utilization data for the Smart Steps Plus program,
+including the number of families served, income distribution of participating
+families, and average benefit levels;
+(5) An assessment of the effectiveness of each program in meeting its
+stated goals, based on independently verified data;
+(6) Identification of any barriers to implementation or participation; and
+(7) Any recommendations for continuation, modification, expansion, or
+termination of one (1) or more of the programs.
+(c) Performance data used in the report must be based on reports submitted by
+third-party administrators or vendors and independently verified by the office of research
+and education accountability in the office of the comptroller of the treasury or by an
+independent entity selected by the comptroller.
+(d) The department shall make the report publicly available on its website.
+
+Section 4:
+SECTION 2. Tennessee Code Annotated, Section 57-7-106, is amended by deleting
+subsection (e) and substituting instead the following:
+(e)
+(1) The revenue collected from fees established under subdivision
+(b)(1)(B) must be deposited with the state treasurer and earmarked for and
+allocated to the commission and used solely for the administration of this title.
+(2) Notwithstanding subdivision (e)(1), if the revenue collected from fees
+established under subdivision (b)(1)(B) exceeds the costs to the commission for
+the administration of this title, then any such excess revenue must be reallocated
+- 12 - 011953
+and deposited into the promising futures fund created in § 71-1-304 and used
+solely for the purposes authorized in title 71, chapter 1, part 3.
+
+Section 5:
+SECTION 3. Tennessee Code Annotated, Section 57-7-106(f), is amended by deleting
+subdivision (8) and substituting instead the following:
+(8)
+(A) The revenue collected from fees established under this subsection (f)
+must be deposited with the state treasurer to be earmarked for and allocated to
+the commission and used solely or the administration of this title.
+(B) Notwithstanding subdivision (f)(8)(A), if the revenue collected from
+fees established under this subsection (f) exceeds the costs to the commission
+for the administration of this title, then any such excess revenue must be
+reallocated and deposited into the promising futures fund created in § 71-1-304
+and used solely for the purposes authorized in title 71, chapter 1, part 3.
+
+Section 6:
+SECTION 4. Tennessee Code Annotated, Section 57-7-108, is amended by deleting
+subsection (d) and substituting instead the following:
+(d)
+(1) All moneys collected under this section must be turned over to the
+state treasurer for deposit in accordance with this subsection (d).
+(2) Eighty percent (80%) must be deposited into the promising futures
+fund created in § 71-1-304 and used solely for the purposes authorized in the
+Promising Futures Act, compiled in title 71, chapter 1, part 3.
+(3) Ten percent (10%) must be deposited into a special account in the
+state general fund to be appropriated for use by the commission. At least fifty
+percent (50%) of the amount described in this subdivision (d)(3) must be used for
+the administration and enforcement of this chapter, and not more than fifty
+- 13 - 011953
+percent (50%) of the amount described in this subdivision (d)(3) may be used for
+the administration and enforcement of this title.
+(4) Ten percent (10%) must be deposited into a special account in the
+state general fund to be appropriated for use by the department of revenue in the
+administration and enforcement of this chapter.
+(5) Notwithstanding subdivisions (d)(3) and (4), any unexpended funds
+remaining in the special accounts referenced in subdivisions (d)(3) and (4) at the
+end of a fiscal year do revert to the general fund, but must be reallocated and
+deposited into the promising futures fund created in § 71-1-304 and used solely
+for the purposes authorized in title 71, chapter 1, part 3.
+
+Section 7:
+SECTION 5. Tennessee Code Annotated, Section 57-7-112, is amended by adding the
+following as a new subsection:
+(f) The amount of any fees collected pursuant to this section must, except as
+provided in this subsection (f), be used by the department for the administration and
+enforcement of this section. Any funds generated by the fees collected pursuant to this
+
+Section 8:
+section that remain unexpended at the end of a fiscal year do not revert to the general
+fund, but must be reallocated and deposited into the promising futures fund created in §
+71-1-304 and used solely for the purposes authorized in the Promising Futures Act,
+compiled in title 71, chapter 1, part 3.
+
+Section 9:
+SECTION 6. Tennessee Code Annotated, Section 57-7-113, is amended by adding the
+following as a new subsection:
+(d) The amount of any civil penalties assessed and collected pursuant to this
+
+Section 10:
+section must, except as provided in this subsection (d), be used by the commission for
+the administration and enforcement of this section. Any funds generated by the civil
+penalties assessed and collected pursuant to this section that remain unexpended at the
+- 14 - 011953
+end of a fiscal year do not revert to the general fund, but must be reallocated and
+deposited into the promising futures fund created in § 71-1-304 and used solely for the
+purposes authorized in the Promising Futures Act, compiled in title 71, chapter 1, part 3.
+
+Section 11:
+SECTION 7. Tennessee Code Annotated, Section 67-4-1025, is amended by deleting
+subsection (f) and substituting instead the following:
+(f)
+(1) Eighty seven and one-half percent (87.5%) of the revenue from taxes
+on vapor products collected under this part must be deposited into the promising
+futures fund created in § 71-1-304 and used solely for the purposes authorized in
+the Promising Futures Act, compiled in title 71, chapter 1, part 3.
+(2)
+(A) Twelve and one-half percent (12.5%) of the revenue from
+taxes on vapor products collected under this part must be deposited with
+the state treasurer to be earmarked for and allocated to the alcoholic
+beverage commission for the administration and enforcement of this part.
+(B) Notwithstanding subdivision (f)(2)(A), any funds allocated to
+the commission for the administration and enforcement of this part that
+remain unexpended at the end of a fiscal year must be reallocated and
+deposited into the promising futures fund created in § 71-1-304 and used
+solely for the purposes authorized in title 71, chapter 1, part 3.
+
+Section 12:
+SECTION 8. Tennessee Code Annotated, Section 67-4-1034, is amended by deleting
+subsection (p) and substituting instead the following:
+(p)
+(1) All fees and penalties collected by the department pursuant to this
+
+Section 13:
+section must be used for the administration and enforcement of this section.
+- 15 - 011953
+(2) Funds collected pursuant to this section must be placed in a special
+account within the general fund.
+(3) Notwithstanding subdivisions (p)(1) and (2), if, in any fiscal year, the
+fees and penalties assessed and collected pursuant to this section exceed the
+costs of the administration and enforcement of this section, then any such funds
+remaining unexpended at the end of a fiscal year must be reallocated and
+deposited into the promising futures fund created in § 71-1-304 and used solely
+for the purposes authorized in title 71, chapter 1, part 3.
+
+Section 14:
+SECTION 9. Tennessee Code Annotated, Section 67-4-1035, is amended by adding
+the following as a new subsection:
+(f) The amount of any fines collected pursuant to this section must, except as
+provided in this subsection (f), be used by the commission for the administration and
+enforcement of this section. Any funds generated by the fines collected pursuant to this
+
+Section 15:
+section that remain unexpended at the end of a fiscal year do not revert to the general
+fund, but must be reallocated and deposited into the promising futures fund created in §
+71-1-304 and used solely for the purposes authorized in the Promising Futures Act,
+compiled in title 71, chapter 1, part 3.
+
+Section 16:
+SECTION 10. The headings in this act are for reference purposes only and do not
+constitute a part of the law enacted by this act. However, the Tennessee Code Commission is
+requested to include the headings in any compilation or publication containing this act.
+
+Section 17:
+SECTION 11. This act takes effect July 1, 2026, the public welfare requiring it.
+- 16 - 011953
+[DELETED: S7T7(((((]
+[DELETED:  -0((((((7A(((((]
+[DELETED:  -0((((((((((7]
+[DELETED:  -0(((((7((]
+[DELETED:  -0(((((((]
+[DELETED:  -0((((((((((]
+[DELETED:  -0((7((((((((]
+[DELETED:  -0((((((((((]
+[DELETED:  -0(((((((((((]
+[DELETED:  -0((((((7(((]
+[DELETED:  -0((((7((((]
+[DELETED:  -0(((((((S(((]
+[DELETED:  -0S(((S((((]
+[DELETED:  -0((S(S(]
+[DELETED:  -0S(((((S((]
+[DELETED:  -0((S(SS]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 2062
+By Watson
+HOUSE BILL 1979
+By White
+AN ACT to amend Tennessee Code Annotated, Title 4;
+Title 43; Title 49; Title 57; Title 67 and Title 71,
+relative to child care.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Title 71, Chapter 1, is amended by adding
+the following as a new part:
+71-1-301. Short title.
+This part is known and may be cited as the "Promising Futures Act."
+71-1-302. Findings and purpose.
+(a) The general assembly finds that:
+(1) Access to affordable, reliable child care is essential to workforce
+participation, economic stability for working families, and the long-term well-being
+of children;
+(2) Employers across multiple sectors in this state report that the lack of
+available and affordable child care is a significant barrier to employee recruitment
+and retention;
+(3) The child care workforce experiences persistent shortages and high
+turnover, in part due to the cost of child care for workers with young children;
+(4) Strategic, targeted investments in child care assistance can
+strengthen the workforce, support employers, and promote economic growth;
+and
+HB1979
+011953
+- 1 -
+
+(5) Dedicated revenues derived from vapor products and hemp-derived
+cannabinoid products provide an opportunity to support child care initiatives
+without reliance on general fund revenues.
+(b) The purpose of this part is to establish the promising futures fund to support
+pilot programs and targeted child care assistance initiatives that:
+(1) Strengthen and stabilize this state's child care workforce;
+(2) Support employer participation in shared child care cost models;
+(3) Expand access to child care for working families who are ineligible for
+existing subsidy programs; and
+(4) Provide accountability, transparency, and data-driven evaluation to
+inform future programming and policy decisions.
+71-1-303. Part definitions.
+As used in this part, unless the context otherwise requires:
+(1) "Department" means the department of human services;
+(2) "Eligible child care provider" means a child care provider licensed by
+the department of human services or certified by the department of education to
+provide child care services in this state;
+(3) "Fund" means the promising futures fund created in this part;
+(4) "State median income" means the most recent estimate of the median
+household income for residents of this state, as determined by the United States
+census bureau, adjusted for family size; and
+(5) "Third-party administrator" means a private entity under contract with
+the department to administer a program authorized in this part.
+71-1-304. Promising futures fund - Revenue dedication.
+- 2 - 011953
+
+(a) There is created in the state treasury a special fund to be known as the
+promising futures fund, hereinafter referred to as the fund.
+(b) The fund consists of:
+(1) Any amounts credited to the fund pursuant to title 57, chapter 7, part
+1 or pursuant to title 67, chapter 4, part 10;
+(2) Moneys specifically appropriated to the fund by the general assembly;
+(3) Any federal funds, grants, gifts, or donations received by the
+department for purposes consistent with this part; and
+(4) Any other moneys authorized by law to be deposited into the fund.
+(c) Moneys in the fund must be used solely for the purposes authorized in this
+part and used as funds are available, subject to appropriation by the general assembly.
+(d) Notwithstanding § 9-4-205 or another law to the contrary, interest earned on
+moneys in the fund must be credited to and remain in the fund. Any moneys in the fund
+remaining unexpended at the end of any fiscal year do not revert to the general fund.
+(e) From any amounts credited to the fund, the department may retain and use
+up to ten percent (10%) of the fund balance for administrative purposes and to
+implement, operate, oversee, evaluate, and report on the programs created in this part,
+including payments to third-party administrators or vendors. Any amounts used by the
+department pursuant to this subsection (e) are separate from, and may not be used for,
+the regulation, enforcement, or collection of any taxes, fees, or assessments.
+(f) This section must not be construed to limit the authority of any state agency
+to expend moneys, pursuant to appropriation, for the administration, enforcement, or
+collection of any taxes, fees, or assessments authorized under title 57 or title 67.
+71-1-305. Programs supported by the fund.
+- 3 - 011953
+
+(a) Moneys in the fund must be used to establish and operate the following
+programs, in the following order:
+(1) The child care workforce scholarship pilot program created in § 71-1-
+306 to provide categorical eligibility for free child care for children of eligible child
+care workers. It is the general assembly's intent that the child care workforce
+pilot program receives allocations from the fund over each three-year period of
+the pilot program's operation totaling five million dollars ($5,000,000);
+(2) The CareShare Tennessee pilot program created in § 71-1-307,
+which is an employer-supported child care assistance program. It is the general
+assembly's intent that the CareShare Tennessee pilot program receive
+allocations from the fund over each three-year period of the pilot program's
+operation totaling five million dollars ($5,000,000); and
+(3) The smart steps plus program created in § 71-1-308, if any funds
+remain available in the promising futures fund after the funding goals expressed
+in subdivisions (a)(1) and (2) are met for the respective programs.
+(b) Subject to available funding, the department may continue or expand the
+child care workforce scholarship pilot program created in § 71-1-306, and the CareShare
+Tennessee pilot program created in § 71-1-307, if the department's continuation or
+expansion of one (1) or more of the programs are approved by the governor.
+71-1-306. Child care workforce scholarship pilot program.
+(a) As used in this section:
+(1) "Categorical eligibility" means eligibility for child care assistance
+based solely on an individual's employment in the child care workforce, without
+regard to the individual's household income;
+- 4 - 011953
+
+(2) "Child care workforce" means individuals employed in this state by an
+eligible child care provider in a position involving the direct care, supervision, or
+education of children, including, but not limited to, teachers, assistant teachers,
+aides, and other instructional or caregiving staff, as determined by the
+department;
+(3) "Eligible child care worker" means a member of the child care
+workforce who works at least thirty (30) hours per week on average and who
+meets any additional employment, residency, and participation requirements
+established by the department;
+(4) "Free child care" means child care services provided to an eligible
+child care worker at no cost to the worker, after application of any federal or state
+child care assistance for which the worker or child is otherwise eligible;
+(5) "Marketing and outreach vendor" means a private entity under
+contract with the department to conduct recruitment, outreach, and related
+activities for the pilot program;
+(6) "Pilot program" means the child care workforce scholarship pilot
+program created in this section; and
+(7) "Scholarship" means financial assistance paid on behalf of an eligible
+child to an eligible child care provider to cover the costs of child care services
+through the pilot program.
+(b) The department shall administer a child care workforce scholarship pilot
+program to provide categorical eligibility for free child care for children of eligible child
+care workers employed in this state after application of any federal or state child care
+assistance for which the child or family is otherwise eligible to receive.
+- 5 - 011953
+
+(c) The department shall enter into a contract with one (1) or more marketing
+and outreach vendors to conduct recruitment and outreach activities for the pilot
+program. Any contract entered into pursuant to this subsection (c) must be
+performance-based and include measurable targets and key performance indicators tied
+to the recruitment of new child care workers into the workforce.
+(d) A marketing and outreach vendor under contract with the department
+pursuant to subsection (c) is responsible for collecting, maintaining, and reporting data
+necessary to measure performance against the key performance indicators established
+in the contract and documenting all outreach and recruitment activity.
+(e) The department shall submit the report required in § 71-1-309 for purposes
+of evaluating the pilot program. The following are the minimum key performance
+indicators that must be used to evaluate the pilot program:
+(1) The number of individuals entering the child care workforce for the
+first time that is attributable to outreach and recruitment activities;
+(2) The number of eligible child care workers with categorical eligibility;
+(3) Child care workforce retention rates for each three-year period for
+which the pilot program is in operation;
+(4) Geographic distribution of eligible child care workers and eligible child
+care providers participating in the pilot program; and
+(5) Outreach efficiency measures, including costs per recruited worker.
+(f) All reports submitted for purposes of the pilot program must be independently
+verified by the office of research and education accountability in the office of the
+comptroller of the treasury or by an independent entity selected by the comptroller.
+(g) The department shall coordinate eligibility criteria and benefit administration
+for the pilot program with existing child care subsidy programs.
+- 6 - 011953
+
+(h) At the end of each three-year period for which the pilot program operates, the
+department may, subject to available funding, continue or expand the pilot program if the
+pilot program's continuation or expansion is approved by the governor.
+(i) The department shall complete procurement and selection of any marketing
+and outreach vendors required for the pilot program by November 1, 2026, and, subject
+to available funding, begin operating the pilot program by January 1, 2027.
+71-1-307. CareShare Tennessee pilot program.
+(a) The department shall establish a CareShare Tennessee pilot program within
+the department to provide employer-supported child care assistance through shared
+contributions by participating employers, participating employees, and the state.
+(b) As used in this section:
+(1) "Contribution" means a payment made by an employer or employee,
+whether directly or through a third-party administrator, to subsidize eligible child
+care costs;
+(2) "Eligible child care costs" means the costs incurred for child care
+services provided by an eligible child care provider;
+(3) "Employee" means an individual employed in this state by a
+participating employer;
+(4) "Employer" means a for-profit or nonprofit entity, including, but not
+limited to, a local government or local education agency, that employs one (1) or
+more employees in this state;
+(5) "Participating employer" means an employer approved by the
+department or a third-party administrator to participate in the program;
+(6) "Pilot program" means the CareShare Tennessee pilot program
+created in this section; and
+- 7 - 011953
+
+(7) "State match" means the funds paid from the promising futures fund
+created in § 71-1-304 to an eligible child care provider to match employer and
+employee contributions received through the pilot program.
+(c)
+(1) The state match for the pilot program must be used to supplement
+employer and employee contributions toward eligible child care costs.
+(2) Subject to available funds, the state match must be determined using
+a declining match formula based on household income as follows:
+(A) The state match may equal up to one hundred percent
+(100%) of the employer contribution for participating employees with
+household incomes at or below one hundred percent (100%) of the state
+median income;
+(B) The state match must decrease by ten percent (10%) for each
+twenty percent (20%) increase in household income over one hundred
+percent (100%) of the state median household income up to one hundred
+fifty percent (150%) of the state median household income; and
+(C) The state match is fifty percent (50%) if the employee's
+household income exceeds one hundred fifty percent (150%) of the state
+median household income.
+(d)
+(1) The department shall contract with one (1) third-party administrator to
+administer the pilot program. The contract must be performance-based and
+include measurable targets and key performance indicators.
+(2) The third-party administrator is responsible for:
+- 8 - 011953
+
+(A) Developing and managing standardized participation
+agreements among employers, employees, and child care providers;
+(B) Verifying eligibility of employers, employees, and child care
+providers for purposes of the pilot program;
+(C) Collecting and disbursing employer and employee
+contributions and issuing state match payments to child care providers;
+(D) Collecting, maintaining, and reporting data necessary to
+measure performance against the key performance indicators established
+in the contract and documenting all pilot program activity;
+(E) Ensuring that state match payments are made only when
+sufficient funds are available and that program obligations do not exceed
+the balance of the promising futures fund created in § 71-1-304; and
+(F) Maintaining waitlists when sufficient funding is unavailable.
+(3) The department shall submit the report required in § 71-1-309 for
+purposes of evaluating the pilot program. The following are the minimum key
+performance indicators that must be used to evaluate the pilot program:
+(A) The number of participating employers, disaggregated by
+size, sector, and geographic region;
+(B) The number of participating employees receiving child care
+assistance;
+(C) The total amount of employer, employee, and state
+contributions made through the pilot program;
+(D) The number and characteristics of participating child care
+providers;
+- 9 - 011953
+
+(E) Utilization rates of approved child care assistance by
+participating employees; and
+(F) Administrative timeliness and accuracy, including contract
+processing times and payment disbursement timelines.
+(e) All reports submitted for purposes of the pilot program must be independently
+verified by the office of research and education accountability in the office of the
+comptroller of the treasury or by an independent entity selected by the comptroller.
+(f) Participation in the pilot program is voluntary for employers, employees, and
+child care providers.
+(g) At the end of each three-year period for which the pilot program operates, the
+department may, subject to available funding, continue or expand the pilot program if the
+pilot program's continuation or expansion is approved by the governor.
+(h) The department shall complete procurement and selection of the third-party
+administrator for the pilot program by November 1, 2026, and, subject to available
+funding, begin operating the pilot program by January 1, 2027.
+71-1-308. Smart Steps Plus program.
+(a) There is established the Smart Steps Plus program to provide child care
+scholarships to eligible working families whose household income exceeds eligibility
+thresholds for existing child care assistance programs.
+(b) As used in this section:
+(1) "Eligible working family" means a household with one (1) or more
+children requiring child care in which the household income is greater than
+eighty-five percent (85%) of the state median income, but does not exceed one
+hundred fifty percent (150%) of the state median income; and
+- 10 - 011953
+
+(2) "Program" means the Smart Steps Plus program created in this
+section.
+(c) Subject to available funding, the department shall administer a Smart Steps
+Plus program to provide child care scholarships on a sliding scale basis, after application
+of any federal or state child care assistance for which the child or family is otherwise
+eligible to receive.
+(d) The department may establish eligibility criteria, benefit levels, copayment
+requirements, and prioritization schedules for the program by rule; provided, that the
+assistance must be targeted to support workforce participation and employment stability.
+Any rules promulgated by the department must be promulgated in accordance with the
+Uniform Administrative Procedures Act, compiled in title 4, chapter 5.
+(e) The department may administer and begin operating the program on or after
+January 1, 2027, subject to available funding.
+71-1-309. Reporting and evaluation.
+(a) The department shall submit an annual report for evaluating each of the
+programs created in this part. Each report must be submitted to the governor, the
+speaker of the senate, the speaker of the house of representatives, the chair of the
+finance, ways and means committee of the senate, and the chair of the committee of the
+house of representatives having jurisdiction over finance by March 31 immediately
+following a year for which one (1) or more of the programs operated in this state.
+(b) Each report must include, at a minimum:
+(1) A summary of fund revenues, expenditures, and balances, including
+amounts expended for administrative, regulatory, and evaluation purposes;
+(2) Verified performance data for the child care workforce scholarship
+pilot program, including the key performance indicators specified in § 71-1-306;
+- 11 - 011953
+
+(3) Verified performance data for the CareShare Tennessee pilot
+program, including the key performance indicators specified in § 71-1-307;
+(4) Participation and utilization data for the Smart Steps Plus program,
+including the number of families served, income distribution of participating
+families, and average benefit levels;
+(5) An assessment of the effectiveness of each program in meeting its
+stated goals, based on independently verified data;
+(6) Identification of any barriers to implementation or participation; and
+(7) Any recommendations for continuation, modification, expansion, or
+termination of one (1) or more of the programs.
+(c) Performance data used in the report must be based on reports submitted by
+third-party administrators or vendors and independently verified by the office of research
+and education accountability in the office of the comptroller of the treasury or by an
+independent entity selected by the comptroller.
+(d) The department shall make the report publicly available on its website.
+SECTION 2. Tennessee Code Annotated, Section 57-7-106, is amended by deleting
+subsection (e) and substituting instead the following:
+(e)
+(1) The revenue collected from fees established under subdivision
+(b)(1)(B) must be deposited with the state treasurer and earmarked for and
+allocated to the commission and used solely for the administration of this title.
+(2) Notwithstanding subdivision (e)(1), if the revenue collected from fees
+established under subdivision (b)(1)(B) exceeds the costs to the commission for
+the administration of this title, then any such excess revenue must be reallocated
+- 12 - 011953
+
+and deposited into the promising futures fund created in § 71-1-304 and used
+solely for the purposes authorized in title 71, chapter 1, part 3.
+SECTION 3. Tennessee Code Annotated, Section 57-7-106(f), is amended by deleting
+subdivision (8) and substituting instead the following:
+(8)
+(A) The revenue collected from fees established under this subsection (f)
+must be deposited with the state treasurer to be earmarked for and allocated to
+the commission and used solely or the administration of this title.
+(B) Notwithstanding subdivision (f)(8)(A), if the revenue collected from
+fees established under this subsection (f) exceeds the costs to the commission
+for the administration of this title, then any such excess revenue must be
+reallocated and deposited into the promising futures fund created in § 71-1-304
+and used solely for the purposes authorized in title 71, chapter 1, part 3.
+SECTION 4. Tennessee Code Annotated, Section 57-7-108, is amended by deleting
+subsection (d) and substituting instead the following:
+(d)
+(1) All moneys collected under this section must be turned over to the
+state treasurer for deposit in accordance with this subsection (d).
+(2) Eighty percent (80%) must be deposited into the promising futures
+fund created in § 71-1-304 and used solely for the purposes authorized in the
+Promising Futures Act, compiled in title 71, chapter 1, part 3.
+(3) Ten percent (10%) must be deposited into a special account in the
+state general fund to be appropriated for use by the commission. At least fifty
+percent (50%) of the amount described in this subdivision (d)(3) must be used for
+the administration and enforcement of this chapter, and not more than fifty
+- 13 - 011953
+
+percent (50%) of the amount described in this subdivision (d)(3) may be used for
+the administration and enforcement of this title.
+(4) Ten percent (10%) must be deposited into a special account in the
+state general fund to be appropriated for use by the department of revenue in the
+administration and enforcement of this chapter.
+(5) Notwithstanding subdivisions (d)(3) and (4), any unexpended funds
+remaining in the special accounts referenced in subdivisions (d)(3) and (4) at the
+end of a fiscal year do revert to the general fund, but must be reallocated and
+deposited into the promising futures fund created in § 71-1-304 and used solely
+for the purposes authorized in title 71, chapter 1, part 3.
+SECTION 5. Tennessee Code Annotated, Section 57-7-112, is amended by adding the
+following as a new subsection:
+(f) The amount of any fees collected pursuant to this section must, except as
+provided in this subsection (f), be used by the department for the administration and
+enforcement of this section. Any funds generated by the fees collected pursuant to this
+section that remain unexpended at the end of a fiscal year do not revert to the general
+fund, but must be reallocated and deposited into the promising futures fund created in §
+71-1-304 and used solely for the purposes authorized in the Promising Futures Act,
+compiled in title 71, chapter 1, part 3.
+SECTION 6. Tennessee Code Annotated, Section 57-7-113, is amended by adding the
+following as a new subsection:
+(d) The amount of any civil penalties assessed and collected pursuant to this
+section must, except as provided in this subsection (d), be used by the commission for
+the administration and enforcement of this section. Any funds generated by the civil
+penalties assessed and collected pursuant to this section that remain unexpended at the
+- 14 - 011953
+
+end of a fiscal year do not revert to the general fund, but must be reallocated and
+deposited into the promising futures fund created in § 71-1-304 and used solely for the
+purposes authorized in the Promising Futures Act, compiled in title 71, chapter 1, part 3.
+SECTION 7. Tennessee Code Annotated, Section 67-4-1025, is amended by deleting
+subsection (f) and substituting instead the following:
+(f)
+(1) Eighty seven and one-half percent (87.5%) of the revenue from taxes
+on vapor products collected under this part must be deposited into the promising
+futures fund created in § 71-1-304 and used solely for the purposes authorized in
+the Promising Futures Act, compiled in title 71, chapter 1, part 3.
+(2)
+(A) Twelve and one-half percent (12.5%) of the revenue from
+taxes on vapor products collected under this part must be deposited with
+the state treasurer to be earmarked for and allocated to the alcoholic
+beverage commission for the administration and enforcement of this part.
+(B) Notwithstanding subdivision (f)(2)(A), any funds allocated to
+the commission for the administration and enforcement of this part that
+remain unexpended at the end of a fiscal year must be reallocated and
+deposited into the promising futures fund created in § 71-1-304 and used
+solely for the purposes authorized in title 71, chapter 1, part 3.
+SECTION 8. Tennessee Code Annotated, Section 67-4-1034, is amended by deleting
+subsection (p) and substituting instead the following:
+(p)
+(1) All fees and penalties collected by the department pursuant to this
+section must be used for the administration and enforcement of this section.
+- 15 - 011953
+
+(2) Funds collected pursuant to this section must be placed in a special
+account within the general fund.
+(3) Notwithstanding subdivisions (p)(1) and (2), if, in any fiscal year, the
+fees and penalties assessed and collected pursuant to this section exceed the
+costs of the administration and enforcement of this section, then any such funds
+remaining unexpended at the end of a fiscal year must be reallocated and
+deposited into the promising futures fund created in § 71-1-304 and used solely
+for the purposes authorized in title 71, chapter 1, part 3.
+SECTION 9. Tennessee Code Annotated, Section 67-4-1035, is amended by adding
+the following as a new subsection:
+(f) The amount of any fines collected pursuant to this section must, except as
+provided in this subsection (f), be used by the commission for the administration and
+enforcement of this section. Any funds generated by the fines collected pursuant to this
+section that remain unexpended at the end of a fiscal year do not revert to the general
+fund, but must be reallocated and deposited into the promising futures fund created in §
+71-1-304 and used solely for the purposes authorized in the Promising Futures Act,
+compiled in title 71, chapter 1, part 3.
+SECTION 10. The headings in this act are for reference purposes only and do not
+constitute a part of the law enacted by this act. However, the Tennessee Code Commission is
+requested to include the headings in any compilation or publication containing this act.
+SECTION 11. This act takes effect July 1, 2026, the public welfare requiring it.
+- 16 - 011953
+
+[DELETED: S7T7(((((]
+[DELETED:  -0((((((7A(((((]
+[DELETED:  -0((((((((((7]
+[DELETED:  -0(((((7((]
+[DELETED:  -0(((((((]
+[DELETED:  -0((((((((((]
+[DELETED:  -0((7((((((((]
+[DELETED:  -0((((((((((]
+[DELETED:  -0(((((((((((]
+[DELETED:  -0((((((7(((]
+[DELETED:  -0((((7((((]
+[DELETED:  -0(((((((S(((]
+[DELETED:  -0S(((S((((]
+[DELETED:  -0((S(S(]
+[DELETED:  -0S(((((S((]
+[DELETED:  -0((S(SS]

@@ -1,0 +1,47 @@
+Title: HOUSE BILL 2087
+Official Title: HOUSE BILL 2087
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+By Sparks
+SENATE BILL 2046
+By Pody
+AN ACT to amend Tennessee Code Annotated, Title 45
+and Title 47, relative to consumer protection.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 45-17-109, is amended by deleting
+"fifteen (15) days" and substituting "ten (10) days".
+
+Section 3:
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+SB2046
+011898
+- 1 -
+[DELETED: SS]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 2087
+By Sparks
+SENATE BILL 2046
+By Pody
+AN ACT to amend Tennessee Code Annotated, Title 45
+and Title 47, relative to consumer protection.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 45-17-109, is amended by deleting
+"fifteen (15) days" and substituting "ten (10) days".
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+SB2046
+011898
+- 1 -
+
+[DELETED: SS]

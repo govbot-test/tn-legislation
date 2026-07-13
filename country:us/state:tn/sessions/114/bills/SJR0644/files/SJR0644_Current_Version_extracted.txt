@@ -1,0 +1,84 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+SENATE JOINT RESOLUTION 644
+By Johnson
+A RESOLUTION to confirm the appointment of Garnett Decosimo
+to the advisory board of the University of
+Tennessee at Chattanooga.
+WHEREAS, Tennessee Code Annotated, Section 49-9-501, established advisory boards
+for the University of Tennessee, Knoxville; University of Tennessee at Martin; University of
+Tennessee at Chattanooga; and University of Tennessee Health Science Center; and
+WHEREAS, Tennessee Code Annotated, Section 49-9-501, provides that the governor
+shall appoint five members to each advisory board; and
+WHEREAS, Governor Bill Lee has appointed Garnett Decosimo to serve as a member
+of the advisory board for the University of Tennessee at Chattanooga for a term that expires on
+June 30, 2029; and
+WHEREAS, Garnett Decosimo began his professional career as a certified public
+accountant with KPMG in Atlanta, Georgia, before embarking on a career in public service that
+saw him serve on the policy staffs of former U.S. Senators Bob Corker of Tennessee and Mike
+Enzi of Wyoming; and
+WHEREAS, in Tennessee, he has served as a senior policy analyst to Governor Bill Lee
+and as the Director of Federal Relations in the Office of the Governor, where he was
+responsible for developing and executing the State's federal policy agenda; and
+WHEREAS, Tennessee Code Annotated, Section 49-9-501, provides that each member
+appointed by the governor to the advisory board for the University of Tennessee at Chattanooga
+shall be confirmed by the general assembly; now, therefore,
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE HOUSE OF
+REPRESENTATIVES CONCURRING, that this body does hereby confirm the appointment of
+SJR0644
+011608
+- 1 -
+Garnett Decosimo to the advisory board for the University of Tennessee at Chattanooga for a
+term that expires June 30, 2029.
+- 2 - 011608
+[DELETED:  -0]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+SENATE JOINT RESOLUTION 644
+By Johnson
+A RESOLUTION to confirm the appointment of Garnett Decosimo
+to the advisory board of the University of
+Tennessee at Chattanooga.
+WHEREAS, Tennessee Code Annotated, Section 49-9-501, established advisory boards
+for the University of Tennessee, Knoxville; University of Tennessee at Martin; University of
+Tennessee at Chattanooga; and University of Tennessee Health Science Center; and
+WHEREAS, Tennessee Code Annotated, Section 49-9-501, provides that the governor
+shall appoint five members to each advisory board; and
+WHEREAS, Governor Bill Lee has appointed Garnett Decosimo to serve as a member
+of the advisory board for the University of Tennessee at Chattanooga for a term that expires on
+June 30, 2029; and
+WHEREAS, Garnett Decosimo began his professional career as a certified public
+accountant with KPMG in Atlanta, Georgia, before embarking on a career in public service that
+saw him serve on the policy staffs of former U.S. Senators Bob Corker of Tennessee and Mike
+Enzi of Wyoming; and
+WHEREAS, in Tennessee, he has served as a senior policy analyst to Governor Bill Lee
+and as the Director of Federal Relations in the Office of the Governor, where he was
+responsible for developing and executing the State's federal policy agenda; and
+WHEREAS, Tennessee Code Annotated, Section 49-9-501, provides that each member
+appointed by the governor to the advisory board for the University of Tennessee at Chattanooga
+shall be confirmed by the general assembly; now, therefore,
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE HOUSE OF
+REPRESENTATIVES CONCURRING, that this body does hereby confirm the appointment of
+SJR0644
+011608
+- 1 -
+
+Garnett Decosimo to the advisory board for the University of Tennessee at Chattanooga for a
+term that expires June 30, 2029.
+- 2 - 011608
+
+[DELETED:  -0]
