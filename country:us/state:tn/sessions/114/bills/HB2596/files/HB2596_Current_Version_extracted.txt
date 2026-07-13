@@ -1,0 +1,57 @@
+Title: SENATE BILL 2378
+Official Title: SENATE BILL 2378
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+By Akbari
+HOUSE BILL 2596
+By Camper
+AN ACT to amend Tennessee Code Annotated, Title 2;
+Title 4; Title 8; Title 29; Title 39 and Title 41,
+relative to voting rights.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Title 2, Chapter 12, Part 1, is amended by
+adding the following as a new section:
+If a county election commission receives a bonafide complaint of a violation of a
+person's right to vote in an election, the county election commission shall document the
+details of the complaint and electronically submit the complaint to the state election
+commission.
+
+Section 3:
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+HB2596
+012598
+- 1 -
+[DELETED: SIS]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 2378
+By Akbari
+HOUSE BILL 2596
+By Camper
+AN ACT to amend Tennessee Code Annotated, Title 2;
+Title 4; Title 8; Title 29; Title 39 and Title 41,
+relative to voting rights.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Title 2, Chapter 12, Part 1, is amended by
+adding the following as a new section:
+If a county election commission receives a bonafide complaint of a violation of a
+person's right to vote in an election, the county election commission shall document the
+details of the complaint and electronically submit the complaint to the state election
+commission.
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+HB2596
+012598
+- 1 -
+
+[DELETED: SIS]

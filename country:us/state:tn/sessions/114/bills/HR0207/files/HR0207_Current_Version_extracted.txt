@@ -1,0 +1,114 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+HOUSE RESOLUTION 207
+By Rudder
+A RESOLUTION to honor the Franklin County Garden Club during
+National Garden Week.
+WHEREAS, gardeners have a passion for nurturing the beauty and resources of the
+earth through the planting of seeds, the care of all plants, and the riches of their efforts; they
+seek to add beauty, splendor, fragrance, and nutrition to our lives through the growing of herbs,
+vegetables, foliage, and flowers; and
+WHEREAS, gardeners work to preserve our State's traditional spirit of independence
+and initiative through innovation and hard work; they advocate for the importance of all
+creatures, large and small, that share our world, and their roles in a balanced and productive
+ecology; and
+WHEREAS, gardening furnishes a challenging and productive activity for citizens—those
+just learning as well as those who have years of experience; it also promotes a healthy lifestyle
+that lasts a lifetime, helps reduce stress from other areas of life, and teaches that rewards can
+come from diligent efforts; and
+WHEREAS, garden clubs across the State and nation make a difference in the
+communities wherein they reside and work; one such garden club is the Franklin County
+Garden Club, whose members have taken strides to preserve the environment, enhance the
+beauty of their community, and educate the next generation on the benefits of gardening; and
+WHEREAS, established by Elizabeth Drake of EB Drake Nursery in 1929, the club
+passionately beautifies the community and promotes gardening to others, including teachers
+and students at Clark Memorial Elementary School, where they undertook a successful project
+to restore the historic Carrick Academy Bell; and
+HR0207
+018125
+- 1 -
+WHEREAS, the Carrick Academy Bell project, the largest ever undertaken by the club,
+was in partnership with Clark Memorial Elementary School, the Rotary Club, a local paint
+company, and a restoration company; the Franklin County Garden Club worked with partners to
+trim bushes, replace landscape fabric, provide a new flag, repair the light for the school sign,
+and plant a flower bed; and
+WHEREAS, this project, which won the National Garden Club Plant America contest, is
+a testament to the dedication and resourcefulness of the Franklin County Garden Club and a
+shining example of the important role that gardeners and garden clubs can play in their
+communities; and
+WHEREAS, it is our privilege to honor this outstanding organization and its members
+during National Garden Week; now, therefore,
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, that we honor and
+commend the Franklin County Garden Club during National Garden Week, June 7-13, 2026,
+extending our sincere appreciation for the many worthy efforts of garden club members in
+Franklin County and throughout this State.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy.
+- 2 - 018125
+[DELETED: WWWWW]
+[DELETED:  -0WWBB]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+HOUSE RESOLUTION 207
+By Rudder
+A RESOLUTION to honor the Franklin County Garden Club during
+National Garden Week.
+WHEREAS, gardeners have a passion for nurturing the beauty and resources of the
+earth through the planting of seeds, the care of all plants, and the riches of their efforts; they
+seek to add beauty, splendor, fragrance, and nutrition to our lives through the growing of herbs,
+vegetables, foliage, and flowers; and
+WHEREAS, gardeners work to preserve our State's traditional spirit of independence
+and initiative through innovation and hard work; they advocate for the importance of all
+creatures, large and small, that share our world, and their roles in a balanced and productive
+ecology; and
+WHEREAS, gardening furnishes a challenging and productive activity for citizens—those
+just learning as well as those who have years of experience; it also promotes a healthy lifestyle
+that lasts a lifetime, helps reduce stress from other areas of life, and teaches that rewards can
+come from diligent efforts; and
+WHEREAS, garden clubs across the State and nation make a difference in the
+communities wherein they reside and work; one such garden club is the Franklin County
+Garden Club, whose members have taken strides to preserve the environment, enhance the
+beauty of their community, and educate the next generation on the benefits of gardening; and
+WHEREAS, established by Elizabeth Drake of EB Drake Nursery in 1929, the club
+passionately beautifies the community and promotes gardening to others, including teachers
+and students at Clark Memorial Elementary School, where they undertook a successful project
+to restore the historic Carrick Academy Bell; and
+HR0207
+018125
+- 1 -
+
+WHEREAS, the Carrick Academy Bell project, the largest ever undertaken by the club,
+was in partnership with Clark Memorial Elementary School, the Rotary Club, a local paint
+company, and a restoration company; the Franklin County Garden Club worked with partners to
+trim bushes, replace landscape fabric, provide a new flag, repair the light for the school sign,
+and plant a flower bed; and
+WHEREAS, this project, which won the National Garden Club Plant America contest, is
+a testament to the dedication and resourcefulness of the Franklin County Garden Club and a
+shining example of the important role that gardeners and garden clubs can play in their
+communities; and
+WHEREAS, it is our privilege to honor this outstanding organization and its members
+during National Garden Week; now, therefore,
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE ONE HUNDRED
+FOURTEENTH GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, that we honor and
+commend the Franklin County Garden Club during National Garden Week, June 7-13, 2026,
+extending our sincere appreciation for the many worthy efforts of garden club members in
+Franklin County and throughout this State.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy.
+- 2 - 018125
+
+[DELETED: WWWWW]
+[DELETED:  -0WWBB]

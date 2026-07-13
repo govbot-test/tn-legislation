@@ -1,0 +1,275 @@
+Title: AMEND S e n ate Bill No. 2480* House Bill No. 2375
+Official Title: AMEND S e n ate Bill No. 2480* House Bill No. 2375
+Number of Sections: 3
+Source: versions - Amendment HA0782
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+House Agriculture & Natural Resources 1
+Amendment No. 1 to HB2375
+Todd
+Signature of Sponsor
+by deleting all language after the enacting clause and substituting:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Title 9, Chapter 4, Part 2, is amended by
+adding the following as a new section:
+9-4-217.
+(a) This section is known and may be cited as the "Greenbelt Initiative Fund
+Transfer (GIFT) Act."
+(b) There is created within the state general fund a special account to be known
+as the rural revenue equity fund, referred to in this section as the "fund."
+(c) It is the general assembly's intent that the fund consists of an initial
+appropriation in fiscal year 2026-2027 of two hundred ten million dollars ($210,000,000)
+from the general fund.
+(d) The commissioner of economic and community development shall administer
+the fund, and moneys deposited in the fund must be used only to administer the fund
+and implement the purposes set forth in this section.
+(e) There must be allocated and distributed to the rural counties an amount from
+the fund based on the county's total weighted score determined according to the formula
+described in subdivision (g)(5). Subject to subdivision (g)(3)(B), the commissioner shall
+prioritize awarding funds to rural counties with the highest total weighted scores.
+(f) Monies from the fund may be used by rural counties only for:
+(1) Capital improvement projects;
+(2) Infrastructure projects;
+HA0782
+014221
+- 1 -
+(3) Law enforcement purposes;
+(4) Firefighter and emergency medical services; or
+(5) Property tax stabilization.
+(g)
+(1) To receive an allocation and distribution of monies from the fund, a
+rural county must submit a completed application to the commissioner of
+economic and community development together with an application fee in an
+amount established by the department of economic and community
+development. The proceeds from the application fee must be retained by the
+department, deposited in the fund, and used for defraying the department's
+expenses in administering and implementing this section. The application and
+procedures for submitting the application must be developed by the department.
+(2) The application must include, but not be limited to, information
+pertaining to the categories listed in subdivision (g)(3).
+(3)
+(A) Applications must be evaluated and scored on the basis of the
+following categories, and in the following order of priority:
+(i) Percentage of total land in the county under a greenbelt
+classification;
+(ii) Total acres of land in the county under a greenbelt
+classification;
+(iii) Annual agricultural sales or taxable agricultural
+receipts generated in the county;
+(iv) Whether the county has statutory authority to levy a
+development tax or impact fee;
+(v) The number and economic output of licensed livestock
+or dairy farms in the county;
+- 2 - 014221
+(vi) County population; and
+(vii) Whether the county adopted a property tax increase
+during the prior five (5) fiscal years.
+(B) The highest scores must be assigned to applicants that have
+more than seventy percent (70%) of land under a greenbelt classification.
+The next highest scores must be assigned, in descending order of
+priority, to applicants that:
+(i) Have greater numbers of acres of land under a
+greenbelt classification;
+(ii) Have higher annual agricultural sales or taxable
+agricultural receipts;
+(iii) Lack statutory authority to levy development taxes or
+impact fees;
+(iv) Have smaller populations; or
+(v) Have adopted a property tax increase.
+(4) Each category must be assigned a score ranging from zero (0) to one
+hundred (100) and a weighted value. The weighted value is determined by
+multiplying the score by a weighting factor. The weighting factors for each
+category are given in the following table:
+Category Weighting Factor
+Percentage of total county land under greenbelt classification 0.25
+Total acreage under greenbelt classification 0.20
+Annual agricultural sales or taxable agricultural receipts 0.15
+Lacks statutory authority to levy development taxes or impact fees 0.15
+Number and economic output of licensed livestock or dairy farms 0.10
+Total population 0.08
+Adopted property tax increase 0.07
+- 3 - 014221
+(5) A county's total weighted score equals the sum of all weighted values.
+(h) In addition to appropriations made to the fund, the commissioner of economic
+and community development may accept other funds, public or private, by way of gift or
+grant to the fund. Any such gift or grant must be deposited into the fund to be expended
+in accordance with this section.
+(i) The state treasurer shall invest moneys in the fund for the benefit of the fund
+in accordance with § 9-4-603. Interest accruing on investments and deposits of the fund
+must be credited to and remain part of the fund.
+(j) Any unencumbered moneys and any unexpended balance of the fund
+remaining at the end of a fiscal year do not revert to the general fund, but must be
+carried forward until expended in accordance with this section. No part of the fund shall
+be diverted to the general fund or any other public fund.
+(k) All expenditures from the fund are subject to review in the form of an annual
+report submitted by the commissioner of economic and community development to the
+governor; the speaker and chief clerk of the senate; the speaker and chief clerk of the
+house of representatives; the chair of the finance, ways and means committee of the
+senate; the chair of the committee of the house of representatives having jurisdiction
+over tax matters; and the directors of the office of legislative budget analysis.
+(l) As used in this section:
+(1) "Greenbelt classification" means, in regard to land, land classified by
+the assessor of property as agricultural, forest, or open space land under title 67,
+chapter 5, part 10;
+(2) "Infrastructure":
+(A) Means the basic network of public utilities and access
+facilities that support and promote land development; and
+(B) Includes water and sewerage system elements, storm
+drainage systems, roads, bridges, streets, and highways, public
+- 4 - 014221
+transportation, pedestrian and bicycle facilities, railroads, gas and electric
+transmission lines, telecommunications networks, solid waste disposal
+sites, and similar public facilities; and
+(3) "Rural county" means a county that is not included within a
+metropolitan statistical area, as defined by the federal office of management and
+budget.
+
+Section 3:
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+- 5 - 014221
+[DELETED:  a HS9(((]
+[DELETED:  -0((]
+[DELETED:  -0       W 0   0  0 0       0     0]
+[DELETED:  -0((]
+[DELETED:  -0S]
+
+
+================================================================================
+
+Raw Text:
+House Agriculture & Natural Resources 1
+Amendment No. 1 to HB2375
+Todd
+Signature of Sponsor
+AMEND S e n ate Bill No. 2480* House Bill No. 2375
+by deleting all language after the enacting clause and substituting:
+SECTION 1. Tennessee Code Annotated, Title 9, Chapter 4, Part 2, is amended by
+adding the following as a new section:
+9-4-217.
+(a) This section is known and may be cited as the "Greenbelt Initiative Fund
+Transfer (GIFT) Act."
+(b) There is created within the state general fund a special account to be known
+as the rural revenue equity fund, referred to in this section as the "fund."
+(c) It is the general assembly's intent that the fund consists of an initial
+appropriation in fiscal year 2026-2027 of two hundred ten million dollars ($210,000,000)
+from the general fund.
+(d) The commissioner of economic and community development shall administer
+the fund, and moneys deposited in the fund must be used only to administer the fund
+and implement the purposes set forth in this section.
+(e) There must be allocated and distributed to the rural counties an amount from
+the fund based on the county's total weighted score determined according to the formula
+described in subdivision (g)(5). Subject to subdivision (g)(3)(B), the commissioner shall
+prioritize awarding funds to rural counties with the highest total weighted scores.
+(f) Monies from the fund may be used by rural counties only for:
+(1) Capital improvement projects;
+(2) Infrastructure projects;
+HA0782
+014221
+- 1 -
+
+(3) Law enforcement purposes;
+(4) Firefighter and emergency medical services; or
+(5) Property tax stabilization.
+(g)
+(1) To receive an allocation and distribution of monies from the fund, a
+rural county must submit a completed application to the commissioner of
+economic and community development together with an application fee in an
+amount established by the department of economic and community
+development. The proceeds from the application fee must be retained by the
+department, deposited in the fund, and used for defraying the department's
+expenses in administering and implementing this section. The application and
+procedures for submitting the application must be developed by the department.
+(2) The application must include, but not be limited to, information
+pertaining to the categories listed in subdivision (g)(3).
+(3)
+(A) Applications must be evaluated and scored on the basis of the
+following categories, and in the following order of priority:
+(i) Percentage of total land in the county under a greenbelt
+classification;
+(ii) Total acres of land in the county under a greenbelt
+classification;
+(iii) Annual agricultural sales or taxable agricultural
+receipts generated in the county;
+(iv) Whether the county has statutory authority to levy a
+development tax or impact fee;
+(v) The number and economic output of licensed livestock
+or dairy farms in the county;
+- 2 - 014221
+
+(vi) County population; and
+(vii) Whether the county adopted a property tax increase
+during the prior five (5) fiscal years.
+(B) The highest scores must be assigned to applicants that have
+more than seventy percent (70%) of land under a greenbelt classification.
+The next highest scores must be assigned, in descending order of
+priority, to applicants that:
+(i) Have greater numbers of acres of land under a
+greenbelt classification;
+(ii) Have higher annual agricultural sales or taxable
+agricultural receipts;
+(iii) Lack statutory authority to levy development taxes or
+impact fees;
+(iv) Have smaller populations; or
+(v) Have adopted a property tax increase.
+(4) Each category must be assigned a score ranging from zero (0) to one
+hundred (100) and a weighted value. The weighted value is determined by
+multiplying the score by a weighting factor. The weighting factors for each
+category are given in the following table:
+Category Weighting Factor
+Percentage of total county land under greenbelt classification 0.25
+Total acreage under greenbelt classification 0.20
+Annual agricultural sales or taxable agricultural receipts 0.15
+Lacks statutory authority to levy development taxes or impact fees 0.15
+Number and economic output of licensed livestock or dairy farms 0.10
+Total population 0.08
+Adopted property tax increase 0.07
+- 3 - 014221
+
+(5) A county's total weighted score equals the sum of all weighted values.
+(h) In addition to appropriations made to the fund, the commissioner of economic
+and community development may accept other funds, public or private, by way of gift or
+grant to the fund. Any such gift or grant must be deposited into the fund to be expended
+in accordance with this section.
+(i) The state treasurer shall invest moneys in the fund for the benefit of the fund
+in accordance with § 9-4-603. Interest accruing on investments and deposits of the fund
+must be credited to and remain part of the fund.
+(j) Any unencumbered moneys and any unexpended balance of the fund
+remaining at the end of a fiscal year do not revert to the general fund, but must be
+carried forward until expended in accordance with this section. No part of the fund shall
+be diverted to the general fund or any other public fund.
+(k) All expenditures from the fund are subject to review in the form of an annual
+report submitted by the commissioner of economic and community development to the
+governor; the speaker and chief clerk of the senate; the speaker and chief clerk of the
+house of representatives; the chair of the finance, ways and means committee of the
+senate; the chair of the committee of the house of representatives having jurisdiction
+over tax matters; and the directors of the office of legislative budget analysis.
+(l) As used in this section:
+(1) "Greenbelt classification" means, in regard to land, land classified by
+the assessor of property as agricultural, forest, or open space land under title 67,
+chapter 5, part 10;
+(2) "Infrastructure":
+(A) Means the basic network of public utilities and access
+facilities that support and promote land development; and
+(B) Includes water and sewerage system elements, storm
+drainage systems, roads, bridges, streets, and highways, public
+- 4 - 014221
+
+transportation, pedestrian and bicycle facilities, railroads, gas and electric
+transmission lines, telecommunications networks, solid waste disposal
+sites, and similar public facilities; and
+(3) "Rural county" means a county that is not included within a
+metropolitan statistical area, as defined by the federal office of management and
+budget.
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+- 5 - 014221
+
+[DELETED:  a HS9(((]
+[DELETED:  -0((]
+[DELETED:  -0       W 0   0  0 0       0     0]
+[DELETED:  -0((]
+[DELETED:  -0S]

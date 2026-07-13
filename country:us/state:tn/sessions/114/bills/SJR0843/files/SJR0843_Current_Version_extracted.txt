@@ -1,0 +1,86 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+SENATE JOINT RESOLUTION 843
+By Powers
+A RESOLUTION to congratulate Cathy Kolb on her appointment
+to the State Board of Education.
+WHEREAS, it is fitting that the members of this General Assembly should salute those
+citizens who, through their extraordinary efforts, have distinguished themselves as community
+leaders of whom we can all be proud; and
+WHEREAS, one such noteworthy individual is Cathy Kolb, who was recently appointed
+for a second term to the State Board of Education by Speaker Randy McNally as a member
+representing the Seventh Congressional District; and
+WHEREAS, a highly respected member of her community, Cathy Kolb is an educator
+with more than thirty years of experience and currently serves as a special education teacher at
+Moore Magnet STEM Elementary School for the Clarksville-Montgomery County School
+System; and
+WHEREAS, Mrs. Kolb holds a Bachelor of Science degree from Western Kentucky
+University and Master of Arts and Education Specialist degrees from Austin Peay State
+University; and
+WHEREAS, Cathy Kolb epitomizes the spirit and commitment that are characteristic of a
+true Tennessean, and it is appropriate that we acknowledge and applaud her for her dedication
+to serving the people of the State of Tennessee; now, therefore,
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE HOUSE OF
+REPRESENTATIVES CONCURRING, that we congratulate Cathy Kolb on her appointment to
+the State Board of Education and extend to her our best wishes for much continued success.
+SJR0843
+013762
+- 1 -
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy and upon proper request made to
+the appropriate clerk, the language appearing immediately following the State seal appear
+without House or Senate designation.
+- 2 - 013762
+[DELETED: WWWWWB]
+[DELETED:  -0B]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+SENATE JOINT RESOLUTION 843
+By Powers
+A RESOLUTION to congratulate Cathy Kolb on her appointment
+to the State Board of Education.
+WHEREAS, it is fitting that the members of this General Assembly should salute those
+citizens who, through their extraordinary efforts, have distinguished themselves as community
+leaders of whom we can all be proud; and
+WHEREAS, one such noteworthy individual is Cathy Kolb, who was recently appointed
+for a second term to the State Board of Education by Speaker Randy McNally as a member
+representing the Seventh Congressional District; and
+WHEREAS, a highly respected member of her community, Cathy Kolb is an educator
+with more than thirty years of experience and currently serves as a special education teacher at
+Moore Magnet STEM Elementary School for the Clarksville-Montgomery County School
+System; and
+WHEREAS, Mrs. Kolb holds a Bachelor of Science degree from Western Kentucky
+University and Master of Arts and Education Specialist degrees from Austin Peay State
+University; and
+WHEREAS, Cathy Kolb epitomizes the spirit and commitment that are characteristic of a
+true Tennessean, and it is appropriate that we acknowledge and applaud her for her dedication
+to serving the people of the State of Tennessee; now, therefore,
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE HOUSE OF
+REPRESENTATIVES CONCURRING, that we congratulate Cathy Kolb on her appointment to
+the State Board of Education and extend to her our best wishes for much continued success.
+SJR0843
+013762
+- 1 -
+
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy and upon proper request made to
+the appropriate clerk, the language appearing immediately following the State seal appear
+without House or Senate designation.
+- 2 - 013762
+
+[DELETED: WWWWWB]
+[DELETED:  -0B]

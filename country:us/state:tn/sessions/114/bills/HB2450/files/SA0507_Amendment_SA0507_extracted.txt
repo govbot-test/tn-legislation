@@ -1,0 +1,1420 @@
+Title: AMEND S e n ate Bill No. 2205* House Bill No. 2450
+Official Title: AMEND S e n ate Bill No. 2205* House Bill No. 2450
+Number of Sections: 10
+Source: versions - Amendment SA0507
+Media Type: application/pdf
+Strikethrough Detection: 24 sections found
+
+================================================================================
+
+Section 1:
+Senate Commerce and Labor 1
+Amendment No. 1 to SB2205
+Bailey
+Signature of Sponsor
+by deleting all language after the caption and substituting:
+WHEREAS, the General Assembly finds and declares that:
+(1) Surface transportation corridors throughout the State are increasingly limited by
+existing development, right-of-way limitations, topographical and environmental constraints, and
+urban density, making conventional surface expansion difficult, costly, and disruptive;
+(2) Sustained population growth and economic development in this State continue to
+generate increasing demand for expanded transportation capacity and more safe and efficient
+transportation options for both residents and visitors;
+(3) The development of subterranean transportation infrastructure offers a highly
+effective and efficient means of significantly expanding transportation capacity while minimizing
+surface disruption, preserving existing land uses, reducing environmental impacts at grade
+level, and avoiding widespread acquisition of additional surface rights-of-way;
+(4) Uniform, clear, and predictable state-level standards, procedures, and regulatory
+oversight for the design, construction, safety, inspection, and operation of subterranean tunnel
+transportation systems are essential to ensure the highest levels of public safety, structural
+integrity, and engineering and design consistency across all such projects in this State;
+(5) The establishment of predictable, efficient, and transparent approval pathways,
+permitting processes, and regulatory frameworks at the state level are critical to reduce
+uncertainty, shorten project timelines, and mitigate unnecessary duplication between state and
+local jurisdictions; and
+SA0507
+013891
+- 1 -
+(6) Such predictable and streamlined regulatory pathways are necessary to attract
+substantial private capital investment, innovation, and expertise into the development of
+advanced subterranean transportation infrastructure, thereby leveraging private resources to
+help meet this State's critical long-term transportation needs at a reduced cost to taxpayers;
+now, therefore,
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Title 65, is amended by adding the following
+as a new chapter:
+65-13-101. Short title.
+This act is known and may be cited as the "Subterranean Transportation
+Infrastructure Coordination Act."
+65-13-102. Creation of Subterranean Transportation Infrastructure Coordination
+Authority.
+There is created the subterranean transportation infrastructure coordination
+authority upon the later of:
+(1) Thirty (30) days after an operator contracts with this state for a lease
+interest in real property owned by this state for the purpose of constructing a
+transit project; or
+(2) July 31, 2026.
+65-13-103. Chapter definitions.
+As used in this chapter:
+(1) "Authority" means the subterranean transportation infrastructure
+coordination authority created by § 65-13-102;
+(2) "Board" means the board of directors of the authority;
+(3) "Local governmental entity" means an incorporated city or town,
+metropolitan government, county, or other political subdivision of this state, and
+includes a board, commission, council, agency, committee, utility, building or
+- 2 - 013891
+codes authority, development or other district, and any other instrumentality
+thereof created by a local governmental entity;
+(4) "Operator" means a public or private entity proposing to design,
+construct, own, operate, or maintain, or that is a party to an agreement for the
+design, construction, operation, or maintenance of a transit project;
+(5) "Surface construction" means construction occurring above ground
+and outside of the points designated pursuant to § 65-13-108(b) for entry into
+and exit from a transit project; and
+(6) "Transit project" or "project" means a subterranean tunnel or system
+of subterranean tunnels designed primarily for the transportation of passengers
+or goods using electric, autonomous, or low-emission vehicles, or other emerging
+technology for vehicles and transportation systems, where the tunnels are
+constructed at depths sufficient to avoid interference with surface uses.
+65-13-104. Powers of authority.
+(a) The authority is vested with all powers necessary for and consistent with
+accomplishing the purposes of this chapter, including, but not limited to, the power to:
+(1) Adopt, amend, and repeal bylaws;
+(2) Execute contracts and leases in accordance with § 65-13-109,
+including a contract or lease that vests an operator with any of the enumerated
+powers of the authority as prescribed in this chapter other than a power that is
+inherently and exclusively a governmental power or function;
+(3) Employ a chief executive officer, legal counsel, and other individuals
+necessary to exercise the powers of the authority or transact business, and
+create, combine, consolidate, or abolish divisions within the authority as the
+board deems necessary for the transaction of the authority's business;
+- 3 - 013891
+(4) Retain third-party contractors and agents as the board deems
+necessary for the transaction of the authority's business and require or waive the
+bond of a contractor or agent as the board may deem appropriate;
+(5) Enforce compliance with this chapter and the bylaws, rules, policies,
+standards, codes, or land use regulations adopted pursuant to this chapter in a
+court of competent jurisdiction pursuant to § 65-13-114 and seek any remedy
+available under applicable law or in equity;
+(6) Own, acquire, purchase, option, convey, exchange, donate, sell, gift,
+rent, lease, improve, maintain, operate, and equip real and personal property,
+without the need for separate approval from another state or local governmental
+entity, notwithstanding the requirements contained in § 12-2-112;
+(7) Whether by purchase, exchange, gift, lease, contract, or otherwise,
+develop, improve, maintain, equip, operate, and furnish one (1) or more transit
+projects, including, but not limited to, all real and personal property that the board
+may deem necessary in connection with a transit project, regardless of whether
+or not such project is now in existence;
+(8) Lease to an operator one (1) or more transit projects and, in the
+board's sole discretion, establish, charge, waive, and collect rent for the projects,
+and execute amendments to the leases, which amendments, among other
+things, may provide for extending the terms of the leases and amending or
+extending rents or other payments due under the leases, together with all other
+terms and conditions as the board may deem advisable;
+(9) Sell or lease to an operator one (1) or more transit projects for such
+payments or other consideration and upon the terms and conditions as the board
+may deem advisable;
+(10) Develop, improve, and maintain the grounds within and without the
+transit project under the control and jurisdiction of the authority, including, but not
+- 4 - 013891
+limited to, construction and maintenance of roads and buildings, utilities, signage,
+trash removal, vegetation control, and landscaping;
+(11) Grant mortgages, deeds of trust, easements, or other
+encumbrances on all or a part of the transit project property, including, but not
+limited to, subordinating this state's ownership interest in all or a part of the
+transit project's property;
+(12) Have exclusive control of and responsibility for the administration of
+properties and facilities constructed or acquired pursuant to this chapter, except
+as otherwise expressly provided in this chapter;
+(13) Accept and distribute federal grants and other non-state funded
+incentives to induce the construction and completion of transit projects, expand,
+contract, modify, or divert existing transit projects, or otherwise in furtherance of
+the purposes of this chapter;
+(14) Regulate land use, utilities and utility systems, and other necessary
+infrastructure within and without a transit project in accordance with this chapter;
+(15) Enter into agreements with owners or lessees of real and personal
+property located adjacent to a transit project;
+(16) Enter into agreements with local governments pursuant to title 12,
+chapter 9, or state governmental entities, regarding the provision of
+governmental services to the transit project;
+(17) Contract for utility services for the construction, regulation,
+operation, and maintenance of a transit project, including the power to plan,
+establish, develop, investigate, study, acquire, purchase, construct, equip,
+improve, repair, extend, maintain, and operate utilities and utility systems within
+the transit project to serve the transit project;
+(18) Do and perform each and every act and thing and have and
+exercise each and every power that the board, in the board's sole discretion,
+- 5 - 013891
+deems necessary, convenient, or appropriate, to accomplish the purposes of this
+chapter. The inclusion of a specific power in this chapter does not limit the broad
+general powers granted to the authority. The exercise of the authority's powers,
+including, but not limited to, the powers with respect to the disposition,
+development, encumbrance, lease, sublease, or improvement of state property,
+are exclusive and are not subject to further approval, except as expressly
+provided in this chapter;
+(19) Promulgate by rule fees for permits, applications, and other
+administrative functions; and
+(20) Promulgate rules and emergency rules in accordance with the
+Uniform Administrative Procedures Act, compiled in title 4, chapter 5. The board
+may require that a board action be accomplished by rule. Otherwise, a board
+action may be accomplished by majority vote of the entire membership of the
+board.
+(b) Except as otherwise expressly provided in this chapter, and notwithstanding
+title 4, chapter 15, part 1, or another law to the contrary, the powers of the authority are
+exclusively vested in the authority.
+65-13-105. Board of directors.
+(a)
+(1) The authority is governed by a board of directors. The board consists
+of eleven (11) voting members as follows:
+(A) One (1) member to be appointed by the governor;
+(B) Three (3) members to be appointed by the speaker of the
+house of representatives;
+(C) Three (3) members to be appointed by the speaker of the
+senate;
+- 6 - 013891
+(D) The state fire marshal, ex officio, or the state fire marshal's
+designee;
+(E) The commissioner of commerce and insurance, ex officio, or
+the commissioner's designee;
+(F) The commissioner of transportation, ex officio, or the
+commissioner's designee; and
+(G) The commissioner of environment and conservation, ex
+officio, or the commissioner's designee.
+(2) The governor and the speakers of the senate and house of
+representatives shall strive to appoint members to the board with diverse
+academic and professional backgrounds with expertise in the construction,
+operation, and maintenance of a transit project or similar project.
+(b) The term for a board member who does not serve ex officio is four (4) years.
+A board member who does not serve ex officio is eligible for reappointment and may
+serve consecutive terms. At the expiration of a board member's term, the member may
+continue to serve until a successor is appointed or until the member is reappointed.
+(c) A vacancy on the board for a member who does not serve ex officio must be
+filled for the remainder of the term by the appropriate appointing authority.
+(d) The terms for the initial board members who do not serve ex officio begin on
+July 1, 2026.
+(e) Six (6) board members constitute a quorum for the transaction of business.
+If a quorum is present, a vacancy on the board does not prevent the board from
+transacting business or otherwise taking an action authorized pursuant to this chapter.
+(f) The governor shall call the first meeting of the board and the board shall
+appoint a member to serve as chair. The board may elect other officers as the board
+may deem appropriate. At the first board meeting of each calendar year, the board shall
+establish or revise its bylaws, as applicable, and set a meeting schedule for the
+- 7 - 013891
+remainder of the calendar year. The board shall also meet at the call of the chair or a
+majority of the membership of the board.
+(g) An ex officio board member shall not receive compensation for service as a
+board member, except that an ex officio board member must be reimbursed for travel
+expenses incurred in the performance of the board member's official duties. Appointed
+board members receive two thousand dollars ($2,000) per month for the first three (3)
+years of the authority's existence, plus reimbursement for travel expenses incurred in the
+performance of the board member's official duties. After the first three (3) years of the
+authority's existence, an appointed board member shall only receive reimbursement for
+travel expenses for service as a board member. All reimbursement for travel expenses
+must be in accordance with the comprehensive travel regulations as promulgated by the
+department of finance and administration and approved by the attorney general and
+reporter.
+(h) A board member who is not an ex officio member may be removed from the
+board by the member's appointing authority with or without cause or by majority vote of
+the entire membership of the board.
+(i) All board meetings must comply with the open meetings provisions compiled
+in title 8, chapter 44.
+(j) Each appointed member of the board shall disclose conflicts of interest in
+accordance with title 8, chapter 50, part 5.
+65-13-106. Chief executive officer.
+The board may establish the office of the chief executive officer of the authority
+and appoint a chief executive officer. A chief executive officer serves at the pleasure of
+the board. For each chief executive officer, the board shall enter into a contract with the
+chief executive officer establishing the chief executive officer's salary. All reimbursement
+for the chief executive officer's travel expenses must be in accordance with the
+- 8 - 013891
+comprehensive travel regulations as promulgated by the department of finance and
+administration and approved by the attorney general and reporter.
+65-13-107. Leases, agreements, permits, and approvals.
+(a) If a state or local governmental entity, including an official or officer of the
+respective entity, has entered into an agreement or issued a permit or approval for the
+construction of a transit project, whether or not now in existence or completed, prior to
+July 1, 2026, the agreement, permit, or approval remains in effect and enforceable until
+the agreement, permit, or approval is transferred or assigned to the authority pursuant to
+subsection (b).
+(b) No later than October 1, 2026, agreements, permits, and approvals
+described in subsection (a) must be transferred or assigned to the authority.
+(c) The terms and conditions of agreements, permits, and approvals transferred
+or assigned pursuant to subsection (b) remain in full force and effect. The authority may
+negotiate with the applicable party to a transferred or assigned agreement, permit, or
+approval to amend, revise, cancel, renew, or extend the agreement, permit, or approval.
+(d) A lease or other agreement, permit, or approval executed on or after July 1,
+2026, including a subterranean lease or agreement:
+(1) If executed with a local governmental entity, must not contain
+encumbrances, burdens, restrictions, conditions, or requirements that are more
+stringent than those of a similar lease or other agreement, permit, or approval
+executed or issued by the department of transportation for comparable state-
+owned property. If no substantially similar lease or other agreement, permit, or
+approval exists, the authority shall determine whether any encumbrance, burden,
+restriction, condition, or requirement is necessary, directly related to the
+protection of public health, safety, or welfare, and consistent with the purposes of
+this chapter; and
+- 9 - 013891
+(2) If necessary in furtherance of any power or duty of the authority or
+board under this chapter, must be approved by the authority or the authority must
+be a party to the lease or agreement.
+(e) A provision of a lease or other agreement, permit, or approval in violation of
+subsection (d) is void and unenforceable.
+65-13-108. Description of transit project -- Designation of transit project entrance
+and exit.
+(a)
+(1) For each transit project, the board shall cause to be produced a legal
+description of the project, including:
+(A) The metes and bounds of the surface boundary under which
+the transit project lies;
+(B) A three-dimensional description of the subterranean
+boundaries of the transit project;
+(C) Surface and subsurface easements and rights-of-ways;
+(D) Each point for public or vehicular entry into and exit from the
+transit project designated pursuant to subsection (b);
+(E) Each point of ingress or egress for maintenance, the provision
+of emergency services, or other purposes; and
+(F) Additional descriptive information as deemed necessary by
+the board.
+(2) The authority shall record a legal description produced under
+subdivision (a)(1) with the state building commission, the respective departments
+of the ex officio members of the board, the register of deeds for each county in
+which the transit project is sited, in whole or in part, and any other state or local
+governmental entity or official as deemed necessary by the board.
+- 10 - 013891
+(3) Before the expansion, contraction, diversion, or modification of an
+existing transit project, the board shall cause to be produced and recorded a
+legal description of the expansion, contraction, diversion, or modification in
+accordance with subdivisions (a)(1) and (2).
+(b) The board shall designate each point for public or vehicular entry into and
+exit from a transit project for purposes of exercising jurisdiction over the transit project
+with respect to applicable local governmental laws, rules, and regulations, building,
+safety, and fire codes, and enforcement of motor vehicle laws.
+65-13-109. Board authority to contract with operator. Operator contracts with
+local governmental entities.
+(a) The board may execute a contract, lease, or other agreement with an
+operator for the design, construction, operation, and maintenance of a transit project.
+The board is exempt from the requirements of title 4, chapter 55, and the requirements
+of title 12, chapters 3 and 4, for purposes of executing the contract, lease, or agreement.
+(b) The operator may contract with a local governmental entity for the purposes
+of facilitating the construction, operation, or maintenance of a transit project, including
+the purchase or lease of an interest in property.
+65-13-110. Board authority to streamline permitting and regulatory process for
+subterranean transit project.
+(a) The board shall prescribe by rule a streamlined, state-level application,
+approval, permitting, inspection, and regulatory process for the design, construction,
+operation, and maintenance of the subterranean portion of a transit project located
+between the points of entry and exit designated pursuant to § 65-13-108(b). The rules
+must establish:
+(1) Uniform building, engineering, construction, safety, inspection,
+permitting, land use, ventilation, and related standards and codes;
+- 11 - 013891
+(2) A single, consolidated state application and approval process that
+preempts conflicting or duplicative local permitting and inspection requirements
+for subterranean elements of a proposed or approved transit project;
+(3) Defined timelines for review and approval of applications,
+submissions, appeals, and other administrative matters; and
+(4) A process for appeals submitted to the authority. The process must
+provide an affected local governmental entity with an opportunity to respond.
+(b) The board may coordinate with appropriate state and local governmental
+entities to ensure comprehensive oversight of the subterranean portion of a transit
+project to avoid undue delay.
+65-13-111. Codes and permitting for surface construction and operation above
+ground - Land use - Appeals of adverse decisions.
+(a)
+(1) Except as provided in subsection (b), for surface construction an
+operator shall comply with the standards adopted pursuant to § 65-13-110(a).
+(2) An operator shall submit its applications, plans, and other required
+documents for surface construction to the authority for approval in accordance
+with the application and approval process established by the authority pursuant
+to § 65-13-110(a).
+(b)
+(1) Except as provided in subsection (c), if the local governmental entity
+in which surface construction is or will be occurring for the transit project has
+adopted more stringent, applicable building standards pursuant to § 68-120-101
+or another law, or more stringent land use regulations, then the operator shall
+comply with the standards or regulations for such surface construction; provided,
+that the local governmental entity:
+- 12 - 013891
+(A) Shall not adopt a building standard, land use regulation,
+ordinance, resolution, regulation, rule, or other requirement of any type
+that prohibits, effectively prohibits, or otherwise regulates the use of
+property or construction for a project in the local governmental entity's
+jurisdiction; and
+(B) May waive application of its standards or regulations to the
+transit project. If a local governmental entity waives application of its
+standards or regulations to the project, then the operator must comply
+with the standards, regulations, and process established by the authority
+pursuant to § 65-13-110(a).
+(2) The operator shall submit applications, plans, and other required
+documents for surface construction subject to more stringent, applicable local
+standards or regulations to the appropriate local governmental entity for
+approval.
+(3) No later than ten (10) business days after receipt of an operator's
+application, plan, or documentation the local governmental entity shall:
+(A) Approve the application, if the plans comply with applicable
+codes and land use regulations;
+(B) Provide to the submitting operator a report of deficiencies; or
+(C) Request additional information necessary to ensure
+compliance with applicable codes.
+(4) If the local governmental entity does not approve an application or
+plan submitted pursuant to subdivision (b)(3), or does not take action as required
+by subdivision (b)(3), then:
+(A) The operator may appeal to the authority; and
+(B) If the operator chooses to appeal to the authority pursuant to
+subdivision (b)(4)(A), all pending applications and plans related to the
+- 13 - 013891
+operator's project must be transferred to the authority, and subsequent
+applications and plans necessary for the project must be submitted to the
+authority in accordance with the application and approval process
+established by the authority pursuant to § 65-13-110(a).
+(5)
+(A) The authority shall provide notice to the applicable local
+governmental entity if the authority receives an appeal submitted in
+accordance with subdivision (b)(4). The notice must include the date,
+location, and time for the hearings applicable to the appeal, including the
+hearing at which the local governmental entity may respond to the appeal.
+(B) The authority may overturn or amend the decision of a local
+governmental entity with respect to an appealed application or plan in
+accordance with the procedure established by the authority pursuant to §
+65-13-110(a). A decision made by the authority for an appeal submitted
+in accordance with subdivision (b)(4) is final for purposes of judicial
+review.
+(c)
+(1) Notwithstanding subsection (b) or another law to the contrary, the
+state fire marshal has exclusive jurisdiction over:
+(A) Plan reviews, permitting, and inspections for, and
+enforcement of, standards and codes designed to afford a reasonable
+degree of safety to life and property from fire and fire hazards for a transit
+project; and
+(B) An application for and issuance of a certificate of occupancy
+for a transit project or a portion thereof.
+(2) A local governmental entity shall not:
+- 14 - 013891
+(A) Delay or deny an application, plan, form, or other document
+submitted under subsection (b) based, in whole or in part, on a decision
+related to a certificate of occupancy or fire safety and standards; or
+(B) Require an operator to submit an application, plan, form, or
+other document for purposes of obtaining a permit or certificate related to
+fire safety or standards, or otherwise obtain from the local governmental
+entity a certificate of occupancy or approval related to fire safety for a
+transit project or any portion thereof.
+65-13-112. Utilities - Appeals of adverse decisions.
+(a) As used in this section:
+(1) "Political subdivision" means a county, municipality, metropolitan
+government, or incorporated city or town in this state;
+(2) "Utility" means:
+(A) A utility owned or operated by a political subdivision or a
+division, department, agency, or other entity of a political subdivision, that
+provides a utility service to the public;
+(B) A utility system, as defined under § 7-82-701;
+(C) A public utility, as defined under § 65-4-101, that provides a
+utility service; or
+(D) A cooperative, as defined under § 65-25-102; and
+(3) "Utility service" means water, wastewater, storm water, sewage,
+natural gas, fiber, internet, communication, or electric service.
+(b)
+(1) An operator shall apply for the provision of a utility service through a
+utility's normal application process applicable to similar customers; provided, that
+if a utility denies the operator's application or takes another adverse action with
+respect to the operator's application, including denying services or prohibiting
+- 15 - 013891
+connection to the utility's infrastructure or systems, then the utility shall provide
+notice of such decision to the authority as soon as practicable.
+(2) If an operator's application or another aspect of the project requires a
+utility to make a determination regarding a subterranean or subsurface easement
+of the utility's and the project, then the utility may make such determination;
+provided, that if the utility makes an adverse determination with respect to the
+utility's subterranean or subsurface easements and the project, then the utility
+shall provide notice of such decision to the authority as soon as practicable.
+(c) An adverse decision of the utility is automatically appealed to the authority
+upon the authority's receipt of notice under subdivision (b)(1) or (b)(2). The authority
+may overturn or amend the decision of the utility with respect to the application in
+accordance with the procedure established by the authority pursuant to § 65-13-110(a).
+A decision made by the authority upon the appeal of a utility's decision pursuant to
+subsection (b) is final for purposes of judicial review.
+65-13-113. Codes and permitting for subterranean construction and operation.
+(a)
+(1) Except as provided in subsection (b), for subterranean construction
+an operator shall comply with the standards adopted pursuant to § 65-13-110(a).
+(2) An operator shall submit its applications, plans, and other required
+documents for subterranean construction to the authority for approval in
+accordance with the application and approval process established by the
+authority pursuant to § 65-13-110(a).
+(b)
+(1)
+(A) If the operator's subterranean construction is located or
+otherwise crossing under, or will be located or otherwise cross under,
+property owned by a local governmental entity, then the operator shall
+- 16 - 013891
+comply with the local governmental entity's standards and submit its
+applications, plans, and other required documents for such subterranean
+construction to the appropriate local governmental entity for approval;
+provided, that:
+(i) The local governmental entity shall not adopt a
+standard, ordinance, resolution, regulation, rule, or other
+requirement of any type that prohibits, effectively prohibits, or
+otherwise regulates the use of property or subterranean
+construction for a project in the local governmental entity's
+jurisdiction;
+(ii) The operator may submit a request to the authority for
+application of the standards adopted pursuant to § 65-13-110(a) if
+the local governmental entity's standards are more stringent; and
+(iii) The local governmental entity may waive application of
+its standards to the subterranean construction. If a local
+governmental entity waives application of its standards to the
+subterranean construction, then the operator must comply with the
+standards, regulations, and process established by the authority
+pursuant to § 65-13-110(a).
+(B) Subdivision (b)(1)(A) must not be construed to require an
+operator to submit to a local governmental entity an application, plan, or
+other required document for subterranean construction that is or will be
+located under property that is not owned by the local governmental entity.
+(2) No later than ten (10) business days after receipt of an operator's
+application, plan, or other documentation, the local governmental entity shall:
+(A) Approve the application, if the plans comply with applicable
+standards;
+- 17 - 013891
+(B) Provide to the submitting operator a written report identifying
+with specificity each deficiency that is preventing approval; or
+(C) Request in writing additional information necessary to
+determine compliance with applicable codes.
+(3) A report of deficiencies or request for additional information issued
+pursuant to subdivision (b)(2)(B) or (C) must:
+(A) Identify all known deficiencies or information required at the
+time of review;
+(B) Be based on objective, published standards that are
+applicable to the project;
+(C) Not require information or impose conditions that are not
+directly related to compliance with applicable standards; and
+(D) Not be issued for the purpose of delaying or effectively
+prohibiting the project.
+(4) Upon resubmission of the application, plan, or other documentation
+by the operator addressing the identified deficiencies or providing the requested
+information, the local governmental entity shall, within ten (10) business days of
+such resubmission:
+(A) Approve the application, plan, or documentation; or
+(B) Issue a final written determination identifying any remaining
+deficiency that is directly related to an item previously identified pursuant
+to subdivision (b)(3)(A).
+(5) A local governmental entity shall not issue successive reports of
+deficiencies or requests for additional information based on matters that could
+reasonably have been identified in an earlier review.
+(6) If the local governmental entity does not approve an application, plan,
+or other documentation submitted pursuant to subdivision (b)(2), does not take
+- 18 - 013891
+action as required by subdivision (b)(2) or (4), or issues successive reports or
+deficiencies or requests additional information in violation of subdivision (b)(5),
+then:
+(A) The operator may appeal to the authority; and
+(B) If the operator chooses to appeal to the authority pursuant to
+subdivision (b)(6)(A), all pending applications, plans, or documentation
+related to the operator's subterranean construction that is located or
+otherwise crossing under, or will be located or otherwise cross under,
+property owned by a local governmental entity must be transferred to the
+authority, and subsequent applications, plans, or documentation
+necessary for the subterranean construction must be submitted to the
+authority in accordance with the application and approval process
+established by the authority pursuant to § 65-13-110(a).
+(7)
+(A) The authority shall provide notice to the applicable local
+governmental entity if the authority receives an appeal submitted in
+accordance with subdivision (b)(6). The notice must include the date,
+location, and time for the hearings applicable to the appeal, including the
+hearing at which the local governmental entity may respond to the appeal.
+(B) The authority may overturn or amend the decision of a local
+governmental entity with respect to an appealed application, plan, or
+documentation only to ensure compliance with applicable standards and
+the procedural requirements of this subsection(b). A decision made by
+the authority for an appeal submitted in accordance with this subdivision
+(b)(7) is final for purposes of judicial review.
+(8) This subsection (b) does not:
+- 19 - 013891
+(A) Authorize the authority to grant permission for subterranean
+construction beneath property owned by a local governmental entity
+without the consent of the local governmental entity; or
+(B) Impair or supersede the proprietary rights of a local
+governmental entity with respect to property owned by the local
+governmental entity.
+(c) The state fire marshal has exclusive jurisdiction over all plan reviews,
+permitting, and inspections for and enforcement of standards and codes designed to
+afford a reasonable degree of safety to life and property from fire and fire hazards for all
+construction, alterations, or repairs of the subterranean infrastructure of a transit project,
+including all electrical installations, plumbing systems, fire protection systems, and
+mechanical systems for all buildings and structures within and without the transit project.
+65-13-114. Jurisdiction of three-judge panel - Criminal laws unaffected.
+(a) A three-judge panel created pursuant to title 20, chapter 18 has exclusive
+jurisdiction over:
+(1) A civil action challenging a determination made by or an action of the
+authority or an operator in accordance with this chapter, or otherwise brought
+against the authority or an operator; and
+(2) A civil action brought by the authority or an operator to enforce any
+rights, duties, or powers of the authority or operator under this chapter, or
+brought pursuant to § 65-13-104(a)(5).
+(b) This chapter does not affect, limit, or otherwise supersede the application of
+the criminal code of this state or another state law establishing a crime.
+65-13-115. Emergency response authority within transit project.
+(a) Notwithstanding another law to the contrary, an operator has exclusive
+authority for initial emergency response, emergency medical services, fire suppression,
+- 20 - 013891
+life safety, and security operations between the points designated pursuant to § 65-13-
+108(b) for entry into and exit from a transit project.
+(b) Subsection (a) applies to all subterranean portions of the transit project and
+to all stations, entrances, exits, and related facilities located between the points
+designated pursuant to § 65-13-108(b) for entry into and exit from the transit project.
+(c) A local governmental entity shall not assert concurrent jurisdiction over
+emergency response activities located between the points designated pursuant to § 65-
+13-108(b) for entry into and exit from the transit project unless requested by the
+operator.
+(d) This section does not:
+(1) Limit the authority of the state fire marshal under § 65-13-111(c) with
+respect to plan review, inspection, code enforcement, or issuance of certificates
+of occupancy; or
+(2) Prohibit coordination between an operator and a local governmental
+entity for mutual aid, interoperability, or incident support.
+(e) The operator shall adopt written emergency response and life safety
+protocols consistent with applicable state and federal law.
+65-13-116. Conflicts of law. Taxation.
+(a) To the extent that this chapter conflicts with another provision of state law,
+this chapter controls.
+(b) This chapter does not supersede title 67. An operator shall pay all applicable
+state and local taxes, including, but not limited to:
+(1) Franchise and excise taxes in accordance with title 67, chapter 4,
+parts 20 and 21;
+(2) Sales and use taxes in accordance with title 67, chapter 6;
+(3) Business taxes in accordance with title 67, chapter 4, part 7; and
+- 21 - 013891
+(4) Real and tangible personal property taxes in accordance with title 67,
+chapter 5.
+65-13-117. Federal funding.
+This chapter must not be construed to jeopardize federal funding.
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 20-18-101(a), is amended by adding
+the following as a new subdivision:
+(3) A civil action:
+(A) Challenging a determination made by or an action of the
+subterranean transportation infrastructure coordination authority created
+pursuant to title 65, chapter 13, or the operator of a transit project that is subject
+to the Subterranean Transportation Infrastructure Coordination Act, compiled in
+title 65, chapter 13; or
+(B) Brought by the authority or an operator to enforce any rights, duties,
+or powers of the authority or operator under title 65, chapter 13, or brought
+pursuant to § 65-13-104(a)(5).
+
+Section 4:
+SECTION 3. Tennessee Code Annotated, Section 55-30-105, is amended by deleting
+the section and substituting:
+A political subdivision shall not, by ordinance, resolution, or another means,
+prohibit or regulate within the jurisdictional boundaries of the political subdivision the use
+of:
+(1) An ADS-operated vehicle that is operating in compliance with this
+chapter and otherwise complies with all laws of the political subdivision;
+(2) A motor vehicle operated at any level of autonomous technology, as
+defined by § 55-9-105(c)(6)(B), not otherwise included in this chapter; or
+(3) A motor vehicle operated in connection with a transit project governed
+by the Subterranean Transportation Infrastructure Coordination Act, compiled in
+title 65, chapter 13.
+- 22 - 013891
+
+Section 5:
+SECTION 4. Tennessee Code Annotated, Section 55-8-202, is amended by deleting the
+
+Section 6:
+section and substituting:
+(a) As used in this section:
+(1) "Autonomous technology" means technology installed on a motor
+vehicle that has the capability to drive the vehicle on which the technology is
+installed in high or full automation mode, without any supervision by a human
+operator, with specific driving mode performance by the automated driving
+system of all aspects of the dynamic driving task that can be managed by a
+human driver, including the ability to automatically bring the motor vehicle into a
+minimal risk condition in the event of a critical vehicle or system failure or other
+emergency event;
+(2) "Driving mode" means a type of driving scenario with characteristic
+dynamic driving task requirements including, but not limited to, the following:
+(A) Expressway merging;
+(B) High speed cruising;
+(C) Low speed traffic jam; and
+(D) Closed-campus operations;
+(3) "Dynamic driving task" means the operational and tactical aspects of
+the driving task, but does not include the strategic aspect of the driving task;
+(4) "Operational" means steering, braking, accelerating, and monitoring
+the vehicle and roadway;
+(5) "Political subdivision" means a county, municipality, metropolitan
+government, or incorporated city or town in this state;
+(6) "Strategic" means determining destinations and waypoints; and
+(7) "Tactical" includes, but is not limited to, the following:
+(A) Responding to events; and
+(B) Determining when to change lanes, turn, or use signals.
+- 23 - 013891
+(b) A political subdivision shall not, by ordinance, resolution, or another means,
+prohibit within the jurisdictional boundaries of the political subdivision a motor vehicle
+equipped with autonomous technology if the motor vehicle:
+(1) Otherwise complies with all safety regulations of the political
+subdivision; or
+(2) Is operating in connection with a transit project subject to the
+Subterranean Transportation Infrastructure Coordination Act, compiled in title 65,
+chapter 13.
+
+Section 7:
+SECTION 5. Upon the creation of the subterranean transportation infrastructure
+coordination authority pursuant to Tennessee Code Annotated, Section 65-13-102, the
+Tennessee Code Commission shall amend the appropriate statute in Tennessee Code
+Annotated, title 4, chapter 29, part 2, to sunset the authority for purposes of reviewing the
+authority subject to termination two (2) years after its creation and the constitution of its board of
+directors.
+
+Section 8:
+SECTION 6. If any provision of this act or its application to any person or circumstance
+is held invalid, then the invalidity does not affect other provisions or applications of the act that
+can be given effect without the invalid provision or application, and to that end, the provisions of
+this act are severable.
+
+Section 9:
+SECTION 7. The headings in this act are for reference purposes only and do not
+constitute a part of the law enacted by this act. However, the Tennessee Code Commission is
+requested to include the headings in any compilation or publication containing this act.
+
+Section 10:
+SECTION 8. For purposes of promulgating rules and carrying out administrative duties
+necessary to effectuate this act, this act takes effect upon becoming a law, the public welfare
+requiring it. For all other purposes, this act takes effect July 1, 2026, the public welfare requiring
+it.
+- 24 - 013891
+[DELETED:  a H(((((]
+[DELETED:  -0(S6T6T((A(((]
+[DELETED:  -0(((((((]
+[DELETED:  -0(((((((]
+[DELETED:  -0((((((((]
+[DELETED:  -0((((((((]
+[DELETED:  -0((((((((((]
+[DELETED:  -0(((T]
+[DELETED:  -0(((((]
+[DELETED:  -0((6(((((((((]
+[DELETED:  -0((((6((]
+[DELETED:  -0((((6(((]
+[DELETED:  -0(]
+[DELETED:  -0]
+[DELETED:  -0((((]
+[DELETED:  -0((]
+[DELETED:  -0]
+[DELETED:  -0((((((((((]
+[DELETED:  -0(]
+[DELETED:  -0((((((]
+[DELETED:  -0(((((((((((]
+[DELETED:  -0(S(SA(((]
+[DELETED:  -0]
+[DELETED:  -0(((SSS]
+
+
+================================================================================
+
+Raw Text:
+Senate Commerce and Labor 1
+Amendment No. 1 to SB2205
+Bailey
+Signature of Sponsor
+AMEND S e n ate Bill No. 2205* House Bill No. 2450
+by deleting all language after the caption and substituting:
+WHEREAS, the General Assembly finds and declares that:
+(1) Surface transportation corridors throughout the State are increasingly limited by
+existing development, right-of-way limitations, topographical and environmental constraints, and
+urban density, making conventional surface expansion difficult, costly, and disruptive;
+(2) Sustained population growth and economic development in this State continue to
+generate increasing demand for expanded transportation capacity and more safe and efficient
+transportation options for both residents and visitors;
+(3) The development of subterranean transportation infrastructure offers a highly
+effective and efficient means of significantly expanding transportation capacity while minimizing
+surface disruption, preserving existing land uses, reducing environmental impacts at grade
+level, and avoiding widespread acquisition of additional surface rights-of-way;
+(4) Uniform, clear, and predictable state-level standards, procedures, and regulatory
+oversight for the design, construction, safety, inspection, and operation of subterranean tunnel
+transportation systems are essential to ensure the highest levels of public safety, structural
+integrity, and engineering and design consistency across all such projects in this State;
+(5) The establishment of predictable, efficient, and transparent approval pathways,
+permitting processes, and regulatory frameworks at the state level are critical to reduce
+uncertainty, shorten project timelines, and mitigate unnecessary duplication between state and
+local jurisdictions; and
+SA0507
+013891
+- 1 -
+
+(6) Such predictable and streamlined regulatory pathways are necessary to attract
+substantial private capital investment, innovation, and expertise into the development of
+advanced subterranean transportation infrastructure, thereby leveraging private resources to
+help meet this State's critical long-term transportation needs at a reduced cost to taxpayers;
+now, therefore,
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Title 65, is amended by adding the following
+as a new chapter:
+65-13-101. Short title.
+This act is known and may be cited as the "Subterranean Transportation
+Infrastructure Coordination Act."
+65-13-102. Creation of Subterranean Transportation Infrastructure Coordination
+Authority.
+There is created the subterranean transportation infrastructure coordination
+authority upon the later of:
+(1) Thirty (30) days after an operator contracts with this state for a lease
+interest in real property owned by this state for the purpose of constructing a
+transit project; or
+(2) July 31, 2026.
+65-13-103. Chapter definitions.
+As used in this chapter:
+(1) "Authority" means the subterranean transportation infrastructure
+coordination authority created by § 65-13-102;
+(2) "Board" means the board of directors of the authority;
+(3) "Local governmental entity" means an incorporated city or town,
+metropolitan government, county, or other political subdivision of this state, and
+includes a board, commission, council, agency, committee, utility, building or
+- 2 - 013891
+
+codes authority, development or other district, and any other instrumentality
+thereof created by a local governmental entity;
+(4) "Operator" means a public or private entity proposing to design,
+construct, own, operate, or maintain, or that is a party to an agreement for the
+design, construction, operation, or maintenance of a transit project;
+(5) "Surface construction" means construction occurring above ground
+and outside of the points designated pursuant to § 65-13-108(b) for entry into
+and exit from a transit project; and
+(6) "Transit project" or "project" means a subterranean tunnel or system
+of subterranean tunnels designed primarily for the transportation of passengers
+or goods using electric, autonomous, or low-emission vehicles, or other emerging
+technology for vehicles and transportation systems, where the tunnels are
+constructed at depths sufficient to avoid interference with surface uses.
+65-13-104. Powers of authority.
+(a) The authority is vested with all powers necessary for and consistent with
+accomplishing the purposes of this chapter, including, but not limited to, the power to:
+(1) Adopt, amend, and repeal bylaws;
+(2) Execute contracts and leases in accordance with § 65-13-109,
+including a contract or lease that vests an operator with any of the enumerated
+powers of the authority as prescribed in this chapter other than a power that is
+inherently and exclusively a governmental power or function;
+(3) Employ a chief executive officer, legal counsel, and other individuals
+necessary to exercise the powers of the authority or transact business, and
+create, combine, consolidate, or abolish divisions within the authority as the
+board deems necessary for the transaction of the authority's business;
+- 3 - 013891
+
+(4) Retain third-party contractors and agents as the board deems
+necessary for the transaction of the authority's business and require or waive the
+bond of a contractor or agent as the board may deem appropriate;
+(5) Enforce compliance with this chapter and the bylaws, rules, policies,
+standards, codes, or land use regulations adopted pursuant to this chapter in a
+court of competent jurisdiction pursuant to § 65-13-114 and seek any remedy
+available under applicable law or in equity;
+(6) Own, acquire, purchase, option, convey, exchange, donate, sell, gift,
+rent, lease, improve, maintain, operate, and equip real and personal property,
+without the need for separate approval from another state or local governmental
+entity, notwithstanding the requirements contained in § 12-2-112;
+(7) Whether by purchase, exchange, gift, lease, contract, or otherwise,
+develop, improve, maintain, equip, operate, and furnish one (1) or more transit
+projects, including, but not limited to, all real and personal property that the board
+may deem necessary in connection with a transit project, regardless of whether
+or not such project is now in existence;
+(8) Lease to an operator one (1) or more transit projects and, in the
+board's sole discretion, establish, charge, waive, and collect rent for the projects,
+and execute amendments to the leases, which amendments, among other
+things, may provide for extending the terms of the leases and amending or
+extending rents or other payments due under the leases, together with all other
+terms and conditions as the board may deem advisable;
+(9) Sell or lease to an operator one (1) or more transit projects for such
+payments or other consideration and upon the terms and conditions as the board
+may deem advisable;
+(10) Develop, improve, and maintain the grounds within and without the
+transit project under the control and jurisdiction of the authority, including, but not
+- 4 - 013891
+
+limited to, construction and maintenance of roads and buildings, utilities, signage,
+trash removal, vegetation control, and landscaping;
+(11) Grant mortgages, deeds of trust, easements, or other
+encumbrances on all or a part of the transit project property, including, but not
+limited to, subordinating this state's ownership interest in all or a part of the
+transit project's property;
+(12) Have exclusive control of and responsibility for the administration of
+properties and facilities constructed or acquired pursuant to this chapter, except
+as otherwise expressly provided in this chapter;
+(13) Accept and distribute federal grants and other non-state funded
+incentives to induce the construction and completion of transit projects, expand,
+contract, modify, or divert existing transit projects, or otherwise in furtherance of
+the purposes of this chapter;
+(14) Regulate land use, utilities and utility systems, and other necessary
+infrastructure within and without a transit project in accordance with this chapter;
+(15) Enter into agreements with owners or lessees of real and personal
+property located adjacent to a transit project;
+(16) Enter into agreements with local governments pursuant to title 12,
+chapter 9, or state governmental entities, regarding the provision of
+governmental services to the transit project;
+(17) Contract for utility services for the construction, regulation,
+operation, and maintenance of a transit project, including the power to plan,
+establish, develop, investigate, study, acquire, purchase, construct, equip,
+improve, repair, extend, maintain, and operate utilities and utility systems within
+the transit project to serve the transit project;
+(18) Do and perform each and every act and thing and have and
+exercise each and every power that the board, in the board's sole discretion,
+- 5 - 013891
+
+deems necessary, convenient, or appropriate, to accomplish the purposes of this
+chapter. The inclusion of a specific power in this chapter does not limit the broad
+general powers granted to the authority. The exercise of the authority's powers,
+including, but not limited to, the powers with respect to the disposition,
+development, encumbrance, lease, sublease, or improvement of state property,
+are exclusive and are not subject to further approval, except as expressly
+provided in this chapter;
+(19) Promulgate by rule fees for permits, applications, and other
+administrative functions; and
+(20) Promulgate rules and emergency rules in accordance with the
+Uniform Administrative Procedures Act, compiled in title 4, chapter 5. The board
+may require that a board action be accomplished by rule. Otherwise, a board
+action may be accomplished by majority vote of the entire membership of the
+board.
+(b) Except as otherwise expressly provided in this chapter, and notwithstanding
+title 4, chapter 15, part 1, or another law to the contrary, the powers of the authority are
+exclusively vested in the authority.
+65-13-105. Board of directors.
+(a)
+(1) The authority is governed by a board of directors. The board consists
+of eleven (11) voting members as follows:
+(A) One (1) member to be appointed by the governor;
+(B) Three (3) members to be appointed by the speaker of the
+house of representatives;
+(C) Three (3) members to be appointed by the speaker of the
+senate;
+- 6 - 013891
+
+(D) The state fire marshal, ex officio, or the state fire marshal's
+designee;
+(E) The commissioner of commerce and insurance, ex officio, or
+the commissioner's designee;
+(F) The commissioner of transportation, ex officio, or the
+commissioner's designee; and
+(G) The commissioner of environment and conservation, ex
+officio, or the commissioner's designee.
+(2) The governor and the speakers of the senate and house of
+representatives shall strive to appoint members to the board with diverse
+academic and professional backgrounds with expertise in the construction,
+operation, and maintenance of a transit project or similar project.
+(b) The term for a board member who does not serve ex officio is four (4) years.
+A board member who does not serve ex officio is eligible for reappointment and may
+serve consecutive terms. At the expiration of a board member's term, the member may
+continue to serve until a successor is appointed or until the member is reappointed.
+(c) A vacancy on the board for a member who does not serve ex officio must be
+filled for the remainder of the term by the appropriate appointing authority.
+(d) The terms for the initial board members who do not serve ex officio begin on
+July 1, 2026.
+(e) Six (6) board members constitute a quorum for the transaction of business.
+If a quorum is present, a vacancy on the board does not prevent the board from
+transacting business or otherwise taking an action authorized pursuant to this chapter.
+(f) The governor shall call the first meeting of the board and the board shall
+appoint a member to serve as chair. The board may elect other officers as the board
+may deem appropriate. At the first board meeting of each calendar year, the board shall
+establish or revise its bylaws, as applicable, and set a meeting schedule for the
+- 7 - 013891
+
+remainder of the calendar year. The board shall also meet at the call of the chair or a
+majority of the membership of the board.
+(g) An ex officio board member shall not receive compensation for service as a
+board member, except that an ex officio board member must be reimbursed for travel
+expenses incurred in the performance of the board member's official duties. Appointed
+board members receive two thousand dollars ($2,000) per month for the first three (3)
+years of the authority's existence, plus reimbursement for travel expenses incurred in the
+performance of the board member's official duties. After the first three (3) years of the
+authority's existence, an appointed board member shall only receive reimbursement for
+travel expenses for service as a board member. All reimbursement for travel expenses
+must be in accordance with the comprehensive travel regulations as promulgated by the
+department of finance and administration and approved by the attorney general and
+reporter.
+(h) A board member who is not an ex officio member may be removed from the
+board by the member's appointing authority with or without cause or by majority vote of
+the entire membership of the board.
+(i) All board meetings must comply with the open meetings provisions compiled
+in title 8, chapter 44.
+(j) Each appointed member of the board shall disclose conflicts of interest in
+accordance with title 8, chapter 50, part 5.
+65-13-106. Chief executive officer.
+The board may establish the office of the chief executive officer of the authority
+and appoint a chief executive officer. A chief executive officer serves at the pleasure of
+the board. For each chief executive officer, the board shall enter into a contract with the
+chief executive officer establishing the chief executive officer's salary. All reimbursement
+for the chief executive officer's travel expenses must be in accordance with the
+- 8 - 013891
+
+comprehensive travel regulations as promulgated by the department of finance and
+administration and approved by the attorney general and reporter.
+65-13-107. Leases, agreements, permits, and approvals.
+(a) If a state or local governmental entity, including an official or officer of the
+respective entity, has entered into an agreement or issued a permit or approval for the
+construction of a transit project, whether or not now in existence or completed, prior to
+July 1, 2026, the agreement, permit, or approval remains in effect and enforceable until
+the agreement, permit, or approval is transferred or assigned to the authority pursuant to
+subsection (b).
+(b) No later than October 1, 2026, agreements, permits, and approvals
+described in subsection (a) must be transferred or assigned to the authority.
+(c) The terms and conditions of agreements, permits, and approvals transferred
+or assigned pursuant to subsection (b) remain in full force and effect. The authority may
+negotiate with the applicable party to a transferred or assigned agreement, permit, or
+approval to amend, revise, cancel, renew, or extend the agreement, permit, or approval.
+(d) A lease or other agreement, permit, or approval executed on or after July 1,
+2026, including a subterranean lease or agreement:
+(1) If executed with a local governmental entity, must not contain
+encumbrances, burdens, restrictions, conditions, or requirements that are more
+stringent than those of a similar lease or other agreement, permit, or approval
+executed or issued by the department of transportation for comparable state-
+owned property. If no substantially similar lease or other agreement, permit, or
+approval exists, the authority shall determine whether any encumbrance, burden,
+restriction, condition, or requirement is necessary, directly related to the
+protection of public health, safety, or welfare, and consistent with the purposes of
+this chapter; and
+- 9 - 013891
+
+(2) If necessary in furtherance of any power or duty of the authority or
+board under this chapter, must be approved by the authority or the authority must
+be a party to the lease or agreement.
+(e) A provision of a lease or other agreement, permit, or approval in violation of
+subsection (d) is void and unenforceable.
+65-13-108. Description of transit project -- Designation of transit project entrance
+and exit.
+(a)
+(1) For each transit project, the board shall cause to be produced a legal
+description of the project, including:
+(A) The metes and bounds of the surface boundary under which
+the transit project lies;
+(B) A three-dimensional description of the subterranean
+boundaries of the transit project;
+(C) Surface and subsurface easements and rights-of-ways;
+(D) Each point for public or vehicular entry into and exit from the
+transit project designated pursuant to subsection (b);
+(E) Each point of ingress or egress for maintenance, the provision
+of emergency services, or other purposes; and
+(F) Additional descriptive information as deemed necessary by
+the board.
+(2) The authority shall record a legal description produced under
+subdivision (a)(1) with the state building commission, the respective departments
+of the ex officio members of the board, the register of deeds for each county in
+which the transit project is sited, in whole or in part, and any other state or local
+governmental entity or official as deemed necessary by the board.
+- 10 - 013891
+
+(3) Before the expansion, contraction, diversion, or modification of an
+existing transit project, the board shall cause to be produced and recorded a
+legal description of the expansion, contraction, diversion, or modification in
+accordance with subdivisions (a)(1) and (2).
+(b) The board shall designate each point for public or vehicular entry into and
+exit from a transit project for purposes of exercising jurisdiction over the transit project
+with respect to applicable local governmental laws, rules, and regulations, building,
+safety, and fire codes, and enforcement of motor vehicle laws.
+65-13-109. Board authority to contract with operator. Operator contracts with
+local governmental entities.
+(a) The board may execute a contract, lease, or other agreement with an
+operator for the design, construction, operation, and maintenance of a transit project.
+The board is exempt from the requirements of title 4, chapter 55, and the requirements
+of title 12, chapters 3 and 4, for purposes of executing the contract, lease, or agreement.
+(b) The operator may contract with a local governmental entity for the purposes
+of facilitating the construction, operation, or maintenance of a transit project, including
+the purchase or lease of an interest in property.
+65-13-110. Board authority to streamline permitting and regulatory process for
+subterranean transit project.
+(a) The board shall prescribe by rule a streamlined, state-level application,
+approval, permitting, inspection, and regulatory process for the design, construction,
+operation, and maintenance of the subterranean portion of a transit project located
+between the points of entry and exit designated pursuant to § 65-13-108(b). The rules
+must establish:
+(1) Uniform building, engineering, construction, safety, inspection,
+permitting, land use, ventilation, and related standards and codes;
+- 11 - 013891
+
+(2) A single, consolidated state application and approval process that
+preempts conflicting or duplicative local permitting and inspection requirements
+for subterranean elements of a proposed or approved transit project;
+(3) Defined timelines for review and approval of applications,
+submissions, appeals, and other administrative matters; and
+(4) A process for appeals submitted to the authority. The process must
+provide an affected local governmental entity with an opportunity to respond.
+(b) The board may coordinate with appropriate state and local governmental
+entities to ensure comprehensive oversight of the subterranean portion of a transit
+project to avoid undue delay.
+65-13-111. Codes and permitting for surface construction and operation above
+ground - Land use - Appeals of adverse decisions.
+(a)
+(1) Except as provided in subsection (b), for surface construction an
+operator shall comply with the standards adopted pursuant to § 65-13-110(a).
+(2) An operator shall submit its applications, plans, and other required
+documents for surface construction to the authority for approval in accordance
+with the application and approval process established by the authority pursuant
+to § 65-13-110(a).
+(b)
+(1) Except as provided in subsection (c), if the local governmental entity
+in which surface construction is or will be occurring for the transit project has
+adopted more stringent, applicable building standards pursuant to § 68-120-101
+or another law, or more stringent land use regulations, then the operator shall
+comply with the standards or regulations for such surface construction; provided,
+that the local governmental entity:
+- 12 - 013891
+
+(A) Shall not adopt a building standard, land use regulation,
+ordinance, resolution, regulation, rule, or other requirement of any type
+that prohibits, effectively prohibits, or otherwise regulates the use of
+property or construction for a project in the local governmental entity's
+jurisdiction; and
+(B) May waive application of its standards or regulations to the
+transit project. If a local governmental entity waives application of its
+standards or regulations to the project, then the operator must comply
+with the standards, regulations, and process established by the authority
+pursuant to § 65-13-110(a).
+(2) The operator shall submit applications, plans, and other required
+documents for surface construction subject to more stringent, applicable local
+standards or regulations to the appropriate local governmental entity for
+approval.
+(3) No later than ten (10) business days after receipt of an operator's
+application, plan, or documentation the local governmental entity shall:
+(A) Approve the application, if the plans comply with applicable
+codes and land use regulations;
+(B) Provide to the submitting operator a report of deficiencies; or
+(C) Request additional information necessary to ensure
+compliance with applicable codes.
+(4) If the local governmental entity does not approve an application or
+plan submitted pursuant to subdivision (b)(3), or does not take action as required
+by subdivision (b)(3), then:
+(A) The operator may appeal to the authority; and
+(B) If the operator chooses to appeal to the authority pursuant to
+subdivision (b)(4)(A), all pending applications and plans related to the
+- 13 - 013891
+
+operator's project must be transferred to the authority, and subsequent
+applications and plans necessary for the project must be submitted to the
+authority in accordance with the application and approval process
+established by the authority pursuant to § 65-13-110(a).
+(5)
+(A) The authority shall provide notice to the applicable local
+governmental entity if the authority receives an appeal submitted in
+accordance with subdivision (b)(4). The notice must include the date,
+location, and time for the hearings applicable to the appeal, including the
+hearing at which the local governmental entity may respond to the appeal.
+(B) The authority may overturn or amend the decision of a local
+governmental entity with respect to an appealed application or plan in
+accordance with the procedure established by the authority pursuant to §
+65-13-110(a). A decision made by the authority for an appeal submitted
+in accordance with subdivision (b)(4) is final for purposes of judicial
+review.
+(c)
+(1) Notwithstanding subsection (b) or another law to the contrary, the
+state fire marshal has exclusive jurisdiction over:
+(A) Plan reviews, permitting, and inspections for, and
+enforcement of, standards and codes designed to afford a reasonable
+degree of safety to life and property from fire and fire hazards for a transit
+project; and
+(B) An application for and issuance of a certificate of occupancy
+for a transit project or a portion thereof.
+(2) A local governmental entity shall not:
+- 14 - 013891
+
+(A) Delay or deny an application, plan, form, or other document
+submitted under subsection (b) based, in whole or in part, on a decision
+related to a certificate of occupancy or fire safety and standards; or
+(B) Require an operator to submit an application, plan, form, or
+other document for purposes of obtaining a permit or certificate related to
+fire safety or standards, or otherwise obtain from the local governmental
+entity a certificate of occupancy or approval related to fire safety for a
+transit project or any portion thereof.
+65-13-112. Utilities - Appeals of adverse decisions.
+(a) As used in this section:
+(1) "Political subdivision" means a county, municipality, metropolitan
+government, or incorporated city or town in this state;
+(2) "Utility" means:
+(A) A utility owned or operated by a political subdivision or a
+division, department, agency, or other entity of a political subdivision, that
+provides a utility service to the public;
+(B) A utility system, as defined under § 7-82-701;
+(C) A public utility, as defined under § 65-4-101, that provides a
+utility service; or
+(D) A cooperative, as defined under § 65-25-102; and
+(3) "Utility service" means water, wastewater, storm water, sewage,
+natural gas, fiber, internet, communication, or electric service.
+(b)
+(1) An operator shall apply for the provision of a utility service through a
+utility's normal application process applicable to similar customers; provided, that
+if a utility denies the operator's application or takes another adverse action with
+respect to the operator's application, including denying services or prohibiting
+- 15 - 013891
+
+connection to the utility's infrastructure or systems, then the utility shall provide
+notice of such decision to the authority as soon as practicable.
+(2) If an operator's application or another aspect of the project requires a
+utility to make a determination regarding a subterranean or subsurface easement
+of the utility's and the project, then the utility may make such determination;
+provided, that if the utility makes an adverse determination with respect to the
+utility's subterranean or subsurface easements and the project, then the utility
+shall provide notice of such decision to the authority as soon as practicable.
+(c) An adverse decision of the utility is automatically appealed to the authority
+upon the authority's receipt of notice under subdivision (b)(1) or (b)(2). The authority
+may overturn or amend the decision of the utility with respect to the application in
+accordance with the procedure established by the authority pursuant to § 65-13-110(a).
+A decision made by the authority upon the appeal of a utility's decision pursuant to
+subsection (b) is final for purposes of judicial review.
+65-13-113. Codes and permitting for subterranean construction and operation.
+(a)
+(1) Except as provided in subsection (b), for subterranean construction
+an operator shall comply with the standards adopted pursuant to § 65-13-110(a).
+(2) An operator shall submit its applications, plans, and other required
+documents for subterranean construction to the authority for approval in
+accordance with the application and approval process established by the
+authority pursuant to § 65-13-110(a).
+(b)
+(1)
+(A) If the operator's subterranean construction is located or
+otherwise crossing under, or will be located or otherwise cross under,
+property owned by a local governmental entity, then the operator shall
+- 16 - 013891
+
+comply with the local governmental entity's standards and submit its
+applications, plans, and other required documents for such subterranean
+construction to the appropriate local governmental entity for approval;
+provided, that:
+(i) The local governmental entity shall not adopt a
+standard, ordinance, resolution, regulation, rule, or other
+requirement of any type that prohibits, effectively prohibits, or
+otherwise regulates the use of property or subterranean
+construction for a project in the local governmental entity's
+jurisdiction;
+(ii) The operator may submit a request to the authority for
+application of the standards adopted pursuant to § 65-13-110(a) if
+the local governmental entity's standards are more stringent; and
+(iii) The local governmental entity may waive application of
+its standards to the subterranean construction. If a local
+governmental entity waives application of its standards to the
+subterranean construction, then the operator must comply with the
+standards, regulations, and process established by the authority
+pursuant to § 65-13-110(a).
+(B) Subdivision (b)(1)(A) must not be construed to require an
+operator to submit to a local governmental entity an application, plan, or
+other required document for subterranean construction that is or will be
+located under property that is not owned by the local governmental entity.
+(2) No later than ten (10) business days after receipt of an operator's
+application, plan, or other documentation, the local governmental entity shall:
+(A) Approve the application, if the plans comply with applicable
+standards;
+- 17 - 013891
+
+(B) Provide to the submitting operator a written report identifying
+with specificity each deficiency that is preventing approval; or
+(C) Request in writing additional information necessary to
+determine compliance with applicable codes.
+(3) A report of deficiencies or request for additional information issued
+pursuant to subdivision (b)(2)(B) or (C) must:
+(A) Identify all known deficiencies or information required at the
+time of review;
+(B) Be based on objective, published standards that are
+applicable to the project;
+(C) Not require information or impose conditions that are not
+directly related to compliance with applicable standards; and
+(D) Not be issued for the purpose of delaying or effectively
+prohibiting the project.
+(4) Upon resubmission of the application, plan, or other documentation
+by the operator addressing the identified deficiencies or providing the requested
+information, the local governmental entity shall, within ten (10) business days of
+such resubmission:
+(A) Approve the application, plan, or documentation; or
+(B) Issue a final written determination identifying any remaining
+deficiency that is directly related to an item previously identified pursuant
+to subdivision (b)(3)(A).
+(5) A local governmental entity shall not issue successive reports of
+deficiencies or requests for additional information based on matters that could
+reasonably have been identified in an earlier review.
+(6) If the local governmental entity does not approve an application, plan,
+or other documentation submitted pursuant to subdivision (b)(2), does not take
+- 18 - 013891
+
+action as required by subdivision (b)(2) or (4), or issues successive reports or
+deficiencies or requests additional information in violation of subdivision (b)(5),
+then:
+(A) The operator may appeal to the authority; and
+(B) If the operator chooses to appeal to the authority pursuant to
+subdivision (b)(6)(A), all pending applications, plans, or documentation
+related to the operator's subterranean construction that is located or
+otherwise crossing under, or will be located or otherwise cross under,
+property owned by a local governmental entity must be transferred to the
+authority, and subsequent applications, plans, or documentation
+necessary for the subterranean construction must be submitted to the
+authority in accordance with the application and approval process
+established by the authority pursuant to § 65-13-110(a).
+(7)
+(A) The authority shall provide notice to the applicable local
+governmental entity if the authority receives an appeal submitted in
+accordance with subdivision (b)(6). The notice must include the date,
+location, and time for the hearings applicable to the appeal, including the
+hearing at which the local governmental entity may respond to the appeal.
+(B) The authority may overturn or amend the decision of a local
+governmental entity with respect to an appealed application, plan, or
+documentation only to ensure compliance with applicable standards and
+the procedural requirements of this subsection(b). A decision made by
+the authority for an appeal submitted in accordance with this subdivision
+(b)(7) is final for purposes of judicial review.
+(8) This subsection (b) does not:
+- 19 - 013891
+
+(A) Authorize the authority to grant permission for subterranean
+construction beneath property owned by a local governmental entity
+without the consent of the local governmental entity; or
+(B) Impair or supersede the proprietary rights of a local
+governmental entity with respect to property owned by the local
+governmental entity.
+(c) The state fire marshal has exclusive jurisdiction over all plan reviews,
+permitting, and inspections for and enforcement of standards and codes designed to
+afford a reasonable degree of safety to life and property from fire and fire hazards for all
+construction, alterations, or repairs of the subterranean infrastructure of a transit project,
+including all electrical installations, plumbing systems, fire protection systems, and
+mechanical systems for all buildings and structures within and without the transit project.
+65-13-114. Jurisdiction of three-judge panel - Criminal laws unaffected.
+(a) A three-judge panel created pursuant to title 20, chapter 18 has exclusive
+jurisdiction over:
+(1) A civil action challenging a determination made by or an action of the
+authority or an operator in accordance with this chapter, or otherwise brought
+against the authority or an operator; and
+(2) A civil action brought by the authority or an operator to enforce any
+rights, duties, or powers of the authority or operator under this chapter, or
+brought pursuant to § 65-13-104(a)(5).
+(b) This chapter does not affect, limit, or otherwise supersede the application of
+the criminal code of this state or another state law establishing a crime.
+65-13-115. Emergency response authority within transit project.
+(a) Notwithstanding another law to the contrary, an operator has exclusive
+authority for initial emergency response, emergency medical services, fire suppression,
+- 20 - 013891
+
+life safety, and security operations between the points designated pursuant to § 65-13-
+108(b) for entry into and exit from a transit project.
+(b) Subsection (a) applies to all subterranean portions of the transit project and
+to all stations, entrances, exits, and related facilities located between the points
+designated pursuant to § 65-13-108(b) for entry into and exit from the transit project.
+(c) A local governmental entity shall not assert concurrent jurisdiction over
+emergency response activities located between the points designated pursuant to § 65-
+13-108(b) for entry into and exit from the transit project unless requested by the
+operator.
+(d) This section does not:
+(1) Limit the authority of the state fire marshal under § 65-13-111(c) with
+respect to plan review, inspection, code enforcement, or issuance of certificates
+of occupancy; or
+(2) Prohibit coordination between an operator and a local governmental
+entity for mutual aid, interoperability, or incident support.
+(e) The operator shall adopt written emergency response and life safety
+protocols consistent with applicable state and federal law.
+65-13-116. Conflicts of law. Taxation.
+(a) To the extent that this chapter conflicts with another provision of state law,
+this chapter controls.
+(b) This chapter does not supersede title 67. An operator shall pay all applicable
+state and local taxes, including, but not limited to:
+(1) Franchise and excise taxes in accordance with title 67, chapter 4,
+parts 20 and 21;
+(2) Sales and use taxes in accordance with title 67, chapter 6;
+(3) Business taxes in accordance with title 67, chapter 4, part 7; and
+- 21 - 013891
+
+(4) Real and tangible personal property taxes in accordance with title 67,
+chapter 5.
+65-13-117. Federal funding.
+This chapter must not be construed to jeopardize federal funding.
+SECTION 2. Tennessee Code Annotated, Section 20-18-101(a), is amended by adding
+the following as a new subdivision:
+(3) A civil action:
+(A) Challenging a determination made by or an action of the
+subterranean transportation infrastructure coordination authority created
+pursuant to title 65, chapter 13, or the operator of a transit project that is subject
+to the Subterranean Transportation Infrastructure Coordination Act, compiled in
+title 65, chapter 13; or
+(B) Brought by the authority or an operator to enforce any rights, duties,
+or powers of the authority or operator under title 65, chapter 13, or brought
+pursuant to § 65-13-104(a)(5).
+SECTION 3. Tennessee Code Annotated, Section 55-30-105, is amended by deleting
+the section and substituting:
+A political subdivision shall not, by ordinance, resolution, or another means,
+prohibit or regulate within the jurisdictional boundaries of the political subdivision the use
+of:
+(1) An ADS-operated vehicle that is operating in compliance with this
+chapter and otherwise complies with all laws of the political subdivision;
+(2) A motor vehicle operated at any level of autonomous technology, as
+defined by § 55-9-105(c)(6)(B), not otherwise included in this chapter; or
+(3) A motor vehicle operated in connection with a transit project governed
+by the Subterranean Transportation Infrastructure Coordination Act, compiled in
+title 65, chapter 13.
+- 22 - 013891
+
+SECTION 4. Tennessee Code Annotated, Section 55-8-202, is amended by deleting the
+section and substituting:
+(a) As used in this section:
+(1) "Autonomous technology" means technology installed on a motor
+vehicle that has the capability to drive the vehicle on which the technology is
+installed in high or full automation mode, without any supervision by a human
+operator, with specific driving mode performance by the automated driving
+system of all aspects of the dynamic driving task that can be managed by a
+human driver, including the ability to automatically bring the motor vehicle into a
+minimal risk condition in the event of a critical vehicle or system failure or other
+emergency event;
+(2) "Driving mode" means a type of driving scenario with characteristic
+dynamic driving task requirements including, but not limited to, the following:
+(A) Expressway merging;
+(B) High speed cruising;
+(C) Low speed traffic jam; and
+(D) Closed-campus operations;
+(3) "Dynamic driving task" means the operational and tactical aspects of
+the driving task, but does not include the strategic aspect of the driving task;
+(4) "Operational" means steering, braking, accelerating, and monitoring
+the vehicle and roadway;
+(5) "Political subdivision" means a county, municipality, metropolitan
+government, or incorporated city or town in this state;
+(6) "Strategic" means determining destinations and waypoints; and
+(7) "Tactical" includes, but is not limited to, the following:
+(A) Responding to events; and
+(B) Determining when to change lanes, turn, or use signals.
+- 23 - 013891
+
+(b) A political subdivision shall not, by ordinance, resolution, or another means,
+prohibit within the jurisdictional boundaries of the political subdivision a motor vehicle
+equipped with autonomous technology if the motor vehicle:
+(1) Otherwise complies with all safety regulations of the political
+subdivision; or
+(2) Is operating in connection with a transit project subject to the
+Subterranean Transportation Infrastructure Coordination Act, compiled in title 65,
+chapter 13.
+SECTION 5. Upon the creation of the subterranean transportation infrastructure
+coordination authority pursuant to Tennessee Code Annotated, Section 65-13-102, the
+Tennessee Code Commission shall amend the appropriate statute in Tennessee Code
+Annotated, title 4, chapter 29, part 2, to sunset the authority for purposes of reviewing the
+authority subject to termination two (2) years after its creation and the constitution of its board of
+directors.
+SECTION 6. If any provision of this act or its application to any person or circumstance
+is held invalid, then the invalidity does not affect other provisions or applications of the act that
+can be given effect without the invalid provision or application, and to that end, the provisions of
+this act are severable.
+SECTION 7. The headings in this act are for reference purposes only and do not
+constitute a part of the law enacted by this act. However, the Tennessee Code Commission is
+requested to include the headings in any compilation or publication containing this act.
+SECTION 8. For purposes of promulgating rules and carrying out administrative duties
+necessary to effectuate this act, this act takes effect upon becoming a law, the public welfare
+requiring it. For all other purposes, this act takes effect July 1, 2026, the public welfare requiring
+it.
+- 24 - 013891
+
+[DELETED:  a H(((((]
+[DELETED:  -0(S6T6T((A(((]
+[DELETED:  -0(((((((]
+[DELETED:  -0(((((((]
+[DELETED:  -0((((((((]
+[DELETED:  -0((((((((]
+[DELETED:  -0((((((((((]
+[DELETED:  -0(((T]
+[DELETED:  -0(((((]
+[DELETED:  -0((6(((((((((]
+[DELETED:  -0((((6((]
+[DELETED:  -0((((6(((]
+[DELETED:  -0(]
+[DELETED:  -0]
+[DELETED:  -0((((]
+[DELETED:  -0((]
+[DELETED:  -0]
+[DELETED:  -0((((((((((]
+[DELETED:  -0(]
+[DELETED:  -0((((((]
+[DELETED:  -0(((((((((((]
+[DELETED:  -0(S(SA(((]
+[DELETED:  -0]
+[DELETED:  -0(((SSS]

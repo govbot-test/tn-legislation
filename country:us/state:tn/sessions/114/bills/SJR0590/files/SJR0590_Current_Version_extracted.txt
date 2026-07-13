@@ -1,0 +1,90 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+SENATE JOINT RESOLUTION 590
+By Akbari
+A RESOLUTION to propose an amendment to Article XI, Section
+5 of the Constitution of Tennessee, to allow for
+bingo events to benefit certain organizations.
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE HOUSE OF
+REPRESENTATIVES CONCURRING, that a majority of all the members of each house
+concurring, as shown by the yeas and nays entered on their journals, that it is proposed that
+Article XI, Section 5 of the Constitution of the State of Tennessee be amended by adding the
+following language at the end of the section:
+This Section does not prohibit bingo games, as defined below, when conducted
+by a tax-exempt 501(c)(3) or 501(c)(19) organization, as defined by the 2000 United
+States Tax Code, to meet charitable, nonprofit, or community service purposes. Bingo
+games authorized in this section shall be implemented and administered uniformly
+throughout the state in such manner as the legislature, by general law, deems
+appropriate.
+"Bingo" means a specific game of chance in which participants use an electronic
+or manual playing surface divided into horizontal and vertical spaces, each of which is
+designated by a letter and a number, and prizes are awarded on the basis of the letters
+and numbers on the playing surface conforming to a predetermined and preannounced
+configuration of letters and numbers selected at random.
+BE IT FURTHER RESOLVED, that the foregoing amendment be referred to the One
+Hundred Fifteenth General Assembly and that this resolution proposing such amendment be
+published in compliance with Article XI, Section 3 of the Constitution of Tennessee by posting
+SJR0590
+011044
+- 1 -
+such amendment on the official website of the Secretary of State and on the official website of
+the General Assembly.
+BE IT FURTHER RESOLVED, that the Clerk of the Senate is directed to deliver copies
+of this resolution to the Secretary of State, with this final resolving clause being deleted from
+such copies.
+- 2 - 011044
+[DELETED: "B]
+[DELETED:  -0B]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+SENATE JOINT RESOLUTION 590
+By Akbari
+A RESOLUTION to propose an amendment to Article XI, Section
+5 of the Constitution of Tennessee, to allow for
+bingo events to benefit certain organizations.
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE HOUSE OF
+REPRESENTATIVES CONCURRING, that a majority of all the members of each house
+concurring, as shown by the yeas and nays entered on their journals, that it is proposed that
+Article XI, Section 5 of the Constitution of the State of Tennessee be amended by adding the
+following language at the end of the section:
+This Section does not prohibit bingo games, as defined below, when conducted
+by a tax-exempt 501(c)(3) or 501(c)(19) organization, as defined by the 2000 United
+States Tax Code, to meet charitable, nonprofit, or community service purposes. Bingo
+games authorized in this section shall be implemented and administered uniformly
+throughout the state in such manner as the legislature, by general law, deems
+appropriate.
+"Bingo" means a specific game of chance in which participants use an electronic
+or manual playing surface divided into horizontal and vertical spaces, each of which is
+designated by a letter and a number, and prizes are awarded on the basis of the letters
+and numbers on the playing surface conforming to a predetermined and preannounced
+configuration of letters and numbers selected at random.
+BE IT FURTHER RESOLVED, that the foregoing amendment be referred to the One
+Hundred Fifteenth General Assembly and that this resolution proposing such amendment be
+published in compliance with Article XI, Section 3 of the Constitution of Tennessee by posting
+SJR0590
+011044
+- 1 -
+
+such amendment on the official website of the Secretary of State and on the official website of
+the General Assembly.
+BE IT FURTHER RESOLVED, that the Clerk of the Senate is directed to deliver copies
+of this resolution to the Secretary of State, with this final resolving clause being deleted from
+such copies.
+- 2 - 011044
+
+[DELETED: "B]
+[DELETED:  -0B]
