@@ -1,0 +1,348 @@
+Title: AMEND S e n ate Bill No. 2053 House Bill No. 1827*
+Official Title: AMEND S e n ate Bill No. 2053 House Bill No. 1827*
+Number of Sections: 3
+Source: versions - Amendment HA0785
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+House State & Local Government 1
+Amendment No. 1 to HB1827
+Crawford
+Signature of Sponsor
+by deleting all language after the enacting clause and substituting:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Title 7, Chapter 51, is amended by adding
+the following as a new part:
+7-51-2801. Purpose and intent.
+(a) The general assembly finds that certain proposed quarries and digital asset
+mining facilities can create substantial impacts on surrounding communities when they
+are developed without sufficient planning, engineering, or operational safeguards. The
+purpose of this act is not to prohibit quarrying or digital asset mining, nor to hinder
+responsible commercial operators, but to ensure that these facilities are sited and
+developed only when the applicant provides clear, credible, and professionally prepared
+proof that the operation can be conducted safely and responsibly.
+(b) With respect to nuisance quarries, the general assembly recognizes that
+small quarry sites located in close proximity to existing residential dwellings present
+heightened risks relating to noise, dust, vibration, truck traffic, groundwater disturbance,
+and overall community compatibility. This part is intended to ensure that only quarry
+operators capable of demonstrating modern standards of safety, environmental
+compliance, and financial responsibility may develop close-proximity, small-footprint
+quarry sites.
+(c) With respect to digital asset mining facilities, the general assembly
+recognizes that large-scale, high-density data mining and blockchain operations can
+impose material impacts on local communities, including very high electrical demand,
+HA0785
+016184
+- 1 -
+harmonic distortion on utility systems, heat and exhaust discharge, vibration, and a level
+of continuous noise that may exceed legally permitted residential levels. This part is
+intended to ensure that communities receive meaningful protections without imposing an
+outright ban on digital asset mining activities, and that operators willing to meet modern
+professional standards retain a clear, objective pathway to approval.
+7-51-2802. Part definitions.
+As used in this part:
+(1) "Digital asset mining facility" means a group of computers working at
+a single site that consume more than one megawatt (1 MW) of energy on an
+average annual basis for the purpose of securing a blockchain protocol and
+generating controllable electronic records;
+(2) "Nuisance quarry" means a proposed quarry that meets all of the
+following conditions:
+(A) The real property on which the proposed quarry is to be
+established consists of less than two hundred (200) contiguous acres;
+and
+(B) The proposed quarry has setbacks of less than five hundred
+feet (500') between the boundary of active mining or extraction activity
+and any existing residential dwelling; and
+(3) "Quarry":
+(A) Means a site that hosts the extraction, removal, and
+mechanized processing of stone, gravel, phosphate rock, metallic ore,
+limestone, marble, chert, sand, dimension stone, or any other solid
+mineral or substance of commercial value, except coal mining,
+underground stone mining, and deep metal mining, including, but not
+limited to, zinc, found in natural deposits in the earth, for barter or sale;
+and
+- 2 - 016184
+(B) Does not include the excavation or removal of material that is
+incidental to the construction of a subterranean tunnel or system of
+subterranean tunnels designed primarily for the transportation of
+passengers and goods using electric, autonomous, or low-emission
+vehicles, or other emerging technology for vehicles and transportation
+systems, where the tunnels are constructed at depths sufficient to avoid
+interference with surface uses.
+7-51-2803. Local approval of quarry or digital asset mining facilities.
+(a) Prior to a nuisance quarry or digital asset mining facility being established in
+a county, municipality, or metropolitan government, the local legislative body for the
+jurisdiction must approve the location for such facility by resolution in a public meeting.
+(b) A local legislative body shall provide at least twenty-one (21) calendar days'
+notice of the time and place of any meeting called pursuant to subsection (a) by:
+(1) Publishing the notice in a newspaper of general circulation in the
+county;
+(2) Posting the notice on the local legislative body's official website;
+(3) Posting the notice in at least three (3) places at the location where the
+proposed nuisance quarry or digital asset mining facility will be established; and
+(4) Sending the notice by first-class mail to each resident whose property
+is within one thousand five hundred feet (1,500') of the property line of the
+proposed location.
+7-51-2804. Objective proof requirements.
+(a) A local legislative body shall base its decision to approve or disapprove the
+siting of a nuisance quarry or digital asset mining facility in a county, municipality, or
+metropolitan government solely upon compliance with the requirements of this part and
+the material evidence submitted pursuant to this section.
+- 3 - 016184
+(b) An applicant seeking to establish a nuisance quarry or a digital asset mining
+facility shall submit to the local legislative body:
+(1) Proof of adequate power, water, and sewer capacity, supported by
+written confirmations from the applicable utilities. Any supporting engineering
+analysis must be prepared and stamped by a professional engineer licensed in
+this state;
+(2) A traffic impact study, prepared and certified by a qualified
+transportation engineer, demonstrating that projected vehicle movements can be
+accommodated without materially degrading roadway safety or performance;
+(3) An environmental study, prepared by a qualified environmental
+professional, addressing noise, dust, vibration, and other material impacts on
+surrounding property and natural resources;
+(4) A baseline noise survey and an operational noise-management plan,
+including reasonable monitoring mechanisms demonstrating that noise levels will
+not exceed eighty A-weighted decibels (80 dBA), when measured at the property
+boundary of the nuisance quarry or digital asset mining facility. Compliance with
+this standard is determined using a twenty-four-hour equivalent continuous
+sound level measurement, conducted in accordance with generally accepted
+sound level measurement practices and using a properly calibrated sound level
+meter;
+(5) A stormwater and erosion-control plan meeting all applicable state
+and local requirements that is prepared by a civil engineer licensed in this state;
+(6) A reclamation or decommissioning plan appropriate to the proposed
+operation, along with a cost estimate prepared by a licensed engineer. The
+applicant shall secure financial assurance in a form acceptable to the local
+legislative body to ensure completion of the plan upon closure; and
+- 4 - 016184
+(7) Sufficient financial and insurance documentation to demonstrate
+operational capability and long-term stability, including ensuring that an
+insurance policy meets reasonable minimum standards set by the local
+legislative body, if such applicant is not a publicly traded company or has an
+annual revenue of less than twenty-five million dollars ($25,000,000).
+(c) In addition to the requirements of subsection (b):
+(1) An applicant seeking to establish a digital asset mining facility shall
+provide a study describing the facility's heat output, exhaust characteristics, and
+any potential electrical interference. The study must demonstrate that the facility
+will not adversely affect neighboring operations or utility systems; and
+(2) An applicant seeking to establish a nuisance quarry shall post a bond
+sufficient to cover projected roadway wear caused by truck traffic during
+operations, in an amount determined by the local legislative body, if the applicant
+is not a publicly traded company or has an annual revenue of less than twenty-
+five million dollars ($25,000,000).
+7-51-2805. Exemption.
+This part does not apply to:
+(1) Borrow material or borrow excavations, including rock borrow, dirt
+borrow, solid rock borrow, graded solid rock borrow, or any similar material
+meeting the department of transportation standard specifications for road and
+bridge construction, whether temporary or project specific, and whether located
+on or off the project site, when such material is used solely for a construction
+project located within this state;
+(2) An active or inactive quarry for which a mine identification number
+was applied for or obtained from the mine safety and health administration of the
+United States department of labor at any time prior to July 1, 2026;
+- 5 - 016184
+(3) An application or other request for approval submitted to the
+appropriate local legislative body, or local building or codes enforcement
+department, zoning authority, health department, or similar local department or
+agency, related to the commencement, expansion, or resumption of mining
+activity with respect to a quarry or mining operation that was active or that filed
+an application for such a permit or approval from such a local legislative body or
+department or agency at any time prior to July 1, 2026; or
+(4) A proposed quarry or mining operation if an application has been
+submitted to the department of environment and conservation for a stormwater
+discharge permit, wastewater discharge permit, or air pollution control permit
+related to the commencement, expansion, or resumption of activity at a quarry or
+mining operation; provided, that the quarry or mining operation was active or had
+submitted an application for such permit or approval to the department prior to
+July 1, 2026.
+
+Section 3:
+SECTION 2. This act takes effect July 1, 2026, the public welfare requiring it, and,
+except as expressly stated in this act, applies to any proposed nuisance quarry or digital asset
+mining facility that will be established on or after that date.
+- 6 - 016184
+[DELETED:  a H]
+[DELETED:  -0]
+[DELETED:  -0]
+[DELETED:  -0]
+[DELETED:  -0]
+[DELETED:  -0]
+
+
+================================================================================
+
+Raw Text:
+House State & Local Government 1
+Amendment No. 1 to HB1827
+Crawford
+Signature of Sponsor
+AMEND S e n ate Bill No. 2053 House Bill No. 1827*
+by deleting all language after the enacting clause and substituting:
+SECTION 1. Tennessee Code Annotated, Title 7, Chapter 51, is amended by adding
+the following as a new part:
+7-51-2801. Purpose and intent.
+(a) The general assembly finds that certain proposed quarries and digital asset
+mining facilities can create substantial impacts on surrounding communities when they
+are developed without sufficient planning, engineering, or operational safeguards. The
+purpose of this act is not to prohibit quarrying or digital asset mining, nor to hinder
+responsible commercial operators, but to ensure that these facilities are sited and
+developed only when the applicant provides clear, credible, and professionally prepared
+proof that the operation can be conducted safely and responsibly.
+(b) With respect to nuisance quarries, the general assembly recognizes that
+small quarry sites located in close proximity to existing residential dwellings present
+heightened risks relating to noise, dust, vibration, truck traffic, groundwater disturbance,
+and overall community compatibility. This part is intended to ensure that only quarry
+operators capable of demonstrating modern standards of safety, environmental
+compliance, and financial responsibility may develop close-proximity, small-footprint
+quarry sites.
+(c) With respect to digital asset mining facilities, the general assembly
+recognizes that large-scale, high-density data mining and blockchain operations can
+impose material impacts on local communities, including very high electrical demand,
+HA0785
+016184
+- 1 -
+
+harmonic distortion on utility systems, heat and exhaust discharge, vibration, and a level
+of continuous noise that may exceed legally permitted residential levels. This part is
+intended to ensure that communities receive meaningful protections without imposing an
+outright ban on digital asset mining activities, and that operators willing to meet modern
+professional standards retain a clear, objective pathway to approval.
+7-51-2802. Part definitions.
+As used in this part:
+(1) "Digital asset mining facility" means a group of computers working at
+a single site that consume more than one megawatt (1 MW) of energy on an
+average annual basis for the purpose of securing a blockchain protocol and
+generating controllable electronic records;
+(2) "Nuisance quarry" means a proposed quarry that meets all of the
+following conditions:
+(A) The real property on which the proposed quarry is to be
+established consists of less than two hundred (200) contiguous acres;
+and
+(B) The proposed quarry has setbacks of less than five hundred
+feet (500') between the boundary of active mining or extraction activity
+and any existing residential dwelling; and
+(3) "Quarry":
+(A) Means a site that hosts the extraction, removal, and
+mechanized processing of stone, gravel, phosphate rock, metallic ore,
+limestone, marble, chert, sand, dimension stone, or any other solid
+mineral or substance of commercial value, except coal mining,
+underground stone mining, and deep metal mining, including, but not
+limited to, zinc, found in natural deposits in the earth, for barter or sale;
+and
+- 2 - 016184
+
+(B) Does not include the excavation or removal of material that is
+incidental to the construction of a subterranean tunnel or system of
+subterranean tunnels designed primarily for the transportation of
+passengers and goods using electric, autonomous, or low-emission
+vehicles, or other emerging technology for vehicles and transportation
+systems, where the tunnels are constructed at depths sufficient to avoid
+interference with surface uses.
+7-51-2803. Local approval of quarry or digital asset mining facilities.
+(a) Prior to a nuisance quarry or digital asset mining facility being established in
+a county, municipality, or metropolitan government, the local legislative body for the
+jurisdiction must approve the location for such facility by resolution in a public meeting.
+(b) A local legislative body shall provide at least twenty-one (21) calendar days'
+notice of the time and place of any meeting called pursuant to subsection (a) by:
+(1) Publishing the notice in a newspaper of general circulation in the
+county;
+(2) Posting the notice on the local legislative body's official website;
+(3) Posting the notice in at least three (3) places at the location where the
+proposed nuisance quarry or digital asset mining facility will be established; and
+(4) Sending the notice by first-class mail to each resident whose property
+is within one thousand five hundred feet (1,500') of the property line of the
+proposed location.
+7-51-2804. Objective proof requirements.
+(a) A local legislative body shall base its decision to approve or disapprove the
+siting of a nuisance quarry or digital asset mining facility in a county, municipality, or
+metropolitan government solely upon compliance with the requirements of this part and
+the material evidence submitted pursuant to this section.
+- 3 - 016184
+
+(b) An applicant seeking to establish a nuisance quarry or a digital asset mining
+facility shall submit to the local legislative body:
+(1) Proof of adequate power, water, and sewer capacity, supported by
+written confirmations from the applicable utilities. Any supporting engineering
+analysis must be prepared and stamped by a professional engineer licensed in
+this state;
+(2) A traffic impact study, prepared and certified by a qualified
+transportation engineer, demonstrating that projected vehicle movements can be
+accommodated without materially degrading roadway safety or performance;
+(3) An environmental study, prepared by a qualified environmental
+professional, addressing noise, dust, vibration, and other material impacts on
+surrounding property and natural resources;
+(4) A baseline noise survey and an operational noise-management plan,
+including reasonable monitoring mechanisms demonstrating that noise levels will
+not exceed eighty A-weighted decibels (80 dBA), when measured at the property
+boundary of the nuisance quarry or digital asset mining facility. Compliance with
+this standard is determined using a twenty-four-hour equivalent continuous
+sound level measurement, conducted in accordance with generally accepted
+sound level measurement practices and using a properly calibrated sound level
+meter;
+(5) A stormwater and erosion-control plan meeting all applicable state
+and local requirements that is prepared by a civil engineer licensed in this state;
+(6) A reclamation or decommissioning plan appropriate to the proposed
+operation, along with a cost estimate prepared by a licensed engineer. The
+applicant shall secure financial assurance in a form acceptable to the local
+legislative body to ensure completion of the plan upon closure; and
+- 4 - 016184
+
+(7) Sufficient financial and insurance documentation to demonstrate
+operational capability and long-term stability, including ensuring that an
+insurance policy meets reasonable minimum standards set by the local
+legislative body, if such applicant is not a publicly traded company or has an
+annual revenue of less than twenty-five million dollars ($25,000,000).
+(c) In addition to the requirements of subsection (b):
+(1) An applicant seeking to establish a digital asset mining facility shall
+provide a study describing the facility's heat output, exhaust characteristics, and
+any potential electrical interference. The study must demonstrate that the facility
+will not adversely affect neighboring operations or utility systems; and
+(2) An applicant seeking to establish a nuisance quarry shall post a bond
+sufficient to cover projected roadway wear caused by truck traffic during
+operations, in an amount determined by the local legislative body, if the applicant
+is not a publicly traded company or has an annual revenue of less than twenty-
+five million dollars ($25,000,000).
+7-51-2805. Exemption.
+This part does not apply to:
+(1) Borrow material or borrow excavations, including rock borrow, dirt
+borrow, solid rock borrow, graded solid rock borrow, or any similar material
+meeting the department of transportation standard specifications for road and
+bridge construction, whether temporary or project specific, and whether located
+on or off the project site, when such material is used solely for a construction
+project located within this state;
+(2) An active or inactive quarry for which a mine identification number
+was applied for or obtained from the mine safety and health administration of the
+United States department of labor at any time prior to July 1, 2026;
+- 5 - 016184
+
+(3) An application or other request for approval submitted to the
+appropriate local legislative body, or local building or codes enforcement
+department, zoning authority, health department, or similar local department or
+agency, related to the commencement, expansion, or resumption of mining
+activity with respect to a quarry or mining operation that was active or that filed
+an application for such a permit or approval from such a local legislative body or
+department or agency at any time prior to July 1, 2026; or
+(4) A proposed quarry or mining operation if an application has been
+submitted to the department of environment and conservation for a stormwater
+discharge permit, wastewater discharge permit, or air pollution control permit
+related to the commencement, expansion, or resumption of activity at a quarry or
+mining operation; provided, that the quarry or mining operation was active or had
+submitted an application for such permit or approval to the department prior to
+July 1, 2026.
+SECTION 2. This act takes effect July 1, 2026, the public welfare requiring it, and,
+except as expressly stated in this act, applies to any proposed nuisance quarry or digital asset
+mining facility that will be established on or after that date.
+- 6 - 016184
+
+[DELETED:  a H]
+[DELETED:  -0]
+[DELETED:  -0]
+[DELETED:  -0]
+[DELETED:  -0]
+[DELETED:  -0]

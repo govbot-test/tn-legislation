@@ -1,0 +1,108 @@
+Title: AMEND S e n ate Bill No. 2126 House Bill No. 1777*
+Official Title: AMEND S e n ate Bill No. 2126 House Bill No. 1777*
+Number of Sections: 8
+Source: versions - Amendment HA0964
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+House Commerce 1
+Amendment No. 1 to HB1777
+Vaughan
+Signature of Sponsor
+by deleting all language after the enacting clause and substituting:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 67-4-2006(b)(1)(O), is amended by
+deleting the subdivision and substituting instead:
+(O) Any deduction by any of the following for dividends paid, as defined under
+26 U.S.C. § 561, that is allowed and taken under 26 U.S.C. § 857(b)(2)(B):
+(i) Captive REIT, including a captive REIT that is owned, directly or
+indirectly, by a bank, a bank holding company, or a public REIT;
+(ii) Public REIT; or
+(iii) Private REIT;
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 67-4-2019, is amended by deleting
+the section.
+
+Section 4:
+SECTION 3. Tennessee Code Annotated, Section 67-4-2006(a)(5), is amended by
+deleting the subdivision.
+
+Section 5:
+SECTION 4. Tennessee Code Annotated, Section 67-5-501, is amended by adding the
+following as new, appropriately designated subdivisions:
+( ) "Real estate investment trust" or "REIT" means a real estate investment trust
+that has an election in effect under § 856(c)(1) of the Internal Revenue Code (26 U.S.C.
+
+Section 6:
+§ 856(c)(1));
+( ) "REIT-owned rental unit" means any real property that is owned by a REIT
+and leased or available for lease;
+HA0964
+015515
+- 1 -
+
+Section 7:
+SECTION 5. Tennessee Code Annotated, Section 67-5-801, is amended by adding the
+following as new subsection:
+(d) If a REIT owns two (2) or more parcels of real property in this state that each
+contain a REIT-owned rental unit, then all such parcels, in the aggregate, contain two (2)
+or more rental units as used in § 67-5-501, and the assessor of property shall classify
+each parcel of property as commercial.
+
+Section 8:
+SECTION 6. This act takes effect upon becoming a law, the public welfare requiring it,
+and Sections 1 through 3 apply to tax years ending on or after December 31, 2026.
+- 2 - 015515
+[DELETED:  a HS]
+[DELETED:  -0SS]
+
+
+================================================================================
+
+Raw Text:
+House Commerce 1
+Amendment No. 1 to HB1777
+Vaughan
+Signature of Sponsor
+AMEND S e n ate Bill No. 2126 House Bill No. 1777*
+by deleting all language after the enacting clause and substituting:
+SECTION 1. Tennessee Code Annotated, Section 67-4-2006(b)(1)(O), is amended by
+deleting the subdivision and substituting instead:
+(O) Any deduction by any of the following for dividends paid, as defined under
+26 U.S.C. § 561, that is allowed and taken under 26 U.S.C. § 857(b)(2)(B):
+(i) Captive REIT, including a captive REIT that is owned, directly or
+indirectly, by a bank, a bank holding company, or a public REIT;
+(ii) Public REIT; or
+(iii) Private REIT;
+SECTION 2. Tennessee Code Annotated, Section 67-4-2019, is amended by deleting
+the section.
+SECTION 3. Tennessee Code Annotated, Section 67-4-2006(a)(5), is amended by
+deleting the subdivision.
+SECTION 4. Tennessee Code Annotated, Section 67-5-501, is amended by adding the
+following as new, appropriately designated subdivisions:
+( ) "Real estate investment trust" or "REIT" means a real estate investment trust
+that has an election in effect under § 856(c)(1) of the Internal Revenue Code (26 U.S.C.
+§ 856(c)(1));
+( ) "REIT-owned rental unit" means any real property that is owned by a REIT
+and leased or available for lease;
+HA0964
+015515
+- 1 -
+
+SECTION 5. Tennessee Code Annotated, Section 67-5-801, is amended by adding the
+following as new subsection:
+(d) If a REIT owns two (2) or more parcels of real property in this state that each
+contain a REIT-owned rental unit, then all such parcels, in the aggregate, contain two (2)
+or more rental units as used in § 67-5-501, and the assessor of property shall classify
+each parcel of property as commercial.
+SECTION 6. This act takes effect upon becoming a law, the public welfare requiring it,
+and Sections 1 through 3 apply to tax years ending on or after December 31, 2026.
+- 2 - 015515
+
+[DELETED:  a HS]
+[DELETED:  -0SS]

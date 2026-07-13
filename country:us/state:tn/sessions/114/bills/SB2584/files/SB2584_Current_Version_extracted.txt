@@ -1,0 +1,49 @@
+Title: HOUSE BILL 2047
+Official Title: HOUSE BILL 2047
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+By McCalmon
+SENATE BILL 2584
+By Jackson
+AN ACT to amend Tennessee Code Annotated, Title 67,
+Chapter 6, relative to qualified data centers.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 67-6-206(d), is amended by adding
+the following language after the first sentence of the subsection:
+Certification may be submitted electronically, as appropriate.
+
+Section 3:
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+SB2584
+011933
+- 1 -
+[DELETED: SS]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 2047
+By McCalmon
+SENATE BILL 2584
+By Jackson
+AN ACT to amend Tennessee Code Annotated, Title 67,
+Chapter 6, relative to qualified data centers.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 67-6-206(d), is amended by adding
+the following language after the first sentence of the subsection:
+Certification may be submitted electronically, as appropriate.
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+SB2584
+011933
+- 1 -
+
+[DELETED: SS]

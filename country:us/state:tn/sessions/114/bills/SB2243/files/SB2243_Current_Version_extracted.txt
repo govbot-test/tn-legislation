@@ -1,0 +1,57 @@
+Title: HOUSE BILL 2555
+Official Title: HOUSE BILL 2555
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+By Lamberth
+SENATE BILL 2243
+By Johnson
+AN ACT to amend Tennessee Code Annotated, Title 4;
+Title 7; Title 24; Title 33; Title 38; Title 49; Title 53;
+Title 55; Title 56; Title 63; Title 68; Title 71 and
+Chapter 1042 of the Public Acts of 2024, relative
+to physician assistants.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 63-19-105(b)(2)(A), is amended by
+deleting "forty-five (45) days" and substituting "thirty-five (35) days".
+
+Section 3:
+SECTION 2. This act takes effect July 1, 2026, the public welfare requiring it, and
+applies to completed applications submitted to the board of physician assistants on or after that
+date.
+SB2243
+012657
+- 1 -
+[DELETED: SS]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 2555
+By Lamberth
+SENATE BILL 2243
+By Johnson
+AN ACT to amend Tennessee Code Annotated, Title 4;
+Title 7; Title 24; Title 33; Title 38; Title 49; Title 53;
+Title 55; Title 56; Title 63; Title 68; Title 71 and
+Chapter 1042 of the Public Acts of 2024, relative
+to physician assistants.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 63-19-105(b)(2)(A), is amended by
+deleting "forty-five (45) days" and substituting "thirty-five (35) days".
+SECTION 2. This act takes effect July 1, 2026, the public welfare requiring it, and
+applies to completed applications submitted to the board of physician assistants on or after that
+date.
+SB2243
+012657
+- 1 -
+
+[DELETED: SS]

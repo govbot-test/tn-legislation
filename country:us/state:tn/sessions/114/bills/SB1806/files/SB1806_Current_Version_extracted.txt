@@ -1,0 +1,47 @@
+Title: HOUSE BILL 1730
+Official Title: HOUSE BILL 1730
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+By Hale
+SENATE BILL 1806
+By Bailey
+AN ACT to amend Tennessee Code Annotated, Title 28
+and Title 29, relative to healthcare liability.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 29-26-116(a), is amended by
+deleting subdivision (a)(3).
+
+Section 3:
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+SB1806
+011090
+- 1 -
+[DELETED: SS]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 1730
+By Hale
+SENATE BILL 1806
+By Bailey
+AN ACT to amend Tennessee Code Annotated, Title 28
+and Title 29, relative to healthcare liability.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 29-26-116(a), is amended by
+deleting subdivision (a)(3).
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+SB1806
+011090
+- 1 -
+
+[DELETED: SS]

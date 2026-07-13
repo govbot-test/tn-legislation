@@ -1,0 +1,83 @@
+Title: SENATE BILL 1881
+Official Title: SENATE BILL 1881
+Number of Sections: 4
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+By Johnson
+HOUSE BILL 1640
+By Lamberth
+AN ACT to amend Tennessee Code Annotated, Title 10,
+Chapter 7, Part 5, relative to confidentiality of
+department of safety records.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 10-7-504(a)(2)(A), is amended by
+adding the language "the office of homeland security," after the language "All investigative
+records of the Tennessee bureau of investigation,".
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 10-7-504(a)(2), is amended by
+adding the following new subdivision:
+( ) The following records of the office of homeland security must be treated as
+confidential and are not open to inspection by members of the public:
+(i) All records possessed by the office describing protected critical
+infrastructure submitted or created for protected use regarding the security of
+critical infrastructure or protected systems, analyses, warnings, interdependency
+studies, recovery, reconstitution, or for other appropriate purposes;
+(ii) All records relating to the identification, analysis, prevention,
+preemption, disruption, response, maintenance, and defense against and
+mitigation of terrorist or criminal threats and acts against Tennessee's critical
+infrastructure and the homeland; and
+(iii) All records that are designated by the commissioner of safety or the
+commissioner's designee as describing or relating to protected critical
+infrastructure.
+
+Section 4:
+SECTION 3. This act takes effect upon becoming a law, the public welfare requiring it.
+HB1640
+010044
+- 1 -
+[DELETED: SS((((S]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 1881
+By Johnson
+HOUSE BILL 1640
+By Lamberth
+AN ACT to amend Tennessee Code Annotated, Title 10,
+Chapter 7, Part 5, relative to confidentiality of
+department of safety records.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 10-7-504(a)(2)(A), is amended by
+adding the language "the office of homeland security," after the language "All investigative
+records of the Tennessee bureau of investigation,".
+SECTION 2. Tennessee Code Annotated, Section 10-7-504(a)(2), is amended by
+adding the following new subdivision:
+( ) The following records of the office of homeland security must be treated as
+confidential and are not open to inspection by members of the public:
+(i) All records possessed by the office describing protected critical
+infrastructure submitted or created for protected use regarding the security of
+critical infrastructure or protected systems, analyses, warnings, interdependency
+studies, recovery, reconstitution, or for other appropriate purposes;
+(ii) All records relating to the identification, analysis, prevention,
+preemption, disruption, response, maintenance, and defense against and
+mitigation of terrorist or criminal threats and acts against Tennessee's critical
+infrastructure and the homeland; and
+(iii) All records that are designated by the commissioner of safety or the
+commissioner's designee as describing or relating to protected critical
+infrastructure.
+SECTION 3. This act takes effect upon becoming a law, the public welfare requiring it.
+HB1640
+010044
+- 1 -
+
+[DELETED: SS((((S]

@@ -1,0 +1,110 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+SENATE JOINT RESOLUTION 559
+By Powers
+A RESOLUTION to urge the United States Congress to pass the
+Eliminating Discrimination And Creating
+Corridors to Expand Student Success (ED
+ACCESS) Act of 2022.
+WHEREAS, the American Opportunity Tax Credit (AOTC) is the primary tax credit
+available to students seeking higher education; and
+WHEREAS, students with a felony drug conviction are permanently ineligible for this tax
+credit; and
+WHEREAS, the RAND Corporation has found that incarcerated individuals who
+participated in correctional education programs had a forty-three percent lower chance of
+recidivating than those who did not; and
+WHEREAS, one such correctional education program in Tennessee administered by the
+Tennessee Higher Education Initiative has a recidivism rate of less than one percent; and
+WHEREAS, denying the AOTC to students with felony drug convictions makes it even
+harder for this population to afford college and get their life on track; and
+WHEREAS, making college less affordable for people convicted of drug felonies is not
+an effective deterrent for drug crime, and no such restriction exists for other types of felonies,
+such as murder; and
+WHEREAS, former Congresswoman Diane Black (R-TN), also a former member of the
+House of Representatives and Senate of the State of Tennessee, proposed the Student and
+Family Tax Simplification Act, which passed the House in the 113th Congress and would have
+repealed the AOTC's felony drug ban; and
+WHEREAS, current members of the U.S. Congress have made recent attempts to
+repeal the denial of the AOTC for students convicted of a felony drug offense, for example the
+SJR0559
+010576
+- 1 -
+Eliminating Discrimination And Creating Corridors to Expand Student Success (ED ACCESS)
+Act of 2022, cosponsored by Senator Rob Portman (R-OH), Representative David Schweikert
+(R-AZ), and Brad R. Wenstrup (R-OH); now, therefore,
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE HOUSE OF
+REPRESENTATIVES CONCURRING, that we urge the United States Congress to pass the
+Eliminating Discrimination And Creating Corridors to Expand Student Success (ED ACCESS)
+Act of 2022 or any similar legislation that eliminates the denial of the American Opportunity Tax
+Credit for students convicted of a felony drug offense.
+BE IT FURTHER RESOLVED, that a certified copy of this resolution be transmitted to
+the Speaker and the Clerk of the United States House of Representatives, the President and the
+Secretary of the United States Senate, each member of the Tennessee Congressional
+delegation, the Attorney General of the United States of America, and the Attorney General of
+the State of Tennessee.
+- 2 - 010576
+[DELETED: WWW3 ]
+[DELETED:  -0B]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+SENATE JOINT RESOLUTION 559
+By Powers
+A RESOLUTION to urge the United States Congress to pass the
+Eliminating Discrimination And Creating
+Corridors to Expand Student Success (ED
+ACCESS) Act of 2022.
+WHEREAS, the American Opportunity Tax Credit (AOTC) is the primary tax credit
+available to students seeking higher education; and
+WHEREAS, students with a felony drug conviction are permanently ineligible for this tax
+credit; and
+WHEREAS, the RAND Corporation has found that incarcerated individuals who
+participated in correctional education programs had a forty-three percent lower chance of
+recidivating than those who did not; and
+WHEREAS, one such correctional education program in Tennessee administered by the
+Tennessee Higher Education Initiative has a recidivism rate of less than one percent; and
+WHEREAS, denying the AOTC to students with felony drug convictions makes it even
+harder for this population to afford college and get their life on track; and
+WHEREAS, making college less affordable for people convicted of drug felonies is not
+an effective deterrent for drug crime, and no such restriction exists for other types of felonies,
+such as murder; and
+WHEREAS, former Congresswoman Diane Black (R-TN), also a former member of the
+House of Representatives and Senate of the State of Tennessee, proposed the Student and
+Family Tax Simplification Act, which passed the House in the 113th Congress and would have
+repealed the AOTC's felony drug ban; and
+WHEREAS, current members of the U.S. Congress have made recent attempts to
+repeal the denial of the AOTC for students convicted of a felony drug offense, for example the
+SJR0559
+010576
+- 1 -
+
+Eliminating Discrimination And Creating Corridors to Expand Student Success (ED ACCESS)
+Act of 2022, cosponsored by Senator Rob Portman (R-OH), Representative David Schweikert
+(R-AZ), and Brad R. Wenstrup (R-OH); now, therefore,
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE HOUSE OF
+REPRESENTATIVES CONCURRING, that we urge the United States Congress to pass the
+Eliminating Discrimination And Creating Corridors to Expand Student Success (ED ACCESS)
+Act of 2022 or any similar legislation that eliminates the denial of the American Opportunity Tax
+Credit for students convicted of a felony drug offense.
+BE IT FURTHER RESOLVED, that a certified copy of this resolution be transmitted to
+the Speaker and the Clerk of the United States House of Representatives, the President and the
+Secretary of the United States Senate, each member of the Tennessee Congressional
+delegation, the Attorney General of the United States of America, and the Attorney General of
+the State of Tennessee.
+- 2 - 010576
+
+[DELETED: WWW3 ]
+[DELETED:  -0B]

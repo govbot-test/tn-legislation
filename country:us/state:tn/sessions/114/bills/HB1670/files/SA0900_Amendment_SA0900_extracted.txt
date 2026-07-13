@@ -1,0 +1,79 @@
+Title: AMEND S e n ate Bill No. 1675* House Bill No. 1670
+Official Title: AMEND S e n ate Bill No. 1675* House Bill No. 1670
+Number of Sections: 4
+Source: versions - Amendment SA0900
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+Senate State and Local Government 1
+Amendment No. 1 to SB1675
+Briggs
+Signature of Sponsor
+by deleting all language after the enacting clause and substituting:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 67-5-501(11), is amended by deleting
+the following language:
+"Residential property" includes all real property that is used, or held for use, for
+dwelling purposes and that contains not more than one (1) rental unit.
+and substituting instead:
+"Residential property" includes all real property that is used, or held for use, for
+dwelling purposes that can be sold and purchased as a single unit in fee simple
+title, and that contains not more than one (1) rental unit.
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 67-5-801(b), is amended by adding
+the following as a new, appropriately designated subdivision:
+(4)
+(A) Notwithstanding subdivisions (b)(2)-(3), a parcel of real property containing
+one (1) single family rental home or townhouse, as defined by § 68-120-101(a)(8)(C)(ii),
+used, or held for use, for dwelling purposes must be classified as residential property, as
+defined by § 67-5-501, regardless of whether the real property is the principal residence
+of the owner.
+(B) This subdivision (b)(4) does not supersede or invalidate a private agreement,
+covenant, or restriction concerning the use or status of real property.
+
+Section 4:
+SECTION 3. This act takes effect upon becoming a law, the public welfare requiring it.
+SA0900
+013144
+- 1 -
+[DELETED:  a HS]
+
+
+================================================================================
+
+Raw Text:
+Senate State and Local Government 1
+Amendment No. 1 to SB1675
+Briggs
+Signature of Sponsor
+AMEND S e n ate Bill No. 1675* House Bill No. 1670
+by deleting all language after the enacting clause and substituting:
+SECTION 1. Tennessee Code Annotated, Section 67-5-501(11), is amended by deleting
+the following language:
+"Residential property" includes all real property that is used, or held for use, for
+dwelling purposes and that contains not more than one (1) rental unit.
+and substituting instead:
+"Residential property" includes all real property that is used, or held for use, for
+dwelling purposes that can be sold and purchased as a single unit in fee simple
+title, and that contains not more than one (1) rental unit.
+SECTION 2. Tennessee Code Annotated, Section 67-5-801(b), is amended by adding
+the following as a new, appropriately designated subdivision:
+(4)
+(A) Notwithstanding subdivisions (b)(2)-(3), a parcel of real property containing
+one (1) single family rental home or townhouse, as defined by § 68-120-101(a)(8)(C)(ii),
+used, or held for use, for dwelling purposes must be classified as residential property, as
+defined by § 67-5-501, regardless of whether the real property is the principal residence
+of the owner.
+(B) This subdivision (b)(4) does not supersede or invalidate a private agreement,
+covenant, or restriction concerning the use or status of real property.
+SECTION 3. This act takes effect upon becoming a law, the public welfare requiring it.
+SA0900
+013144
+- 1 -
+
+[DELETED:  a HS]

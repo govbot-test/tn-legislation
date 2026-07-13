@@ -1,0 +1,88 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+SENATE JOINT RESOLUTION 632
+By Johnson
+A RESOLUTION to confirm the appointment of Tom Boyd to the
+state university board of Middle Tennessee
+State University.
+WHEREAS, Tennessee Code Annotated, Section 49-8-101, provides for the governance
+of Middle Tennessee State University by a state university board; and
+WHEREAS, Tennessee Code Annotated, Section 49-8-201, provides that the governor
+shall appoint six members to the state university board of Middle Tennessee State University;
+and
+WHEREAS, Tennessee Code Annotated, Section 49-8-201, further provides that at least
+three of the gubernatorial appointees shall be alumni of the institution for which they are serving;
+and
+WHEREAS, Governor Bill Lee has appointed Tom Boyd to the state university board of
+Middle Tennessee State University for a term that will expire on June 30, 2031; and
+WHEREAS, Tom Boyd is an investment advisor representative with Decker Wealth
+Management; he has more than four decades of experience in financial management and
+banking; and
+WHEREAS, Mr. Boyd earned a Bachelor of Science degree from Middle Tennessee
+State University and holds an M.B.A.; and
+WHEREAS, he previously served with the Tennessee Army National Guard; and
+WHEREAS, Tennessee Code Annotated, Section 49-8-201, provides that each member
+appointed by the governor to the state university board of Middle Tennessee State University
+shall be subject to confirmation by the senate and the house of representatives; now, therefore,
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE HOUSE OF
+SJR0632
+011643
+- 1 -
+REPRESENTATIVES CONCURRING, that we hereby confirm the appointment of Tom Boyd to
+the state university board of Middle Tennessee State University for a term that will expire on
+June 30, 2031.
+- 2 - 011643
+[DELETED: WWWWWB]
+[DELETED:  -0]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+SENATE JOINT RESOLUTION 632
+By Johnson
+A RESOLUTION to confirm the appointment of Tom Boyd to the
+state university board of Middle Tennessee
+State University.
+WHEREAS, Tennessee Code Annotated, Section 49-8-101, provides for the governance
+of Middle Tennessee State University by a state university board; and
+WHEREAS, Tennessee Code Annotated, Section 49-8-201, provides that the governor
+shall appoint six members to the state university board of Middle Tennessee State University;
+and
+WHEREAS, Tennessee Code Annotated, Section 49-8-201, further provides that at least
+three of the gubernatorial appointees shall be alumni of the institution for which they are serving;
+and
+WHEREAS, Governor Bill Lee has appointed Tom Boyd to the state university board of
+Middle Tennessee State University for a term that will expire on June 30, 2031; and
+WHEREAS, Tom Boyd is an investment advisor representative with Decker Wealth
+Management; he has more than four decades of experience in financial management and
+banking; and
+WHEREAS, Mr. Boyd earned a Bachelor of Science degree from Middle Tennessee
+State University and holds an M.B.A.; and
+WHEREAS, he previously served with the Tennessee Army National Guard; and
+WHEREAS, Tennessee Code Annotated, Section 49-8-201, provides that each member
+appointed by the governor to the state university board of Middle Tennessee State University
+shall be subject to confirmation by the senate and the house of representatives; now, therefore,
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE HOUSE OF
+SJR0632
+011643
+- 1 -
+
+REPRESENTATIVES CONCURRING, that we hereby confirm the appointment of Tom Boyd to
+the state university board of Middle Tennessee State University for a term that will expire on
+June 30, 2031.
+- 2 - 011643
+
+[DELETED: WWWWWB]
+[DELETED:  -0]
