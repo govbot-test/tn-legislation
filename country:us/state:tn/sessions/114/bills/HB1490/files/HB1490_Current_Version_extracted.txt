@@ -1,0 +1,51 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+HOUSE BILL 1490
+By Moon
+AN ACT to amend Tennessee Code Annotated, Title 2 and
+Title 10, Chapter 7, relative to confidential records.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 2-5-102, is amended by adding the
+following as a new subsection:
+(c) Notwithstanding § 10-7-503, the addresses on a nominating petition for the
+office of judge, chancellor, district attorney general, and public defender are confidential
+and are not open to public inspection.
+
+Section 3:
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+HB1490
+010601
+- 1 -
+[DELETED: SS]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+HOUSE BILL 1490
+By Moon
+AN ACT to amend Tennessee Code Annotated, Title 2 and
+Title 10, Chapter 7, relative to confidential records.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 2-5-102, is amended by adding the
+following as a new subsection:
+(c) Notwithstanding § 10-7-503, the addresses on a nominating petition for the
+office of judge, chancellor, district attorney general, and public defender are confidential
+and are not open to public inspection.
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+HB1490
+010601
+- 1 -
+
+[DELETED: SS]

@@ -1,0 +1,173 @@
+Title: AMEND S e n ate Bill No. 1962 House Bill No. 1983*
+Official Title: AMEND S e n ate Bill No. 1962 House Bill No. 1983*
+Number of Sections: 4
+Source: versions - Amendment SA0699
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+Senate Energy, Ag., and Nat. Resources 1
+Amendment No. 1 to SB1962
+Reeves
+Signature of Sponsor
+by deleting all language after the enacting clause and substituting:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Title 68, Chapter 221, Part 7, is amended by
+adding the following as a new section:
+68-221-722. Hardwater level restriction on receipt of state funds.
+(a) As used in this section:
+(1) "Community water system" means a public water system that serves
+at least fifteen (15) service connections used by year-round residents or regularly
+serves at least twenty-five (25) year-round residents;
+(2) "Hardwater" means water containing high levels of dissolved
+minerals, expressed as calcium carbonate (CaCO₃) equivalents;
+(3) "Seasonal runoff" means a temporary increase in water hardness
+levels directly attributable to precipitation, snowmelt, or other seasonal
+hydrological events occurring during a defined period;
+(4) "State funds" means grants, loans, appropriations, or other financial
+assistance provided by this state, including, but not limited to, funds from the
+state revolving fund, capital improvement grants, or infrastructure financing
+programs; and
+(5) "System upgrade" means capital improvement, infrastructure
+modification, treatment facility enhancement, or equipment replacement that
+costs twenty-five thousand dollars ($25,000) or more and is designed to improve,
+SA0699
+014549
+- 1 -
+expand, or modify the water treatment or distribution capacity of a public water
+system.
+(b)
+(1) A community water system serving a population of ten thousand
+(10,000) or more persons that seeks state funds for a system upgrade must first
+demonstrate to the department that the system's average hardwater level in the
+preceding calendar year was below one hundred eighty milligrams per liter (180
+mg/L).
+(2) If a community water system's average hardwater level equaled or
+exceeded one hundred eighty milligrams per liter (180 mg/L) in the preceding
+calendar year, the water system is ineligible to receive state funds for a system
+upgrade, unless the system demonstrates to the department that water softening
+treatment will be part of the system upgrade for which the water system is
+seeking state funds.
+(3) For purposes of this subsection (b), the receipt of state funds for
+routine maintenance, repairs that cost less than twenty-five thousand dollars
+($25,000), administrative expenses, or operational costs do not trigger the
+demonstration required by subdivision (b)(1).
+(c)
+(1) A community water system subject to subdivision (b)(1) that
+demonstrates that a hardwater level exceeding one hundred eighty milligrams
+per liter (180 mg/L) is directly caused by seasonal runoff is temporarily exempt
+from the requirements of subsection (b) during the affected period.
+(2) To qualify for the seasonal runoff exemption, a community water
+system subject to subdivision (b)(1) shall:
+- 2 - 014549
+(A) Notify the department within ten (10) business days of first
+exceeding the one hundred eighty milligrams per liter (180 mg/L)
+threshold due to seasonal runoff;
+(B) Provide documentation demonstrating that the elevated
+hardwater level is directly attributable to seasonal runoff and not to
+system deficiencies or treatment failures; and
+(C) Submit a remediation plan, if required by the department,
+detailing measures to minimize the duration and extent of noncompliance.
+(3) A community water system subject to subdivision (b)(1) may utilize a
+seasonal runoff exemption for a cumulative period not to exceed one hundred
+twenty (120) days in a twelve-month period without prior approval from the
+department. An exemption exceeding one hundred twenty (120) days in a
+twelve-month period requires written approval from the commissioner.
+
+Section 3:
+SECTION 2. The heading in this act is for reference purposes only and does not
+constitute a part of the law enacted by this act. However, the Tennessee Code Commission is
+requested to include the heading in any compilation or publication containing this act.
+
+Section 4:
+SECTION 3. This act takes effect July 1, 2026, the public welfare requiring it.
+- 3 - 014549
+[DELETED:  a HS(((O)(((]
+[DELETED:  -0(((((((]
+[DELETED:  -0((((SS]
+
+
+================================================================================
+
+Raw Text:
+Senate Energy, Ag., and Nat. Resources 1
+Amendment No. 1 to SB1962
+Reeves
+Signature of Sponsor
+AMEND S e n ate Bill No. 1962 House Bill No. 1983*
+by deleting all language after the enacting clause and substituting:
+SECTION 1. Tennessee Code Annotated, Title 68, Chapter 221, Part 7, is amended by
+adding the following as a new section:
+68-221-722. Hardwater level restriction on receipt of state funds.
+(a) As used in this section:
+(1) "Community water system" means a public water system that serves
+at least fifteen (15) service connections used by year-round residents or regularly
+serves at least twenty-five (25) year-round residents;
+(2) "Hardwater" means water containing high levels of dissolved
+minerals, expressed as calcium carbonate (CaCO₃) equivalents;
+(3) "Seasonal runoff" means a temporary increase in water hardness
+levels directly attributable to precipitation, snowmelt, or other seasonal
+hydrological events occurring during a defined period;
+(4) "State funds" means grants, loans, appropriations, or other financial
+assistance provided by this state, including, but not limited to, funds from the
+state revolving fund, capital improvement grants, or infrastructure financing
+programs; and
+(5) "System upgrade" means capital improvement, infrastructure
+modification, treatment facility enhancement, or equipment replacement that
+costs twenty-five thousand dollars ($25,000) or more and is designed to improve,
+SA0699
+014549
+- 1 -
+
+expand, or modify the water treatment or distribution capacity of a public water
+system.
+(b)
+(1) A community water system serving a population of ten thousand
+(10,000) or more persons that seeks state funds for a system upgrade must first
+demonstrate to the department that the system's average hardwater level in the
+preceding calendar year was below one hundred eighty milligrams per liter (180
+mg/L).
+(2) If a community water system's average hardwater level equaled or
+exceeded one hundred eighty milligrams per liter (180 mg/L) in the preceding
+calendar year, the water system is ineligible to receive state funds for a system
+upgrade, unless the system demonstrates to the department that water softening
+treatment will be part of the system upgrade for which the water system is
+seeking state funds.
+(3) For purposes of this subsection (b), the receipt of state funds for
+routine maintenance, repairs that cost less than twenty-five thousand dollars
+($25,000), administrative expenses, or operational costs do not trigger the
+demonstration required by subdivision (b)(1).
+(c)
+(1) A community water system subject to subdivision (b)(1) that
+demonstrates that a hardwater level exceeding one hundred eighty milligrams
+per liter (180 mg/L) is directly caused by seasonal runoff is temporarily exempt
+from the requirements of subsection (b) during the affected period.
+(2) To qualify for the seasonal runoff exemption, a community water
+system subject to subdivision (b)(1) shall:
+- 2 - 014549
+
+(A) Notify the department within ten (10) business days of first
+exceeding the one hundred eighty milligrams per liter (180 mg/L)
+threshold due to seasonal runoff;
+(B) Provide documentation demonstrating that the elevated
+hardwater level is directly attributable to seasonal runoff and not to
+system deficiencies or treatment failures; and
+(C) Submit a remediation plan, if required by the department,
+detailing measures to minimize the duration and extent of noncompliance.
+(3) A community water system subject to subdivision (b)(1) may utilize a
+seasonal runoff exemption for a cumulative period not to exceed one hundred
+twenty (120) days in a twelve-month period without prior approval from the
+department. An exemption exceeding one hundred twenty (120) days in a
+twelve-month period requires written approval from the commissioner.
+SECTION 2. The heading in this act is for reference purposes only and does not
+constitute a part of the law enacted by this act. However, the Tennessee Code Commission is
+requested to include the heading in any compilation or publication containing this act.
+SECTION 3. This act takes effect July 1, 2026, the public welfare requiring it.
+- 3 - 014549
+
+[DELETED:  a HS(((O)(((]
+[DELETED:  -0(((((((]
+[DELETED:  -0((((SS]

@@ -1,0 +1,252 @@
+Title: AMEND S e n ate Bill No. 1376 House Bill No. 1061*
+Official Title: AMEND S e n ate Bill No. 1376 House Bill No. 1061*
+Number of Sections: 4
+Source: versions - Amendment SA1028
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+Senate Commerce and Labor 1
+Amendment No. 1 to SB1376
+Bailey
+Signature of Sponsor
+by deleting all language after the enacting clause and substituting:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Title 56, Chapter 7, Part 23, is amended by
+adding the following new section:
+(a) As used in this section:
+(1) "Ambulance provider":
+(A) Means an agency, including an agency of a political
+subdivision of this state, or a company that is operating under a valid
+license from the emergency medical services board, and that provides
+ambulance services; and
+(B) Does not include an air ambulance service;
+(2) "Ambulance service" means the principal use of a privately or publicly
+owned ambulance for emergency or non-emergency transportation of injured or
+infirm persons with an emergency medical condition;
+(3) "Balance billing" or "balance bill" means the practice of charging an
+enrollee in a health benefit plan to recover from the enrollee the balance of an
+ambulance service provider's fee for transportation received by the enrollee for
+ambulance service that exceeds the reimbursable amount for such service under
+the enrollee's health benefit plan;
+(4) "Clean claim" means a claim for reimbursement of service rendered
+by an ambulance provider that has no defect of impropriety, including any lack of
+SA1028
+017670
+- 1 -
+required substantiating documentation, which would reasonably prevent timely
+payment for a claim;
+(5) "Emergency medical condition" means a medical condition that
+manifests itself by symptoms of sufficient severity, including severe pain,
+regardless of the final diagnosis of the symptoms, that a prudent layperson, who
+possesses an average knowledge of health and medicine, could reasonably
+expect the absence of immediate medical attention to potentially result in:
+(A) Placing the person's health in serious jeopardy;
+(B) Serious impairment to bodily functions; or
+(C) Serious dysfunction of a bodily organ or part;
+(6) "Health benefit plan":
+(A) Has the same meaning as defined in § 56-7-2355; and
+(B) Does not include the TennCare program or a successor
+medicaid program provided for in title 71, chapter 5; the CoverKids Act of
+2006, compiled in title 71, chapter 3, part 11; or the group insurance plans
+offered under title 8, chapter 27; and
+(7) "Health insurer" means an entity offering a health benefit plan.
+(b) On and after July 1, 2026, an out-of-network ambulance provider shall not
+balance bill an enrollee of a health benefit plan for ambulance services that are covered
+services under the enrollee's health benefit plan.
+(c)
+(1) A health insurer satisfies the health insurer's obligation to pay for out-
+of-network ambulance services if the health insurer pays the minimum allowable
+reimbursement rate under the health benefit plan for covered service to an out-
+of-network ambulance provider, which must be the rate agreed to by contract or
+through passage of an ordinance, resolution, rule, or regulation by a county,
+- 2 - 017670
+municipality, special district, or authority for such service within the respective
+jurisdiction.
+(2) When an agreement or applicable ordinance, rule, or regulation
+regarding a minimum reimbursement rate does not exist as set forth in
+subdivision (c)(1), the minimum allowable reimbursement amount is the lesser of:
+(A) The ambulance provider's billed charges; or
+(B) Three hundred twenty-five percent (325%) of the current
+published medicare rate for ambulance services for the same service
+level and mileage provided in the same geographic area at the time of the
+transport.
+(d) A health insurer shall treat a cost-sharing amount determined under
+subdivision (c)(1) or (c)(2) paid by the enrollee for out-of-network ambulance services in
+the same manner as cost-sharing for in-network ambulance services and must apply the
+cost-sharing amount paid by the enrollee for such services toward the enrollee's
+deductible and maximum out-of-pocket payment obligation under the enrollee's health
+benefit plan, as applicable.
+(e) Any payment made to an ambulance provider pursuant to this section
+releases a covered person from any further payment responsibility other than any
+copayment, coinsurance, or deductible owed by the covered person under the covered
+person's health benefit plan.
+(f) An ambulance provider shall not request or require an enrollee to sign or
+otherwise execute by oral, written, or electronic means, a document that would attempt
+to void, waive, or alter the requirements of this section.
+(g) No later than thirty (30) days after the receipt of a clean claim for covered
+service, a health insurer shall remit payment for such service directly to the ambulance
+provider and shall not remit any payment to a covered person. When a health insurer
+- 3 - 017670
+receives a claim that is not a clean claim, within thirty (30) days of receipt of such claim,
+the health insurer shall inform the ambulance provider that:
+(1) The health insurer has declined to pay all or part of the claim,
+including the reasons for such denial; or
+(2) Additional information is necessary to make a determination
+regarding payment of all or part of the claim submitted, including the specific
+information required.
+(h) If an ambulance provider believes that a health insurer has not complied with
+this section, then the ambulance provider may send a written notice advising the health
+insurer of the suspected violation of this section. Within fifteen (15) days of receipt of
+such notice, the health insurer shall comply with this section or notify the ambulance
+provider of the basis upon which the health insurer relies in denying a violation of this
+
+Section 3:
+section.
+(i) If the ambulance provider and health insurer disagree after the requirements
+of subsection (h) are met, then the ambulance provider may, within one (1) year from the
+date of service, file an action against the health insurer in any general sessions court or
+circuit court for the county in which the service was provided. If the court finds the health
+insurer violated this section, then the court shall award to the prevailing ambulance
+provider:
+(1) Treble damages; and
+(2) Reasonable court costs and attorney fees.
+(j) In addition to the penalties and remedies provided in this section, the
+commissioner of commerce and insurance may enforce this section.
+(k) It is the legislative intent of the general assembly that this section regulates
+the business of insurance such that this section is not subject to federal preemption
+under the Employee Retirement Income Security Act (ERISA)(29 U.S.C. § 1001 et seq.).
+
+Section 4:
+SECTION 2. This act takes effect July 1, 2026, the public welfare requiring it.
+- 4 - 017670
+[DELETED:  a H]
+[DELETED:  -0]
+[DELETED:  -0]
+[DELETED:  -0]
+
+
+================================================================================
+
+Raw Text:
+Senate Commerce and Labor 1
+Amendment No. 1 to SB1376
+Bailey
+Signature of Sponsor
+AMEND S e n ate Bill No. 1376 House Bill No. 1061*
+by deleting all language after the enacting clause and substituting:
+SECTION 1. Tennessee Code Annotated, Title 56, Chapter 7, Part 23, is amended by
+adding the following new section:
+(a) As used in this section:
+(1) "Ambulance provider":
+(A) Means an agency, including an agency of a political
+subdivision of this state, or a company that is operating under a valid
+license from the emergency medical services board, and that provides
+ambulance services; and
+(B) Does not include an air ambulance service;
+(2) "Ambulance service" means the principal use of a privately or publicly
+owned ambulance for emergency or non-emergency transportation of injured or
+infirm persons with an emergency medical condition;
+(3) "Balance billing" or "balance bill" means the practice of charging an
+enrollee in a health benefit plan to recover from the enrollee the balance of an
+ambulance service provider's fee for transportation received by the enrollee for
+ambulance service that exceeds the reimbursable amount for such service under
+the enrollee's health benefit plan;
+(4) "Clean claim" means a claim for reimbursement of service rendered
+by an ambulance provider that has no defect of impropriety, including any lack of
+SA1028
+017670
+- 1 -
+
+required substantiating documentation, which would reasonably prevent timely
+payment for a claim;
+(5) "Emergency medical condition" means a medical condition that
+manifests itself by symptoms of sufficient severity, including severe pain,
+regardless of the final diagnosis of the symptoms, that a prudent layperson, who
+possesses an average knowledge of health and medicine, could reasonably
+expect the absence of immediate medical attention to potentially result in:
+(A) Placing the person's health in serious jeopardy;
+(B) Serious impairment to bodily functions; or
+(C) Serious dysfunction of a bodily organ or part;
+(6) "Health benefit plan":
+(A) Has the same meaning as defined in § 56-7-2355; and
+(B) Does not include the TennCare program or a successor
+medicaid program provided for in title 71, chapter 5; the CoverKids Act of
+2006, compiled in title 71, chapter 3, part 11; or the group insurance plans
+offered under title 8, chapter 27; and
+(7) "Health insurer" means an entity offering a health benefit plan.
+(b) On and after July 1, 2026, an out-of-network ambulance provider shall not
+balance bill an enrollee of a health benefit plan for ambulance services that are covered
+services under the enrollee's health benefit plan.
+(c)
+(1) A health insurer satisfies the health insurer's obligation to pay for out-
+of-network ambulance services if the health insurer pays the minimum allowable
+reimbursement rate under the health benefit plan for covered service to an out-
+of-network ambulance provider, which must be the rate agreed to by contract or
+through passage of an ordinance, resolution, rule, or regulation by a county,
+- 2 - 017670
+
+municipality, special district, or authority for such service within the respective
+jurisdiction.
+(2) When an agreement or applicable ordinance, rule, or regulation
+regarding a minimum reimbursement rate does not exist as set forth in
+subdivision (c)(1), the minimum allowable reimbursement amount is the lesser of:
+(A) The ambulance provider's billed charges; or
+(B) Three hundred twenty-five percent (325%) of the current
+published medicare rate for ambulance services for the same service
+level and mileage provided in the same geographic area at the time of the
+transport.
+(d) A health insurer shall treat a cost-sharing amount determined under
+subdivision (c)(1) or (c)(2) paid by the enrollee for out-of-network ambulance services in
+the same manner as cost-sharing for in-network ambulance services and must apply the
+cost-sharing amount paid by the enrollee for such services toward the enrollee's
+deductible and maximum out-of-pocket payment obligation under the enrollee's health
+benefit plan, as applicable.
+(e) Any payment made to an ambulance provider pursuant to this section
+releases a covered person from any further payment responsibility other than any
+copayment, coinsurance, or deductible owed by the covered person under the covered
+person's health benefit plan.
+(f) An ambulance provider shall not request or require an enrollee to sign or
+otherwise execute by oral, written, or electronic means, a document that would attempt
+to void, waive, or alter the requirements of this section.
+(g) No later than thirty (30) days after the receipt of a clean claim for covered
+service, a health insurer shall remit payment for such service directly to the ambulance
+provider and shall not remit any payment to a covered person. When a health insurer
+- 3 - 017670
+
+receives a claim that is not a clean claim, within thirty (30) days of receipt of such claim,
+the health insurer shall inform the ambulance provider that:
+(1) The health insurer has declined to pay all or part of the claim,
+including the reasons for such denial; or
+(2) Additional information is necessary to make a determination
+regarding payment of all or part of the claim submitted, including the specific
+information required.
+(h) If an ambulance provider believes that a health insurer has not complied with
+this section, then the ambulance provider may send a written notice advising the health
+insurer of the suspected violation of this section. Within fifteen (15) days of receipt of
+such notice, the health insurer shall comply with this section or notify the ambulance
+provider of the basis upon which the health insurer relies in denying a violation of this
+section.
+(i) If the ambulance provider and health insurer disagree after the requirements
+of subsection (h) are met, then the ambulance provider may, within one (1) year from the
+date of service, file an action against the health insurer in any general sessions court or
+circuit court for the county in which the service was provided. If the court finds the health
+insurer violated this section, then the court shall award to the prevailing ambulance
+provider:
+(1) Treble damages; and
+(2) Reasonable court costs and attorney fees.
+(j) In addition to the penalties and remedies provided in this section, the
+commissioner of commerce and insurance may enforce this section.
+(k) It is the legislative intent of the general assembly that this section regulates
+the business of insurance such that this section is not subject to federal preemption
+under the Employee Retirement Income Security Act (ERISA)(29 U.S.C. § 1001 et seq.).
+SECTION 2. This act takes effect July 1, 2026, the public welfare requiring it.
+- 4 - 017670
+
+[DELETED:  a H]
+[DELETED:  -0]
+[DELETED:  -0]
+[DELETED:  -0]
