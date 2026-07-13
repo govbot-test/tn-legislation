@@ -1,0 +1,79 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+SENATE BILL 2606
+By Southerland
+AN ACT to amend Tennessee Code Annotated, Title 43,
+relative to agriculture.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Title 43, Chapter 1, Part 1, is amended by
+adding the following as a new section:
+The department of agriculture shall use funds within the department's Tennessee
+agricultural enhancement fund to directly purchase and distribute round hay baling
+machines to applicants in the hay equipment portion of the Tennessee agricultural
+enhancement program. The requirements for the purchase and distribution of machines
+are as follows:
+(1) Prior to October 1, 2026, the department shall purchase one hundred
+(100) round hay baling machines;
+(2) On or after October 1, 2026, an applicant may apply to receive one
+(1) machine from the department in lieu of purchasing a machine and applying
+for a cost-share grant associated with that purchase;
+(3) Except for the reimbursement and cost-share requirements, an
+applicant must meet all other eligibility and program requirements to be eligible to
+receive a machine; and
+(4) An applicant that receives a machine is ineligible for a cost-share
+grant in the hay equipment portion of the agricultural enhancement program for a
+period of time, to be determined by dividing the cost of the machine by the
+amount of twelve thousand dollars ($12,000).
+
+Section 3:
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+SB2606
+007886
+- 1 -
+[DELETED: ST]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+SENATE BILL 2606
+By Southerland
+AN ACT to amend Tennessee Code Annotated, Title 43,
+relative to agriculture.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Title 43, Chapter 1, Part 1, is amended by
+adding the following as a new section:
+The department of agriculture shall use funds within the department's Tennessee
+agricultural enhancement fund to directly purchase and distribute round hay baling
+machines to applicants in the hay equipment portion of the Tennessee agricultural
+enhancement program. The requirements for the purchase and distribution of machines
+are as follows:
+(1) Prior to October 1, 2026, the department shall purchase one hundred
+(100) round hay baling machines;
+(2) On or after October 1, 2026, an applicant may apply to receive one
+(1) machine from the department in lieu of purchasing a machine and applying
+for a cost-share grant associated with that purchase;
+(3) Except for the reimbursement and cost-share requirements, an
+applicant must meet all other eligibility and program requirements to be eligible to
+receive a machine; and
+(4) An applicant that receives a machine is ineligible for a cost-share
+grant in the hay equipment portion of the agricultural enhancement program for a
+period of time, to be determined by dividing the cost of the machine by the
+amount of twelve thousand dollars ($12,000).
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+SB2606
+007886
+- 1 -
+
+[DELETED: ST]

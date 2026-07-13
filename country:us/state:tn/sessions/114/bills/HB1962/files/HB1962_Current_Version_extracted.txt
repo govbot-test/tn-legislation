@@ -1,0 +1,57 @@
+Title: SENATE BILL 1982
+Official Title: SENATE BILL 1982
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+By Taylor
+HOUSE BILL 1962
+By Farmer
+AN ACT to amend Tennessee Code Annotated, Title 40,
+Chapter 35, relative to probation eligibility.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 40-35-303(a), is amended by adding
+the following as a new subdivision:
+(3) Notwithstanding subdivision (a)(1), there is a rebuttable presumption that a
+defendant convicted of aggravated assault under § 39-13-102 is not a favorable
+candidate for probation if the offense involved the use or display of a firearm during the
+commission of the offense.
+
+Section 3:
+SECTION 2. This act takes effect July 1, 2026, the public welfare requiring it, and
+applies to offenses committed on or after that date.
+HB1962
+011654
+- 1 -
+[DELETED: S(S]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 1982
+By Taylor
+HOUSE BILL 1962
+By Farmer
+AN ACT to amend Tennessee Code Annotated, Title 40,
+Chapter 35, relative to probation eligibility.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 40-35-303(a), is amended by adding
+the following as a new subdivision:
+(3) Notwithstanding subdivision (a)(1), there is a rebuttable presumption that a
+defendant convicted of aggravated assault under § 39-13-102 is not a favorable
+candidate for probation if the offense involved the use or display of a firearm during the
+commission of the offense.
+SECTION 2. This act takes effect July 1, 2026, the public welfare requiring it, and
+applies to offenses committed on or after that date.
+HB1962
+011654
+- 1 -
+
+[DELETED: S(S]

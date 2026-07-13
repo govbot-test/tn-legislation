@@ -1,0 +1,2556 @@
+Title: AMEND S e n ate Bill No. 2470* House Bill No. 2334
+Official Title: AMEND S e n ate Bill No. 2470* House Bill No. 2334
+Number of Sections: 13
+Source: versions - Amendment HA0856
+Media Type: application/pdf
+Strikethrough Detection: 44 sections found
+
+================================================================================
+
+Section 1:
+House Commerce 1
+Amendment No. 1 to HB2334
+Vaughan
+Signature of Sponsor
+by deleting all language after the enacting clause and substituting:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 4-3-1303, is amended by deleting the
+
+Section 3:
+section and substituting:
+The department of commerce and insurance is organized under four (4)
+divisions, as follows:
+(1) The division of commerce and insurance;
+(2) The division of fire prevention;
+(3) The division of regulatory boards; and
+(4) The division of mechanical safety compliance.
+
+Section 4:
+SECTION 2. Tennessee Code Annotated, Section 4-29-249(a)(17), is amended by
+deleting the subdivision.
+
+Section 5:
+SECTION 3. Tennessee Code Annotated, Section 4-29-249(a)(6), is amended by
+deleting the subdivision.
+
+Section 6:
+SECTION 4. Tennessee Code Annotated, Title 68, Chapter 121, is amended by
+deleting the chapter and substituting:
+68-121-101. Short title.
+This chapter is known and may be cited as the "Elevator and Amusement Device
+Safety Act."
+68-121-102. Chapter definitions.
+As used in this chapter, unless the context otherwise requires:
+HA0856
+015293
+- 1 -
+(1) "Aerial passenger tramways" means recreational transportation of
+passengers on devices that are referred to by the following names:
+(A) Reversible aerial tramways.
+(i) That class of aerial passenger tramways and lifts in
+which the passengers are transported in carriers and are not in
+contact with the ground or snow surface, and in which the carriers
+reciprocate between terminals;
+(ii) Single-reversible tramways. That type of reversible
+aerial tramway that has a single carrier, or single group of carriers,
+that moves back and forth between terminals on a single path of
+travel, and is sometimes called a "to-and-fro" aerial tramway; and
+(iii) Double-reversible tramways. That type of reversible
+aerial tramway that has two (2) carriers, or two (2) groups of
+carriers, that oscillate back and forth between terminals on two (2)
+paths of travel and is sometimes called a "jig-back" tramway;
+(B) Aerial lifts and ski mobiles.
+(i) That class of aerial passenger tramways and lifts in
+which the passengers are transported in carriers and are not in
+contact with the ground or snow surface and in which the carriers
+circulate around a closed system and are activated by a wire rope
+or chain. The carriers usually make U-turns in the terminals and
+move along generally parallel and opposing paths of travel. The
+carriers may be open or enclosed cabins, cars, or platforms. The
+carriers may be fixed or detachable;
+(ii) Gondola lifts. That type of lift where the passengers
+are transported in open or enclosed cabins. The passengers
+- 2 - 015293
+embark and disembark while the carriers are stationary or moving
+slowly under a controlled arrangement;
+(iii) Chair lifts. That type of lift where the passengers are
+transported in chairs, either open or partially enclosed;
+(iv) Ski mobiles. That type of lift where the passengers
+are transported in open or enclosed cars that ride on a rigid
+structural system and are propelled by a wire rope or chain; and
+(v) Similar equipment. Lifts that utilize carrier
+configurations not specified in subdivision (1)(B)(ii), (1)(B)(iii), or
+(1)(B)(iv), but do not require that the passenger remain in contact
+with the ground or snow surface;
+(C) Surface lifts.
+(i) That class of conveyance where the passengers are
+propelled by means of a circulating overhead wire rope while
+remaining in contact with the ground or snow surface.
+Transportation is limited to one (1) direction. Connection between
+the passengers and the wire rope is by means of a device
+attached to and circulating with the haul rope known as a "towing
+outfit";
+(ii) T-bar lifts. That type of lift where the device between
+the haul rope and passengers forms the shape of an inverted "T,"
+propelling passengers located on both sides of the stem of the "T";
+(iii) J-bar lifts. That type of lift where the device between
+the haul rope and passenger is in the general form of a "J,"
+propelling a single passenger located on the one (1) side of the
+stem of the "J";
+- 3 - 015293
+(iv) Platter lifts. That type of lift where the device
+between the haul rope and passenger is a single stem with a
+platter or disc attached to the lower end of the stem, propelling the
+passenger astride the stem of the platter, or disc; and
+(v) Similar equipment. Lifts that utilize towing device
+configurations not specified in subdivision (1)(C)(ii), (1)(C)(iii), or
+(1)(C)(iv), but require that passengers remain in contact with the
+ground or snow surface, and conform to the general description of
+this subdivision (1); and
+(D) Tows.
+(i) That class of conveyance where the passengers grasp
+the circulating haul rope, a handle attached to the circulating haul
+rope, or attach a gripping device to the circulating haul rope and
+are propelled by the circulating haul rope. The passengers remain
+in contact with the ground or snow surface. The upward-traveling
+haul rope remains adjacent to the uphill track of the passengers
+and at an elevation that permits them to maintain their grasp on
+the haul rope, handle, or gripping device throughout that portion of
+the tow length that is designed to be traveled;
+(ii) Fiber rope tow. A tow having a fiber, natural, or
+synthetic haul rope; and
+(iii) Wire rope tow. A tow having a metallic haul rope;
+(2) "Alteration" means any change or addition to the equipment other
+than ordinary repairs or replacement;
+(3) "Amusement device":
+(A) Means any mechanical or structural device that carries or
+conveys a person, or that permits a person to walk along, around, or over
+- 4 - 015293
+a fixed or restricted route or course or within a defined area, including the
+entrances and exits to the device, for the purpose of giving persons
+amusement, pleasure, thrills, or excitement;
+(B) Includes, but is not limited to:
+(i) Roller coasters, Ferris wheels, merry-go-rounds,
+glasshouses, and walk-through dark houses;
+(ii) Any dry slide over twenty feet (20') in height, excluding
+water slides; and
+(iii) Any portable tram, open car, or combination of open
+cars or wagons pulled by a tractor or other motorized device,
+except hay rides, those used solely for transporting patrons to and
+from parking areas, or those used for guided or educational tours,
+but that do not necessarily follow a fixed or restricted course; and
+(C) Does not include the following:
+(i) Devices operated on a river, lake, or any other natural
+body of water;
+(ii) Wave pools;
+(iii) Roller skating rinks;
+(iv) Ice skating rinks;
+(v) Skateboard ramps or courses;
+(vi) Mechanical bulls;
+(vii) Buildings or concourses used in laser games;
+(viii) All-terrain vehicles;
+(ix) Motorcycles;
+(x) Bicycles;
+(xi) Mopeds;
+(xii) Go-karts;
+- 5 - 015293
+(xiii) Bungee cord or similar elastic device;
+(xiv) An amusement device that is owned and operated by
+a nonprofit religious, educational, or charitable institution or
+association, if the device is located within a building subject to
+inspection by the state or by any political subdivision of this state
+under its building, fire, electrical, and related public safety
+ordinances;
+(xv) An amusement device that attaches to an animal so
+that while being ridden, the path of the animal is on a fixed or
+restricted path;
+(xvi) Climbing walls; and
+(xvii) Seasonal haunted houses that are open no more
+than three (3) months in a calendar year;
+(4) "Commissioner" means the commissioner of commerce and
+insurance;
+(5) "Complete elevator, dumbwaiter, or escalator" means any elevator,
+dumbwaiter, or escalator for which the plans and specifications and the
+application for the construction permit required by § 68-121-108 are filed on or
+after the effective date of the application of the rules promulgated by the division
+as provided in § 68-121-103. All other elevators, dumbwaiters, and escalators
+are deemed to be existing installations;
+(6) "Department" means the department of commerce and insurance;
+(7) "Division" means the division of mechanical safety compliance,
+created by § 4-3-1303;
+(8) "Dormant elevator, dumbwaiter, or escalator" means an elevator or
+dumbwaiter whose cables have been removed, whose car and counterweight
+rest at the bottom of the shaftway, and whose shaftway doors are permanently
+- 6 - 015293
+boarded up or barricaded on the inside, or an escalator whose main power feed
+lines have been disconnected;
+(9) "Dumbwaiter" means a hoisting and lowering mechanism equipped
+with a car that moves in guides in a substantially vertical direction, the floor area
+of which does not exceed nine square feet (9 sq. ft.), whose total compartment
+height does not exceed four feet (4'), the capacity of which does not exceed five
+hundred pounds (500 lbs.), and that is used exclusively for carrying freight.
+"Dumbwaiter" does not include a dormant dumbwaiter;
+(10) "Elevator" means a hoisting and lowering mechanism equipped with
+a car or platform that moves in guides in a substantially vertical direction and that
+serves two (2) or more floors of a building, including stairway-inclined lifts and
+platform lifts, for transportation of handicapped persons;
+(11) "Escalator" means a moving inclined continuous stairway or runway
+used for raising or lowering passengers;
+(12) "Freight elevator" means an elevator used primarily for carrying
+freight and on which only the operator and the persons necessary for loading and
+unloading are permitted to ride;
+(13) "Moving walks" means a moving runway for transporting
+passengers, where the passenger transporting surface remains parallel to its
+direction of motion and is uninterrupted;
+(14) "Operator" means a person or the agent of a person who owns or
+controls, or has the duty to control, the operation of an amusement device or
+related electrical equipment;
+(15) "Owner" means a person that owns, leases, controls, or manages
+the operations of an amusement device and may include this state or any
+political subdivision of this state;
+- 7 - 015293
+(16) "Passenger elevator" means an elevator that is used to carry
+persons other than the operator and persons necessary for loading and
+unloading;
+(17) "Qualified inspector" means any person who is:
+(A) Found by the commissioner to possess the requisite training
+and experience in respect to amusement devices to perform competently
+the inspections required by this chapter;
+(B) Certified by the National Association of Amusement Ride
+Safety Officials (NAARSO) to have and maintain at least a level one (1)
+certification;
+(C) Is a member of, and certified by, the Amusement Industry
+Manufacturing and Suppliers (AIMS); or
+(D) Is a member of, and certified by, the Association for
+Challenge Course Technology (ACCT);
+(18) "Related electrical equipment" means any electrical apparatus or
+wiring used in connection with amusement devices;
+(19) "Safety rules" means the rules governing rider conduct on an
+amusement device pursuant to § 68-121-124;
+(20) "Serious incident" means any single incident where any person is
+immediately transported to a licensed off-site medical care facility for treatment of
+an injury as a result of being on, or the operation of, the amusement device; and
+(21) "Serious physical injury" means a patron's personal injury
+immediately reported to the owner or operator as occurring on an amusement
+device and that results in death, dismemberment, significant disfigurement, or
+other significant injury that requires immediate in-patient admission and twenty-
+four-hour hospitalization under the care of a licensed physician for other than
+medical observation.
+- 8 - 015293
+68-121-103. Duties and powers of the division — Rules.
+(a) The division shall license elevator inspectors pursuant to this chapter, and
+shall consult with engineering authorities and organizations studying and developing
+safety codes, including the American Standards Association. The division shall
+determine what rules govern the qualifications, training, and duties of elevator operators,
+the operation, maintenance, construction, alteration, and installation of elevators,
+dumbwaiters, and escalators, and the inspection of new and existing installations are
+adequate, reasonable, and necessary to provide for the safety of persons and property,
+and to protect the public welfare, and upon such determination shall promulgate, amend,
+or repeal rules:
+(1) For the maintenance and operation of all elevators, dumbwaiters, and
+escalators;
+(2) For the construction of new elevators, dumbwaiters, and escalators;
+(3) For the alteration of existing elevators, dumbwaiters, and escalators;
+(4) Prescribing minimum safety requirements for all existing elevators,
+dumbwaiters, and escalators; and
+(5) Prescribing the fees for construction permits, operating permits,
+acceptance inspections, initial inspections, and periodic inspections for new and
+existing elevators, dumbwaiters, and escalators.
+(b) All technical issues concerning elevators, dumbwaiters, escalators, aerial
+passenger tramways, and amusement devices must be reviewed by the division, which
+shall report findings and recommendations to the commissioner or commissioner's
+designee for final disposition.
+(c) The division is also vested with the duty, power, authority, and responsibility
+to regulate aerial passenger tramways and moving walks in the same manner as
+provided in this chapter for elevators, dumbwaiters, and escalators.
+- 9 - 015293
+(d) Any new technology, as defined in the adopted version of the Elevator Safety
+Code, adopted pursuant to rules promulgated pursuant to subdivision (a)(4), is
+authorized for use under this chapter; provided, that such technology meets the latest
+published standards of the American Society of Mechanical Engineers Safety Code for
+Elevators and Escalators.
+(e) The division has the following powers related to amusement device safety in
+addition to those related to elevators, dumbwaiters, escalators, and aerial passenger
+tramways pursuant to subsections (a)-(c):
+(1) To consult with engineering authorities and organizations that are
+studying and developing amusement device safety standards;
+(2) To promulgate rules governing the owner's duty of reasonable care
+for the installation, assembly, disassembly, repair, maintenance, use, testing,
+operation, and inspection of amusement devices. The division has the authority
+to adopt a safety code. In promulgating the amusement device safety code of
+rules, the division may consider any existing or future American Society for
+Testing and Materials (ASTM) safety standards affecting amusement devices, or
+any other nationally acceptable standard; and
+(3) To make recommendations to the commissioner concerning the
+division's findings on safety issues related to amusement devices.
+(f) Any rules promulgated under this section must be of a reasonable nature, and
+based upon generally accepted engineering standards, formulas, and practices, and
+insofar as is practicable and consistent with this chapter, must be uniform with the rules
+promulgated in other states. The rules must be promulgated in accordance with the
+Uniform Administrative Procedures Act, compiled in title 4, chapter 5.
+68-121-104. Powers and duties of department.
+(a) Except where otherwise provided, the department shall enforce this chapter
+and the rules promulgated by the division.
+- 10 - 015293
+(b) The department shall exercise enforcement over moving walks in the same
+manner and to the same extent as provided in this chapter for elevators, dumbwaiters,
+and escalators.
+(c) The commissioner shall promulgate rules necessary to administer this
+chapter, including rules for the reporting of any fatalities or serious physical injuries
+incurred from the operation of amusement devices, or specifically related electrical
+equipment, and the subsequent inspection of the amusement devices and related
+electrical equipment. The rules shall be promulgated in accordance with the Uniform
+Administrative Procedures Act, compiled in title 4, chapter 5.
+(d) The commissioner shall promulgate rules to establish fees. The rules shall
+be promulgated in accordance with the Uniform Administrative Procedures Act, compiled
+in title 4, chapter 5.
+68-121-105. Registration of elevators, dumbwaiters, and escalators.
+The owner or lessee of every existing elevator, dumbwaiter, and escalator shall
+register with the department each elevator, dumbwaiter, or escalator owned or operated
+by such owner or lessee. The owner or lessee shall provide the type, contract load and
+speed, name of the manufacturer, its location and the purpose for which it is used, and
+such other information as the department may require as part of the registration, which
+must be made on a form furnished by the department.
+68-121-106. Schedule for inspecting and testing of elevators, dumbwaiters, and
+escalators — Report of inspections — Failure to file report.
+All new, altered, and existing elevators, dumbwaiters, and escalators, except
+dormant elevators, dumbwaiters, and escalators, must be tested and inspected in
+accordance with the following schedule:
+(1) Initial inspection test of new or altered installations. Every new
+or altered elevator, dumbwaiter, and escalator must be inspected and tested in
+conformity with the applicable rules promulgated by the division before the
+- 11 - 015293
+operating permit, required by § 68-121-107, is issued. The inspections and tests
+must be made under the supervision of an elevator inspector licensed and
+employed by this state;
+(2) Initial inspection of existing elevators, dumbwaiters, and
+escalators. The owner or lessee of every existing passenger elevator or
+escalator shall cause such passenger elevator or escalator to be inspected within
+three (3) months, and the owner or lessee of every existing freight elevator or
+dumbwaiter shall cause such freight elevator or dumbwaiter to be inspected
+within six (6) months after the effective date of the rules promulgated by the
+division under § 68-121-103, except that the commissioner may, at the
+commissioner's discretion, extend the time specified in this subdivision (2) for
+making such inspections;
+(3) Periodic inspections. The owner or lessee shall cause an
+inspection of every passenger elevator, dumbwaiter, escalator, and freight
+elevator to be made periodically every sixth calendar month, following the month
+in which the initial inspection required by subdivision (1) or (2) has been made;
+provided, that, any such inspection of either a passenger elevator, dumbwaiter,
+escalator, or freight elevator may be made within the first fifteen (15) days of the
+month following the calendar month during which such inspection is due. The
+inspections required by subdivisions (2) and (3) must be made only by elevator
+inspectors who have been licensed in accordance with § 68-121-110;
+(4) Required inspections. The inspections required by subdivisions (1)-
+(3) are required inspections;
+(5)
+(A) Report of inspections. A report of every required inspection
+must be filed with the department by the inspector making the inspection
+on a form approved by the department within twenty (20) days after the
+- 12 - 015293
+inspection or test has been completed. For the inspections required by
+subdivisions (1)-(3), the report must include all information required by the
+department to determine whether the elevator, dumbwaiter, or escalator
+is in a safe operating condition and whether the owner or lessee of the
+elevator or escalator has complied with those rules promulgated by the
+division under § 68-121-103 that are applicable;
+(B) For the inspection required by subdivision (1), the report must
+indicate whether the elevator, dumbwaiter, or escalator has been installed
+in accordance with the permit issued by the department, and meets the
+requirements of the applicable rules promulgated by the division under §
+62-121-103;
+(6) Failure to file report of inspection with department. If the report
+required by subdivision (5) is not filed with the department within twenty (20)
+days after the final date when the elevator, dumbwaiter, escalator, or moving
+walk should have been inspected, as required by subdivisions (2) and (3), then
+the commissioner shall designate a licensed inspector in the employ of this state
+to make the inspection and to report to the department. For each such
+inspection and report made at the direction of the commissioner, the owner or
+lessee of the elevator, dumbwaiter, escalator, or moving walk shall pay to the
+department an inspection fee to be charged as adopted by the division under §
+68-121-103(a)(5). The fees must be paid directly to the department, must not be
+paid to the inspector, and is the only fee for which the owner or lessee is liable
+under this chapter for the inspections required by subdivisions (2) and (3); and
+(7) Additional inspections. In addition to such required inspections, the
+commissioner may designate a licensed inspector in the employ of this state to
+make such additional inspections as may be required to enforce this chapter and
+the rules promulgated by the division under § 68-121-103.
+- 13 - 015293
+68-121-107. Operating permits.
+(a) It is unlawful to operate any elevator, dumbwaiter, or escalator without a valid
+operating permit issued in accordance with this section. If an inspection report indicates
+compliance with this chapter, the commissioner shall issue an operating permit to the
+owner or lessee of such elevator, dumbwaiter, or escalator; provided, that permits must
+not be issued if the fees required by § 68-121-106 have not been paid. The operating
+permit is issued for the period covered by the inspection required by § 68-121-106(1)
+and (2), must state the contract load and speed for such elevator, dumbwaiter, or
+escalator, and must be posted conspicuously in the car or cage or in the platform of the
+elevator and on or near the dumbwaiter or escalator. The operating permit may be
+extended by endorsement of the commissioner or the commissioner's duly appointed
+agent after each periodic inspection required by § 68-121-106(3).
+(b) If the inspection report required by § 68-121-106 indicates failure of
+compliance with applicable rules promulgated by the division under § 68-121-103, the
+commissioner shall give notice to the owner or lessee or the person or persons of
+changes necessary for compliance with the rules. After the changes have been made,
+the commissioner shall issue an operating permit. The fee to be charged for the
+operating permit issued under this chapter must be adopted by the division pursuant to §
+68-121-103(a)(5).
+(c) If the inspection report required by § 68-121-106 indicates that an elevator or
+escalator is in an unsafe condition, so that its continued operation may be dangerous to
+public safety, then the commissioner may, at the commissioner's discretion, require the
+owner or lessee to discontinue the use of such elevator or escalator until it has been
+made safe and in conformity with the rules promulgated by the division. If the
+commissioner has reason to believe that any owner or lessee to whom an operating
+permit has been issued is not complying with the applicable rules promulgated by the
+division under § 68-121-103, the commissioner shall so notify the owner or lessee and
+- 14 - 015293
+shall give notice of a date for a hearing on the noncompliance to the owner or lessee. If,
+after the hearing, the commissioner finds that the owner or lessee is not complying with
+the rules, the commissioner shall revoke the permit.
+(d) An operating permit is not required for elevators or escalators that are
+located in a highly restricted area owned and operated by the United States government.
+A state permit must not be issued for elevators located in municipalities where elevator
+inspection ordinances are in force in accordance with § 68-121-111, it being the
+responsibility of such municipalities to make the inspections and collect permit fees
+within their respective jurisdictions.
+68-121-108. Installations, relocations, or alterations — Submission of plans —
+Fees.
+(a) Plans and specifications. On and after the effective date of the rules
+promulgated by the division under § 68-121-103, detailed plans and specifications of
+each elevator, dumbwaiter, or escalator to be thereafter installed, relocated, or altered
+must be submitted to the department or its authorized representative, together with an
+application for a construction permit or form to be furnished or approved by the
+department or its authorized representative. Repairs or replacements normally
+necessary for maintenance may be made on existing installations with parts equivalent
+in material, strength, and design to those replaced, and such repairs or replacements do
+not require plans, specifications, or application to be filed.
+(b) Construction permits.
+(1) The department or its authorized representatives shall issue a
+construction permit for every new elevator, dumbwaiter, or escalator installation
+or alteration before the installation of the elevator, dumbwaiter, or escalator is
+started. The department or its authorized representative shall issue such permit,
+if the plans and specifications required under subsection (a) indicate compliance
+with the applicable rules promulgated by the division under § 68-121-103. If such
+- 15 - 015293
+plans and specifications indicate failure to comply with the applicable rules
+promulgated by the division under § 68-121-103, the department or its authorized
+representative shall give notice to the person filing the application of changes
+necessary for compliance with the applicable rules.
+(2) After such changes have been made, the department or its
+authorized representative shall issue a construction permit. A permit is not
+required for the repairs or replacements normally necessary for maintenance.
+(c) Fees.
+(1) A fee must be paid to the department or its authorized representative
+for issuing a construction permit required under subsection (b) for each new or
+altered elevator, dumbwaiter, escalator, or moving walk. The division shall set
+the construction permit fees by rules promulgated under § 68-121-103(a)(5). The
+division shall set the fees in an amount sufficient to fund the cost of administering
+this chapter. Funds remaining in division accounts at the end of any fiscal year
+do not revert to the general fund but remain available for expenditure in
+accordance with law.
+(2) A fee must be paid to the department or its authorized representative
+for the issuing of construction permits required by subsection (b) for each new or
+altered aerial passenger tramway. The division shall set the construction permit
+fees by rules promulgated under § 68-121-103(a)(5). The division shall set the
+fees in an amount sufficient to fund the cost of administering this chapter. Funds
+remaining in division accounts at the end of any fiscal year do not revert to the
+general fund but remain available for expenditure in accordance with law.
+(3) A fee must be paid to the department or its authorized representative
+for the acceptance inspection and for each unscheduled follow-up inspection
+following the construction or alteration of an elevator, dumbwaiter, escalator,
+moving walk, or aerial passenger tramway. The division shall set the acceptance
+- 16 - 015293
+inspection fees by rules promulgated under § 68-121-103(a)(5). The division
+shall set the fees in an amount sufficient to fund the cost of administering this
+chapter. Funds remaining in division accounts at the end of any fiscal year do
+not revert to the general fund but remain available for expenditure in accordance
+with law.
+68-121-109. Maintenance in safe operating condition.
+(a) The owner or lessee shall maintain every elevator, dumbwaiter, and
+escalator in a safe operating condition so that it conforms to the rules and requirements
+of the division as promulgated under § 68-121-103.
+(b) Every aerial passenger tramway must be maintained by the owner or lessee
+in a safe operating condition so that it conforms to the rules and requirements of the
+division as promulgated under §§ 68-121-101, 68-121-103, 68-121-108, and this section.
+(c)
+(1) As provided in the applicable codes of the American Society of
+Mechanical Engineers (ASME) as adopted by the division, each elevator must
+have a means of two-way communication. The code requirement of two-way
+communication may be satisfied with a dedicated line, a line consolidation
+technology that enables the simultaneous operation of more than one (1)
+communication device, or an intercom system where a central answering location
+is staffed twenty-four (24) hours a day.
+(2) If this state chooses to upgrade its two-way communication system in
+elevators in state facilities, funds in the facilities revolving fund may be used for
+such upgrade.
+68-121-110. Licensing inspectors — Qualifications — Examinations — Fee —
+Revocation of license.
+(a) A person must not be licensed as an elevator inspector to inspect elevators,
+escalators, or new or altered dumbwaiters, unless the person is an employee of this
+- 17 - 015293
+state authorized to inspect elevators, escalators, and dumbwaiters, an employee
+authorized to inspect elevators, escalators, and dumbwaiters for any insurance company
+insuring such elevators, escalators, and dumbwaiters in this state, or contracted by the
+division to inspect elevators, escalators, or new or altered dumbwaiters in this state;
+provided, that the person has satisfied the requirements for licensure established in rules
+promulgated by the division under § 68-121-103.
+(b) If the division has reason to believe that a licensed inspector is no longer
+qualified to hold such licensed inspector's license, it shall give such inspector reasonable
+notice of the time and place of a hearing at which the division shall inquire into the
+inspector's fitness and competency to act as an elevator inspector. If the division finds
+that such inspector is no longer qualified to act as an elevator inspector, the division
+shall revoke such inspector's license, and such inspector shall not thereafter make any
+inspection required under this chapter.
+68-121-111. Municipal laws or ordinances unaffected.
+This chapter does not replace any municipal law or ordinance in municipalities
+having regulations controlling the design, construction, location, installation, inspection,
+and operation of elevators, dumbwaiters, or escalators where such local laws,
+ordinances, or regulations are in substantial conformity with the commonly accepted
+standards of safety concerning the design, construction, location, installation, inspection,
+and operation of elevators, dumbwaiters, or escalators and in substantial conformity with
+the published standards of the American Standard Safety Code for Elevators,
+Dumbwaiters, and Escalators. This chapter does not prevent the local officials or boards
+of such municipalities from the exclusive right to regulate or enforce all such local laws,
+ordinances, or regulations now in force or hereafter enacted as may comply with the
+standards defined in this part, and this chapter does not permit the erection of elevators,
+dumbwaiters, or escalators without first obtaining a building or like permit from the
+proper municipal authorities in compliance with local laws and ordinances provided here.
+- 18 - 015293
+68-121-112. Appeals.
+(a) Any person aggrieved by an order or act of the commissioner or department
+under this chapter may, within fifteen (15) days after notice of such order or act, appeal
+such order or act to the division.
+(b) The division shall hear the appeal in accordance with the Uniform
+Administrative Procedures Act, compiled in title 4, chapter 5.
+68-121-113. Violations to be prosecuted.
+Prosecutions for violations of this chapter are instituted by the commissioner and
+are in the form of summary proceedings before a court of competent jurisdiction. Upon
+conviction after a hearing, the penalties provided for in rule are imposed and are final,
+subject to appeal to a court of proper jurisdiction in the manner prescribed by law.
+68-121-114. Penalties for violations of chapter or permit fee requirements.
+(a) The department may promulgate rules to establish a civil penalty schedule
+for violations of this chapter or of rules promulgated by the division, or for anyone who
+fails to or neglects to pay the fees as required under this chapter.
+(b) Any person, firm, or corporation that violates this chapter or the rules
+promulgated by the division, or who fails or neglects to pay the fees as required in this
+chapter, commits a Class C misdemeanor.
+(c) Notwithstanding subsection (a) to the contrary, any person who knowingly
+makes a false statement, representation, or certification in an application, record, report,
+or other document filed or required to be maintained under this chapter commits a Class
+A misdemeanor.
+68-121-115. Amusement devices — Legislative findings.
+(a) The general assembly finds that:
+(1) An unsafe amusement device is likely to cause serious and
+preventable injuries to members of the public; and
+- 19 - 015293
+(2) For the welfare of the people of this state, these injuries must be
+prevented, and the public must be protected from unsafe amusement devices.
+(b) The purpose of regulating amusement devices is to ensure, as far as
+reasonably possible, the safety of the public in the use of amusement devices in this
+state by providing for:
+(1) Adoption of safety regulations for the owner's duty of reasonable
+care;
+(2) An effective enforcement and compliance program;
+(3) Reporting procedures on the safety of amusement devices; and
+(4) Safety provisions governing riders' use of amusement devices.
+68-121-116. Violations — Penalties.
+(a)
+(1) It is an offense, punishable as provided in § 68-121-114, for:
+(A) The owner of any amusement device to operate, or permit
+any person to operate, an amusement device, unless a permit has been
+issued by the department to the owner of the amusement device, which
+permit is valid in any and all counties in this state for one (1) year from the
+date the permit is issued; or
+(B) A person to operate an amusement device, if the person:
+(i) Has knowledge that the annual permit required,
+pursuant to subdivision (a)(1)(A), has not been issued to the
+owner;
+(ii) Does not have authority to operate the amusement
+device; or
+(iii) Operates the amusement device beyond the
+authorization given to the person by the owner.
+- 20 - 015293
+(2) If the amusement device is not at a fixed location within this state,
+then the owner of the amusement device is only required to obtain one (1) such
+annual permit, and the permit must be displayed in a conspicuous location.
+(b) The department is authorized to charge a fee, to be set by the department by
+rule, for the issuance of an annual permit, but the department shall not issue the permit
+until the owner furnishes to the department proof of insurance for, and proof of
+inspection of, the amusement device or devices by any authorized insurer, or its
+designated representative. The proof of insurance must be in an amount set by the
+department by rule, insuring the owner or operator against liability for bodily injury and
+property damage arising from the use of the amusement device.
+(c)
+(1) If the annual permit is issued for an individual amusement device, the
+permit must be prominently displayed on the amusement device.
+(2) If the annual permit is issued for amusement devices to an enterprise
+that has multiple amusement devices owned or managed by one (1) owner, the
+permit must be filed at the main office of the site where the amusement devices
+are located, and must be available for inspection by any public official during the
+normal business hours of the office and by members of the public during the
+normal business operating hours of the amusement devices.
+(d) The policy or bond required by this section must be on a standardized form
+approved by the department and obtained from one (1) or more insurers or sureties
+qualified to do business in this state.
+68-121-117. Responsibilities of owner or operator of amusement device — Report
+of fatalities, physical injuries, or incidents — Inspections — Penalties.
+(a) The owner or operator of an amusement device shall immediately cease to
+operate any amusement device upon which a fatality, serious physical injury, or serious
+incident has occurred. An owner shall report any accident involving a fatality, serious
+- 21 - 015293
+physical injury, or serious incident resulting from the operation of an amusement device
+to the commissioner, in writing, within twenty-four (24) hours and contact a qualified
+inspector from the list maintained by the commissioner pursuant to § 68-121-118 to
+conduct an inspection.
+(b) The cessation remains in force until an inspection has been performed by a
+qualified inspector, the inspector has determined that the amusement device or related
+equipment is safe for public use, and the department has authorized the owner or
+operator to resume operation of the amusement device.
+(c) The qualified inspector shall initiate the inspection within twenty-four (24)
+hours of receipt of the report of a fatality, serious physical injury, or serious incident
+caused by the operation of an amusement device and shall perform the inspection in a
+manner that proceeds with all practicable speed and minimizes the disruption of the
+remainder of the amusement devices at the site where the amusement device is located,
+as well as unrelated commercial activities. The owner of the amusement device shall
+pay for the cost of an inspection. The amusement device may resume operation, upon
+authorization from the department, immediately following the reasonable determination
+by a qualified inspector that a principal cause of the serious physical injury was the
+victim's failure to comply with the posted safety rules or with verbal instructions. If an
+owner or operator of an amusement device fails to comply with a requirement under this
+
+Section 7:
+section, then the department must assess a penalty against that owner or operator each
+day until full compliance is achieved.
+68-121-118. Qualified inspectors.
+(a) The commissioner shall compile a list of qualified inspectors. The
+department shall post the list on the website maintained by the department.
+(b) The commissioner may employ or contract with qualified inspectors to
+conduct inspections of amusement devices pursuant to this chapter. However, if the
+- 22 - 015293
+commissioner does not employ or contract with qualified inspectors, then owners and
+operators shall provide the commissioner with all resulting inspection reports.
+68-121-119. Operation of amusement device — Inspections — Permit.
+(a) A person shall not operate an amusement device unless the owner of the
+amusement device has the device inspected at least once annually by a qualified
+inspector, who is either provided by the commissioner or whom the owner or insurer has
+selected from the lists maintained on the department's website pursuant to § 68-121-
+118, and has obtained written documentation from the qualified inspector that the
+inspection has been made and the amusement device meets American Society of
+Testing Materials (ASTM) standards or the Association for Challenge Course
+Technology (ACCT) industry standards. The owner of the amusement device is solely
+responsible for the cost of an inspection conducted pursuant to this subsection (a).
+(b) The inspection required pursuant to subsection (a) must be conducted, at a
+minimum, to meet the manufacturer's or engineer's specifications and to follow the
+applicable ASTM standards or ACCT industry standards.
+(c) The commissioner, or the commissioner's designee, may conduct a spot
+inspection of any amusement device without notice at any time while the amusement
+device is operating or will be operating in this state. The commissioner's designee may
+order the temporary suspension of an operating permit if it is determined after a spot
+inspection that an amusement device or devices are hazardous or unsafe. Operation of
+the amusement device must not resume until the hazardous or unsafe condition has
+been corrected and subjected to reinspection by the commissioner, or the
+commissioner's designee, for an inspection fee established by rule.
+(d) An operator of an amusement device must be competent and at least sixteen
+(16) years of age. An operator shall not operate more than one (1) amusement device
+at any one (1) time and must be present at all times the device is in operation.
+- 23 - 015293
+68-121-120. Maintenance, inspection, and accident records for amusement device
+— Proof of inspection.
+(a) Each owner or operator shall retain on the premises or with a traveling or
+portable amusement device for at least twenty-four (24) months, all maintenance,
+inspection, and accident records for each amusement device. The owner shall make the
+records for the amusement device under inspection for failure or malfunction available to
+the commissioner upon request. The documents may be kept electronically or digitally.
+(b) An owner or operator of an amusement device, as applicable, shall
+prominently display or have available on location the amusement device's proof of
+inspection, which must include the date of the last inspection of the amusement device.
+68-121-121. Itinerary of traveling or portable amusement devices — Filing and
+content.
+(a) The owner or operator of traveling or portable amusement devices shall file
+an itinerary with the department on a form prescribed by the commissioner no less than
+thirty (30) days before the operation of an amusement device for use by the public.
+(b) The itinerary must include:
+(1) The name of the amusement device owner;
+(2) The carnival, fair, or activity sponsor;
+(3) The address and telephone number of the owner of the site or
+persons associated with the site;
+(4) The dates open to the public; and
+(5) The name of the contact person on site.
+68-121-122. Operation of amusement device during pendency of cessation —
+Remedies.
+In addition to any other remedies, if an owner, operator, or person in charge of an
+amusement device continues to operate an amusement device during the pendency of a
+cessation pursuant to § 68-121-117 or § 68-121-119, then the commissioner may
+- 24 - 015293
+petition the circuit court, in an action brought in the name of this state, for a writ of
+injunction to restrain the use of the alleged defective amusement device.
+68-121-123. Liability for accidents.
+This state and its officers and employees or members of the division are not
+liable for damages arising out of an accident involving an amusement device by reason
+of administration of this chapter.
+68-121-124. Safety rules governing rider — Violations and penalties — Duty to
+report injuries — Display of rules.
+(a) A rider on an amusement device shall, at a minimum:
+(1) Obey the reasonable safety rules posted in accordance with
+subsection (g) and oral instructions for an amusement device issued by the
+amusement device's owner or the owner's employee or agent, unless:
+(A) The safety rules are contrary to those issued by the division;
+or
+(B) The oral instructions are contrary to the safety rules; and
+(2) Refrain from acting in any manner that may cause or contribute to
+injuring the rider or others, including:
+(A) Interfering with the safe operation of the amusement device;
+(B) Not engaging any safety devices that are provided;
+(C) Disconnecting or disabling a safety device except at the
+express instruction of the operator;
+(D) Altering or enhancing the intended speed, course, or direction
+of an amusement device;
+(E) Extending arms and legs beyond the carrier or seating area
+except at the express direction of the amusement device operator;
+(F) Throwing, dropping, or expelling an object from or toward an
+amusement device;
+- 25 - 015293
+(G) Getting on or off an amusement device except at the
+designated time and area, if any, at the direction of the amusement
+device operator, or in an emergency; and
+(H) Unreasonably controlling the speed or direction of the rider or
+an amusement device that requires the rider to control or direct the rider
+or a device.
+(b) A rider of an amusement device shall not get on, enter, or attempt to get on
+an amusement device unless the rider reasonably determines that, at a minimum, the
+rider:
+(1) Has sufficient knowledge to use, get on, enter, or get off the
+amusement device safely without instruction or has requested and received
+before getting on the amusement device sufficient information to get on, use,
+enter, or get off safely;
+(2) Has located, reviewed, and understood any signs in the vicinity of the
+amusement device and has satisfied any posted height, medical, or other
+restrictions and abided by all rules, regulations, and restrictions;
+(3) Is not under the influence of alcohol or any drug that affects the rider's
+ability to safely use the amusement device or obey the posted rules or oral
+instructions; and
+(4) Is authorized by the amusement device owner or the owner's
+authorized servant, agent, or employee to get on the amusement device.
+(c)
+(1) It is an offense for a person to knowingly violate subsection (a) or (b).
+(2) A violation of subdivision (c)(1) is a Class C misdemeanor,
+punishable by a fine only.
+- 26 - 015293
+(d) A rider, or the rider's parent or guardian on the rider's behalf, shall report in
+writing to the owner any injury sustained on an amusement device before leaving the
+owner's premises, including:
+(1) The name, address, and phone number of the injured person;
+(2) A full description of the incident, the injuries claimed, any treatment
+received, and the location, date, and time of the injury;
+(3) The cause of the injury, if known; and
+(4) The names, addresses, and phone numbers of any witnesses to the
+incident.
+(e) If the rider, or the rider's parent or guardian on a rider's behalf, is unable to
+file a report before leaving the owner's premises because of the severity of the rider's
+injuries, the rider, or the rider's parent or guardian, shall file the report as soon as
+reasonably possible.
+(f) The failure of a rider, or the rider's parent or guardian on a rider's behalf, to
+report an injury under this section has no effect on the rider's right to commence a civil
+action.
+(g) Safety rules governing rider conduct must be prominently displayed at or
+near the entrance to, or loading platform for, the amusement device.
+68-121-125. Transfer of funds — Relocation and implementation of
+responsibilities — Reports.
+(a) The department of labor and workforce development shall transfer all funds
+from funds, reserve accounts, and any other source relating to the administration of the
+elevator and amusement device safety board to the department.
+(b) The department of labor and workforce development shall submit and
+provide access to all relevant information, technical details, specifications, and data
+required to relocate the responsibilities outlined in this chapter to the department on July
+1, 2026.
+- 27 - 015293
+(c) The department shall complete all work necessary to fully implement and
+assume all of the responsibilities set forth in this chapter by July 1, 2027.
+(d) The department of labor and workforce development shall transfer all
+employees necessary to properly support the department on July 1, 2027. All
+transferred employees must be reassigned to the department's office building as of the
+date of their transfer, or as soon as practicable.
+(e) The department may adapt or change all transferred systems, programs, and
+operational processes as necessary to properly support the department.
+68-121-126. Creation of the elevator and amusement device advisory council.
+The department may establish an elevator advisory council, an amusement
+device council, or both, which may convene on an as-needed basis to advise the
+department on matters related to elevator and amusement device safety. If formed,
+advisory council members serve at the will of the commissioner.
+
+Section 8:
+SECTION 5. Tennessee Code Annotated, Title 68 Chapter 122, is amended by deleting
+the chapter and substituting:
+68-122-101. Short title.
+This part is known and may be cited as the "Boiler Installation and Inspection
+Act."
+68-122-102. Rules — Part definitions.
+(a) The division shall formulate definitions and promulgate rules for the safe and
+proper construction, installation, repair, use, and operation of boilers in this state. The
+definitions and rules so formulated must be based upon, and, at all times, follow the
+generally accepted nationwide engineering standards, formulae, and practices
+established and pertaining to boiler construction and safety, and the division may, by
+resolution, adopt an existing published codification of standards, formulae, and practices
+known as the Boiler Construction Code of the American Society of Mechanical
+Engineers, with the amendments and interpretations of the code made and approved by
+- 28 - 015293
+the council of the society, and may likewise adopt the amendments and interpretations
+subsequently made and published by the same authority, and when so adopted, the
+code is deemed incorporated into, and to constitute a part of the whole of the definitions
+and rules of the division. Amendments and interpretations to the codes are adopted
+immediately upon being promulgated.
+(b) The division shall promulgate rules for the safe and proper installation, repair,
+use, and operation of boilers that were in use or installed ready for use in this state prior
+to the date upon which the first rules under this part pertaining to existing installations
+became effective, or during the twelve-month period immediately thereafter.
+(c) The division shall promulgate rules establishing fees and civil penalties
+authorized by this chapter in amounts sufficient to pay the cost of operating this chapter.
+(d) The rules formulated by the division have the force and effect of law, except
+that the rules applying to the construction of new boilers must not be construed to
+prevent the installation thereof until twelve (12) months after their approval.
+(e) Amendments in the rules promulgated by the division are permissive
+immediately and are mandatory twelve (12) months after such approval.
+(f) As used in this part, unless the context otherwise requires:
+(1) "Autoclave" means a device that:
+(A) Sterilizes reusable medical or dental equipment used by an
+individual or entity licensed under this title or title 63;
+(B) Consists of an unfired pressure vessel with or without an
+integrated miniature boiler; and
+(C) Is regulated by the United States food and drug
+administration;
+(2) "Boiler" means and includes a closed vessel or vessels intended for
+use in heating water or other liquids or for generating steam or other vapors
+under pressure or vacuum by the direct application of heat from combustible
+- 29 - 015293
+fuels, electricity, or nuclear energy, and also includes an unfired pressure vessel,
+meaning a vessel in which pressure is obtained from an external source or from
+an indirect application of heat;
+(3) "Commissioner" means the commissioner of commerce and
+insurance;
+(4) "Department" means the department of commerce and insurance;
+and
+(5) "Miniature boiler" means a boiler designed and constructed not to
+exceed the following:
+(A) Sixteen inches (16") inside diameter of shell;
+(B) If a non-electric boiler, twenty (20) square feet of heating
+surface;
+(C) Five (5) cubic feet of gross volume, exclusive of the casing
+and insulation; and
+(D) One hundred pounds (100 lbs.) per square inch gauge
+maximum allowable working pressure.
+68-122-103. New installations must conform to rules.
+A boiler that does not conform to the rules promulgated by the division that
+govern new construction and installation must not be installed and operated in this state
+after twelve (12) months from the date the first rules pertaining to the new construction
+and installation of boilers become effective, unless the boiler is of special design or
+construction, and is not covered by the rules, nor is in any way inconsistent with such
+rules, in which case a special installation and operating permit may be granted, at the
+discretion of the commissioner.
+68-122-104. Existing boilers required to conform — Applicability.
+(a) All boilers that were in use, or installed ready for use in this state prior to the
+date upon which the first rules became effective, or during the twelve-month period
+- 30 - 015293
+immediately thereafter, must be made to conform to the rules of the division governing
+existing installations, and the formulae prescribed therein must be used in determining
+the maximum allowable working pressure for such boilers.
+(b) This part does not prevent the use or sale of boilers as referred to in
+subsection (a); provided, that the boilers have been made to conform to the rules of the
+division governing existing installations; and provided further, that they have not been
+found upon inspection to be in an unsafe condition.
+(c)
+(1) This part does not apply to historic power boilers. As used in this
+subdivision (c)(1), "historic power boilers" means any steam traction engine,
+portable, or stationary, standard, or nonstandard power boiler, including free-
+lance and scale models, owned by publicly operated museums, nonprofit
+organizations, and individuals who preserve, maintain, exhibit, and only
+occasionally operate these boilers on a not-for-profit basis, and for the primary
+purpose of perpetuating the agricultural and pioneer heritage of this state.
+(2) Such boilers must conform to the rules promulgated by the division.
+68-122-105. Exemptions — Municipal laws or ordinances.
+(a) This part does not apply to the following boilers:
+(1) Boilers under federal control or boilers that are used to generate
+electricity under contract with the Tennessee Valley authority (TVA);
+(2) Unfired pressure vessels that meet the requirements of the interstate
+commerce commission for shipment of liquids or gases under pressure;
+(3) Air tanks located on vehicles operating under the rules of other state
+authorities and used for carrying passengers or freight;
+(4) Air tanks installed on the right-of-way of railroads and used directly in
+the operation of trains;
+- 31 - 015293
+(5) Unfired pressure vessels having a volume of five (5) cubic feet or
+less;
+(6) Unfired pressure vessels designed for working pressure not
+exceeding fifteen pounds (15 lbs.) per square inch gauge;
+(7) Unfired pressure vessels containing liquefied petroleum gases;
+(8) Unfired pressure vessels contained within an autoclave; or
+(9) Miniature boilers that are integrated as components of medical
+devices regulated by the United States food and drug administration.
+(b) The following boilers are exempt from the requirements of §§ 68-122-110 —
+68-122-113:
+(1) Boilers located on farms and used solely for agricultural purposes;
+(2) Steam boilers used for heating purposes carrying a pressure of not
+more than fifteen pounds (15 lbs.) per square inch gauge that are located in
+private residences or in apartment houses of less than six (6) families;
+(3) Hot water heating boilers carrying a pressure of not more than thirty
+pounds (30 lbs.) per square inch gauge that are located in private residences or
+in apartment houses of less than six (6) families; or
+(4) Unfired pressure vessels containing only water under pressure for
+domestic supply purposes and operated at a temperature of not over two
+hundred degrees Fahrenheit (200°F), including those containing air, the
+compression of which serves only as a cushion for airlift pumping systems.
+(c)
+(1) This part does not replace any municipal law or ordinance in
+municipalities having regulations controlling the design, construction, location,
+installation, inspection, and operation of boilers where such local laws,
+ordinances, or regulations are in substantial conformity with the commonly
+accepted standards of safety concerning the design, construction, location,
+- 32 - 015293
+installation, inspection, and operation of boilers and in substantial conformity with
+the published standards of the Boiler Construction Code of the American Society
+of Mechanical Engineers. This part does not prevent the local officials or boards
+of such municipalities from the exclusive right to regulate or enforce all such local
+laws, ordinances, rules, and regulations now in force or enacted on or after the
+effective date of this act as may comply with the standards defined in this part.
+This part does not permit the erection of boilers without first obtaining a building
+or like permit from the proper municipal authorities in compliance with local laws
+ordinances, rules, and regulations.
+68-122-106. Administration – Duties and powers.
+The commissioner, or the commissioner's designee, shall employ, or contract
+with, persons to effectuate this part, including, but not limited to:
+(1) Prosecute all violators of this part;
+(2) Issue, suspend, or revoke for cause, inspection certificates as
+provided for in § 68-122-111;
+(3) Draw upon the state treasurer for funds necessary to meet the
+expenses authorized by this part, which include the necessary traveling
+expenses of the division and the division’s deputies and the expenses incident to
+the maintenance of the division;
+(4) Take action necessary for the enforcement of the laws of this state
+governing the use of boilers and of the rules of the division;
+(5) Keep a complete record of the type, dimensions, maximum allowable
+working pressure, age, condition, location, and date of the last recorded internal
+inspection of all boilers to which this part applies; and
+(6) Publish and distribute, among manufacturers and others requesting
+them, copies of the rules promulgated by the division.
+68-122-107. Deputy inspectors — Employment — Qualifications.
+- 33 - 015293
+The commissioner, or the commissioner's designee, shall employ, or contract
+with, deputy inspectors who are responsible to the commissioner, or the commissioner's
+designee.
+68-122-108. Special inspectors — Appointment — Duties — Right of inspection.
+(a) In addition to the deputy boiler inspectors authorized by § 68-122-107, the
+division may, upon the request of any company authorized to insure against loss from
+explosion of boilers and unfired pressure vessels in this state, or upon the request of any
+company operating unfired pressure vessels in this state having a regularly established
+inspection service maintained by the owner or user of pressure vessels subject to
+inspection and whose inspection service, personnel, equipment, and supervision meet
+the requirements prescribed by the division, issue to any inspectors of the company
+commissions as special inspectors; provided, that each such inspector, prior to receiving
+the inspector's commission, must satisfactorily pass the examination provided for in §
+68-122-109 or, in lieu of the examination, must hold a commission or a certificate of
+competency as an inspector of boilers and unfired pressure vessels for a state that has a
+standard of examination substantially equal to that of this state, or a certificate as an
+inspector of boilers issued by the national board of boiler and pressure vessel
+inspectors. A commission as a special inspector for a company operating unfired
+pressure vessels in this state may be issued only if, in addition to meeting the
+requirements stated in this subsection (a), the inspector is continuously employed by the
+company for the purpose of making inspections of unfired pressure vessels used, or to
+be used, by such company, and not for resale. Special inspectors of a company
+operating unfired pressure vessels, commissioned under this section, are not authorized
+to inspect boilers.
+(b) Such special inspectors receive no salary from, nor are their expenses paid
+by, this state, and the continuance of a special inspector's commission is conditioned
+upon the special inspector continuing in the employ of a boiler insurance company duly
+- 34 - 015293
+authorized as provided for in subsection (a) or upon continuing in the employ of a
+company operating unfired pressure vessels in this state, and upon the special
+inspector's maintenance of the standards imposed by this part.
+(c) Special inspectors shall inspect all boilers and unfired pressure vessels
+insured or all unfired pressure vessels operated by their respective companies and,
+when so inspected, the owners and users of such boilers and unfired pressure vessels
+are exempt from the payment to this state of the inspection fees.
+(d) Each company employing special inspectors shall, within thirty (30) days
+following each internal and external boiler or unfired pressure vessel inspection made by
+such inspectors, file a report of the inspection with the division upon appropriate forms
+as promulgated by the American Society of Mechanical Engineers.
+(e) The commissioner, or the commissioner's designee, has free access, during
+reasonable hours, to any premises in this state where a boiler or unfired pressure vessel
+is being constructed, or is being installed, for the purpose of ascertaining whether the
+boiler or unfired pressure vessel is constructed and installed in accordance with this part.
+(f) The special inspectors commissioned under this section and their employers,
+agents, or service contractors have the same liability, as provided in § 9-8-307, for the
+performance of their services as deputy inspectors authorized under § 68-122-107 or
+state employees acting within the scope of their employment.
+68-122-109. Examinations for Inspectors — Suspension or revocation of
+commission Replacement when lost.
+(a) Examinations for chief, deputy, or special inspectors must be administered
+by a National Board of Boiler and Pressure Vessel Inspectors' member jurisdiction; the
+National Board of Boiler and Pressure Vessel Inspectors during the last day of the In-
+service Commission (IS) two-week course; an on-demand provider approved by the
+National Board of Boiler and Pressure Vessel Inspectors; or other testing methods
+approved by the National Board of Boiler and Pressure Vessel Inspectors. The
+- 35 - 015293
+examinations must meet the requirements of the latest edition of the Rules for
+Commissioned Inspectors as approved by the National Board of Boiler and Pressure
+Vessel Inspectors. If an applicant fails to pass an examination, the applicant must follow
+the re-examination requirements of the latest edition of the Rules for Commissioned
+Inspectors. The record of an applicant's examination must be accessible to the applicant
+and the applicant's employer.
+(b) A commission may be suspended or revoked after due investigation and
+recommendation by the division to the commissioner for the incompetence or
+untrustworthiness of the holder of the commission, or for willful falsification of any matter
+or statement contained in the applicant's application or in a report of any inspection. A
+person whose commission has been suspended or revoked, except for
+untrustworthiness, may apply to the division for reinstatement or, in the case of
+revocation, for a new examination and commission after ninety (90) days from the
+revocation. A person whose commission has been suspended or revoked may appeal
+as provided in § 68-122-114 and be present in person and represented by counsel on
+the hearing of the appeal.
+(c) If a certificate or commission is lost or destroyed, a new certificate or
+commission must be issued in its place without another examination.
+68-122-110. Inspection of boilers.
+(a) Each boiler used or proposed to be used within this state, except boilers
+exempt in § 68-122-105, must be thoroughly inspected as to their construction,
+installation, condition, and operation as follows:
+(1) Power boilers must be inspected annually both internally and
+externally while not under pressure, and must also, if possible, be inspected
+externally while under pressure approximately six (6) months following the date
+of each internal inspection;
+- 36 - 015293
+(2) Low-pressure heating boilers must be inspected both internally and
+externally biennially where construction will permit;
+(3) Unfired pressure vessels subject to internal corrosion must be
+inspected both internally and externally biennially where construction will permit,
+except that the division may, in its discretion, provide for longer periods between
+inspections; and
+(4) Unfired pressure vessels not subject to internal corrosion must be
+inspected externally at intervals set by the division, but internal inspections are
+not required of unfired pressure vessels, the contents of which are known to be
+noncorrosive to the material of which the shell, head, or fittings are constructed,
+either from the chemical composition of the contents or from evidence that the
+contents are adequately treated with a corrosion inhibitor; provided, that such
+vessels are constructed in accordance with the rules of the division or in
+accordance with standards equivalent to the rules of the division in effect at the
+time of manufacture.
+(b) A grace period of two (2) months longer than the twelve-month period may
+elapse between internal inspections of a boiler while not under pressure or between
+external inspections of a boiler while under pressure.
+(c) The inspections required in this section are made by the division or by a
+special inspector provided for in this part.
+(d) If at any time a hydrostatic test is deemed necessary, it must be made, at the
+discretion of the inspector, by the owner or user of the boiler.
+(e) All boilers to be installed in this state after the twelve-month period from the
+date upon which the rules of the division become effective must be inspected during
+construction as required by the applicable rules of the division by an inspector
+authorized to inspect boilers in this state, or, if constructed outside of this state, by an
+inspector holding a certificate from the national board of boiler and pressure vessel
+- 37 - 015293
+inspectors, or a certificate of competency as an inspector of boilers for a state that has a
+standard of examination substantially equal to that of this state as provided in § 68-122-
+
+Section 9:
+109.
+(f)
+(1) Notwithstanding subsection (a), the division may, in its discretion,
+grant a variance for longer intervals between inspections. All requests for boiler
+inspection variances must be submitted to the division in writing.
+(2) The division shall produce a guide and checklist setting forth
+conditions that must be met before a variance for longer intervals between
+inspections may be granted.
+(3) All boilers operating under a variance pursuant to this subsection (f)
+must be inspected externally while under pressure approximately every six (6)
+months for the duration of the variance.
+(4) Any boiler that fails an external inspection pursuant to subdivision
+(f)(3), must be shut down and inspected internally, and the variance must be
+rescinded.
+(g) The division may also, in its discretion, grant other variances where the
+division deems it necessary to protect the health, safety, and welfare of the public.
+68-122-111. Inspection certificates — Maximum certificate fees — Insured boilers
+— Suspension.
+(a) If, upon investigation, a boiler is found to comply with the rules of the division,
+the owner or user of the boiler shall pay directly to the division an appropriate certificate
+fee as adopted by the division pursuant to § 68-122-102, and the division, or such duly
+authorized representative, shall issue to such owner or user an inspection certificate
+bearing the date of inspection and specifying the maximum pressure under which the
+boiler may be operated. The inspection certificate is valid for not more than twenty-four
+(24) months, for power boilers, and for not more than twenty-six (26) months, for low-
+- 38 - 015293
+pressure heating boilers and unfired pressure vessels, from its date of issuance.
+Certificates must be posted under glass in the room containing the boiler inspected, or,
+in the case of a portable boiler, in a metal container to be fastened to the boiler or to be
+kept in a tool box accompanying the boiler.
+(b) An inspection certificate issued for an insured boiler inspected by a special
+inspector is not valid after the boiler for which it was issued ceases to be insured by a
+company duly authorized by this state to carry such insurance.
+(c) The commissioner or the commissioner's designee may suspend an
+inspection certificate when, in the commissioner's or the commissioner's designee's
+opinion, the boiler for which it was issued cannot be operated without menace to public
+safety, or when the boiler is found not to comply with the rules provided for in this part.
+A special inspector has corresponding powers with respect to inspection certificates for
+boilers insured by the company employing the special inspector. The suspension of an
+inspection certificate continues in effect until the boiler conforms to the rules of the
+division, and until the inspection certificate has been reinstated.
+68-122-112. Operation without certificate or at excessive pressure — Penalty.
+It is unlawful for any person, firm, partnership, or corporation to operate a boiler
+under pressure in this state without a valid inspection certificate. The operation of a
+boiler without such inspection certificate, or at a pressure exceeding that specified in
+such inspection certificate, constitutes a Class C misdemeanor on the part of the owner,
+user, or operator of the boiler. Each day of unlawful operation is a separate offense.
+68-122-113. Inspection fees.
+The commissioner shall promulgate rules to establish inspection fees in
+accordance with this part. The rules must be promulgated under the Uniform
+Administrative Procedures Act, compiled in title 4, chapter 5.
+68-122-114. Appeals from orders or acts of inspectors.
+- 39 - 015293
+Any person aggrieved by an order or act of an inspector under this part, may,
+within fifteen (15) days after notice thereof, appeal from such order or act to the division.
+The division shall hear the appeal in accordance with the Uniform Administrative
+Procedures Act, compiled in title 4, chapter 5.
+68-122-115. Receipt for fees — Fee increase as penalty — Fee exemptions.
+Invoices, receipts for fees, and penalties must be in an amount set by rule as
+promulgated by the division.
+68-122-201. Short title.
+This part is known and may be cited as the "Boiler Erectors and Repairers Act."
+68-122-202. License required.
+Any person, corporation, partnership, or firm engaged in or desiring to engage in
+the work of repairing or erecting steam boilers, steam kettles, pressure tanks, or steam
+generators in this state shall obtain a license to perform such work from the division, as
+created in the department of commerce and insurance by § 4-3-1303.
+68-122-203. "Erect" defined for this part.
+As used in this part, "erect":
+(1) Includes only such steam boilers, steam kettles, pressure tanks, or
+steam generators as are assembled at the place of installation, and does not
+include such steam boilers, steam kettles, pressure tanks, or steam generators
+as are constructed at the place of manufacture and delivered to the place of
+installation; and
+(2) Does not include sectional boilers constructed of cast iron.
+68-122-204. Application for license — Examination — Approval — Issuance.
+An application for license under this part must be made to the division, and the
+applicant must pass an examination as prescribed by the division. The applicant must
+also meet and continue to comply with the minimum qualifications established by the
+- 40 - 015293
+division and the recommended rules for repairs promulgated by the National Board of
+Boiler and Pressure Vessel Inspectors.
+68-122-205. License fee — Renewal — Fee maximums — Disposition of fees
+collected — Duty of enforcement.
+(a) The commissioner shall promulgate rules to establish initial license and
+license renewal fees under this part. The rules must be promulgated under the Uniform
+Administrative Procedures Act, compiled in title 4, chapter 5.
+(b) The licenses received under subsection (a) are valid for one (1) year from the
+date of issuance unless revoked for cause by the commissioner of commerce and
+insurance.
+(c) All fees under this part must be paid to the department of commerce and
+insurance and are expendable fees to be used by the department of commerce and
+insurance in enforcing this part.
+68-122-206. Exclusions.
+(a) This part does not apply to persons, corporations, partnerships, or firms that
+are complying with the rules of the interstate commerce commission or to persons,
+corporations, partnerships, or firms that have their own maintenance personnel who are
+limited to the lawful erection and repair of their own boiler equipment.
+(b) This part does not apply to those persons, corporations, partnerships, or
+firms engaged in the work of repairing or erecting those types of steam boilers
+specifically excluded by § 68-122-105.
+68-122-207. Local laws not affected.
+(a) This part does not replace any municipal law or ordinance that regulates and
+licenses the repair or erection of steam boilers, steam kettles, pressure tanks, or steam
+generators. This part does not prevent the local officials or board of such municipalities
+from the exclusive right to regulate or enforce all such local laws, ordinances, rules, and
+regulations in effect.
+- 41 - 015293
+(b) This part does not permit the repair or erection of boilers without first
+complying with the requirements of the local laws, ordinances, rules, and regulations
+provided for such repair or erection of boilers.
+68-122-208. Penalty for violation.
+(a) The department may impose civil penalties for violations of this chapter in an
+amount to be set by rule.
+(b) It is unlawful for any person, corporation, partnership, or firm to engage in the
+work of repairing or erecting steam boilers, steam kettles, pressure tanks, or steam
+generators in this state without a valid license as provided under this part.
+(c) Any violation of this part is a Class C misdemeanor. Each day of such
+violation constitutes a separate offense.
+(d) This section does not apply to any person repairing such equipment when a
+licensed repair worker cannot be readily obtained and an emergency exists.
+68-122-209. Creation of the boiler advisory council.
+The department may establish a boiler advisory council, which may convene on
+an as-needed basis to advise the department on matters related to boiler safety. If
+formed, advisory council members serve at the will of the commissioner.
+68-122-210. Construction of part.
+This part is supplemental to part 1 of this chapter. This part must not be
+construed as conflicting with part 1 of this chapter.
+68-122-211. Transfer of funds — Relocation and implementation of
+responsibilities — Reports.
+(a) The department of labor and workforce development shall transfer all funds
+from funds, reserve accounts, and any other source relating to the administration of the
+board of boiler rules to the department.
+(b) The department of labor and workforce development shall submit and
+provide access to all relevant information, technical details, specifications, and data
+- 42 - 015293
+required to relocate the responsibilities outlined in this chapter to the department on July
+1, 2026.
+(c) The department shall complete all work necessary to fully implement and
+assume all of the responsibilities set forth in this chapter by July 1, 2027.
+(d) The department of labor and workforce development shall transfer all
+employees necessary to properly support the department on July 1, 2027. All
+transferred employees must be reassigned to the department's office building as of the
+date of their transfer, or as soon as practicable.
+(e) The department may adapt or change all transferred systems, programs, and
+operational processes as necessary to properly support the department.
+
+Section 10:
+SECTION 6. The headings in this act are for reference purposes only and do not
+constitute a part of the law enacted by this act. However, the Tennessee Code Commission is
+requested to include the headings in any compilation or publication containing this act.
+
+Section 11:
+SECTION 7. All rules promulgated by the board of boiler rules and the elevator and
+amusement device safety board, with the assistance and under the authority of the department
+of labor and workforce development on such boards' behalf prior to July 1, 2026, and in effect
+on the date that this act becomes a law, remain in full force and effect and must be administered
+by the division beginning July 1, 2027, until duly amended, repealed, expired, modified, or
+suspended. Rules promulgated by the board of boiler rules or the elevator and amusement
+device safety board, with the assistance and under the authority of the department of labor and
+workforce development on such boards' behalf, that are pending as of July 1, 2026, remain in
+full force and effect upon their effective date and must be administered by the division beginning
+July 1, 2027, until duly amended, repealed, expired, modified, or suspended.
+
+Section 12:
+SECTION 8. It is the intent of the general assembly that personnel, equipment, funding,
+duties, authority, and property transferred on the effective date of this act are transferred no
+later than July 1, 2027.
+- 43 - 015293
+
+Section 13:
+SECTION 9. For the purposes of promulgating and transferring rules, this act takes
+effect upon becoming a law, the public welfare requiring it. For all other purposes, this act takes
+effect July 1, 2027, the public welfare requiring it.
+- 44 - 015293
+[DELETED:  a HST((((SSS6T6A]
+[DELETED:  -0((((((((]
+[DELETED:  -0(((((((]
+[DELETED:  -0(((((((((]
+[DELETED:  -0(((((((((((((((((]
+[DELETED:  -0((((((((((]
+[DELETED:  -0(((((((]
+[DELETED:  -0((((((((((]
+[DELETED:  -06((((((((]
+[DELETED:  -0((((((6(]
+[DELETED:  -0(((6T6A(]
+[DELETED:  -0(((((]
+[DELETED:  -0(((]
+[DELETED:  -06(((]
+[DELETED:  -0(6(((]
+[DELETED:  -0(((((]
+[DELETED:  -06(((((6(]
+[DELETED:  -0(6T]
+[DELETED:  -06((6P6(((6((]
+[DELETED:  -0((((((6( ((((((]
+[DELETED:  -0((((((6(]
+[DELETED:  -0((6((]
+[DELETED:  -06((((]
+[DELETED:  -06((6(((((((6I]
+[DELETED:  -06T6(((((((((((]
+[DELETED:  -0((((((((((]
+[DELETED:  -0((((((((6((]
+[DELETED:  -0(((6TS6T6(]
+[DELETED:  -0((((((((((]
+[DELETED:  -0(((((((6A6(]
+[DELETED:  -0(( ((6(((((]
+[DELETED:  -0((((((((((((]
+[DELETED:  -06T((((((6]
+[DELETED:  -0T6((]
+[DELETED:  -0((((6(]
+[DELETED:  -0((6((]
+[DELETED:  -0(((((((]
+[DELETED:  -0((((((6(]
+[DELETED:  -0((6I6T6]
+[DELETED:  -0A6I6T6A6A((6A]
+[DELETED:  -06(((6((6(]
+[DELETED:  -0(6((((6T6T6((]
+[DELETED:  -0(((SSS]
+[DELETED:  -0S]
+
+
+================================================================================
+
+Raw Text:
+House Commerce 1
+Amendment No. 1 to HB2334
+Vaughan
+Signature of Sponsor
+AMEND S e n ate Bill No. 2470* House Bill No. 2334
+by deleting all language after the enacting clause and substituting:
+SECTION 1. Tennessee Code Annotated, Section 4-3-1303, is amended by deleting the
+section and substituting:
+The department of commerce and insurance is organized under four (4)
+divisions, as follows:
+(1) The division of commerce and insurance;
+(2) The division of fire prevention;
+(3) The division of regulatory boards; and
+(4) The division of mechanical safety compliance.
+SECTION 2. Tennessee Code Annotated, Section 4-29-249(a)(17), is amended by
+deleting the subdivision.
+SECTION 3. Tennessee Code Annotated, Section 4-29-249(a)(6), is amended by
+deleting the subdivision.
+SECTION 4. Tennessee Code Annotated, Title 68, Chapter 121, is amended by
+deleting the chapter and substituting:
+68-121-101. Short title.
+This chapter is known and may be cited as the "Elevator and Amusement Device
+Safety Act."
+68-121-102. Chapter definitions.
+As used in this chapter, unless the context otherwise requires:
+HA0856
+015293
+- 1 -
+
+(1) "Aerial passenger tramways" means recreational transportation of
+passengers on devices that are referred to by the following names:
+(A) Reversible aerial tramways.
+(i) That class of aerial passenger tramways and lifts in
+which the passengers are transported in carriers and are not in
+contact with the ground or snow surface, and in which the carriers
+reciprocate between terminals;
+(ii) Single-reversible tramways. That type of reversible
+aerial tramway that has a single carrier, or single group of carriers,
+that moves back and forth between terminals on a single path of
+travel, and is sometimes called a "to-and-fro" aerial tramway; and
+(iii) Double-reversible tramways. That type of reversible
+aerial tramway that has two (2) carriers, or two (2) groups of
+carriers, that oscillate back and forth between terminals on two (2)
+paths of travel and is sometimes called a "jig-back" tramway;
+(B) Aerial lifts and ski mobiles.
+(i) That class of aerial passenger tramways and lifts in
+which the passengers are transported in carriers and are not in
+contact with the ground or snow surface and in which the carriers
+circulate around a closed system and are activated by a wire rope
+or chain. The carriers usually make U-turns in the terminals and
+move along generally parallel and opposing paths of travel. The
+carriers may be open or enclosed cabins, cars, or platforms. The
+carriers may be fixed or detachable;
+(ii) Gondola lifts. That type of lift where the passengers
+are transported in open or enclosed cabins. The passengers
+- 2 - 015293
+
+embark and disembark while the carriers are stationary or moving
+slowly under a controlled arrangement;
+(iii) Chair lifts. That type of lift where the passengers are
+transported in chairs, either open or partially enclosed;
+(iv) Ski mobiles. That type of lift where the passengers
+are transported in open or enclosed cars that ride on a rigid
+structural system and are propelled by a wire rope or chain; and
+(v) Similar equipment. Lifts that utilize carrier
+configurations not specified in subdivision (1)(B)(ii), (1)(B)(iii), or
+(1)(B)(iv), but do not require that the passenger remain in contact
+with the ground or snow surface;
+(C) Surface lifts.
+(i) That class of conveyance where the passengers are
+propelled by means of a circulating overhead wire rope while
+remaining in contact with the ground or snow surface.
+Transportation is limited to one (1) direction. Connection between
+the passengers and the wire rope is by means of a device
+attached to and circulating with the haul rope known as a "towing
+outfit";
+(ii) T-bar lifts. That type of lift where the device between
+the haul rope and passengers forms the shape of an inverted "T,"
+propelling passengers located on both sides of the stem of the "T";
+(iii) J-bar lifts. That type of lift where the device between
+the haul rope and passenger is in the general form of a "J,"
+propelling a single passenger located on the one (1) side of the
+stem of the "J";
+- 3 - 015293
+
+(iv) Platter lifts. That type of lift where the device
+between the haul rope and passenger is a single stem with a
+platter or disc attached to the lower end of the stem, propelling the
+passenger astride the stem of the platter, or disc; and
+(v) Similar equipment. Lifts that utilize towing device
+configurations not specified in subdivision (1)(C)(ii), (1)(C)(iii), or
+(1)(C)(iv), but require that passengers remain in contact with the
+ground or snow surface, and conform to the general description of
+this subdivision (1); and
+(D) Tows.
+(i) That class of conveyance where the passengers grasp
+the circulating haul rope, a handle attached to the circulating haul
+rope, or attach a gripping device to the circulating haul rope and
+are propelled by the circulating haul rope. The passengers remain
+in contact with the ground or snow surface. The upward-traveling
+haul rope remains adjacent to the uphill track of the passengers
+and at an elevation that permits them to maintain their grasp on
+the haul rope, handle, or gripping device throughout that portion of
+the tow length that is designed to be traveled;
+(ii) Fiber rope tow. A tow having a fiber, natural, or
+synthetic haul rope; and
+(iii) Wire rope tow. A tow having a metallic haul rope;
+(2) "Alteration" means any change or addition to the equipment other
+than ordinary repairs or replacement;
+(3) "Amusement device":
+(A) Means any mechanical or structural device that carries or
+conveys a person, or that permits a person to walk along, around, or over
+- 4 - 015293
+
+a fixed or restricted route or course or within a defined area, including the
+entrances and exits to the device, for the purpose of giving persons
+amusement, pleasure, thrills, or excitement;
+(B) Includes, but is not limited to:
+(i) Roller coasters, Ferris wheels, merry-go-rounds,
+glasshouses, and walk-through dark houses;
+(ii) Any dry slide over twenty feet (20') in height, excluding
+water slides; and
+(iii) Any portable tram, open car, or combination of open
+cars or wagons pulled by a tractor or other motorized device,
+except hay rides, those used solely for transporting patrons to and
+from parking areas, or those used for guided or educational tours,
+but that do not necessarily follow a fixed or restricted course; and
+(C) Does not include the following:
+(i) Devices operated on a river, lake, or any other natural
+body of water;
+(ii) Wave pools;
+(iii) Roller skating rinks;
+(iv) Ice skating rinks;
+(v) Skateboard ramps or courses;
+(vi) Mechanical bulls;
+(vii) Buildings or concourses used in laser games;
+(viii) All-terrain vehicles;
+(ix) Motorcycles;
+(x) Bicycles;
+(xi) Mopeds;
+(xii) Go-karts;
+- 5 - 015293
+
+(xiii) Bungee cord or similar elastic device;
+(xiv) An amusement device that is owned and operated by
+a nonprofit religious, educational, or charitable institution or
+association, if the device is located within a building subject to
+inspection by the state or by any political subdivision of this state
+under its building, fire, electrical, and related public safety
+ordinances;
+(xv) An amusement device that attaches to an animal so
+that while being ridden, the path of the animal is on a fixed or
+restricted path;
+(xvi) Climbing walls; and
+(xvii) Seasonal haunted houses that are open no more
+than three (3) months in a calendar year;
+(4) "Commissioner" means the commissioner of commerce and
+insurance;
+(5) "Complete elevator, dumbwaiter, or escalator" means any elevator,
+dumbwaiter, or escalator for which the plans and specifications and the
+application for the construction permit required by § 68-121-108 are filed on or
+after the effective date of the application of the rules promulgated by the division
+as provided in § 68-121-103. All other elevators, dumbwaiters, and escalators
+are deemed to be existing installations;
+(6) "Department" means the department of commerce and insurance;
+(7) "Division" means the division of mechanical safety compliance,
+created by § 4-3-1303;
+(8) "Dormant elevator, dumbwaiter, or escalator" means an elevator or
+dumbwaiter whose cables have been removed, whose car and counterweight
+rest at the bottom of the shaftway, and whose shaftway doors are permanently
+- 6 - 015293
+
+boarded up or barricaded on the inside, or an escalator whose main power feed
+lines have been disconnected;
+(9) "Dumbwaiter" means a hoisting and lowering mechanism equipped
+with a car that moves in guides in a substantially vertical direction, the floor area
+of which does not exceed nine square feet (9 sq. ft.), whose total compartment
+height does not exceed four feet (4'), the capacity of which does not exceed five
+hundred pounds (500 lbs.), and that is used exclusively for carrying freight.
+"Dumbwaiter" does not include a dormant dumbwaiter;
+(10) "Elevator" means a hoisting and lowering mechanism equipped with
+a car or platform that moves in guides in a substantially vertical direction and that
+serves two (2) or more floors of a building, including stairway-inclined lifts and
+platform lifts, for transportation of handicapped persons;
+(11) "Escalator" means a moving inclined continuous stairway or runway
+used for raising or lowering passengers;
+(12) "Freight elevator" means an elevator used primarily for carrying
+freight and on which only the operator and the persons necessary for loading and
+unloading are permitted to ride;
+(13) "Moving walks" means a moving runway for transporting
+passengers, where the passenger transporting surface remains parallel to its
+direction of motion and is uninterrupted;
+(14) "Operator" means a person or the agent of a person who owns or
+controls, or has the duty to control, the operation of an amusement device or
+related electrical equipment;
+(15) "Owner" means a person that owns, leases, controls, or manages
+the operations of an amusement device and may include this state or any
+political subdivision of this state;
+- 7 - 015293
+
+(16) "Passenger elevator" means an elevator that is used to carry
+persons other than the operator and persons necessary for loading and
+unloading;
+(17) "Qualified inspector" means any person who is:
+(A) Found by the commissioner to possess the requisite training
+and experience in respect to amusement devices to perform competently
+the inspections required by this chapter;
+(B) Certified by the National Association of Amusement Ride
+Safety Officials (NAARSO) to have and maintain at least a level one (1)
+certification;
+(C) Is a member of, and certified by, the Amusement Industry
+Manufacturing and Suppliers (AIMS); or
+(D) Is a member of, and certified by, the Association for
+Challenge Course Technology (ACCT);
+(18) "Related electrical equipment" means any electrical apparatus or
+wiring used in connection with amusement devices;
+(19) "Safety rules" means the rules governing rider conduct on an
+amusement device pursuant to § 68-121-124;
+(20) "Serious incident" means any single incident where any person is
+immediately transported to a licensed off-site medical care facility for treatment of
+an injury as a result of being on, or the operation of, the amusement device; and
+(21) "Serious physical injury" means a patron's personal injury
+immediately reported to the owner or operator as occurring on an amusement
+device and that results in death, dismemberment, significant disfigurement, or
+other significant injury that requires immediate in-patient admission and twenty-
+four-hour hospitalization under the care of a licensed physician for other than
+medical observation.
+- 8 - 015293
+
+68-121-103. Duties and powers of the division — Rules.
+(a) The division shall license elevator inspectors pursuant to this chapter, and
+shall consult with engineering authorities and organizations studying and developing
+safety codes, including the American Standards Association. The division shall
+determine what rules govern the qualifications, training, and duties of elevator operators,
+the operation, maintenance, construction, alteration, and installation of elevators,
+dumbwaiters, and escalators, and the inspection of new and existing installations are
+adequate, reasonable, and necessary to provide for the safety of persons and property,
+and to protect the public welfare, and upon such determination shall promulgate, amend,
+or repeal rules:
+(1) For the maintenance and operation of all elevators, dumbwaiters, and
+escalators;
+(2) For the construction of new elevators, dumbwaiters, and escalators;
+(3) For the alteration of existing elevators, dumbwaiters, and escalators;
+(4) Prescribing minimum safety requirements for all existing elevators,
+dumbwaiters, and escalators; and
+(5) Prescribing the fees for construction permits, operating permits,
+acceptance inspections, initial inspections, and periodic inspections for new and
+existing elevators, dumbwaiters, and escalators.
+(b) All technical issues concerning elevators, dumbwaiters, escalators, aerial
+passenger tramways, and amusement devices must be reviewed by the division, which
+shall report findings and recommendations to the commissioner or commissioner's
+designee for final disposition.
+(c) The division is also vested with the duty, power, authority, and responsibility
+to regulate aerial passenger tramways and moving walks in the same manner as
+provided in this chapter for elevators, dumbwaiters, and escalators.
+- 9 - 015293
+
+(d) Any new technology, as defined in the adopted version of the Elevator Safety
+Code, adopted pursuant to rules promulgated pursuant to subdivision (a)(4), is
+authorized for use under this chapter; provided, that such technology meets the latest
+published standards of the American Society of Mechanical Engineers Safety Code for
+Elevators and Escalators.
+(e) The division has the following powers related to amusement device safety in
+addition to those related to elevators, dumbwaiters, escalators, and aerial passenger
+tramways pursuant to subsections (a)-(c):
+(1) To consult with engineering authorities and organizations that are
+studying and developing amusement device safety standards;
+(2) To promulgate rules governing the owner's duty of reasonable care
+for the installation, assembly, disassembly, repair, maintenance, use, testing,
+operation, and inspection of amusement devices. The division has the authority
+to adopt a safety code. In promulgating the amusement device safety code of
+rules, the division may consider any existing or future American Society for
+Testing and Materials (ASTM) safety standards affecting amusement devices, or
+any other nationally acceptable standard; and
+(3) To make recommendations to the commissioner concerning the
+division's findings on safety issues related to amusement devices.
+(f) Any rules promulgated under this section must be of a reasonable nature, and
+based upon generally accepted engineering standards, formulas, and practices, and
+insofar as is practicable and consistent with this chapter, must be uniform with the rules
+promulgated in other states. The rules must be promulgated in accordance with the
+Uniform Administrative Procedures Act, compiled in title 4, chapter 5.
+68-121-104. Powers and duties of department.
+(a) Except where otherwise provided, the department shall enforce this chapter
+and the rules promulgated by the division.
+- 10 - 015293
+
+(b) The department shall exercise enforcement over moving walks in the same
+manner and to the same extent as provided in this chapter for elevators, dumbwaiters,
+and escalators.
+(c) The commissioner shall promulgate rules necessary to administer this
+chapter, including rules for the reporting of any fatalities or serious physical injuries
+incurred from the operation of amusement devices, or specifically related electrical
+equipment, and the subsequent inspection of the amusement devices and related
+electrical equipment. The rules shall be promulgated in accordance with the Uniform
+Administrative Procedures Act, compiled in title 4, chapter 5.
+(d) The commissioner shall promulgate rules to establish fees. The rules shall
+be promulgated in accordance with the Uniform Administrative Procedures Act, compiled
+in title 4, chapter 5.
+68-121-105. Registration of elevators, dumbwaiters, and escalators.
+The owner or lessee of every existing elevator, dumbwaiter, and escalator shall
+register with the department each elevator, dumbwaiter, or escalator owned or operated
+by such owner or lessee. The owner or lessee shall provide the type, contract load and
+speed, name of the manufacturer, its location and the purpose for which it is used, and
+such other information as the department may require as part of the registration, which
+must be made on a form furnished by the department.
+68-121-106. Schedule for inspecting and testing of elevators, dumbwaiters, and
+escalators — Report of inspections — Failure to file report.
+All new, altered, and existing elevators, dumbwaiters, and escalators, except
+dormant elevators, dumbwaiters, and escalators, must be tested and inspected in
+accordance with the following schedule:
+(1) Initial inspection test of new or altered installations. Every new
+or altered elevator, dumbwaiter, and escalator must be inspected and tested in
+conformity with the applicable rules promulgated by the division before the
+- 11 - 015293
+
+operating permit, required by § 68-121-107, is issued. The inspections and tests
+must be made under the supervision of an elevator inspector licensed and
+employed by this state;
+(2) Initial inspection of existing elevators, dumbwaiters, and
+escalators. The owner or lessee of every existing passenger elevator or
+escalator shall cause such passenger elevator or escalator to be inspected within
+three (3) months, and the owner or lessee of every existing freight elevator or
+dumbwaiter shall cause such freight elevator or dumbwaiter to be inspected
+within six (6) months after the effective date of the rules promulgated by the
+division under § 68-121-103, except that the commissioner may, at the
+commissioner's discretion, extend the time specified in this subdivision (2) for
+making such inspections;
+(3) Periodic inspections. The owner or lessee shall cause an
+inspection of every passenger elevator, dumbwaiter, escalator, and freight
+elevator to be made periodically every sixth calendar month, following the month
+in which the initial inspection required by subdivision (1) or (2) has been made;
+provided, that, any such inspection of either a passenger elevator, dumbwaiter,
+escalator, or freight elevator may be made within the first fifteen (15) days of the
+month following the calendar month during which such inspection is due. The
+inspections required by subdivisions (2) and (3) must be made only by elevator
+inspectors who have been licensed in accordance with § 68-121-110;
+(4) Required inspections. The inspections required by subdivisions (1)-
+(3) are required inspections;
+(5)
+(A) Report of inspections. A report of every required inspection
+must be filed with the department by the inspector making the inspection
+on a form approved by the department within twenty (20) days after the
+- 12 - 015293
+
+inspection or test has been completed. For the inspections required by
+subdivisions (1)-(3), the report must include all information required by the
+department to determine whether the elevator, dumbwaiter, or escalator
+is in a safe operating condition and whether the owner or lessee of the
+elevator or escalator has complied with those rules promulgated by the
+division under § 68-121-103 that are applicable;
+(B) For the inspection required by subdivision (1), the report must
+indicate whether the elevator, dumbwaiter, or escalator has been installed
+in accordance with the permit issued by the department, and meets the
+requirements of the applicable rules promulgated by the division under §
+62-121-103;
+(6) Failure to file report of inspection with department. If the report
+required by subdivision (5) is not filed with the department within twenty (20)
+days after the final date when the elevator, dumbwaiter, escalator, or moving
+walk should have been inspected, as required by subdivisions (2) and (3), then
+the commissioner shall designate a licensed inspector in the employ of this state
+to make the inspection and to report to the department. For each such
+inspection and report made at the direction of the commissioner, the owner or
+lessee of the elevator, dumbwaiter, escalator, or moving walk shall pay to the
+department an inspection fee to be charged as adopted by the division under §
+68-121-103(a)(5). The fees must be paid directly to the department, must not be
+paid to the inspector, and is the only fee for which the owner or lessee is liable
+under this chapter for the inspections required by subdivisions (2) and (3); and
+(7) Additional inspections. In addition to such required inspections, the
+commissioner may designate a licensed inspector in the employ of this state to
+make such additional inspections as may be required to enforce this chapter and
+the rules promulgated by the division under § 68-121-103.
+- 13 - 015293
+
+68-121-107. Operating permits.
+(a) It is unlawful to operate any elevator, dumbwaiter, or escalator without a valid
+operating permit issued in accordance with this section. If an inspection report indicates
+compliance with this chapter, the commissioner shall issue an operating permit to the
+owner or lessee of such elevator, dumbwaiter, or escalator; provided, that permits must
+not be issued if the fees required by § 68-121-106 have not been paid. The operating
+permit is issued for the period covered by the inspection required by § 68-121-106(1)
+and (2), must state the contract load and speed for such elevator, dumbwaiter, or
+escalator, and must be posted conspicuously in the car or cage or in the platform of the
+elevator and on or near the dumbwaiter or escalator. The operating permit may be
+extended by endorsement of the commissioner or the commissioner's duly appointed
+agent after each periodic inspection required by § 68-121-106(3).
+(b) If the inspection report required by § 68-121-106 indicates failure of
+compliance with applicable rules promulgated by the division under § 68-121-103, the
+commissioner shall give notice to the owner or lessee or the person or persons of
+changes necessary for compliance with the rules. After the changes have been made,
+the commissioner shall issue an operating permit. The fee to be charged for the
+operating permit issued under this chapter must be adopted by the division pursuant to §
+68-121-103(a)(5).
+(c) If the inspection report required by § 68-121-106 indicates that an elevator or
+escalator is in an unsafe condition, so that its continued operation may be dangerous to
+public safety, then the commissioner may, at the commissioner's discretion, require the
+owner or lessee to discontinue the use of such elevator or escalator until it has been
+made safe and in conformity with the rules promulgated by the division. If the
+commissioner has reason to believe that any owner or lessee to whom an operating
+permit has been issued is not complying with the applicable rules promulgated by the
+division under § 68-121-103, the commissioner shall so notify the owner or lessee and
+- 14 - 015293
+
+shall give notice of a date for a hearing on the noncompliance to the owner or lessee. If,
+after the hearing, the commissioner finds that the owner or lessee is not complying with
+the rules, the commissioner shall revoke the permit.
+(d) An operating permit is not required for elevators or escalators that are
+located in a highly restricted area owned and operated by the United States government.
+A state permit must not be issued for elevators located in municipalities where elevator
+inspection ordinances are in force in accordance with § 68-121-111, it being the
+responsibility of such municipalities to make the inspections and collect permit fees
+within their respective jurisdictions.
+68-121-108. Installations, relocations, or alterations — Submission of plans —
+Fees.
+(a) Plans and specifications. On and after the effective date of the rules
+promulgated by the division under § 68-121-103, detailed plans and specifications of
+each elevator, dumbwaiter, or escalator to be thereafter installed, relocated, or altered
+must be submitted to the department or its authorized representative, together with an
+application for a construction permit or form to be furnished or approved by the
+department or its authorized representative. Repairs or replacements normally
+necessary for maintenance may be made on existing installations with parts equivalent
+in material, strength, and design to those replaced, and such repairs or replacements do
+not require plans, specifications, or application to be filed.
+(b) Construction permits.
+(1) The department or its authorized representatives shall issue a
+construction permit for every new elevator, dumbwaiter, or escalator installation
+or alteration before the installation of the elevator, dumbwaiter, or escalator is
+started. The department or its authorized representative shall issue such permit,
+if the plans and specifications required under subsection (a) indicate compliance
+with the applicable rules promulgated by the division under § 68-121-103. If such
+- 15 - 015293
+
+plans and specifications indicate failure to comply with the applicable rules
+promulgated by the division under § 68-121-103, the department or its authorized
+representative shall give notice to the person filing the application of changes
+necessary for compliance with the applicable rules.
+(2) After such changes have been made, the department or its
+authorized representative shall issue a construction permit. A permit is not
+required for the repairs or replacements normally necessary for maintenance.
+(c) Fees.
+(1) A fee must be paid to the department or its authorized representative
+for issuing a construction permit required under subsection (b) for each new or
+altered elevator, dumbwaiter, escalator, or moving walk. The division shall set
+the construction permit fees by rules promulgated under § 68-121-103(a)(5). The
+division shall set the fees in an amount sufficient to fund the cost of administering
+this chapter. Funds remaining in division accounts at the end of any fiscal year
+do not revert to the general fund but remain available for expenditure in
+accordance with law.
+(2) A fee must be paid to the department or its authorized representative
+for the issuing of construction permits required by subsection (b) for each new or
+altered aerial passenger tramway. The division shall set the construction permit
+fees by rules promulgated under § 68-121-103(a)(5). The division shall set the
+fees in an amount sufficient to fund the cost of administering this chapter. Funds
+remaining in division accounts at the end of any fiscal year do not revert to the
+general fund but remain available for expenditure in accordance with law.
+(3) A fee must be paid to the department or its authorized representative
+for the acceptance inspection and for each unscheduled follow-up inspection
+following the construction or alteration of an elevator, dumbwaiter, escalator,
+moving walk, or aerial passenger tramway. The division shall set the acceptance
+- 16 - 015293
+
+inspection fees by rules promulgated under § 68-121-103(a)(5). The division
+shall set the fees in an amount sufficient to fund the cost of administering this
+chapter. Funds remaining in division accounts at the end of any fiscal year do
+not revert to the general fund but remain available for expenditure in accordance
+with law.
+68-121-109. Maintenance in safe operating condition.
+(a) The owner or lessee shall maintain every elevator, dumbwaiter, and
+escalator in a safe operating condition so that it conforms to the rules and requirements
+of the division as promulgated under § 68-121-103.
+(b) Every aerial passenger tramway must be maintained by the owner or lessee
+in a safe operating condition so that it conforms to the rules and requirements of the
+division as promulgated under §§ 68-121-101, 68-121-103, 68-121-108, and this section.
+(c)
+(1) As provided in the applicable codes of the American Society of
+Mechanical Engineers (ASME) as adopted by the division, each elevator must
+have a means of two-way communication. The code requirement of two-way
+communication may be satisfied with a dedicated line, a line consolidation
+technology that enables the simultaneous operation of more than one (1)
+communication device, or an intercom system where a central answering location
+is staffed twenty-four (24) hours a day.
+(2) If this state chooses to upgrade its two-way communication system in
+elevators in state facilities, funds in the facilities revolving fund may be used for
+such upgrade.
+68-121-110. Licensing inspectors — Qualifications — Examinations — Fee —
+Revocation of license.
+(a) A person must not be licensed as an elevator inspector to inspect elevators,
+escalators, or new or altered dumbwaiters, unless the person is an employee of this
+- 17 - 015293
+
+state authorized to inspect elevators, escalators, and dumbwaiters, an employee
+authorized to inspect elevators, escalators, and dumbwaiters for any insurance company
+insuring such elevators, escalators, and dumbwaiters in this state, or contracted by the
+division to inspect elevators, escalators, or new or altered dumbwaiters in this state;
+provided, that the person has satisfied the requirements for licensure established in rules
+promulgated by the division under § 68-121-103.
+(b) If the division has reason to believe that a licensed inspector is no longer
+qualified to hold such licensed inspector's license, it shall give such inspector reasonable
+notice of the time and place of a hearing at which the division shall inquire into the
+inspector's fitness and competency to act as an elevator inspector. If the division finds
+that such inspector is no longer qualified to act as an elevator inspector, the division
+shall revoke such inspector's license, and such inspector shall not thereafter make any
+inspection required under this chapter.
+68-121-111. Municipal laws or ordinances unaffected.
+This chapter does not replace any municipal law or ordinance in municipalities
+having regulations controlling the design, construction, location, installation, inspection,
+and operation of elevators, dumbwaiters, or escalators where such local laws,
+ordinances, or regulations are in substantial conformity with the commonly accepted
+standards of safety concerning the design, construction, location, installation, inspection,
+and operation of elevators, dumbwaiters, or escalators and in substantial conformity with
+the published standards of the American Standard Safety Code for Elevators,
+Dumbwaiters, and Escalators. This chapter does not prevent the local officials or boards
+of such municipalities from the exclusive right to regulate or enforce all such local laws,
+ordinances, or regulations now in force or hereafter enacted as may comply with the
+standards defined in this part, and this chapter does not permit the erection of elevators,
+dumbwaiters, or escalators without first obtaining a building or like permit from the
+proper municipal authorities in compliance with local laws and ordinances provided here.
+- 18 - 015293
+
+68-121-112. Appeals.
+(a) Any person aggrieved by an order or act of the commissioner or department
+under this chapter may, within fifteen (15) days after notice of such order or act, appeal
+such order or act to the division.
+(b) The division shall hear the appeal in accordance with the Uniform
+Administrative Procedures Act, compiled in title 4, chapter 5.
+68-121-113. Violations to be prosecuted.
+Prosecutions for violations of this chapter are instituted by the commissioner and
+are in the form of summary proceedings before a court of competent jurisdiction. Upon
+conviction after a hearing, the penalties provided for in rule are imposed and are final,
+subject to appeal to a court of proper jurisdiction in the manner prescribed by law.
+68-121-114. Penalties for violations of chapter or permit fee requirements.
+(a) The department may promulgate rules to establish a civil penalty schedule
+for violations of this chapter or of rules promulgated by the division, or for anyone who
+fails to or neglects to pay the fees as required under this chapter.
+(b) Any person, firm, or corporation that violates this chapter or the rules
+promulgated by the division, or who fails or neglects to pay the fees as required in this
+chapter, commits a Class C misdemeanor.
+(c) Notwithstanding subsection (a) to the contrary, any person who knowingly
+makes a false statement, representation, or certification in an application, record, report,
+or other document filed or required to be maintained under this chapter commits a Class
+A misdemeanor.
+68-121-115. Amusement devices — Legislative findings.
+(a) The general assembly finds that:
+(1) An unsafe amusement device is likely to cause serious and
+preventable injuries to members of the public; and
+- 19 - 015293
+
+(2) For the welfare of the people of this state, these injuries must be
+prevented, and the public must be protected from unsafe amusement devices.
+(b) The purpose of regulating amusement devices is to ensure, as far as
+reasonably possible, the safety of the public in the use of amusement devices in this
+state by providing for:
+(1) Adoption of safety regulations for the owner's duty of reasonable
+care;
+(2) An effective enforcement and compliance program;
+(3) Reporting procedures on the safety of amusement devices; and
+(4) Safety provisions governing riders' use of amusement devices.
+68-121-116. Violations — Penalties.
+(a)
+(1) It is an offense, punishable as provided in § 68-121-114, for:
+(A) The owner of any amusement device to operate, or permit
+any person to operate, an amusement device, unless a permit has been
+issued by the department to the owner of the amusement device, which
+permit is valid in any and all counties in this state for one (1) year from the
+date the permit is issued; or
+(B) A person to operate an amusement device, if the person:
+(i) Has knowledge that the annual permit required,
+pursuant to subdivision (a)(1)(A), has not been issued to the
+owner;
+(ii) Does not have authority to operate the amusement
+device; or
+(iii) Operates the amusement device beyond the
+authorization given to the person by the owner.
+- 20 - 015293
+
+(2) If the amusement device is not at a fixed location within this state,
+then the owner of the amusement device is only required to obtain one (1) such
+annual permit, and the permit must be displayed in a conspicuous location.
+(b) The department is authorized to charge a fee, to be set by the department by
+rule, for the issuance of an annual permit, but the department shall not issue the permit
+until the owner furnishes to the department proof of insurance for, and proof of
+inspection of, the amusement device or devices by any authorized insurer, or its
+designated representative. The proof of insurance must be in an amount set by the
+department by rule, insuring the owner or operator against liability for bodily injury and
+property damage arising from the use of the amusement device.
+(c)
+(1) If the annual permit is issued for an individual amusement device, the
+permit must be prominently displayed on the amusement device.
+(2) If the annual permit is issued for amusement devices to an enterprise
+that has multiple amusement devices owned or managed by one (1) owner, the
+permit must be filed at the main office of the site where the amusement devices
+are located, and must be available for inspection by any public official during the
+normal business hours of the office and by members of the public during the
+normal business operating hours of the amusement devices.
+(d) The policy or bond required by this section must be on a standardized form
+approved by the department and obtained from one (1) or more insurers or sureties
+qualified to do business in this state.
+68-121-117. Responsibilities of owner or operator of amusement device — Report
+of fatalities, physical injuries, or incidents — Inspections — Penalties.
+(a) The owner or operator of an amusement device shall immediately cease to
+operate any amusement device upon which a fatality, serious physical injury, or serious
+incident has occurred. An owner shall report any accident involving a fatality, serious
+- 21 - 015293
+
+physical injury, or serious incident resulting from the operation of an amusement device
+to the commissioner, in writing, within twenty-four (24) hours and contact a qualified
+inspector from the list maintained by the commissioner pursuant to § 68-121-118 to
+conduct an inspection.
+(b) The cessation remains in force until an inspection has been performed by a
+qualified inspector, the inspector has determined that the amusement device or related
+equipment is safe for public use, and the department has authorized the owner or
+operator to resume operation of the amusement device.
+(c) The qualified inspector shall initiate the inspection within twenty-four (24)
+hours of receipt of the report of a fatality, serious physical injury, or serious incident
+caused by the operation of an amusement device and shall perform the inspection in a
+manner that proceeds with all practicable speed and minimizes the disruption of the
+remainder of the amusement devices at the site where the amusement device is located,
+as well as unrelated commercial activities. The owner of the amusement device shall
+pay for the cost of an inspection. The amusement device may resume operation, upon
+authorization from the department, immediately following the reasonable determination
+by a qualified inspector that a principal cause of the serious physical injury was the
+victim's failure to comply with the posted safety rules or with verbal instructions. If an
+owner or operator of an amusement device fails to comply with a requirement under this
+section, then the department must assess a penalty against that owner or operator each
+day until full compliance is achieved.
+68-121-118. Qualified inspectors.
+(a) The commissioner shall compile a list of qualified inspectors. The
+department shall post the list on the website maintained by the department.
+(b) The commissioner may employ or contract with qualified inspectors to
+conduct inspections of amusement devices pursuant to this chapter. However, if the
+- 22 - 015293
+
+commissioner does not employ or contract with qualified inspectors, then owners and
+operators shall provide the commissioner with all resulting inspection reports.
+68-121-119. Operation of amusement device — Inspections — Permit.
+(a) A person shall not operate an amusement device unless the owner of the
+amusement device has the device inspected at least once annually by a qualified
+inspector, who is either provided by the commissioner or whom the owner or insurer has
+selected from the lists maintained on the department's website pursuant to § 68-121-
+118, and has obtained written documentation from the qualified inspector that the
+inspection has been made and the amusement device meets American Society of
+Testing Materials (ASTM) standards or the Association for Challenge Course
+Technology (ACCT) industry standards. The owner of the amusement device is solely
+responsible for the cost of an inspection conducted pursuant to this subsection (a).
+(b) The inspection required pursuant to subsection (a) must be conducted, at a
+minimum, to meet the manufacturer's or engineer's specifications and to follow the
+applicable ASTM standards or ACCT industry standards.
+(c) The commissioner, or the commissioner's designee, may conduct a spot
+inspection of any amusement device without notice at any time while the amusement
+device is operating or will be operating in this state. The commissioner's designee may
+order the temporary suspension of an operating permit if it is determined after a spot
+inspection that an amusement device or devices are hazardous or unsafe. Operation of
+the amusement device must not resume until the hazardous or unsafe condition has
+been corrected and subjected to reinspection by the commissioner, or the
+commissioner's designee, for an inspection fee established by rule.
+(d) An operator of an amusement device must be competent and at least sixteen
+(16) years of age. An operator shall not operate more than one (1) amusement device
+at any one (1) time and must be present at all times the device is in operation.
+- 23 - 015293
+
+68-121-120. Maintenance, inspection, and accident records for amusement device
+— Proof of inspection.
+(a) Each owner or operator shall retain on the premises or with a traveling or
+portable amusement device for at least twenty-four (24) months, all maintenance,
+inspection, and accident records for each amusement device. The owner shall make the
+records for the amusement device under inspection for failure or malfunction available to
+the commissioner upon request. The documents may be kept electronically or digitally.
+(b) An owner or operator of an amusement device, as applicable, shall
+prominently display or have available on location the amusement device's proof of
+inspection, which must include the date of the last inspection of the amusement device.
+68-121-121. Itinerary of traveling or portable amusement devices — Filing and
+content.
+(a) The owner or operator of traveling or portable amusement devices shall file
+an itinerary with the department on a form prescribed by the commissioner no less than
+thirty (30) days before the operation of an amusement device for use by the public.
+(b) The itinerary must include:
+(1) The name of the amusement device owner;
+(2) The carnival, fair, or activity sponsor;
+(3) The address and telephone number of the owner of the site or
+persons associated with the site;
+(4) The dates open to the public; and
+(5) The name of the contact person on site.
+68-121-122. Operation of amusement device during pendency of cessation —
+Remedies.
+In addition to any other remedies, if an owner, operator, or person in charge of an
+amusement device continues to operate an amusement device during the pendency of a
+cessation pursuant to § 68-121-117 or § 68-121-119, then the commissioner may
+- 24 - 015293
+
+petition the circuit court, in an action brought in the name of this state, for a writ of
+injunction to restrain the use of the alleged defective amusement device.
+68-121-123. Liability for accidents.
+This state and its officers and employees or members of the division are not
+liable for damages arising out of an accident involving an amusement device by reason
+of administration of this chapter.
+68-121-124. Safety rules governing rider — Violations and penalties — Duty to
+report injuries — Display of rules.
+(a) A rider on an amusement device shall, at a minimum:
+(1) Obey the reasonable safety rules posted in accordance with
+subsection (g) and oral instructions for an amusement device issued by the
+amusement device's owner or the owner's employee or agent, unless:
+(A) The safety rules are contrary to those issued by the division;
+or
+(B) The oral instructions are contrary to the safety rules; and
+(2) Refrain from acting in any manner that may cause or contribute to
+injuring the rider or others, including:
+(A) Interfering with the safe operation of the amusement device;
+(B) Not engaging any safety devices that are provided;
+(C) Disconnecting or disabling a safety device except at the
+express instruction of the operator;
+(D) Altering or enhancing the intended speed, course, or direction
+of an amusement device;
+(E) Extending arms and legs beyond the carrier or seating area
+except at the express direction of the amusement device operator;
+(F) Throwing, dropping, or expelling an object from or toward an
+amusement device;
+- 25 - 015293
+
+(G) Getting on or off an amusement device except at the
+designated time and area, if any, at the direction of the amusement
+device operator, or in an emergency; and
+(H) Unreasonably controlling the speed or direction of the rider or
+an amusement device that requires the rider to control or direct the rider
+or a device.
+(b) A rider of an amusement device shall not get on, enter, or attempt to get on
+an amusement device unless the rider reasonably determines that, at a minimum, the
+rider:
+(1) Has sufficient knowledge to use, get on, enter, or get off the
+amusement device safely without instruction or has requested and received
+before getting on the amusement device sufficient information to get on, use,
+enter, or get off safely;
+(2) Has located, reviewed, and understood any signs in the vicinity of the
+amusement device and has satisfied any posted height, medical, or other
+restrictions and abided by all rules, regulations, and restrictions;
+(3) Is not under the influence of alcohol or any drug that affects the rider's
+ability to safely use the amusement device or obey the posted rules or oral
+instructions; and
+(4) Is authorized by the amusement device owner or the owner's
+authorized servant, agent, or employee to get on the amusement device.
+(c)
+(1) It is an offense for a person to knowingly violate subsection (a) or (b).
+(2) A violation of subdivision (c)(1) is a Class C misdemeanor,
+punishable by a fine only.
+- 26 - 015293
+
+(d) A rider, or the rider's parent or guardian on the rider's behalf, shall report in
+writing to the owner any injury sustained on an amusement device before leaving the
+owner's premises, including:
+(1) The name, address, and phone number of the injured person;
+(2) A full description of the incident, the injuries claimed, any treatment
+received, and the location, date, and time of the injury;
+(3) The cause of the injury, if known; and
+(4) The names, addresses, and phone numbers of any witnesses to the
+incident.
+(e) If the rider, or the rider's parent or guardian on a rider's behalf, is unable to
+file a report before leaving the owner's premises because of the severity of the rider's
+injuries, the rider, or the rider's parent or guardian, shall file the report as soon as
+reasonably possible.
+(f) The failure of a rider, or the rider's parent or guardian on a rider's behalf, to
+report an injury under this section has no effect on the rider's right to commence a civil
+action.
+(g) Safety rules governing rider conduct must be prominently displayed at or
+near the entrance to, or loading platform for, the amusement device.
+68-121-125. Transfer of funds — Relocation and implementation of
+responsibilities — Reports.
+(a) The department of labor and workforce development shall transfer all funds
+from funds, reserve accounts, and any other source relating to the administration of the
+elevator and amusement device safety board to the department.
+(b) The department of labor and workforce development shall submit and
+provide access to all relevant information, technical details, specifications, and data
+required to relocate the responsibilities outlined in this chapter to the department on July
+1, 2026.
+- 27 - 015293
+
+(c) The department shall complete all work necessary to fully implement and
+assume all of the responsibilities set forth in this chapter by July 1, 2027.
+(d) The department of labor and workforce development shall transfer all
+employees necessary to properly support the department on July 1, 2027. All
+transferred employees must be reassigned to the department's office building as of the
+date of their transfer, or as soon as practicable.
+(e) The department may adapt or change all transferred systems, programs, and
+operational processes as necessary to properly support the department.
+68-121-126. Creation of the elevator and amusement device advisory council.
+The department may establish an elevator advisory council, an amusement
+device council, or both, which may convene on an as-needed basis to advise the
+department on matters related to elevator and amusement device safety. If formed,
+advisory council members serve at the will of the commissioner.
+SECTION 5. Tennessee Code Annotated, Title 68 Chapter 122, is amended by deleting
+the chapter and substituting:
+68-122-101. Short title.
+This part is known and may be cited as the "Boiler Installation and Inspection
+Act."
+68-122-102. Rules — Part definitions.
+(a) The division shall formulate definitions and promulgate rules for the safe and
+proper construction, installation, repair, use, and operation of boilers in this state. The
+definitions and rules so formulated must be based upon, and, at all times, follow the
+generally accepted nationwide engineering standards, formulae, and practices
+established and pertaining to boiler construction and safety, and the division may, by
+resolution, adopt an existing published codification of standards, formulae, and practices
+known as the Boiler Construction Code of the American Society of Mechanical
+Engineers, with the amendments and interpretations of the code made and approved by
+- 28 - 015293
+
+the council of the society, and may likewise adopt the amendments and interpretations
+subsequently made and published by the same authority, and when so adopted, the
+code is deemed incorporated into, and to constitute a part of the whole of the definitions
+and rules of the division. Amendments and interpretations to the codes are adopted
+immediately upon being promulgated.
+(b) The division shall promulgate rules for the safe and proper installation, repair,
+use, and operation of boilers that were in use or installed ready for use in this state prior
+to the date upon which the first rules under this part pertaining to existing installations
+became effective, or during the twelve-month period immediately thereafter.
+(c) The division shall promulgate rules establishing fees and civil penalties
+authorized by this chapter in amounts sufficient to pay the cost of operating this chapter.
+(d) The rules formulated by the division have the force and effect of law, except
+that the rules applying to the construction of new boilers must not be construed to
+prevent the installation thereof until twelve (12) months after their approval.
+(e) Amendments in the rules promulgated by the division are permissive
+immediately and are mandatory twelve (12) months after such approval.
+(f) As used in this part, unless the context otherwise requires:
+(1) "Autoclave" means a device that:
+(A) Sterilizes reusable medical or dental equipment used by an
+individual or entity licensed under this title or title 63;
+(B) Consists of an unfired pressure vessel with or without an
+integrated miniature boiler; and
+(C) Is regulated by the United States food and drug
+administration;
+(2) "Boiler" means and includes a closed vessel or vessels intended for
+use in heating water or other liquids or for generating steam or other vapors
+under pressure or vacuum by the direct application of heat from combustible
+- 29 - 015293
+
+fuels, electricity, or nuclear energy, and also includes an unfired pressure vessel,
+meaning a vessel in which pressure is obtained from an external source or from
+an indirect application of heat;
+(3) "Commissioner" means the commissioner of commerce and
+insurance;
+(4) "Department" means the department of commerce and insurance;
+and
+(5) "Miniature boiler" means a boiler designed and constructed not to
+exceed the following:
+(A) Sixteen inches (16") inside diameter of shell;
+(B) If a non-electric boiler, twenty (20) square feet of heating
+surface;
+(C) Five (5) cubic feet of gross volume, exclusive of the casing
+and insulation; and
+(D) One hundred pounds (100 lbs.) per square inch gauge
+maximum allowable working pressure.
+68-122-103. New installations must conform to rules.
+A boiler that does not conform to the rules promulgated by the division that
+govern new construction and installation must not be installed and operated in this state
+after twelve (12) months from the date the first rules pertaining to the new construction
+and installation of boilers become effective, unless the boiler is of special design or
+construction, and is not covered by the rules, nor is in any way inconsistent with such
+rules, in which case a special installation and operating permit may be granted, at the
+discretion of the commissioner.
+68-122-104. Existing boilers required to conform — Applicability.
+(a) All boilers that were in use, or installed ready for use in this state prior to the
+date upon which the first rules became effective, or during the twelve-month period
+- 30 - 015293
+
+immediately thereafter, must be made to conform to the rules of the division governing
+existing installations, and the formulae prescribed therein must be used in determining
+the maximum allowable working pressure for such boilers.
+(b) This part does not prevent the use or sale of boilers as referred to in
+subsection (a); provided, that the boilers have been made to conform to the rules of the
+division governing existing installations; and provided further, that they have not been
+found upon inspection to be in an unsafe condition.
+(c)
+(1) This part does not apply to historic power boilers. As used in this
+subdivision (c)(1), "historic power boilers" means any steam traction engine,
+portable, or stationary, standard, or nonstandard power boiler, including free-
+lance and scale models, owned by publicly operated museums, nonprofit
+organizations, and individuals who preserve, maintain, exhibit, and only
+occasionally operate these boilers on a not-for-profit basis, and for the primary
+purpose of perpetuating the agricultural and pioneer heritage of this state.
+(2) Such boilers must conform to the rules promulgated by the division.
+68-122-105. Exemptions — Municipal laws or ordinances.
+(a) This part does not apply to the following boilers:
+(1) Boilers under federal control or boilers that are used to generate
+electricity under contract with the Tennessee Valley authority (TVA);
+(2) Unfired pressure vessels that meet the requirements of the interstate
+commerce commission for shipment of liquids or gases under pressure;
+(3) Air tanks located on vehicles operating under the rules of other state
+authorities and used for carrying passengers or freight;
+(4) Air tanks installed on the right-of-way of railroads and used directly in
+the operation of trains;
+- 31 - 015293
+
+(5) Unfired pressure vessels having a volume of five (5) cubic feet or
+less;
+(6) Unfired pressure vessels designed for working pressure not
+exceeding fifteen pounds (15 lbs.) per square inch gauge;
+(7) Unfired pressure vessels containing liquefied petroleum gases;
+(8) Unfired pressure vessels contained within an autoclave; or
+(9) Miniature boilers that are integrated as components of medical
+devices regulated by the United States food and drug administration.
+(b) The following boilers are exempt from the requirements of §§ 68-122-110 —
+68-122-113:
+(1) Boilers located on farms and used solely for agricultural purposes;
+(2) Steam boilers used for heating purposes carrying a pressure of not
+more than fifteen pounds (15 lbs.) per square inch gauge that are located in
+private residences or in apartment houses of less than six (6) families;
+(3) Hot water heating boilers carrying a pressure of not more than thirty
+pounds (30 lbs.) per square inch gauge that are located in private residences or
+in apartment houses of less than six (6) families; or
+(4) Unfired pressure vessels containing only water under pressure for
+domestic supply purposes and operated at a temperature of not over two
+hundred degrees Fahrenheit (200°F), including those containing air, the
+compression of which serves only as a cushion for airlift pumping systems.
+(c)
+(1) This part does not replace any municipal law or ordinance in
+municipalities having regulations controlling the design, construction, location,
+installation, inspection, and operation of boilers where such local laws,
+ordinances, or regulations are in substantial conformity with the commonly
+accepted standards of safety concerning the design, construction, location,
+- 32 - 015293
+
+installation, inspection, and operation of boilers and in substantial conformity with
+the published standards of the Boiler Construction Code of the American Society
+of Mechanical Engineers. This part does not prevent the local officials or boards
+of such municipalities from the exclusive right to regulate or enforce all such local
+laws, ordinances, rules, and regulations now in force or enacted on or after the
+effective date of this act as may comply with the standards defined in this part.
+This part does not permit the erection of boilers without first obtaining a building
+or like permit from the proper municipal authorities in compliance with local laws
+ordinances, rules, and regulations.
+68-122-106. Administration – Duties and powers.
+The commissioner, or the commissioner's designee, shall employ, or contract
+with, persons to effectuate this part, including, but not limited to:
+(1) Prosecute all violators of this part;
+(2) Issue, suspend, or revoke for cause, inspection certificates as
+provided for in § 68-122-111;
+(3) Draw upon the state treasurer for funds necessary to meet the
+expenses authorized by this part, which include the necessary traveling
+expenses of the division and the division’s deputies and the expenses incident to
+the maintenance of the division;
+(4) Take action necessary for the enforcement of the laws of this state
+governing the use of boilers and of the rules of the division;
+(5) Keep a complete record of the type, dimensions, maximum allowable
+working pressure, age, condition, location, and date of the last recorded internal
+inspection of all boilers to which this part applies; and
+(6) Publish and distribute, among manufacturers and others requesting
+them, copies of the rules promulgated by the division.
+68-122-107. Deputy inspectors — Employment — Qualifications.
+- 33 - 015293
+
+The commissioner, or the commissioner's designee, shall employ, or contract
+with, deputy inspectors who are responsible to the commissioner, or the commissioner's
+designee.
+68-122-108. Special inspectors — Appointment — Duties — Right of inspection.
+(a) In addition to the deputy boiler inspectors authorized by § 68-122-107, the
+division may, upon the request of any company authorized to insure against loss from
+explosion of boilers and unfired pressure vessels in this state, or upon the request of any
+company operating unfired pressure vessels in this state having a regularly established
+inspection service maintained by the owner or user of pressure vessels subject to
+inspection and whose inspection service, personnel, equipment, and supervision meet
+the requirements prescribed by the division, issue to any inspectors of the company
+commissions as special inspectors; provided, that each such inspector, prior to receiving
+the inspector's commission, must satisfactorily pass the examination provided for in §
+68-122-109 or, in lieu of the examination, must hold a commission or a certificate of
+competency as an inspector of boilers and unfired pressure vessels for a state that has a
+standard of examination substantially equal to that of this state, or a certificate as an
+inspector of boilers issued by the national board of boiler and pressure vessel
+inspectors. A commission as a special inspector for a company operating unfired
+pressure vessels in this state may be issued only if, in addition to meeting the
+requirements stated in this subsection (a), the inspector is continuously employed by the
+company for the purpose of making inspections of unfired pressure vessels used, or to
+be used, by such company, and not for resale. Special inspectors of a company
+operating unfired pressure vessels, commissioned under this section, are not authorized
+to inspect boilers.
+(b) Such special inspectors receive no salary from, nor are their expenses paid
+by, this state, and the continuance of a special inspector's commission is conditioned
+upon the special inspector continuing in the employ of a boiler insurance company duly
+- 34 - 015293
+
+authorized as provided for in subsection (a) or upon continuing in the employ of a
+company operating unfired pressure vessels in this state, and upon the special
+inspector's maintenance of the standards imposed by this part.
+(c) Special inspectors shall inspect all boilers and unfired pressure vessels
+insured or all unfired pressure vessels operated by their respective companies and,
+when so inspected, the owners and users of such boilers and unfired pressure vessels
+are exempt from the payment to this state of the inspection fees.
+(d) Each company employing special inspectors shall, within thirty (30) days
+following each internal and external boiler or unfired pressure vessel inspection made by
+such inspectors, file a report of the inspection with the division upon appropriate forms
+as promulgated by the American Society of Mechanical Engineers.
+(e) The commissioner, or the commissioner's designee, has free access, during
+reasonable hours, to any premises in this state where a boiler or unfired pressure vessel
+is being constructed, or is being installed, for the purpose of ascertaining whether the
+boiler or unfired pressure vessel is constructed and installed in accordance with this part.
+(f) The special inspectors commissioned under this section and their employers,
+agents, or service contractors have the same liability, as provided in § 9-8-307, for the
+performance of their services as deputy inspectors authorized under § 68-122-107 or
+state employees acting within the scope of their employment.
+68-122-109. Examinations for Inspectors — Suspension or revocation of
+commission Replacement when lost.
+(a) Examinations for chief, deputy, or special inspectors must be administered
+by a National Board of Boiler and Pressure Vessel Inspectors' member jurisdiction; the
+National Board of Boiler and Pressure Vessel Inspectors during the last day of the In-
+service Commission (IS) two-week course; an on-demand provider approved by the
+National Board of Boiler and Pressure Vessel Inspectors; or other testing methods
+approved by the National Board of Boiler and Pressure Vessel Inspectors. The
+- 35 - 015293
+
+examinations must meet the requirements of the latest edition of the Rules for
+Commissioned Inspectors as approved by the National Board of Boiler and Pressure
+Vessel Inspectors. If an applicant fails to pass an examination, the applicant must follow
+the re-examination requirements of the latest edition of the Rules for Commissioned
+Inspectors. The record of an applicant's examination must be accessible to the applicant
+and the applicant's employer.
+(b) A commission may be suspended or revoked after due investigation and
+recommendation by the division to the commissioner for the incompetence or
+untrustworthiness of the holder of the commission, or for willful falsification of any matter
+or statement contained in the applicant's application or in a report of any inspection. A
+person whose commission has been suspended or revoked, except for
+untrustworthiness, may apply to the division for reinstatement or, in the case of
+revocation, for a new examination and commission after ninety (90) days from the
+revocation. A person whose commission has been suspended or revoked may appeal
+as provided in § 68-122-114 and be present in person and represented by counsel on
+the hearing of the appeal.
+(c) If a certificate or commission is lost or destroyed, a new certificate or
+commission must be issued in its place without another examination.
+68-122-110. Inspection of boilers.
+(a) Each boiler used or proposed to be used within this state, except boilers
+exempt in § 68-122-105, must be thoroughly inspected as to their construction,
+installation, condition, and operation as follows:
+(1) Power boilers must be inspected annually both internally and
+externally while not under pressure, and must also, if possible, be inspected
+externally while under pressure approximately six (6) months following the date
+of each internal inspection;
+- 36 - 015293
+
+(2) Low-pressure heating boilers must be inspected both internally and
+externally biennially where construction will permit;
+(3) Unfired pressure vessels subject to internal corrosion must be
+inspected both internally and externally biennially where construction will permit,
+except that the division may, in its discretion, provide for longer periods between
+inspections; and
+(4) Unfired pressure vessels not subject to internal corrosion must be
+inspected externally at intervals set by the division, but internal inspections are
+not required of unfired pressure vessels, the contents of which are known to be
+noncorrosive to the material of which the shell, head, or fittings are constructed,
+either from the chemical composition of the contents or from evidence that the
+contents are adequately treated with a corrosion inhibitor; provided, that such
+vessels are constructed in accordance with the rules of the division or in
+accordance with standards equivalent to the rules of the division in effect at the
+time of manufacture.
+(b) A grace period of two (2) months longer than the twelve-month period may
+elapse between internal inspections of a boiler while not under pressure or between
+external inspections of a boiler while under pressure.
+(c) The inspections required in this section are made by the division or by a
+special inspector provided for in this part.
+(d) If at any time a hydrostatic test is deemed necessary, it must be made, at the
+discretion of the inspector, by the owner or user of the boiler.
+(e) All boilers to be installed in this state after the twelve-month period from the
+date upon which the rules of the division become effective must be inspected during
+construction as required by the applicable rules of the division by an inspector
+authorized to inspect boilers in this state, or, if constructed outside of this state, by an
+inspector holding a certificate from the national board of boiler and pressure vessel
+- 37 - 015293
+
+inspectors, or a certificate of competency as an inspector of boilers for a state that has a
+standard of examination substantially equal to that of this state as provided in § 68-122-
+109.
+(f)
+(1) Notwithstanding subsection (a), the division may, in its discretion,
+grant a variance for longer intervals between inspections. All requests for boiler
+inspection variances must be submitted to the division in writing.
+(2) The division shall produce a guide and checklist setting forth
+conditions that must be met before a variance for longer intervals between
+inspections may be granted.
+(3) All boilers operating under a variance pursuant to this subsection (f)
+must be inspected externally while under pressure approximately every six (6)
+months for the duration of the variance.
+(4) Any boiler that fails an external inspection pursuant to subdivision
+(f)(3), must be shut down and inspected internally, and the variance must be
+rescinded.
+(g) The division may also, in its discretion, grant other variances where the
+division deems it necessary to protect the health, safety, and welfare of the public.
+68-122-111. Inspection certificates — Maximum certificate fees — Insured boilers
+— Suspension.
+(a) If, upon investigation, a boiler is found to comply with the rules of the division,
+the owner or user of the boiler shall pay directly to the division an appropriate certificate
+fee as adopted by the division pursuant to § 68-122-102, and the division, or such duly
+authorized representative, shall issue to such owner or user an inspection certificate
+bearing the date of inspection and specifying the maximum pressure under which the
+boiler may be operated. The inspection certificate is valid for not more than twenty-four
+(24) months, for power boilers, and for not more than twenty-six (26) months, for low-
+- 38 - 015293
+
+pressure heating boilers and unfired pressure vessels, from its date of issuance.
+Certificates must be posted under glass in the room containing the boiler inspected, or,
+in the case of a portable boiler, in a metal container to be fastened to the boiler or to be
+kept in a tool box accompanying the boiler.
+(b) An inspection certificate issued for an insured boiler inspected by a special
+inspector is not valid after the boiler for which it was issued ceases to be insured by a
+company duly authorized by this state to carry such insurance.
+(c) The commissioner or the commissioner's designee may suspend an
+inspection certificate when, in the commissioner's or the commissioner's designee's
+opinion, the boiler for which it was issued cannot be operated without menace to public
+safety, or when the boiler is found not to comply with the rules provided for in this part.
+A special inspector has corresponding powers with respect to inspection certificates for
+boilers insured by the company employing the special inspector. The suspension of an
+inspection certificate continues in effect until the boiler conforms to the rules of the
+division, and until the inspection certificate has been reinstated.
+68-122-112. Operation without certificate or at excessive pressure — Penalty.
+It is unlawful for any person, firm, partnership, or corporation to operate a boiler
+under pressure in this state without a valid inspection certificate. The operation of a
+boiler without such inspection certificate, or at a pressure exceeding that specified in
+such inspection certificate, constitutes a Class C misdemeanor on the part of the owner,
+user, or operator of the boiler. Each day of unlawful operation is a separate offense.
+68-122-113. Inspection fees.
+The commissioner shall promulgate rules to establish inspection fees in
+accordance with this part. The rules must be promulgated under the Uniform
+Administrative Procedures Act, compiled in title 4, chapter 5.
+68-122-114. Appeals from orders or acts of inspectors.
+- 39 - 015293
+
+Any person aggrieved by an order or act of an inspector under this part, may,
+within fifteen (15) days after notice thereof, appeal from such order or act to the division.
+The division shall hear the appeal in accordance with the Uniform Administrative
+Procedures Act, compiled in title 4, chapter 5.
+68-122-115. Receipt for fees — Fee increase as penalty — Fee exemptions.
+Invoices, receipts for fees, and penalties must be in an amount set by rule as
+promulgated by the division.
+68-122-201. Short title.
+This part is known and may be cited as the "Boiler Erectors and Repairers Act."
+68-122-202. License required.
+Any person, corporation, partnership, or firm engaged in or desiring to engage in
+the work of repairing or erecting steam boilers, steam kettles, pressure tanks, or steam
+generators in this state shall obtain a license to perform such work from the division, as
+created in the department of commerce and insurance by § 4-3-1303.
+68-122-203. "Erect" defined for this part.
+As used in this part, "erect":
+(1) Includes only such steam boilers, steam kettles, pressure tanks, or
+steam generators as are assembled at the place of installation, and does not
+include such steam boilers, steam kettles, pressure tanks, or steam generators
+as are constructed at the place of manufacture and delivered to the place of
+installation; and
+(2) Does not include sectional boilers constructed of cast iron.
+68-122-204. Application for license — Examination — Approval — Issuance.
+An application for license under this part must be made to the division, and the
+applicant must pass an examination as prescribed by the division. The applicant must
+also meet and continue to comply with the minimum qualifications established by the
+- 40 - 015293
+
+division and the recommended rules for repairs promulgated by the National Board of
+Boiler and Pressure Vessel Inspectors.
+68-122-205. License fee — Renewal — Fee maximums — Disposition of fees
+collected — Duty of enforcement.
+(a) The commissioner shall promulgate rules to establish initial license and
+license renewal fees under this part. The rules must be promulgated under the Uniform
+Administrative Procedures Act, compiled in title 4, chapter 5.
+(b) The licenses received under subsection (a) are valid for one (1) year from the
+date of issuance unless revoked for cause by the commissioner of commerce and
+insurance.
+(c) All fees under this part must be paid to the department of commerce and
+insurance and are expendable fees to be used by the department of commerce and
+insurance in enforcing this part.
+68-122-206. Exclusions.
+(a) This part does not apply to persons, corporations, partnerships, or firms that
+are complying with the rules of the interstate commerce commission or to persons,
+corporations, partnerships, or firms that have their own maintenance personnel who are
+limited to the lawful erection and repair of their own boiler equipment.
+(b) This part does not apply to those persons, corporations, partnerships, or
+firms engaged in the work of repairing or erecting those types of steam boilers
+specifically excluded by § 68-122-105.
+68-122-207. Local laws not affected.
+(a) This part does not replace any municipal law or ordinance that regulates and
+licenses the repair or erection of steam boilers, steam kettles, pressure tanks, or steam
+generators. This part does not prevent the local officials or board of such municipalities
+from the exclusive right to regulate or enforce all such local laws, ordinances, rules, and
+regulations in effect.
+- 41 - 015293
+
+(b) This part does not permit the repair or erection of boilers without first
+complying with the requirements of the local laws, ordinances, rules, and regulations
+provided for such repair or erection of boilers.
+68-122-208. Penalty for violation.
+(a) The department may impose civil penalties for violations of this chapter in an
+amount to be set by rule.
+(b) It is unlawful for any person, corporation, partnership, or firm to engage in the
+work of repairing or erecting steam boilers, steam kettles, pressure tanks, or steam
+generators in this state without a valid license as provided under this part.
+(c) Any violation of this part is a Class C misdemeanor. Each day of such
+violation constitutes a separate offense.
+(d) This section does not apply to any person repairing such equipment when a
+licensed repair worker cannot be readily obtained and an emergency exists.
+68-122-209. Creation of the boiler advisory council.
+The department may establish a boiler advisory council, which may convene on
+an as-needed basis to advise the department on matters related to boiler safety. If
+formed, advisory council members serve at the will of the commissioner.
+68-122-210. Construction of part.
+This part is supplemental to part 1 of this chapter. This part must not be
+construed as conflicting with part 1 of this chapter.
+68-122-211. Transfer of funds — Relocation and implementation of
+responsibilities — Reports.
+(a) The department of labor and workforce development shall transfer all funds
+from funds, reserve accounts, and any other source relating to the administration of the
+board of boiler rules to the department.
+(b) The department of labor and workforce development shall submit and
+provide access to all relevant information, technical details, specifications, and data
+- 42 - 015293
+
+required to relocate the responsibilities outlined in this chapter to the department on July
+1, 2026.
+(c) The department shall complete all work necessary to fully implement and
+assume all of the responsibilities set forth in this chapter by July 1, 2027.
+(d) The department of labor and workforce development shall transfer all
+employees necessary to properly support the department on July 1, 2027. All
+transferred employees must be reassigned to the department's office building as of the
+date of their transfer, or as soon as practicable.
+(e) The department may adapt or change all transferred systems, programs, and
+operational processes as necessary to properly support the department.
+SECTION 6. The headings in this act are for reference purposes only and do not
+constitute a part of the law enacted by this act. However, the Tennessee Code Commission is
+requested to include the headings in any compilation or publication containing this act.
+SECTION 7. All rules promulgated by the board of boiler rules and the elevator and
+amusement device safety board, with the assistance and under the authority of the department
+of labor and workforce development on such boards' behalf prior to July 1, 2026, and in effect
+on the date that this act becomes a law, remain in full force and effect and must be administered
+by the division beginning July 1, 2027, until duly amended, repealed, expired, modified, or
+suspended. Rules promulgated by the board of boiler rules or the elevator and amusement
+device safety board, with the assistance and under the authority of the department of labor and
+workforce development on such boards' behalf, that are pending as of July 1, 2026, remain in
+full force and effect upon their effective date and must be administered by the division beginning
+July 1, 2027, until duly amended, repealed, expired, modified, or suspended.
+SECTION 8. It is the intent of the general assembly that personnel, equipment, funding,
+duties, authority, and property transferred on the effective date of this act are transferred no
+later than July 1, 2027.
+- 43 - 015293
+
+SECTION 9. For the purposes of promulgating and transferring rules, this act takes
+effect upon becoming a law, the public welfare requiring it. For all other purposes, this act takes
+effect July 1, 2027, the public welfare requiring it.
+- 44 - 015293
+
+[DELETED:  a HST((((SSS6T6A]
+[DELETED:  -0((((((((]
+[DELETED:  -0(((((((]
+[DELETED:  -0(((((((((]
+[DELETED:  -0(((((((((((((((((]
+[DELETED:  -0((((((((((]
+[DELETED:  -0(((((((]
+[DELETED:  -0((((((((((]
+[DELETED:  -06((((((((]
+[DELETED:  -0((((((6(]
+[DELETED:  -0(((6T6A(]
+[DELETED:  -0(((((]
+[DELETED:  -0(((]
+[DELETED:  -06(((]
+[DELETED:  -0(6(((]
+[DELETED:  -0(((((]
+[DELETED:  -06(((((6(]
+[DELETED:  -0(6T]
+[DELETED:  -06((6P6(((6((]
+[DELETED:  -0((((((6( ((((((]
+[DELETED:  -0((((((6(]
+[DELETED:  -0((6((]
+[DELETED:  -06((((]
+[DELETED:  -06((6(((((((6I]
+[DELETED:  -06T6(((((((((((]
+[DELETED:  -0((((((((((]
+[DELETED:  -0((((((((6((]
+[DELETED:  -0(((6TS6T6(]
+[DELETED:  -0((((((((((]
+[DELETED:  -0(((((((6A6(]
+[DELETED:  -0(( ((6(((((]
+[DELETED:  -0((((((((((((]
+[DELETED:  -06T((((((6]
+[DELETED:  -0T6((]
+[DELETED:  -0((((6(]
+[DELETED:  -0((6((]
+[DELETED:  -0(((((((]
+[DELETED:  -0((((((6(]
+[DELETED:  -0((6I6T6]
+[DELETED:  -0A6I6T6A6A((6A]
+[DELETED:  -06(((6((6(]
+[DELETED:  -0(6((((6T6T6((]
+[DELETED:  -0(((SSS]
+[DELETED:  -0S]

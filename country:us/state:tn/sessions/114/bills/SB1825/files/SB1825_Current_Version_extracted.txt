@@ -1,0 +1,69 @@
+Title: HOUSE BILL 2036
+Official Title: HOUSE BILL 2036
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+By Garrett
+SENATE BILL 1825
+By Taylor
+AN ACT to amend Tennessee Code Annotated, Title 2,
+relative to elections for federal office.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Title 2, Chapter 13, Part 2, is amended by
+adding the following as a new section:
+(a) A person shall not qualify as a candidate in a primary election for federal
+office who:
+(1) Holds dual citizenship; or
+(2) Is not a natural-born citizen of the United States.
+(b) As used in this section:
+(1) "Dual citizenship" means a legal status where a person is
+simultaneously recognized as a citizen of the United States and of another
+country; and
+(2) "Natural-born citizen" means an individual who is a United States
+citizen at birth by being born in the United States or born abroad to parents who
+are United States citizens.
+
+Section 3:
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+SB1825
+011453
+- 1 -
+[DELETED: SS]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 2036
+By Garrett
+SENATE BILL 1825
+By Taylor
+AN ACT to amend Tennessee Code Annotated, Title 2,
+relative to elections for federal office.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Title 2, Chapter 13, Part 2, is amended by
+adding the following as a new section:
+(a) A person shall not qualify as a candidate in a primary election for federal
+office who:
+(1) Holds dual citizenship; or
+(2) Is not a natural-born citizen of the United States.
+(b) As used in this section:
+(1) "Dual citizenship" means a legal status where a person is
+simultaneously recognized as a citizen of the United States and of another
+country; and
+(2) "Natural-born citizen" means an individual who is a United States
+citizen at birth by being born in the United States or born abroad to parents who
+are United States citizens.
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+SB1825
+011453
+- 1 -
+
+[DELETED: SS]

@@ -1,0 +1,102 @@
+Title: HOUSE BILL 1789
+Official Title: HOUSE BILL 1789
+Number of Sections: 6
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+By Reedy
+SENATE BILL 2094
+By Crowe
+AN ACT to amend Tennessee Code Annotated, Title 49,
+relative to higher education.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 49-7-168(b), is amended by deleting
+the language "49-8-104" and substituting instead the language "49-8-102, 49-8-104,".
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 49-7-168, is amended by adding the
+following as a new subsection:
+(d) Notwithstanding §§ 49-8-102, 49-8-104, and 49-9-105, an institution of higher
+education in this state shall classify a student who is the spouse of a service member
+who is a United States citizen or lawful permanent resident of the Unites States, but who
+has not resided in this state for the one-year period described in subdivision (c)(1)(B), as
+an in-state student for tuition purposes if the spouse:
+(1)
+(A) Is a United States citizen; or
+(B) Is a lawful permanent resident of the United States;
+(2) Is accepted for admission to the institution;
+(3) Enrolls as a student in the institution;
+(4) Resides in this state while enrolled in the institution; and
+(5) Maintains continuous enrollment in the institution.
+
+Section 4:
+SECTION 3. Tennessee Code Annotated, Section 49-7-1303, is amended by deleting
+subdivision (1) and substituting instead the following:
+SB2094
+010448
+- 1 -
+(1) "Military-affiliated" means active-duty military personnel, reservists, members
+of the national guard, reserve officer training corps program cadets, and dependents of
+active-duty military personnel or veterans;
+
+Section 5:
+SECTION 4. Tennessee Code Annotated, Section 49-7-1304(b), is amended by
+deleting the language "may classify" and substituting instead "shall classify".
+
+Section 6:
+SECTION 5. This act takes effect July 1, 2026, the public welfare requiring it, and
+applies to the 2026-2027 academic year and each academic year thereafter.
+- 2 - 010448
+[DELETED: SS((((((((S]
+[DELETED:  -0(SS]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 1789
+By Reedy
+SENATE BILL 2094
+By Crowe
+AN ACT to amend Tennessee Code Annotated, Title 49,
+relative to higher education.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 49-7-168(b), is amended by deleting
+the language "49-8-104" and substituting instead the language "49-8-102, 49-8-104,".
+SECTION 2. Tennessee Code Annotated, Section 49-7-168, is amended by adding the
+following as a new subsection:
+(d) Notwithstanding §§ 49-8-102, 49-8-104, and 49-9-105, an institution of higher
+education in this state shall classify a student who is the spouse of a service member
+who is a United States citizen or lawful permanent resident of the Unites States, but who
+has not resided in this state for the one-year period described in subdivision (c)(1)(B), as
+an in-state student for tuition purposes if the spouse:
+(1)
+(A) Is a United States citizen; or
+(B) Is a lawful permanent resident of the United States;
+(2) Is accepted for admission to the institution;
+(3) Enrolls as a student in the institution;
+(4) Resides in this state while enrolled in the institution; and
+(5) Maintains continuous enrollment in the institution.
+SECTION 3. Tennessee Code Annotated, Section 49-7-1303, is amended by deleting
+subdivision (1) and substituting instead the following:
+SB2094
+010448
+- 1 -
+
+(1) "Military-affiliated" means active-duty military personnel, reservists, members
+of the national guard, reserve officer training corps program cadets, and dependents of
+active-duty military personnel or veterans;
+SECTION 4. Tennessee Code Annotated, Section 49-7-1304(b), is amended by
+deleting the language "may classify" and substituting instead "shall classify".
+SECTION 5. This act takes effect July 1, 2026, the public welfare requiring it, and
+applies to the 2026-2027 academic year and each academic year thereafter.
+- 2 - 010448
+
+[DELETED: SS((((((((S]
+[DELETED:  -0(SS]

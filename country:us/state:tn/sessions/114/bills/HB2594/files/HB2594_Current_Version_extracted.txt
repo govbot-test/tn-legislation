@@ -1,0 +1,389 @@
+Title: SENATE BILL 2417
+Official Title: SENATE BILL 2417
+Number of Sections: 6
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 7 sections found
+
+================================================================================
+
+Section 1:
+By Pody
+HOUSE BILL 2594
+By Faison
+AN ACT to amend Tennessee Code Annotated, Title 33;
+Title 39, Chapter 17, Part 4; Title 43 and Title 57,
+relative to Kratom.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. This act is known and may be cited as the "Tennessee Kratom Consumer
+Protection Act."
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Title 39, Chapter 17, Part 4, is amended by
+adding the following as a new section:
+(a) As used in this section:
+(1) "Alkaloid" means a compound found in the mitragyna speciosa leaf,
+including, but not limited to, mitragynine, paynantheine, speciociliatine, or
+speciogynine;
+(2) "Attractive to children" means Kratom products:
+(A) Manufactured in the shape of cartoons or animals; or
+(B) Manufactured or packaged in a form that bears any
+reasonable resemblance to an existing candy product that is familiar to
+the public as a widely distributed, branded food product such that the
+product could be mistaken for the branded product, especially by children;
+(3) "Certificate of analysis" or "COA" means a certificate from a third-
+party laboratory describing the results of the laboratory's testing of a sample
+completed within twelve (12) months of submission;
+(4) "Food" means a food, food product, food ingredient, dietary
+ingredient, dietary supplement, or beverage fit for human consumption;
+HB2594
+012723
+- 1 -
+(5) "Kratom extract" means a substance or compound obtained by
+extraction of the mitragyna speciosa leaf, intended for ingestion and containing
+more than trace amounts of mitragyna speciosa and containing other alkaloids of
+the Kratom plant, which does not contain any controlled substances or levels of
+residual solvents higher than are allowed in the United States Pharmacopeia
+General Chapter 467 (USP 467);
+(6) "Kratom product" means a food product or dietary ingredient
+containing any part of the leaf of the plant mitragyna speciosa or an extract of the
+plant mitragyna speciosa, that is manufactured as a powder, capsule, pill,
+beverage, or other form that may be ingested, inhaled, or absorbed through the
+skin;
+(7) "Processor" means a person or entity that prepares, manufactures,
+distributes, maintains, or sells to a retailer Kratom products, or advertises,
+represents, or holds itself out as preparing, manufacturing, distributing,
+maintaining, or selling to a retailer Kratom products;
+(8) "Retailer" means a person who sells or holds oneself out as selling
+Kratom products to the general public;
+(9) "Semi-synthetic alkaloid" means a substance derived from an alkaloid
+naturally occurring in Kratom that has been chemically altered through chemical
+reactions such as, but not limited to, oxidation, reduction, acetylation, or other
+processes to change the structure or pharmacological activity of the naturally
+occurring Kratom alkaloid, and includes, but is not limited to, the synthesis of 7-
+hydroxymitragynine when produced by chemical alteration of mitragynine;
+(10) "Synthesized material" means an alkaloid, metabolite of an alkaloid,
+or alkaloid derivative that has been created by chemical synthesis of biosynthetic
+- 2 - 012723
+means rather than traditional food preparation techniques such as heating and
+extracting, and includes, but is not limited to, fermentation, recombinant
+techniques, yeast derived, enzymatic techniques, and oxidation; and
+(11) "Synthetic Kratom-like compound" means a substance that is not
+found naturally in the mitragyna speciosa plant and is created entirely through
+laboratory synthesis to mimic the pharmacological effects of Kratom alkaloids.
+(b) A processor shall not prepare, manufacture, distribute, or sell, and a retailer
+shall not sell or expose for sale, any of the following:
+(1) A Kratom extract that contains levels of residual solvents higher than
+are allowed in USP 467;
+(2) A Kratom product containing a level of 7-hydroxymitragynine in the
+alkaloid fraction that is greater than two percent (2%) of the overall alkaloid
+composition of the product;
+(3) A Kratom product containing a synthetic alkaloid, including synthetic
+mitragynine, synthetic or chemically manipulated 7-hydroxymitragynine,
+pseudoindoxyl, or another synthetically derived compound of the mitragyna
+specious plant;
+(4) A Kratom product having a concentration ratio that is greater than one
+milligram (1 mg) of 7-hydroxymitragynine per serving;
+(5) A Kratom product that does not have a COA certifying that:
+(A) The contents of 7-hydroxymitragynine in the Kratom product
+are in compliance with this subsection (b);
+(B) The Kratom product tests as absent, negative, undetected,
+not detected, or less than one (1) colony forming unit per gram for a
+species of salmonella and escherichia coli;
+- 3 - 012723
+(C) That the Kratom product tests as absent, negative,
+undetected, not detected, or less than one (1) part per million for lead and
+arsenic;
+(D) That the Kratom product tests as absent, negative,
+undetected, not detected, or less than forty-one hundredths (0.41) parts
+per million for the heavy metal cadmium; and
+(E) That the Kratom product tests as absent, negative,
+undetected, not detected, or less than three-tenths (0.3) parts per million
+for mercury; and
+(6) A Kratom product that is not clearly labeled with the following
+information:
+(A) Directions for use that include the following:
+(i) A recommended amount of the Kratom product per
+serving that is:
+(a) Clearly described on the label for product forms
+such as capsules, gummies, prepackaged single serving
+units, and similar product forms; or
+(b) For beverages, liquids, or loose powders, a
+clear instruction or a mark on the package or container that
+clearly informs the consumer regarding the recommended
+service size; and
+(ii) A recommended maximum number of servings that
+should be consumed in a twenty-four-hour period;
+(B) A listing of the number of servings per container;
+- 4 - 012723
+(C) The amount per serving of each of the following Kratom
+compounds:
+(i) Mitragynine; and
+(ii) 7-hydroxymitragynine if detectable, or a statement that
+the serving size does not contain a level of 7-hydroxymitragynine
+in the alkaloid fraction that is greater than two percent (2%) of the
+compounds of the Kratom product;
+(D) A list of all ingredients in each finished Kratom product;
+(E) A statement advising against use of the product by individuals
+who are pregnant or breastfeeding;
+(F) A statement advising that it is illegal to purchase or possess
+Kratom if under twenty-one (21) years of age;
+(G) A statement that use of Kratom may be habit forming;
+(H) A recommendation to consult with a healthcare professional
+prior to use of a Kratom product;
+(I) The name, mailing address, and physical address of the
+processor; and
+(J) The following statement: "This product has not been
+evaluated by the Food and Drug Administration. This product is not
+intended to diagnose, treat, cure, or prevent any disease.".
+(c) This section does not affect the ability of a processor to mix or blend a
+Kratom plant material with another substance that is not dangerous and that does not
+alter the naturally occurring levels of Kratom's alkaloids.
+(d) It is an offense for a processor, retailer, or other person to knowingly:
+- 5 - 012723
+(1) Distribute, sell, or offer for sale a Kratom product or Kratom extract to
+a person under twenty-one (21) years of age;
+(2) Purchase or possess a Kratom product or Kratom extract if under
+twenty-one (21) years of age; or
+(3) Prepare, manufacture, distribute, or sell a Kratom product or Kratom
+extract if the person is not a processor or retailer.
+(e)
+(1) A violation of subsection (d) is a Class A misdemeanor.
+(2) A processor or retailer who violates subsection (b) commits:
+(A) A Class B misdemeanor, punishable by fine only in the
+amount of five hundred dollars ($500) for the first offense; and
+(B) A Class A misdemeanor punishable by fine only in the amount
+of two thousand five hundred dollars ($2,500) for a second or subsequent
+offense.
+(3) It is a defense to prosecution if a retailer proves, by a preponderance
+of the evidence, that the retailer relied in good faith upon the representation of a
+processor that the purchased Kratom product or Kratom extract was
+unadulterated and uncontaminated.
+(f) Upon demand by the alcoholic beverage commission, a processor or retailer
+shall provide, within thirty (30) days, a COA for each Kratom product that is offered for
+sale.
+(g) Upon receipt of a credible violation report on any Kratom product offered for
+sale, the alcoholic beverage commission shall require the processor or retailer to
+produce an updated and current COA from a certified independent third-party laboratory
+within thirty (30) days establishing compliance with the requirements of subsection (b)
+- 6 - 012723
+for Kratom products, including copies of all product labels. If the processor or retailer
+does not provide the certificate of analysis in the specified time frame, then the product
+must be removed, and a stop sales order must be issued for all products covered by this
+
+Section 4:
+section.
+(h) If the alcoholic beverage commission has a reasonable basis to require an
+independent third-party test of a Kratom product by a laboratory of the commission's
+choice, then the processor or retailer shall submit payment for the test within thirty (30)
+days. If the processor or retailer does not tender payment to the commission within
+thirty (30) days of receipt of the invoice for the testing, then a stop sales order must be
+issued to the processor or retailer for all products covered by this section.
+
+Section 5:
+SECTION 3. Tennessee Code Annotated, Section 39-17-452, is amended by deleting
+subdivision (a)(3).
+
+Section 6:
+SECTION 4. This act takes effect July 1, 2026, the public welfare requiring it.
+- 7 - 012723
+[DELETED: SS(((((((]
+[DELETED:  -0((((((]
+[DELETED:  -0(((((((((]
+[DELETED:  -0((((((()()((]
+[DELETED:  -0((((((((((((]
+[DELETED:  -0(((((((((((]
+[DELETED:  -0(SS]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 2417
+By Pody
+HOUSE BILL 2594
+By Faison
+AN ACT to amend Tennessee Code Annotated, Title 33;
+Title 39, Chapter 17, Part 4; Title 43 and Title 57,
+relative to Kratom.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. This act is known and may be cited as the "Tennessee Kratom Consumer
+Protection Act."
+SECTION 2. Tennessee Code Annotated, Title 39, Chapter 17, Part 4, is amended by
+adding the following as a new section:
+(a) As used in this section:
+(1) "Alkaloid" means a compound found in the mitragyna speciosa leaf,
+including, but not limited to, mitragynine, paynantheine, speciociliatine, or
+speciogynine;
+(2) "Attractive to children" means Kratom products:
+(A) Manufactured in the shape of cartoons or animals; or
+(B) Manufactured or packaged in a form that bears any
+reasonable resemblance to an existing candy product that is familiar to
+the public as a widely distributed, branded food product such that the
+product could be mistaken for the branded product, especially by children;
+(3) "Certificate of analysis" or "COA" means a certificate from a third-
+party laboratory describing the results of the laboratory's testing of a sample
+completed within twelve (12) months of submission;
+(4) "Food" means a food, food product, food ingredient, dietary
+ingredient, dietary supplement, or beverage fit for human consumption;
+HB2594
+012723
+- 1 -
+
+(5) "Kratom extract" means a substance or compound obtained by
+extraction of the mitragyna speciosa leaf, intended for ingestion and containing
+more than trace amounts of mitragyna speciosa and containing other alkaloids of
+the Kratom plant, which does not contain any controlled substances or levels of
+residual solvents higher than are allowed in the United States Pharmacopeia
+General Chapter 467 (USP 467);
+(6) "Kratom product" means a food product or dietary ingredient
+containing any part of the leaf of the plant mitragyna speciosa or an extract of the
+plant mitragyna speciosa, that is manufactured as a powder, capsule, pill,
+beverage, or other form that may be ingested, inhaled, or absorbed through the
+skin;
+(7) "Processor" means a person or entity that prepares, manufactures,
+distributes, maintains, or sells to a retailer Kratom products, or advertises,
+represents, or holds itself out as preparing, manufacturing, distributing,
+maintaining, or selling to a retailer Kratom products;
+(8) "Retailer" means a person who sells or holds oneself out as selling
+Kratom products to the general public;
+(9) "Semi-synthetic alkaloid" means a substance derived from an alkaloid
+naturally occurring in Kratom that has been chemically altered through chemical
+reactions such as, but not limited to, oxidation, reduction, acetylation, or other
+processes to change the structure or pharmacological activity of the naturally
+occurring Kratom alkaloid, and includes, but is not limited to, the synthesis of 7-
+hydroxymitragynine when produced by chemical alteration of mitragynine;
+(10) "Synthesized material" means an alkaloid, metabolite of an alkaloid,
+or alkaloid derivative that has been created by chemical synthesis of biosynthetic
+- 2 - 012723
+
+means rather than traditional food preparation techniques such as heating and
+extracting, and includes, but is not limited to, fermentation, recombinant
+techniques, yeast derived, enzymatic techniques, and oxidation; and
+(11) "Synthetic Kratom-like compound" means a substance that is not
+found naturally in the mitragyna speciosa plant and is created entirely through
+laboratory synthesis to mimic the pharmacological effects of Kratom alkaloids.
+(b) A processor shall not prepare, manufacture, distribute, or sell, and a retailer
+shall not sell or expose for sale, any of the following:
+(1) A Kratom extract that contains levels of residual solvents higher than
+are allowed in USP 467;
+(2) A Kratom product containing a level of 7-hydroxymitragynine in the
+alkaloid fraction that is greater than two percent (2%) of the overall alkaloid
+composition of the product;
+(3) A Kratom product containing a synthetic alkaloid, including synthetic
+mitragynine, synthetic or chemically manipulated 7-hydroxymitragynine,
+pseudoindoxyl, or another synthetically derived compound of the mitragyna
+specious plant;
+(4) A Kratom product having a concentration ratio that is greater than one
+milligram (1 mg) of 7-hydroxymitragynine per serving;
+(5) A Kratom product that does not have a COA certifying that:
+(A) The contents of 7-hydroxymitragynine in the Kratom product
+are in compliance with this subsection (b);
+(B) The Kratom product tests as absent, negative, undetected,
+not detected, or less than one (1) colony forming unit per gram for a
+species of salmonella and escherichia coli;
+- 3 - 012723
+
+(C) That the Kratom product tests as absent, negative,
+undetected, not detected, or less than one (1) part per million for lead and
+arsenic;
+(D) That the Kratom product tests as absent, negative,
+undetected, not detected, or less than forty-one hundredths (0.41) parts
+per million for the heavy metal cadmium; and
+(E) That the Kratom product tests as absent, negative,
+undetected, not detected, or less than three-tenths (0.3) parts per million
+for mercury; and
+(6) A Kratom product that is not clearly labeled with the following
+information:
+(A) Directions for use that include the following:
+(i) A recommended amount of the Kratom product per
+serving that is:
+(a) Clearly described on the label for product forms
+such as capsules, gummies, prepackaged single serving
+units, and similar product forms; or
+(b) For beverages, liquids, or loose powders, a
+clear instruction or a mark on the package or container that
+clearly informs the consumer regarding the recommended
+service size; and
+(ii) A recommended maximum number of servings that
+should be consumed in a twenty-four-hour period;
+(B) A listing of the number of servings per container;
+- 4 - 012723
+
+(C) The amount per serving of each of the following Kratom
+compounds:
+(i) Mitragynine; and
+(ii) 7-hydroxymitragynine if detectable, or a statement that
+the serving size does not contain a level of 7-hydroxymitragynine
+in the alkaloid fraction that is greater than two percent (2%) of the
+compounds of the Kratom product;
+(D) A list of all ingredients in each finished Kratom product;
+(E) A statement advising against use of the product by individuals
+who are pregnant or breastfeeding;
+(F) A statement advising that it is illegal to purchase or possess
+Kratom if under twenty-one (21) years of age;
+(G) A statement that use of Kratom may be habit forming;
+(H) A recommendation to consult with a healthcare professional
+prior to use of a Kratom product;
+(I) The name, mailing address, and physical address of the
+processor; and
+(J) The following statement: "This product has not been
+evaluated by the Food and Drug Administration. This product is not
+intended to diagnose, treat, cure, or prevent any disease.".
+(c) This section does not affect the ability of a processor to mix or blend a
+Kratom plant material with another substance that is not dangerous and that does not
+alter the naturally occurring levels of Kratom's alkaloids.
+(d) It is an offense for a processor, retailer, or other person to knowingly:
+- 5 - 012723
+
+(1) Distribute, sell, or offer for sale a Kratom product or Kratom extract to
+a person under twenty-one (21) years of age;
+(2) Purchase or possess a Kratom product or Kratom extract if under
+twenty-one (21) years of age; or
+(3) Prepare, manufacture, distribute, or sell a Kratom product or Kratom
+extract if the person is not a processor or retailer.
+(e)
+(1) A violation of subsection (d) is a Class A misdemeanor.
+(2) A processor or retailer who violates subsection (b) commits:
+(A) A Class B misdemeanor, punishable by fine only in the
+amount of five hundred dollars ($500) for the first offense; and
+(B) A Class A misdemeanor punishable by fine only in the amount
+of two thousand five hundred dollars ($2,500) for a second or subsequent
+offense.
+(3) It is a defense to prosecution if a retailer proves, by a preponderance
+of the evidence, that the retailer relied in good faith upon the representation of a
+processor that the purchased Kratom product or Kratom extract was
+unadulterated and uncontaminated.
+(f) Upon demand by the alcoholic beverage commission, a processor or retailer
+shall provide, within thirty (30) days, a COA for each Kratom product that is offered for
+sale.
+(g) Upon receipt of a credible violation report on any Kratom product offered for
+sale, the alcoholic beverage commission shall require the processor or retailer to
+produce an updated and current COA from a certified independent third-party laboratory
+within thirty (30) days establishing compliance with the requirements of subsection (b)
+- 6 - 012723
+
+for Kratom products, including copies of all product labels. If the processor or retailer
+does not provide the certificate of analysis in the specified time frame, then the product
+must be removed, and a stop sales order must be issued for all products covered by this
+section.
+(h) If the alcoholic beverage commission has a reasonable basis to require an
+independent third-party test of a Kratom product by a laboratory of the commission's
+choice, then the processor or retailer shall submit payment for the test within thirty (30)
+days. If the processor or retailer does not tender payment to the commission within
+thirty (30) days of receipt of the invoice for the testing, then a stop sales order must be
+issued to the processor or retailer for all products covered by this section.
+SECTION 3. Tennessee Code Annotated, Section 39-17-452, is amended by deleting
+subdivision (a)(3).
+SECTION 4. This act takes effect July 1, 2026, the public welfare requiring it.
+- 7 - 012723
+
+[DELETED: SS(((((((]
+[DELETED:  -0((((((]
+[DELETED:  -0(((((((((]
+[DELETED:  -0((((((()()((]
+[DELETED:  -0((((((((((((]
+[DELETED:  -0(((((((((((]
+[DELETED:  -0(SS]
