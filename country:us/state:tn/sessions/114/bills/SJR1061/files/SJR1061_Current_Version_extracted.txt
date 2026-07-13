@@ -1,0 +1,94 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 1
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+SENATE JOINT RESOLUTION 1061
+By Southerland
+A RESOLUTION to commend and congratulate FFA national
+competitor Abby Petterson.
+WHEREAS, the members of this General Assembly take great pleasure in recognizing
+those outstanding young scholars who have distinguished themselves as emerging leaders in
+Tennessee's agriculture industry; and
+WHEREAS, one such individual is Abby Petterson, who recently represented Tennessee
+at the National FFA Nursery-Landscape Career Development Event, placing eighth in the nation
+and earning a Gold Emblem alongside her fellow teammates from the Erwin FFA chapter; and
+WHEREAS, Ms. Petterson and her team worked together during a competition that
+required them to complete a series of tasks related to the nursery and landscaping industry,
+including plant identification, plant propagation techniques, surveying, and landscape design
+calculations; and
+WHEREAS, Future Farmers of America, now known as FFA, was organized in 1928 to
+promote leadership, personal growth, and career success among high school agriculture
+students; and
+WHEREAS, for many years, FFA has played an important role in ensuring the growth
+and prosperity of agriculture in Tennessee and the nation by expertly molding our future
+leaders; and
+WHEREAS, the success of this State, the strength of our communities, and the overall
+vitality of our society depend, in great measure, on the dedication of our students and our
+agricultural innovators, who will ensure Tennessee continues to lead the nation in agricultural
+production for generations to come; now, therefore,
+SJR1061
+017004
+- 1 -
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE HOUSE OF
+REPRESENTATIVES CONCURRING, that we honor and recognize FFA national competitor
+Abby Petterson, wishing her much success in her future endeavors.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy and upon proper request made to
+the appropriate clerk, the language appearing immediately following the State seal appear
+without House or Senate designation.
+- 2 - 017004
+[DELETED: WWW]
+[DELETED:  -0BB]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+SENATE JOINT RESOLUTION 1061
+By Southerland
+A RESOLUTION to commend and congratulate FFA national
+competitor Abby Petterson.
+WHEREAS, the members of this General Assembly take great pleasure in recognizing
+those outstanding young scholars who have distinguished themselves as emerging leaders in
+Tennessee's agriculture industry; and
+WHEREAS, one such individual is Abby Petterson, who recently represented Tennessee
+at the National FFA Nursery-Landscape Career Development Event, placing eighth in the nation
+and earning a Gold Emblem alongside her fellow teammates from the Erwin FFA chapter; and
+WHEREAS, Ms. Petterson and her team worked together during a competition that
+required them to complete a series of tasks related to the nursery and landscaping industry,
+including plant identification, plant propagation techniques, surveying, and landscape design
+calculations; and
+WHEREAS, Future Farmers of America, now known as FFA, was organized in 1928 to
+promote leadership, personal growth, and career success among high school agriculture
+students; and
+WHEREAS, for many years, FFA has played an important role in ensuring the growth
+and prosperity of agriculture in Tennessee and the nation by expertly molding our future
+leaders; and
+WHEREAS, the success of this State, the strength of our communities, and the overall
+vitality of our society depend, in great measure, on the dedication of our students and our
+agricultural innovators, who will ensure Tennessee continues to lead the nation in agricultural
+production for generations to come; now, therefore,
+SJR1061
+017004
+- 1 -
+
+BE IT RESOLVED BY THE SENATE OF THE ONE HUNDRED FOURTEENTH
+GENERAL ASSEMBLY OF THE STATE OF TENNESSEE, THE HOUSE OF
+REPRESENTATIVES CONCURRING, that we honor and recognize FFA national competitor
+Abby Petterson, wishing her much success in her future endeavors.
+BE IT FURTHER RESOLVED, that an appropriate copy of this resolution be prepared
+for presentation with this final clause omitted from such copy and upon proper request made to
+the appropriate clerk, the language appearing immediately following the State seal appear
+without House or Senate designation.
+- 2 - 017004
+
+[DELETED: WWW]
+[DELETED:  -0BB]

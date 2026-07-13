@@ -1,0 +1,562 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 7
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 10 sections found
+
+================================================================================
+
+Section 1:
+HOUSE BILL 1545
+By Dixie
+AN ACT to amend Tennessee Code Annotated, Title 39
+and Title 40, relative to criminal history records.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Title 40, Chapter 32, is amended by adding
+the following as a new part:
+40-32-201.
+(a) A person may petition the court in which the person was convicted of a
+criminal offense to seal the person's criminal history records for the offenses listed in §
+40-32-203. At the time of filing a petition, the person must pay a fee of five hundred
+dollars ($500) to be used by the clerk to offset the cost of sealing records.
+(b) Upon determining that the person is eligible under § 40-32-202 to have the
+person's criminal history records sealed, the court shall enter an order sealing the
+records from all public records requests. The sealed records may continue to be used
+for the following purposes:
+(1) By the Tennessee bureau of investigation or the federal bureau of
+investigation, in determining whether to approve a firearms transaction, pursuant
+to § 39-17-1316, or a handgun carry permit application, pursuant to § 39-17-1351
+or § 39-17-1366;
+(2) By the department of health in maintaining a registry of persons who
+have abused, neglected, or misappropriated the property of vulnerable
+individuals, pursuant to title 68, chapter 11, part 10; and
+(3) By the Tennessee peace officer standards and training commission in
+determining, pursuant to § 38-8-104(g), whether a person has any recorded
+HB1545
+009936
+- 1 -
+convictions in this state and meets the minimum qualifications for law
+enforcement officers as provided in § 38-8-106.
+40-32-202.
+A person is an eligible petitioner under this part if the person:
+(1) Has fulfilled the requirements of the sentence imposed by the court in
+which the person was convicted of the offense, including:
+(A) Payment of all fines, restitution, court costs, and other
+assessments;
+(B) Completion of any term of imprisonment or probation;
+(C) Meeting all conditions of supervised or unsupervised release;
+and
+(D) If so required by the conditions of the sentence imposed,
+remaining free from dependency on or abuse of alcohol or a controlled
+substance or other prohibited substance for a period of no less than one
+(1) year;
+(2) Is not subject to any pending criminal charges; and
+(3) Has not been convicted of a criminal offense for at least five (5)
+years, beginning after the completion of any term of imprisonment, supervised or
+unsupervised release, or probation.
+40-32-203.
+Criminal history records related to a conviction for the following offenses and any
+offense committed prior to November 1, 1989, that would constitute any of the following
+offenses if committed under current law are eligible to be sealed under this part:
+(1) RICO offense, as prohibited by § 39-12-205;
+- 2 - 009936
+(2) Reckless endangerment by discharging firearm into unoccupied
+habitation, as prohibited by § 39-13-103;
+(3) Assisted suicide, as prohibited by § 39-13-216;
+(4) Custodial interference where person not voluntarily returned by
+defendant, as prohibited by § 39-13-306;
+(5) Promoting prostitution, as prohibited by § 39-13-515;
+(6) Aggravated prostitution, as prohibited by § 39-13-516;
+(7) Promoting travel for prostitution, as prohibited by § 39-13-533;
+(8) Unlawful wiretapping or electronic surveillance, as prohibited by § 39-
+13-602;
+(9) Distribution or delivery of substance as a hoax device, as prohibited
+by § 39-13-808(b)(2);
+(10) Knowing dissemination of illegally recorded cellular communication,
+as prohibited by § 39-13-604(c)(2);
+(11) Unlawful photography with dissemination of photographs and victim
+under thirteen (13) years of age or in a position of trust, as prohibited by § 39-13-
+605(d)(3);
+(12) Burglary, other than habitation, as prohibited by § 39-13-1002;
+(13) Theft of property, as prohibited by § 39-14-103;
+(14) Theft of services, as prohibited by § 39-14-104;
+(15) Extortion, as prohibited by § 39-14-112;
+(16) Forgery, valued at least one thousand dollars ($1,000) but no more
+than nine thousand nine hundred ninety-nine dollars ($9,999), as prohibited by §
+39-14-114;
+(17) Criminal simulation, as prohibited by § 39-14-115;
+- 3 - 009936
+(18) Hindering secured creditors, as prohibited by § 39-14-116;
+(19) Fraud in insolvency, as prohibited by § 39-14-117;
+(20) Illegal possession or fraudulent use of credit card or debit card, as
+prohibited by § 39-14-118;
+(21) Worthless checks, as prohibited by § 39-14-121;
+(22) Destruction of valuable papers, as prohibited by § 39-14-130;
+(23) Destruction or concealment of will, as prohibited by § 39-14-131;
+(24) Fraudulent or false insurance claims, as prohibited by § 39-14-133;
+(25) Fraudulent qualifying for set-aside programs, as prohibited by § 39-
+14-137;
+(26) Theft of trade secrets, as prohibited by § 39-14-138;
+(27) Sale of recorded live performances without consent, as prohibited by
+
+Section 3:
+§ 39-14-139;
+(28) Unauthorized solicitation for police, judicial, or safety association, as
+prohibited by § 39-14-143;
+(29) Fraudulent transfer of motor vehicle, as prohibited by § 39-14-147;
+(30) Communication theft, as prohibited by § 39-14-149;
+(31) Identity theft, as prohibited by § 39-14-150;
+(32) Use of counterfeit mark or logo, as prohibited by § 39-14-152;
+(33) Home improvement fraud, as prohibited by § 39-14-154;
+(34) Injuring guide dog, as prohibited by § 39-14-208;
+(35) Arson, as prohibited by § 39-14-301;
+(36) Setting fire to personal property or land, as prohibited by § 39-14-
+303;
+(37) Vandalism, as prohibited by § 39-14-408;
+- 4 - 009936
+(38) Critical infrastructure vandalism, as prohibited by § 39-14-411;
+(39) Aggravated criminal littering, as prohibited by § 39-14-505;
+(40) Altering, damaging, or attempting to damage or destroy any
+computer, computer system or computer network, or computer program or data,
+as prohibited by § 39-14-602;
+(41) Violation of Tennessee Personal and Commercial Computer Act -
+value of at least one thousand dollars ($1,000) to fifty-nine thousand nine
+hundred ninety-nine dollars ($59,999), as prohibited by § 39-14-602;
+(42) Computer crimes violation in connection with act of terrorism, as
+prohibited by § 39-14-602(d);
+(43) Unsolicited bulk electronic mail, as prohibited by § 39-14-603;
+(44) Sale, purchase, possession, or use of automated sales suppression
+device, as prohibited by § 39-14-704;
+(45) Theft of animal from or damage to an animal facility - value
+exceeding five hundred dollars ($500), as prohibited by § 39-14-803;
+(46) Money laundering offense, as prohibited by § 39-14-903;
+(47) Flagrant nonsupport, as prohibited by § 39-15-101(d);
+(48) Attempt to procure criminal miscarriage, as prohibited by [former] §
+39-15-201(b)(2) [repealed];
+(49) Failure to observe waiting period before giving consent to abortion,
+as prohibited by § 39-15-202(d);
+(50) Failure or refusal of physician or hospital to preserve the life of an
+infant delivered during an abortion, as prohibited by § 39-15-206;
+(51) Unlawful use of aborted fetus, as prohibited by § 39-15-208;
+- 5 - 009936
+(52) Public servant accepting bribe or offering bribe to public servant, as
+prohibited by § 39-16-102;
+(53) Public servant soliciting unlawful compensation, as prohibited by §
+39-16-104;
+(54) Buying and selling in regard to public offices, as prohibited by § 39-
+16-105;
+(55) Bribing a witness, as prohibited by § 39-16-107;
+(56) Bribing a juror, as prohibited by § 39-16-108;
+(57) Introduction of weapons, explosives, intoxicants, drugs, or
+telecommunication device into a penal institution, as prohibited by § 39-16-201;
+(58) Impersonation of licensed professional, as prohibited by § 39-16-
+302;
+(59) Official misconduct, as prohibited by § 39-16-402;
+(60) Official oppression, as prohibited by § 39-16-403;
+(61) Sexual contact with inmate, as prohibited by § 39-16-408;
+(62) Sexual contact with probationer or parolee, as prohibited by § 39-16-
+409;
+(63) False report, as prohibited by § 39-16-502;
+(64) Tampering with or fabricating evidence, as prohibited by § 39-16-
+503;
+(65) Coercion of a witness, as prohibited by § 39-16-507;
+(66) Coercion of juror, as prohibited by § 39-16-508;
+(67) Impeding, intimidating, interfering with, or retaliating for participation
+in judicial process, as prohibited by § 39-16-510;
+(68) Evading arrest in motor vehicle, as prohibited by § 39-16-603(b);
+- 6 - 009936
+(69) Compounding a felony, as prohibited by § 39-16-604;
+(70) Escape from penal institution, as prohibited by § 39-16-605;
+(71) Permitting or facilitating escape, as prohibited by § 39-16-607;
+(72) Failure to appear, as prohibited by § 39-16-609;
+(73) Perjury on handgun permit application, as prohibited by § 39-16-
+702(b)(2);
+(74) Perjury on sex offender registration form, as prohibited by § 39-16-
+702(b)(3);
+(75) Aggravated perjury, as prohibited by § 39-16-703;
+(76) Subornation of aggravated perjury, as prohibited by § 39-16-705;
+(77) Gifts of adulterated candy or food, as prohibited by § 39-17-106;
+(78) Adulteration of food, liquids, or pharmaceuticals causing bodily
+injury, as prohibited by § 39-17-107;
+(79) Violating airport security with intent to commit a felony, as prohibited
+by § 39-17-109(d);
+(80) Preparing property transfer without interest in property, as prohibited
+by § 39-17-116;
+(81) Filing lien to encumber property without legal basis, as prohibited by
+
+Section 4:
+§ 39-17-117;
+(82) Aggravated riot, as prohibited by § 39-17-303;
+(83) Harassment of victim by person convicted of crime, as prohibited by
+
+Section 5:
+§ 39-17-308(b);
+(84) Abuse of corpse or sale or purchase of buried human skeletal
+remains, as prohibited by § 39-17-312;
+(85) Especially aggravated stalking, as prohibited by § 39-17-315(d)(1);
+- 7 - 009936
+(86) Manufacture, delivery, sale, or possession of controlled substance,
+as prohibited by § 39-17-417;
+(87) Simple possession or casual exchange of controlled substance
+where person has two (2) prior simple possession convictions and the current
+violation is for heroin, as prohibited by § 39-17-418(e);
+(88) Selling glue for unlawful purpose, as prohibited by § 39-17-422(c);
+(89) Counterfeit controlled substance, as prohibited by § 39-17-423;
+(90) Unlawful drug paraphernalia uses and activities, as prohibited by §
+39-17-425(b);
+(91) Prescribing or selling steroid for unlawful purpose, as prohibited by §
+39-17-430;
+(92) Promoting manufacture of methamphetamine, as prohibited by § 39-
+17-433;
+(93) Initiating process to result in manufacture of methamphetamine, as
+prohibited by § 39-17-435;
+(94) Possession of the hallucinogenic plant salvia divinorum or the
+synthetic cannabinoids, second or subsequent violation, as prohibited by § 39-
+17-438;
+(95) Manufacture or sale of imitation controlled substance, as prohibited
+by § 39-17-453;
+(96) Manufacturing, delivering, dispensing, selling, or possessing with
+intent to do so a controlled substance analogue, as prohibited by § 39-17-454(c);
+(97) Aggravated gambling promotion, as prohibited by § 39-17-504;
+(98) Lotteries, chain letters, and pyramid clubs valued at ten thousand
+dollars ($10,000) or more, as prohibited by § 39-17-506(c)(4);
+- 8 - 009936
+(99) Lottery fraud, as prohibited by § 39-17-607;
+(100) Making materially false statement on lottery application or record,
+as prohibited by § 39-17-608;
+(101) Engaging in gambling under pretense of charitable gaming event,
+as prohibited by § 39-17-654(a);
+(102) Unauthorized person conducting charitable gaming event, as
+prohibited by § 39-17-654(c);
+(103) Attempting to influence the winning of prize in charitable gaming
+event, as prohibited by § 39-17-656(b);
+(104) Selling service in connection with charitable gaming event on
+contingency basis, as prohibited by § 39-17-657;
+(105) Employment of minors in distribution of obscene material, as
+prohibited by § 39-17-902(b);
+(106) Possession of prohibited weapon, as prohibited by § 39-17-1302;
+(107) Restrictions on firearms ammunition, as prohibited by § 39-17-
+1304(c);
+(108) Carrying weapons during judicial proceedings, as prohibited by §
+39-17-1306;
+(109) Possession of firearm after convicted of felony involving the use or
+attempted use of force, violence, or a deadly weapon, as prohibited by § 39-17-
+1307(b)(1)(A);
+(110) Possession of a handgun by person convicted of a felony, as
+prohibited by § 39-17-1307(c);
+- 9 - 009936
+(111) Unlawful possession of a dangerous weapon other than firearm
+with intent to employ it during commission of dangerous felony, as prohibited by
+
+Section 6:
+§ 39-17-1307(d);
+(112) Carrying weapons on school property, as prohibited by § 39-17-
+1309;
+(113) Parent providing handgun to juvenile, as prohibited by § 39-17-
+1320(b);
+(114) Committing certain offenses while wearing body vest or armor, as
+prohibited by § 39-17-1323; and
+(115) Possession of firearm during commission or attempt to commit
+dangerous felony, as prohibited by § 39-17-1324.
+40-32-204.
+If, after the person's records have been sealed, the person is charged with a new
+offense other than a moving or nonmoving traffic offense, then the court that ordered the
+records to be sealed shall rescind the order pending the disposition of the new charge.
+If the person is convicted of the new offense, then the court shall order the records to be
+unsealed. If the new charges result in any other final disposition, then the court shall
+reinstate the order sealing the person's records.
+
+Section 7:
+SECTION 2. This act takes effect July 1, 2026, the public welfare requiring it.
+- 10 - 009936
+[DELETED: S4(((((]
+[DELETED:  -04A(((((((4C(]
+[DELETED:  -0((((((((((((((((]
+[DELETED:  -0((((((((((((((((((((]
+[DELETED:  -0((((((((((((((]
+[DELETED:  -0(((((((((((((((((]
+[DELETED:  -0(((((((((((((((((]
+[DELETED:  -0(((((((((((((]
+[DELETED:  -0((((((((((( r(]
+[DELETED:  -0(((((4IS]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+HOUSE BILL 1545
+By Dixie
+AN ACT to amend Tennessee Code Annotated, Title 39
+and Title 40, relative to criminal history records.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Title 40, Chapter 32, is amended by adding
+the following as a new part:
+40-32-201.
+(a) A person may petition the court in which the person was convicted of a
+criminal offense to seal the person's criminal history records for the offenses listed in §
+40-32-203. At the time of filing a petition, the person must pay a fee of five hundred
+dollars ($500) to be used by the clerk to offset the cost of sealing records.
+(b) Upon determining that the person is eligible under § 40-32-202 to have the
+person's criminal history records sealed, the court shall enter an order sealing the
+records from all public records requests. The sealed records may continue to be used
+for the following purposes:
+(1) By the Tennessee bureau of investigation or the federal bureau of
+investigation, in determining whether to approve a firearms transaction, pursuant
+to § 39-17-1316, or a handgun carry permit application, pursuant to § 39-17-1351
+or § 39-17-1366;
+(2) By the department of health in maintaining a registry of persons who
+have abused, neglected, or misappropriated the property of vulnerable
+individuals, pursuant to title 68, chapter 11, part 10; and
+(3) By the Tennessee peace officer standards and training commission in
+determining, pursuant to § 38-8-104(g), whether a person has any recorded
+HB1545
+009936
+- 1 -
+
+convictions in this state and meets the minimum qualifications for law
+enforcement officers as provided in § 38-8-106.
+40-32-202.
+A person is an eligible petitioner under this part if the person:
+(1) Has fulfilled the requirements of the sentence imposed by the court in
+which the person was convicted of the offense, including:
+(A) Payment of all fines, restitution, court costs, and other
+assessments;
+(B) Completion of any term of imprisonment or probation;
+(C) Meeting all conditions of supervised or unsupervised release;
+and
+(D) If so required by the conditions of the sentence imposed,
+remaining free from dependency on or abuse of alcohol or a controlled
+substance or other prohibited substance for a period of no less than one
+(1) year;
+(2) Is not subject to any pending criminal charges; and
+(3) Has not been convicted of a criminal offense for at least five (5)
+years, beginning after the completion of any term of imprisonment, supervised or
+unsupervised release, or probation.
+40-32-203.
+Criminal history records related to a conviction for the following offenses and any
+offense committed prior to November 1, 1989, that would constitute any of the following
+offenses if committed under current law are eligible to be sealed under this part:
+(1) RICO offense, as prohibited by § 39-12-205;
+- 2 - 009936
+
+(2) Reckless endangerment by discharging firearm into unoccupied
+habitation, as prohibited by § 39-13-103;
+(3) Assisted suicide, as prohibited by § 39-13-216;
+(4) Custodial interference where person not voluntarily returned by
+defendant, as prohibited by § 39-13-306;
+(5) Promoting prostitution, as prohibited by § 39-13-515;
+(6) Aggravated prostitution, as prohibited by § 39-13-516;
+(7) Promoting travel for prostitution, as prohibited by § 39-13-533;
+(8) Unlawful wiretapping or electronic surveillance, as prohibited by § 39-
+13-602;
+(9) Distribution or delivery of substance as a hoax device, as prohibited
+by § 39-13-808(b)(2);
+(10) Knowing dissemination of illegally recorded cellular communication,
+as prohibited by § 39-13-604(c)(2);
+(11) Unlawful photography with dissemination of photographs and victim
+under thirteen (13) years of age or in a position of trust, as prohibited by § 39-13-
+605(d)(3);
+(12) Burglary, other than habitation, as prohibited by § 39-13-1002;
+(13) Theft of property, as prohibited by § 39-14-103;
+(14) Theft of services, as prohibited by § 39-14-104;
+(15) Extortion, as prohibited by § 39-14-112;
+(16) Forgery, valued at least one thousand dollars ($1,000) but no more
+than nine thousand nine hundred ninety-nine dollars ($9,999), as prohibited by §
+39-14-114;
+(17) Criminal simulation, as prohibited by § 39-14-115;
+- 3 - 009936
+
+(18) Hindering secured creditors, as prohibited by § 39-14-116;
+(19) Fraud in insolvency, as prohibited by § 39-14-117;
+(20) Illegal possession or fraudulent use of credit card or debit card, as
+prohibited by § 39-14-118;
+(21) Worthless checks, as prohibited by § 39-14-121;
+(22) Destruction of valuable papers, as prohibited by § 39-14-130;
+(23) Destruction or concealment of will, as prohibited by § 39-14-131;
+(24) Fraudulent or false insurance claims, as prohibited by § 39-14-133;
+(25) Fraudulent qualifying for set-aside programs, as prohibited by § 39-
+14-137;
+(26) Theft of trade secrets, as prohibited by § 39-14-138;
+(27) Sale of recorded live performances without consent, as prohibited by
+§ 39-14-139;
+(28) Unauthorized solicitation for police, judicial, or safety association, as
+prohibited by § 39-14-143;
+(29) Fraudulent transfer of motor vehicle, as prohibited by § 39-14-147;
+(30) Communication theft, as prohibited by § 39-14-149;
+(31) Identity theft, as prohibited by § 39-14-150;
+(32) Use of counterfeit mark or logo, as prohibited by § 39-14-152;
+(33) Home improvement fraud, as prohibited by § 39-14-154;
+(34) Injuring guide dog, as prohibited by § 39-14-208;
+(35) Arson, as prohibited by § 39-14-301;
+(36) Setting fire to personal property or land, as prohibited by § 39-14-
+303;
+(37) Vandalism, as prohibited by § 39-14-408;
+- 4 - 009936
+
+(38) Critical infrastructure vandalism, as prohibited by § 39-14-411;
+(39) Aggravated criminal littering, as prohibited by § 39-14-505;
+(40) Altering, damaging, or attempting to damage or destroy any
+computer, computer system or computer network, or computer program or data,
+as prohibited by § 39-14-602;
+(41) Violation of Tennessee Personal and Commercial Computer Act -
+value of at least one thousand dollars ($1,000) to fifty-nine thousand nine
+hundred ninety-nine dollars ($59,999), as prohibited by § 39-14-602;
+(42) Computer crimes violation in connection with act of terrorism, as
+prohibited by § 39-14-602(d);
+(43) Unsolicited bulk electronic mail, as prohibited by § 39-14-603;
+(44) Sale, purchase, possession, or use of automated sales suppression
+device, as prohibited by § 39-14-704;
+(45) Theft of animal from or damage to an animal facility - value
+exceeding five hundred dollars ($500), as prohibited by § 39-14-803;
+(46) Money laundering offense, as prohibited by § 39-14-903;
+(47) Flagrant nonsupport, as prohibited by § 39-15-101(d);
+(48) Attempt to procure criminal miscarriage, as prohibited by [former] §
+39-15-201(b)(2) [repealed];
+(49) Failure to observe waiting period before giving consent to abortion,
+as prohibited by § 39-15-202(d);
+(50) Failure or refusal of physician or hospital to preserve the life of an
+infant delivered during an abortion, as prohibited by § 39-15-206;
+(51) Unlawful use of aborted fetus, as prohibited by § 39-15-208;
+- 5 - 009936
+
+(52) Public servant accepting bribe or offering bribe to public servant, as
+prohibited by § 39-16-102;
+(53) Public servant soliciting unlawful compensation, as prohibited by §
+39-16-104;
+(54) Buying and selling in regard to public offices, as prohibited by § 39-
+16-105;
+(55) Bribing a witness, as prohibited by § 39-16-107;
+(56) Bribing a juror, as prohibited by § 39-16-108;
+(57) Introduction of weapons, explosives, intoxicants, drugs, or
+telecommunication device into a penal institution, as prohibited by § 39-16-201;
+(58) Impersonation of licensed professional, as prohibited by § 39-16-
+302;
+(59) Official misconduct, as prohibited by § 39-16-402;
+(60) Official oppression, as prohibited by § 39-16-403;
+(61) Sexual contact with inmate, as prohibited by § 39-16-408;
+(62) Sexual contact with probationer or parolee, as prohibited by § 39-16-
+409;
+(63) False report, as prohibited by § 39-16-502;
+(64) Tampering with or fabricating evidence, as prohibited by § 39-16-
+503;
+(65) Coercion of a witness, as prohibited by § 39-16-507;
+(66) Coercion of juror, as prohibited by § 39-16-508;
+(67) Impeding, intimidating, interfering with, or retaliating for participation
+in judicial process, as prohibited by § 39-16-510;
+(68) Evading arrest in motor vehicle, as prohibited by § 39-16-603(b);
+- 6 - 009936
+
+(69) Compounding a felony, as prohibited by § 39-16-604;
+(70) Escape from penal institution, as prohibited by § 39-16-605;
+(71) Permitting or facilitating escape, as prohibited by § 39-16-607;
+(72) Failure to appear, as prohibited by § 39-16-609;
+(73) Perjury on handgun permit application, as prohibited by § 39-16-
+702(b)(2);
+(74) Perjury on sex offender registration form, as prohibited by § 39-16-
+702(b)(3);
+(75) Aggravated perjury, as prohibited by § 39-16-703;
+(76) Subornation of aggravated perjury, as prohibited by § 39-16-705;
+(77) Gifts of adulterated candy or food, as prohibited by § 39-17-106;
+(78) Adulteration of food, liquids, or pharmaceuticals causing bodily
+injury, as prohibited by § 39-17-107;
+(79) Violating airport security with intent to commit a felony, as prohibited
+by § 39-17-109(d);
+(80) Preparing property transfer without interest in property, as prohibited
+by § 39-17-116;
+(81) Filing lien to encumber property without legal basis, as prohibited by
+§ 39-17-117;
+(82) Aggravated riot, as prohibited by § 39-17-303;
+(83) Harassment of victim by person convicted of crime, as prohibited by
+§ 39-17-308(b);
+(84) Abuse of corpse or sale or purchase of buried human skeletal
+remains, as prohibited by § 39-17-312;
+(85) Especially aggravated stalking, as prohibited by § 39-17-315(d)(1);
+- 7 - 009936
+
+(86) Manufacture, delivery, sale, or possession of controlled substance,
+as prohibited by § 39-17-417;
+(87) Simple possession or casual exchange of controlled substance
+where person has two (2) prior simple possession convictions and the current
+violation is for heroin, as prohibited by § 39-17-418(e);
+(88) Selling glue for unlawful purpose, as prohibited by § 39-17-422(c);
+(89) Counterfeit controlled substance, as prohibited by § 39-17-423;
+(90) Unlawful drug paraphernalia uses and activities, as prohibited by §
+39-17-425(b);
+(91) Prescribing or selling steroid for unlawful purpose, as prohibited by §
+39-17-430;
+(92) Promoting manufacture of methamphetamine, as prohibited by § 39-
+17-433;
+(93) Initiating process to result in manufacture of methamphetamine, as
+prohibited by § 39-17-435;
+(94) Possession of the hallucinogenic plant salvia divinorum or the
+synthetic cannabinoids, second or subsequent violation, as prohibited by § 39-
+17-438;
+(95) Manufacture or sale of imitation controlled substance, as prohibited
+by § 39-17-453;
+(96) Manufacturing, delivering, dispensing, selling, or possessing with
+intent to do so a controlled substance analogue, as prohibited by § 39-17-454(c);
+(97) Aggravated gambling promotion, as prohibited by § 39-17-504;
+(98) Lotteries, chain letters, and pyramid clubs valued at ten thousand
+dollars ($10,000) or more, as prohibited by § 39-17-506(c)(4);
+- 8 - 009936
+
+(99) Lottery fraud, as prohibited by § 39-17-607;
+(100) Making materially false statement on lottery application or record,
+as prohibited by § 39-17-608;
+(101) Engaging in gambling under pretense of charitable gaming event,
+as prohibited by § 39-17-654(a);
+(102) Unauthorized person conducting charitable gaming event, as
+prohibited by § 39-17-654(c);
+(103) Attempting to influence the winning of prize in charitable gaming
+event, as prohibited by § 39-17-656(b);
+(104) Selling service in connection with charitable gaming event on
+contingency basis, as prohibited by § 39-17-657;
+(105) Employment of minors in distribution of obscene material, as
+prohibited by § 39-17-902(b);
+(106) Possession of prohibited weapon, as prohibited by § 39-17-1302;
+(107) Restrictions on firearms ammunition, as prohibited by § 39-17-
+1304(c);
+(108) Carrying weapons during judicial proceedings, as prohibited by §
+39-17-1306;
+(109) Possession of firearm after convicted of felony involving the use or
+attempted use of force, violence, or a deadly weapon, as prohibited by § 39-17-
+1307(b)(1)(A);
+(110) Possession of a handgun by person convicted of a felony, as
+prohibited by § 39-17-1307(c);
+- 9 - 009936
+
+(111) Unlawful possession of a dangerous weapon other than firearm
+with intent to employ it during commission of dangerous felony, as prohibited by
+§ 39-17-1307(d);
+(112) Carrying weapons on school property, as prohibited by § 39-17-
+1309;
+(113) Parent providing handgun to juvenile, as prohibited by § 39-17-
+1320(b);
+(114) Committing certain offenses while wearing body vest or armor, as
+prohibited by § 39-17-1323; and
+(115) Possession of firearm during commission or attempt to commit
+dangerous felony, as prohibited by § 39-17-1324.
+40-32-204.
+If, after the person's records have been sealed, the person is charged with a new
+offense other than a moving or nonmoving traffic offense, then the court that ordered the
+records to be sealed shall rescind the order pending the disposition of the new charge.
+If the person is convicted of the new offense, then the court shall order the records to be
+unsealed. If the new charges result in any other final disposition, then the court shall
+reinstate the order sealing the person's records.
+SECTION 2. This act takes effect July 1, 2026, the public welfare requiring it.
+- 10 - 009936
+
+[DELETED: S4(((((]
+[DELETED:  -04A(((((((4C(]
+[DELETED:  -0((((((((((((((((]
+[DELETED:  -0((((((((((((((((((((]
+[DELETED:  -0((((((((((((((]
+[DELETED:  -0(((((((((((((((((]
+[DELETED:  -0(((((((((((((((((]
+[DELETED:  -0(((((((((((((]
+[DELETED:  -0((((((((((( r(]
+[DELETED:  -0(((((4IS]

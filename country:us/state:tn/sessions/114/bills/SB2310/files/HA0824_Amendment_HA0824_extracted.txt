@@ -1,0 +1,132 @@
+Title: AMEND S e n ate Bill No. 2310* House Bill No. 2393
+Official Title: AMEND S e n ate Bill No. 2310* House Bill No. 2393
+Number of Sections: 3
+Source: versions - Amendment HA0824
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+House Education 1
+Amendment No. 1 to HB2393
+White
+Signature of Sponsor
+by deleting all language after the enacting clause and substituting:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Title 49, Chapter 6, Part 3, is amended by
+adding the following new section:
+(a) As used in this section:
+(1) "Digital device" means electronic hardware used for instructional
+purposes that can access, process, store, or transmit data;
+(2) "Parent" means a parent or legal guardian of a student in any of the
+grades kindergarten through five (K-5); and
+(3) "Social media" means a form of interactive electronic communication
+through an internet website or application by which a user creates a service-
+specific profile to connect with other users for communication or content sharing.
+(b) Each LEA and public charter school serving students in any of the grades
+kindergarten through five (K–5) shall adopt a policy governing the age-appropriate and
+instructional use of digital devices by students to minimize unnecessary screen time
+while preserving instructional effectiveness.
+(c) A policy adopted pursuant to subsection (b) must:
+(1) Prioritize in-person, teacher-led instruction and the use of non-
+electronic instructional materials as the primary mode of instruction for students
+in any of the grades kindergarten through five (K-5);
+HA0824
+013758
+- 1 -
+(2) Limit the use of digital devices issued by the LEA or public charter
+school for students who are in any of the grades kindergarten through five (K-5)
+to instructional purposes for which such use provides a clear educational benefit;
+(3) Prohibit students in any of the grades kindergarten through five (K-5)
+from accessing social media platforms through internet services provided by the
+LEA or public charter school during the instructional day;
+(4) Ensure that electronic assessments and instructional tools used by
+students in any of the grades kindergarten through five (K-5) are developmentally
+appropriate and aligned with state academic standards; and
+(5) Provide parents with transparency regarding the types of digital
+devices used by students and the instructional purposes for any such use.
+(d) This section does not prohibit the use of digital devices for:
+(1) Targeted instructional support, intervention, or remediation;
+(2) Accommodations or services required under the Individuals with
+Disabilities Education Act (20 U.S.C. § 1400 et seq.), Section 504 of the
+Rehabilitation Act (29 U.S.C. § 794), or the Americans with Disabilities Act (42
+U.S.C. § 12101 et seq.);
+(3) Administration of a universal screener adopted by the state board of
+education, a Tennessee universal screener, dyslexia screenings, state-adopted
+benchmark assessments, or other assessments required by state or federal law;
+(4) Teacher preparation, lesson planning, or professional use;
+(5) Public virtual schools;
+(6) Homebound instruction established in § 49-10-1101;
+(7) Remote instructional days provided pursuant to § 49-6-3004(i); or
+(8) Hybrid learning days provided pursuant to § 49-6-3004(j).
+
+Section 3:
+SECTION 2. This act takes effect July 1, 2026, the public welfare requiring it.
+- 2 - 013758
+[DELETED:  a HS(((((((]
+[DELETED:  -0(((((((((((((S]
+
+
+================================================================================
+
+Raw Text:
+House Education 1
+Amendment No. 1 to HB2393
+White
+Signature of Sponsor
+AMEND S e n ate Bill No. 2310* House Bill No. 2393
+by deleting all language after the enacting clause and substituting:
+SECTION 1. Tennessee Code Annotated, Title 49, Chapter 6, Part 3, is amended by
+adding the following new section:
+(a) As used in this section:
+(1) "Digital device" means electronic hardware used for instructional
+purposes that can access, process, store, or transmit data;
+(2) "Parent" means a parent or legal guardian of a student in any of the
+grades kindergarten through five (K-5); and
+(3) "Social media" means a form of interactive electronic communication
+through an internet website or application by which a user creates a service-
+specific profile to connect with other users for communication or content sharing.
+(b) Each LEA and public charter school serving students in any of the grades
+kindergarten through five (K–5) shall adopt a policy governing the age-appropriate and
+instructional use of digital devices by students to minimize unnecessary screen time
+while preserving instructional effectiveness.
+(c) A policy adopted pursuant to subsection (b) must:
+(1) Prioritize in-person, teacher-led instruction and the use of non-
+electronic instructional materials as the primary mode of instruction for students
+in any of the grades kindergarten through five (K-5);
+HA0824
+013758
+- 1 -
+
+(2) Limit the use of digital devices issued by the LEA or public charter
+school for students who are in any of the grades kindergarten through five (K-5)
+to instructional purposes for which such use provides a clear educational benefit;
+(3) Prohibit students in any of the grades kindergarten through five (K-5)
+from accessing social media platforms through internet services provided by the
+LEA or public charter school during the instructional day;
+(4) Ensure that electronic assessments and instructional tools used by
+students in any of the grades kindergarten through five (K-5) are developmentally
+appropriate and aligned with state academic standards; and
+(5) Provide parents with transparency regarding the types of digital
+devices used by students and the instructional purposes for any such use.
+(d) This section does not prohibit the use of digital devices for:
+(1) Targeted instructional support, intervention, or remediation;
+(2) Accommodations or services required under the Individuals with
+Disabilities Education Act (20 U.S.C. § 1400 et seq.), Section 504 of the
+Rehabilitation Act (29 U.S.C. § 794), or the Americans with Disabilities Act (42
+U.S.C. § 12101 et seq.);
+(3) Administration of a universal screener adopted by the state board of
+education, a Tennessee universal screener, dyslexia screenings, state-adopted
+benchmark assessments, or other assessments required by state or federal law;
+(4) Teacher preparation, lesson planning, or professional use;
+(5) Public virtual schools;
+(6) Homebound instruction established in § 49-10-1101;
+(7) Remote instructional days provided pursuant to § 49-6-3004(i); or
+(8) Hybrid learning days provided pursuant to § 49-6-3004(j).
+SECTION 2. This act takes effect July 1, 2026, the public welfare requiring it.
+- 2 - 013758
+
+[DELETED:  a HS(((((((]
+[DELETED:  -0(((((((((((((S]

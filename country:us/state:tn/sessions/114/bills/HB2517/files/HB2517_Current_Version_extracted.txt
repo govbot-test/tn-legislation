@@ -1,0 +1,75 @@
+Title: SENATE BILL 2558
+Official Title: SENATE BILL 2558
+Number of Sections: 4
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+By Reeves
+HOUSE BILL 2517
+By Todd
+AN ACT to amend Tennessee Code Annotated, Title 44,
+relative to animal health.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 44-2-101, is amended by adding the
+following new subdivisions:
+( ) "Monitored disease" means a disease that is endemic in the United States as
+listed by the USDA;
+( ) "Notifiable disease" means a disease and condition consisting of emergency
+incidents, emerging disease incidents, and regulated disease incidents as listed by the
+USDA;
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 44-2-102, is amended by deleting
+subdivision (4) and substituting:
+(4)
+(A) Recommend tests or vaccinations of animals within the state or
+imported into the state for the purpose of protecting the health of animals; and
+(B) Order tests or vaccinations of animals within the state or imported
+into the state for the purpose of detecting or treating a notifiable disease or
+monitored disease;
+
+Section 4:
+SECTION 3. This act takes effect upon becoming a law, the public welfare requiring it.
+HB2517
+012501
+- 1 -
+[DELETED: S((S(((S]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 2558
+By Reeves
+HOUSE BILL 2517
+By Todd
+AN ACT to amend Tennessee Code Annotated, Title 44,
+relative to animal health.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 44-2-101, is amended by adding the
+following new subdivisions:
+( ) "Monitored disease" means a disease that is endemic in the United States as
+listed by the USDA;
+( ) "Notifiable disease" means a disease and condition consisting of emergency
+incidents, emerging disease incidents, and regulated disease incidents as listed by the
+USDA;
+SECTION 2. Tennessee Code Annotated, Section 44-2-102, is amended by deleting
+subdivision (4) and substituting:
+(4)
+(A) Recommend tests or vaccinations of animals within the state or
+imported into the state for the purpose of protecting the health of animals; and
+(B) Order tests or vaccinations of animals within the state or imported
+into the state for the purpose of detecting or treating a notifiable disease or
+monitored disease;
+SECTION 3. This act takes effect upon becoming a law, the public welfare requiring it.
+HB2517
+012501
+- 1 -
+
+[DELETED: S((S(((S]

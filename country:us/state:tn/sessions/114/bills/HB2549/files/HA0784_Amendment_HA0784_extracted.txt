@@ -1,0 +1,362 @@
+Title: AMEND S e n ate Bill No. 2235* House Bill No. 2549
+Official Title: AMEND S e n ate Bill No. 2235* House Bill No. 2549
+Number of Sections: 5
+Source: versions - Amendment HA0784
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+House State & Local Government 1
+Amendment No. 1 to HB2549
+Crawford
+Signature of Sponsor
+by deleting all language after the enacting clause and substituting:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Title 3, Chapter 6, is amended by adding the
+following as a new part:
+3-6-401. Short title – Part definitions.
+(a) This act is known and may be cited as the "Foreign Agent Registration Act."
+(b) As used in this part:
+(1) "Agent of a foreign adversary" means an individual who engages in
+political activity in this state on behalf of an entity listed in subdivision (b)(1)(A) or
+(B) and:
+(A) Who acts as an agent, employee, representative, or servant,
+or otherwise acts at the order, request, or under the direction or control of:
+(i) A foreign adversary;
+(ii) A foreign-supported political organization;
+(iii) A legal entity organized under the laws of or having its
+principal place of business in a foreign adversary country; or
+(iv) A legal entity that is at least twenty percent (20%)
+beneficially owned by a foreign adversary, a nonresident alien of a
+foreign adversary country, or an entity organized under the laws of
+or having its principal place of business in a foreign adversary
+country; or
+HA0784
+015946
+- 1 -
+(B) Whose actions are financed in whole or in part by a foreign
+adversary;
+(2) "Foreign adversary" means a foreign government, country, or non-
+government entity designated by the United States department of commerce
+pursuant to 15 CFR Part 791, Subpart A, as amended, transferred, or
+succeeded;
+(3) "Foreign-supported political organization":
+(A) Means a political party or a domestic partnership, association,
+corporation, organization, or other combination of persons that has, within
+the past five (5) calendar years, received money or other things of value
+from a foreign adversary or from an agent of a foreign adversary and that
+engages in political activity; and
+(B) Does not include:
+(i) An industry, trade, or other professional association that
+exists to promote the interests of its members, or any affiliated
+organization; or
+(ii) A membership organization formed on or before
+January 1, 1950, that advocates on behalf of the common goals or
+interests of its members on matters of public policy, or any
+affiliated organization; and
+(4) "Political activity" means an activity that is performed to influence an
+agency or public official of this state, a local governmental entity within this state,
+or the public within this state, with reference to formulating, adopting, or changing
+the policies or laws of this state, supporting or opposing a candidate for local or
+state public office, or supporting or opposing a ballot measure.
+3-6-402. Registration of representatives of hostile foreign principals.
+- 2 - 015946
+(a) A person shall not act as an agent of a foreign adversary unless the person
+has filed with the Tennessee ethics commission a true and complete registration
+statement and supplements to such statements as required by this part.
+(b) A person shall, within seven (7) days after becoming an agent of a foreign
+adversary, file with the Tennessee ethics commission a sworn registration, under penalty
+of perjury, on a form prescribed by the Tennessee ethics commission. The obligation of
+an agent of a foreign adversary to register, after the seventh day of becoming an agent,
+continues from day to day, and the termination of such status does not relieve such
+agent from the obligation to register for the period during which the person was an agent
+of a foreign adversary.
+(c) The registration must include the following:
+(1) The registrant's name, principal business address, and all other
+business addresses in the United States or elsewhere, telephone number, and
+email address;
+(2) The name of the foreign adversary, foreign-supported political
+organization, or legal entity as described in § 3-6-401(b)(1)(A)(iii) or (iv) which the
+agent represents, and the names, titles, and business addresses of all officers or
+directors thereof, including name, telephone number, and email address of the
+agent's immediate director;
+(3) A comprehensive statement of the nature of the registrant's business,
+including a detailed statement of the registrant's existing and proposed political
+activity and the nature and method of performance of such political activity;
+(4) Copies of each written agreement or the terms and conditions of each
+oral agreement, where no written agreement exists;
+(5) A comprehensive statement of all the circumstances detailing the
+process by which the registrant came to be an agent of a foreign adversary;
+- 3 - 015946
+(6) The name and business address of each member of the agent's
+immediate family who is an official within the legislative or executive branch;
+(7) The extent of each direct business arrangement or partnership
+between the agent and a candidate for public office or an official in the legislative
+or executive branch; and
+(8) Any other information that the Tennessee ethics commission, having
+due regard for national security and the public interest, may require.
+(d) Throughout the year, by amendment filed with the Tennessee ethics
+commission, each agent of a foreign adversary shall update, correct, or otherwise modify
+the agent's registration statement no later than seven (7) days following the occurrence
+of an event, action, or changed circumstance that renders the registration statement
+inaccurate or incomplete.
+(e) Within ten (10) days following the conclusion of quarterly periods ending
+March 31, June 30, September 30, and January 15, each agent of a foreign adversary
+shall file an additional statement with the ethics commission of all compensation or
+contributions received and all expenditures made by or on behalf of the agent in
+connection to the agent's political activities during the reporting period.
+(f) An agent of a foreign adversary shall, within thirty (30) days of registration,
+submit a nonrefundable registration fee to the Tennessee ethics commission in the form
+and manner directed by the commission in the amount of one hundred fifty dollars
+($150) for each entity listed in § 3-6-401(b)(1) with whom the agent is engaged as an
+agent of a foreign adversary.
+3-6-403. Prohibited conduct.
+An agent of a foreign adversary is prohibited from the same conduct as a lobbyist
+pursuant to §§ 3-6-304 and 3-6-305.
+3-6-404. Penalties for violation – Authority of Tennessee ethics commission –
+Role of attorney general and reporter.
+- 4 - 015946
+(a) Upon receipt of a complaint that an agent of a foreign adversary or a foreign-
+supported political organization has failed to comply with this part, or upon its own
+determination, the Tennessee ethics commission must investigate and assess penalties
+for the violation of this part.
+(b) The Tennessee ethics commission shall assess penalties up to and including
+the following:
+(1) For any violation, up to five hundred dollars ($500) per infraction; and
+(2) For willful or repeated violations, up to ten thousand dollars ($10,000)
+per infraction and, if the violator is an attorney, a reference of the matter to the
+Tennessee supreme court for disbarment.
+(c) The Tennessee ethics commission may refer any matter to the attorney
+general and reporter for further civil or criminal action.
+(d) Upon receipt of a complaint that an agent of a foreign adversary or a foreign-
+supported political organization has failed to comply with this part, or upon its own
+determination, the attorney general and reporter is authorized to:
+(1) Investigate any suspected violation of this part;
+(2) Issue subpoenas and compel the production of documents; and
+(3) Initiate civil or criminal actions to enforce compliance.
+3-6-405. Registration of foreign-supported political organizations.
+(a) No later than July 1, 2026, each foreign-supported political organization shall
+register with the Tennessee ethics commission and provide the following information:
+(1) The name of the organization, its business address, and the names,
+titles, and addresses of all officers and directors of the organization;
+(2) If the organization is affiliated with, or a chapter of, a national
+organization, the name of the national organization, its address, and the names
+and addresses of its officers and directors;
+- 5 - 015946
+(3) A detailed statement of any expenditures of money or other things of
+value made by the organization within the prior calendar year to influence any
+agency or public official of this state, any local governmental entity within this
+state, or the public within this state with reference to formulating, adopting, or
+changing the policies or laws of this state or electing a candidate to local or state
+public office; and
+(4) A detailed statement of all money or other things of value received by
+the organization from a foreign adversary or an agent of a foreign adversary
+during the preceding calendar year.
+(b) The Tennessee ethics commission shall require a registered foreign-
+supported political organization to update the information required by this section at least
+annually.
+(c) Registration statements filed pursuant to this section are public records and
+must be available for inspection during normal business hours of the Tennessee ethics
+commission.
+
+Section 3:
+SECTION 2. The headings in this act are for reference purposes only and do not
+constitute a part of the law enacted by this act. However, the Tennessee Code Commission is
+requested to include the headings in any compilation or publication containing this act.
+
+Section 4:
+SECTION 3. If any provision of this act or the application of any provision of this act to
+any person or circumstance is held invalid, the invalidity does not affect other provisions or
+applications of this act that can be given effect without the invalid provision or application, and to
+that end, the provisions of this act are severable.
+
+Section 5:
+SECTION 4. This act takes effect July 1, 2026, the public welfare requiring it.
+- 6 - 015946
+[DELETED:  a HS3((((((((]
+[DELETED:  -0((((((((3]
+[DELETED:  -0((((((((]
+[DELETED:  -0((((((3A3]
+[DELETED:  -0(((((((((3(((]
+[DELETED:  -0((((SSS]
+
+
+================================================================================
+
+Raw Text:
+House State & Local Government 1
+Amendment No. 1 to HB2549
+Crawford
+Signature of Sponsor
+AMEND S e n ate Bill No. 2235* House Bill No. 2549
+by deleting all language after the enacting clause and substituting:
+SECTION 1. Tennessee Code Annotated, Title 3, Chapter 6, is amended by adding the
+following as a new part:
+3-6-401. Short title – Part definitions.
+(a) This act is known and may be cited as the "Foreign Agent Registration Act."
+(b) As used in this part:
+(1) "Agent of a foreign adversary" means an individual who engages in
+political activity in this state on behalf of an entity listed in subdivision (b)(1)(A) or
+(B) and:
+(A) Who acts as an agent, employee, representative, or servant,
+or otherwise acts at the order, request, or under the direction or control of:
+(i) A foreign adversary;
+(ii) A foreign-supported political organization;
+(iii) A legal entity organized under the laws of or having its
+principal place of business in a foreign adversary country; or
+(iv) A legal entity that is at least twenty percent (20%)
+beneficially owned by a foreign adversary, a nonresident alien of a
+foreign adversary country, or an entity organized under the laws of
+or having its principal place of business in a foreign adversary
+country; or
+HA0784
+015946
+- 1 -
+
+(B) Whose actions are financed in whole or in part by a foreign
+adversary;
+(2) "Foreign adversary" means a foreign government, country, or non-
+government entity designated by the United States department of commerce
+pursuant to 15 CFR Part 791, Subpart A, as amended, transferred, or
+succeeded;
+(3) "Foreign-supported political organization":
+(A) Means a political party or a domestic partnership, association,
+corporation, organization, or other combination of persons that has, within
+the past five (5) calendar years, received money or other things of value
+from a foreign adversary or from an agent of a foreign adversary and that
+engages in political activity; and
+(B) Does not include:
+(i) An industry, trade, or other professional association that
+exists to promote the interests of its members, or any affiliated
+organization; or
+(ii) A membership organization formed on or before
+January 1, 1950, that advocates on behalf of the common goals or
+interests of its members on matters of public policy, or any
+affiliated organization; and
+(4) "Political activity" means an activity that is performed to influence an
+agency or public official of this state, a local governmental entity within this state,
+or the public within this state, with reference to formulating, adopting, or changing
+the policies or laws of this state, supporting or opposing a candidate for local or
+state public office, or supporting or opposing a ballot measure.
+3-6-402. Registration of representatives of hostile foreign principals.
+- 2 - 015946
+
+(a) A person shall not act as an agent of a foreign adversary unless the person
+has filed with the Tennessee ethics commission a true and complete registration
+statement and supplements to such statements as required by this part.
+(b) A person shall, within seven (7) days after becoming an agent of a foreign
+adversary, file with the Tennessee ethics commission a sworn registration, under penalty
+of perjury, on a form prescribed by the Tennessee ethics commission. The obligation of
+an agent of a foreign adversary to register, after the seventh day of becoming an agent,
+continues from day to day, and the termination of such status does not relieve such
+agent from the obligation to register for the period during which the person was an agent
+of a foreign adversary.
+(c) The registration must include the following:
+(1) The registrant's name, principal business address, and all other
+business addresses in the United States or elsewhere, telephone number, and
+email address;
+(2) The name of the foreign adversary, foreign-supported political
+organization, or legal entity as described in § 3-6-401(b)(1)(A)(iii) or (iv) which the
+agent represents, and the names, titles, and business addresses of all officers or
+directors thereof, including name, telephone number, and email address of the
+agent's immediate director;
+(3) A comprehensive statement of the nature of the registrant's business,
+including a detailed statement of the registrant's existing and proposed political
+activity and the nature and method of performance of such political activity;
+(4) Copies of each written agreement or the terms and conditions of each
+oral agreement, where no written agreement exists;
+(5) A comprehensive statement of all the circumstances detailing the
+process by which the registrant came to be an agent of a foreign adversary;
+- 3 - 015946
+
+(6) The name and business address of each member of the agent's
+immediate family who is an official within the legislative or executive branch;
+(7) The extent of each direct business arrangement or partnership
+between the agent and a candidate for public office or an official in the legislative
+or executive branch; and
+(8) Any other information that the Tennessee ethics commission, having
+due regard for national security and the public interest, may require.
+(d) Throughout the year, by amendment filed with the Tennessee ethics
+commission, each agent of a foreign adversary shall update, correct, or otherwise modify
+the agent's registration statement no later than seven (7) days following the occurrence
+of an event, action, or changed circumstance that renders the registration statement
+inaccurate or incomplete.
+(e) Within ten (10) days following the conclusion of quarterly periods ending
+March 31, June 30, September 30, and January 15, each agent of a foreign adversary
+shall file an additional statement with the ethics commission of all compensation or
+contributions received and all expenditures made by or on behalf of the agent in
+connection to the agent's political activities during the reporting period.
+(f) An agent of a foreign adversary shall, within thirty (30) days of registration,
+submit a nonrefundable registration fee to the Tennessee ethics commission in the form
+and manner directed by the commission in the amount of one hundred fifty dollars
+($150) for each entity listed in § 3-6-401(b)(1) with whom the agent is engaged as an
+agent of a foreign adversary.
+3-6-403. Prohibited conduct.
+An agent of a foreign adversary is prohibited from the same conduct as a lobbyist
+pursuant to §§ 3-6-304 and 3-6-305.
+3-6-404. Penalties for violation – Authority of Tennessee ethics commission –
+Role of attorney general and reporter.
+- 4 - 015946
+
+(a) Upon receipt of a complaint that an agent of a foreign adversary or a foreign-
+supported political organization has failed to comply with this part, or upon its own
+determination, the Tennessee ethics commission must investigate and assess penalties
+for the violation of this part.
+(b) The Tennessee ethics commission shall assess penalties up to and including
+the following:
+(1) For any violation, up to five hundred dollars ($500) per infraction; and
+(2) For willful or repeated violations, up to ten thousand dollars ($10,000)
+per infraction and, if the violator is an attorney, a reference of the matter to the
+Tennessee supreme court for disbarment.
+(c) The Tennessee ethics commission may refer any matter to the attorney
+general and reporter for further civil or criminal action.
+(d) Upon receipt of a complaint that an agent of a foreign adversary or a foreign-
+supported political organization has failed to comply with this part, or upon its own
+determination, the attorney general and reporter is authorized to:
+(1) Investigate any suspected violation of this part;
+(2) Issue subpoenas and compel the production of documents; and
+(3) Initiate civil or criminal actions to enforce compliance.
+3-6-405. Registration of foreign-supported political organizations.
+(a) No later than July 1, 2026, each foreign-supported political organization shall
+register with the Tennessee ethics commission and provide the following information:
+(1) The name of the organization, its business address, and the names,
+titles, and addresses of all officers and directors of the organization;
+(2) If the organization is affiliated with, or a chapter of, a national
+organization, the name of the national organization, its address, and the names
+and addresses of its officers and directors;
+- 5 - 015946
+
+(3) A detailed statement of any expenditures of money or other things of
+value made by the organization within the prior calendar year to influence any
+agency or public official of this state, any local governmental entity within this
+state, or the public within this state with reference to formulating, adopting, or
+changing the policies or laws of this state or electing a candidate to local or state
+public office; and
+(4) A detailed statement of all money or other things of value received by
+the organization from a foreign adversary or an agent of a foreign adversary
+during the preceding calendar year.
+(b) The Tennessee ethics commission shall require a registered foreign-
+supported political organization to update the information required by this section at least
+annually.
+(c) Registration statements filed pursuant to this section are public records and
+must be available for inspection during normal business hours of the Tennessee ethics
+commission.
+SECTION 2. The headings in this act are for reference purposes only and do not
+constitute a part of the law enacted by this act. However, the Tennessee Code Commission is
+requested to include the headings in any compilation or publication containing this act.
+SECTION 3. If any provision of this act or the application of any provision of this act to
+any person or circumstance is held invalid, the invalidity does not affect other provisions or
+applications of this act that can be given effect without the invalid provision or application, and to
+that end, the provisions of this act are severable.
+SECTION 4. This act takes effect July 1, 2026, the public welfare requiring it.
+- 6 - 015946
+
+[DELETED:  a HS3((((((((]
+[DELETED:  -0((((((((3]
+[DELETED:  -0((((((((]
+[DELETED:  -0((((((3A3]
+[DELETED:  -0(((((((((3(((]
+[DELETED:  -0((((SSS]

@@ -1,0 +1,134 @@
+Title: HOUSE BILL 2028
+Official Title: HOUSE BILL 2028
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+By Faison
+SENATE BILL 2262
+By Lowe
+AN ACT to amend Tennessee Code Annotated, Title 4;
+Title 29; Title 47 and Title 65, relative to consumer
+protection.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Title 47, Chapter 18, Part 1, is amended by
+adding the following as a new section:
+(a) As used in this section:
+(1) "Blacklist" means to:
+(A) Reduce visibility or accessibility of a small business's website
+on an online platform or other platform;
+(B) Remove a small business's website or the search result for
+the small business's website from a business entity's platform or the
+business entity's related applications or websites; or
+(C) Delete or otherwise remove twenty-five percent (25%) or
+more of the reviews, if applicable, that a small business has at the time of
+removal;
+(2) "Online search engine" means an application or website through
+which a user can search for information, including the website or contact
+information of a small business, on the internet; and
+(3) "Small business" means a business entity, including the entity's
+affiliates, that employs fifty (50) or fewer full-time employees.
+(b) If a business entity blacklists a small business, including an online search
+engine on the online search engine company's related applications or websites, then the
+SB2262
+012004
+- 1 -
+business entity must provide notice of the action to the small business within twenty-four
+(24) hours of the action. The notice must include the following information:
+(1) An explanation of why the business entity blacklisted the small
+business;
+(2) Information for how the small business can remedy or otherwise
+respond to the action; and
+(3) Contact information for a representative of the online search engine
+that the small business may contact to discuss a resolution of the action.
+(c)
+(1) If a business entity fails to comply with the requirements of subsection
+(b), then an affected small business may bring a cause of action in a court of
+competent jurisdiction. A court that finds that the business entity violated
+subsection (b) may award:
+(A) Actual damages;
+(B) Punitive damages; or
+(C) Reasonable court costs and attorney fees.
+(2) In addition to the remedies described under subdivision (c)(1), if a
+court finds that a business entity is violating subsection (b), then the court may
+order injunctive relief to enjoin the business entity from continuing to violate
+subsection (b). A search engine is not in compliance with the requirements of
+subsection (b) until all information required under subdivisions (b)(1)-(3) is
+provided to the small business.
+
+Section 3:
+SECTION 2. This act takes effect July 1, 2026, the public welfare requiring it, and
+applies to conduct occurring on or after that date.
+- 2 - 012004
+[DELETED: S(((]
+[DELETED:  -0(S]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 2028
+By Faison
+SENATE BILL 2262
+By Lowe
+AN ACT to amend Tennessee Code Annotated, Title 4;
+Title 29; Title 47 and Title 65, relative to consumer
+protection.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Title 47, Chapter 18, Part 1, is amended by
+adding the following as a new section:
+(a) As used in this section:
+(1) "Blacklist" means to:
+(A) Reduce visibility or accessibility of a small business's website
+on an online platform or other platform;
+(B) Remove a small business's website or the search result for
+the small business's website from a business entity's platform or the
+business entity's related applications or websites; or
+(C) Delete or otherwise remove twenty-five percent (25%) or
+more of the reviews, if applicable, that a small business has at the time of
+removal;
+(2) "Online search engine" means an application or website through
+which a user can search for information, including the website or contact
+information of a small business, on the internet; and
+(3) "Small business" means a business entity, including the entity's
+affiliates, that employs fifty (50) or fewer full-time employees.
+(b) If a business entity blacklists a small business, including an online search
+engine on the online search engine company's related applications or websites, then the
+SB2262
+012004
+- 1 -
+
+business entity must provide notice of the action to the small business within twenty-four
+(24) hours of the action. The notice must include the following information:
+(1) An explanation of why the business entity blacklisted the small
+business;
+(2) Information for how the small business can remedy or otherwise
+respond to the action; and
+(3) Contact information for a representative of the online search engine
+that the small business may contact to discuss a resolution of the action.
+(c)
+(1) If a business entity fails to comply with the requirements of subsection
+(b), then an affected small business may bring a cause of action in a court of
+competent jurisdiction. A court that finds that the business entity violated
+subsection (b) may award:
+(A) Actual damages;
+(B) Punitive damages; or
+(C) Reasonable court costs and attorney fees.
+(2) In addition to the remedies described under subdivision (c)(1), if a
+court finds that a business entity is violating subsection (b), then the court may
+order injunctive relief to enjoin the business entity from continuing to violate
+subsection (b). A search engine is not in compliance with the requirements of
+subsection (b) until all information required under subdivisions (b)(1)-(3) is
+provided to the small business.
+SECTION 2. This act takes effect July 1, 2026, the public welfare requiring it, and
+applies to conduct occurring on or after that date.
+- 2 - 012004
+
+[DELETED: S(((]
+[DELETED:  -0(S]

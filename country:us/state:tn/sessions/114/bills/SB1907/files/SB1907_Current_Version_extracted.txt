@@ -1,0 +1,73 @@
+Title: HOUSE BILL 1464
+Official Title: HOUSE BILL 1464
+Number of Sections: 5
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+By Powers
+SENATE BILL 1907
+By Stevens
+AN ACT to amend Tennessee Code Annotated, Title 5;
+Title 6; Title 7, Chapter 51; Title 8 and Title 50,
+relative to electrical linemen.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 7-51-210(a), is amended by adding
+the following new subdivision:
+( ) "Electrical lineman" means an individual who:
+(A) Installs, maintains, or repairs electrical transmission and power
+distribution systems; and
+(B) Is employed by a local government or an entity that contracts with a
+local government for the installation, maintenance, or repair of such systems;
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Section 7-51-210(b), is amended by adding
+the language "or electrical lineman" after "emergency responder" wherever it may appear.
+
+Section 4:
+SECTION 3. Tennessee Code Annotated, Section 7-51-210(d), is amended by deleting
+the period at the end of the subsection and substituting ", or being both an emergency
+responder and an electrical lineman.".
+
+Section 5:
+SECTION 4. This act takes effect July 1, 2026, the public welfare requiring it.
+SB1907
+010527
+- 1 -
+[DELETED: S(((SSS]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 1464
+By Powers
+SENATE BILL 1907
+By Stevens
+AN ACT to amend Tennessee Code Annotated, Title 5;
+Title 6; Title 7, Chapter 51; Title 8 and Title 50,
+relative to electrical linemen.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 7-51-210(a), is amended by adding
+the following new subdivision:
+( ) "Electrical lineman" means an individual who:
+(A) Installs, maintains, or repairs electrical transmission and power
+distribution systems; and
+(B) Is employed by a local government or an entity that contracts with a
+local government for the installation, maintenance, or repair of such systems;
+SECTION 2. Tennessee Code Annotated, Section 7-51-210(b), is amended by adding
+the language "or electrical lineman" after "emergency responder" wherever it may appear.
+SECTION 3. Tennessee Code Annotated, Section 7-51-210(d), is amended by deleting
+the period at the end of the subsection and substituting ", or being both an emergency
+responder and an electrical lineman.".
+SECTION 4. This act takes effect July 1, 2026, the public welfare requiring it.
+SB1907
+010527
+- 1 -
+
+[DELETED: S(((SSS]

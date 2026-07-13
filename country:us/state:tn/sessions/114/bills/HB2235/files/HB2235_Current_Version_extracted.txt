@@ -1,0 +1,469 @@
+Title: SENATE BILL 2506
+Official Title: SENATE BILL 2506
+Number of Sections: 7
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 9 sections found
+
+================================================================================
+
+Section 1:
+By Oliver
+HOUSE BILL 2235
+By Dixie
+AN ACT to amend Tennessee Code Annotated, Title 4,
+Chapter 21 and Title 66, relative to housing
+discrimination.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. This act is known and may be cited as the "Tennessee Fair Chance
+Housing Act."
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Title 4, Chapter 21, Part 6, is amended by
+adding the following new sections:
+4-21-608. Definitions for §§ 4-21-608 - 4-21-614.
+(a) As used in §§ 4-21-608 - 4-21-614:
+(1) "Conviction" means a judgment of guilt entered by a court of
+competent jurisdiction following a plea of guilty, nolo contendere, or a
+verdict or finding of guilt by a judge or jury;
+(2) "Criminal history" means an arrest, charge, or conviction for a
+criminal offense;
+(3) "Felony conviction" means a conviction for any offense
+classified as a felony under state or federal law or the law of any other
+jurisdiction of the United States;
+(4) "Housing provider" means any person, firm, corporation,
+partnership, association, or organization that owns, leases, subleases, or
+manages residential real property, including single-family homes,
+apartments, condominiums, mobile home parks, or any other dwelling unit
+available for rent or lease. This includes property managers, landlords,
+HB2235
+011899
+- 1 -
+real estate agents acting on behalf of housing providers, and housing
+authorities;
+(5) "Individualized assessment" means a written evaluation
+conducted by a housing provider that considers the following factors
+specific to an applicant for housing:
+(A) The nature and severity of the criminal offense;
+(B) The time elapsed since the offense or completion of
+sentence, whichever is later;
+(C) The age of the applicant at the time of the offense;
+(D) Evidence of rehabilitation, including employment
+history, educational achievements, community involvement,
+references, completion of treatment programs, or participation in
+reentry services;
+(E) The relationship between the offense and the safety
+and welfare of other residents or property; and
+(F) Any mitigating circumstances or explanations provided
+by the applicant;
+(6) "Look-back period" means the time period during which a
+housing provider may consider a criminal conviction when evaluating a
+housing application, beginning from the date of conviction or the date of
+release from incarceration or completion of all terms of sentence,
+including probation or parole, whichever is later, until the date of
+application;
+- 2 - 011899
+(7) "Misdemeanor conviction" means a conviction for any offense
+classified as a misdemeanor under state or federal law or the law of any
+other jurisdiction of the United States;
+(8) "Protected status for housing purposes" means the status of
+having a criminal conviction that is beyond the applicable look-back
+period pursuant to § 4-21-610, or for which an individualized assessment
+has not demonstrated a direct relationship between the conviction and
+tenant or community safety; and
+(9) "Sex offense conviction" means a conviction for any offense
+that requires registration under the Tennessee Sexual Offender and
+Violent Sexual Offender Registration, Verification and Tracking Act of
+2004, compiled in title 40, chapter 39, part 2, or similar laws of other state
+or federal jurisdictions.
+4-21-609. Prohibited discrimination in housing.
+(a) Except as provided in § 4-21-610, it is a discriminatory practice in violation of
+this chapter for any housing provider to:
+(1) Refuse to rent, lease, sell, or otherwise make unavailable any
+dwelling to any person solely because of that person's criminal history;
+(2) Discriminate against any person in the terms, conditions, or privileges
+of the rental, lease, or sale of a dwelling, or in the provision of services or
+facilities in connection therewith, solely because of that person's criminal history;
+(3) Make, print, or publish, or cause to be made, printed, or published,
+any notice, statement, or advertisement with respect to the rental, lease, or sale
+of a dwelling that indicates any preference, limitation, or discrimination based on
+criminal history;
+- 3 - 011899
+(4) Represent to any person because of the person's criminal history that
+any dwelling is not available for inspection, rental, lease, or sale when such
+dwelling is in fact available;
+(5) Include on any housing application any question or inquiry regarding
+arrests that did not result in conviction; or
+(6) Consider any arrest, charge, criminal accusation, or participation in a
+diversion program that did not result in a conviction when evaluating a housing
+application.
+(b) Nothing in this section prohibits a housing provider from considering criminal
+history information that is specifically permitted under § 4-21-610.
+4-21-610. Permitted consideration of criminal history.
+(a) A housing provider may consider a misdemeanor conviction only if the
+conviction occurred within three (3) years preceding the date of the housing application,
+beginning from the date of conviction or the date of release from incarceration or
+completion of all terms of a sentence, including probation or parole, whichever is later.
+(b) A housing provider may consider a felony conviction only if the conviction
+occurred within ten (10) years preceding the date of the housing application, beginning
+from the date of conviction or the date of release from incarceration or completion of all
+terms of a sentence, including probation or parole, whichever is later.
+(c) Notwithstanding subsections (a) and (b), a housing provider may consider
+any sex offense conviction without regard to the look-back periods established in this
+
+Section 4:
+section, if:
+(1) The housing provider conducts an individualized assessment as
+required by subsection (d);
+- 4 - 011899
+(2) The denial is based on a direct relationship between the sex offense
+conviction and the safety and welfare of other residents or compliance with
+applicable housing restrictions for registered sex offenders under state or federal
+law; and
+(3) The housing provider provides written notice of the denial in
+accordance with § 4-21-611.
+(d) If a housing provider intends to deny housing based on a criminal conviction
+that falls within the applicable look-back period, the housing provider must conduct an
+individualized assessment. A denial based on criminal history may be justified only if the
+housing provider determines, based on the individualized assessment, that there is a
+direct relationship between the criminal conviction and a demonstrable risk to the safety
+and welfare of other residents or property.
+(e) The housing provider bears the burden of demonstrating that any denial
+based on criminal history is justified under this section and is supported by an
+individualized assessment.
+(f) A housing provider shall not adopt or enforce any blanket policy that
+automatically disqualifies applicants based on the existence of any criminal conviction
+without conducting an individualized assessment as required by this section.
+4-21-611. Notice requirements.
+(a) If a housing provider denies a housing application, refuses to renew a lease,
+or takes any other adverse action based in whole or in part on an applicant's criminal
+history, the housing provider shall provide the applicant with written notice within seven
+(7) business days of the adverse action. The notice must include:
+(1) A statement that the adverse action was based in whole or in part on
+the applicant's criminal history;
+- 5 - 011899
+(2) A description of each specific conviction considered, including the
+nature of the offense, the date of conviction, and the jurisdiction of conviction;
+(3) A summary of the individualized assessment conducted, including the
+factors considered and the basis for the determination that the conviction
+presents a direct risk to safety or property;
+(4) A statement of the applicant's right to submit additional information or
+evidence of rehabilitation, mitigation, or inaccuracy of the criminal history
+information within fourteen (14) days of receipt of the notice;
+(5) A statement of the applicant's right to file a complaint with the
+commission or pursue legal remedies under § 4-21-613(b); and
+(6) Contact information for the commission.
+(b) The housing provider shall hold the application open and refrain from renting
+the dwelling to another applicant for fourteen (14) days following the date that a notice of
+denial is sent to allow the applicant to submit additional information or documentation.
+The housing provider shall consider any timely submitted information and issue a final
+decision in writing within seven (7) business days of receiving such information.
+(c) Housing providers shall retain copies of all notices of denial, individualized
+assessments, and related documentation for a period of not less than three (3) years
+from the date of the denial.
+4-21-612. Education and outreach by department of correction.
+(a) The department of correction, division of rehabilitative services, shall develop
+and implement a comprehensive education and outreach program to inform individuals
+with criminal convictions of their rights under §§ 4-21-609 - 4-21-613. The program must
+include:
+- 6 - 011899
+(1) Educational materials, including pamphlets, videos, and online
+resources, explaining the protections afforded under §§ 4-21-609 - 4-21-613 and
+the process for filing complaints if discrimination occurs;
+(2) Pre-release training sessions for individuals in state correctional
+facilities to educate such individuals about fair housing rights, the housing
+application process, and resources available upon reentry;
+(3) A dedicated telephone hotline and online portal for formerly
+incarcerated individuals to report suspected housing discrimination, obtain
+information about their rights, and receive referrals to legal assistance or fair
+housing organizations;
+(4) Partnerships with community-based organizations, reentry service
+providers, public housing authorities, and fair housing advocacy groups to
+conduct outreach and education; and
+(5) Annual reports to the general assembly detailing the number of
+individuals served, complaints received, and recommendations for improving
+housing access for individuals with criminal histories.
+(b) The department of correction shall coordinate with the commission to ensure
+consistent messaging and effective enforcement of §§ 4-21-609 - 4-21-613.
+(c) Upon release from a state correctional facility, the department of correction
+shall provide each individual with written materials summarizing their rights under §§ 4-
+21-609 - 4-21-613 and contact information for the hotline and resources available as
+described in subsection (a).
+4-21-613. Enforcement and remedies.
+- 7 - 011899
+(a) The commission has jurisdiction to receive, investigate, and adjudicate
+complaints alleging violations of §§ 4-21-609 - 4-21-611 in accordance with the
+procedures set forth in this chapter.
+(b) Any person aggrieved by a violation of §§ 4-21-609 - 4-21-611 may bring a
+civil action pursuant to part 3 of this chapter.
+(c) The commission may initiate investigations and bring enforcement actions
+against housing providers who engage in a pattern or practice of violating §§ 4-21-609 -
+4-21-611.
+4-21-614. Relationship to other laws.
+(a) Nothing in §§ 4-21-609 - 4-21-613 preempts or limits a local ordinance,
+regulation, or policy that provides greater protections against housing discrimination
+based on criminal history.
+(b) Nothing in §§ 4-21-609 - 4-21-613 requires a housing provider to violate any
+federal or state law or regulation, including, but not limited to, restrictions on housing for
+registered sex offenders in proximity to schools, childcare facilities, or other protected
+locations.
+
+Section 5:
+SECTION 3. The headings in this act are for reference purposes only and do not
+constitute a part of the law enacted by this act. However, the Tennessee Code Commission is
+requested to include the headings in any compilation or publication containing this act.
+
+Section 6:
+SECTION 4. If any provision of this act or its application to any person or circumstance
+is held invalid, then the invalidity does not affect other provisions or applications of the act that
+can be given effect without the invalid provision or application, and to that end, the provisions of
+this act are severable.
+- 8 - 011899
+
+Section 7:
+SECTION 5. For purposes of promulgating rules and developing the education and
+outreach program, this act takes effect upon becoming a law, the public welfare requiring it. For
+all other purposes, this act takes effect on January 1, 2027, the public welfare requiring it.
+- 9 - 011899
+[DELETED: SS]
+[DELETED:  -0]
+[DELETED:  -0((((]
+[DELETED:  -0((((((((]
+[DELETED:  -0(((((4((]
+[DELETED:  -0(((((((4(]
+[DELETED:  -0(((((((4]
+[DELETED:  -0(((4((SS]
+[DELETED:  -0S]
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL 2506
+By Oliver
+HOUSE BILL 2235
+By Dixie
+AN ACT to amend Tennessee Code Annotated, Title 4,
+Chapter 21 and Title 66, relative to housing
+discrimination.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. This act is known and may be cited as the "Tennessee Fair Chance
+Housing Act."
+SECTION 2. Tennessee Code Annotated, Title 4, Chapter 21, Part 6, is amended by
+adding the following new sections:
+4-21-608. Definitions for §§ 4-21-608 - 4-21-614.
+(a) As used in §§ 4-21-608 - 4-21-614:
+(1) "Conviction" means a judgment of guilt entered by a court of
+competent jurisdiction following a plea of guilty, nolo contendere, or a
+verdict or finding of guilt by a judge or jury;
+(2) "Criminal history" means an arrest, charge, or conviction for a
+criminal offense;
+(3) "Felony conviction" means a conviction for any offense
+classified as a felony under state or federal law or the law of any other
+jurisdiction of the United States;
+(4) "Housing provider" means any person, firm, corporation,
+partnership, association, or organization that owns, leases, subleases, or
+manages residential real property, including single-family homes,
+apartments, condominiums, mobile home parks, or any other dwelling unit
+available for rent or lease. This includes property managers, landlords,
+HB2235
+011899
+- 1 -
+
+real estate agents acting on behalf of housing providers, and housing
+authorities;
+(5) "Individualized assessment" means a written evaluation
+conducted by a housing provider that considers the following factors
+specific to an applicant for housing:
+(A) The nature and severity of the criminal offense;
+(B) The time elapsed since the offense or completion of
+sentence, whichever is later;
+(C) The age of the applicant at the time of the offense;
+(D) Evidence of rehabilitation, including employment
+history, educational achievements, community involvement,
+references, completion of treatment programs, or participation in
+reentry services;
+(E) The relationship between the offense and the safety
+and welfare of other residents or property; and
+(F) Any mitigating circumstances or explanations provided
+by the applicant;
+(6) "Look-back period" means the time period during which a
+housing provider may consider a criminal conviction when evaluating a
+housing application, beginning from the date of conviction or the date of
+release from incarceration or completion of all terms of sentence,
+including probation or parole, whichever is later, until the date of
+application;
+- 2 - 011899
+
+(7) "Misdemeanor conviction" means a conviction for any offense
+classified as a misdemeanor under state or federal law or the law of any
+other jurisdiction of the United States;
+(8) "Protected status for housing purposes" means the status of
+having a criminal conviction that is beyond the applicable look-back
+period pursuant to § 4-21-610, or for which an individualized assessment
+has not demonstrated a direct relationship between the conviction and
+tenant or community safety; and
+(9) "Sex offense conviction" means a conviction for any offense
+that requires registration under the Tennessee Sexual Offender and
+Violent Sexual Offender Registration, Verification and Tracking Act of
+2004, compiled in title 40, chapter 39, part 2, or similar laws of other state
+or federal jurisdictions.
+4-21-609. Prohibited discrimination in housing.
+(a) Except as provided in § 4-21-610, it is a discriminatory practice in violation of
+this chapter for any housing provider to:
+(1) Refuse to rent, lease, sell, or otherwise make unavailable any
+dwelling to any person solely because of that person's criminal history;
+(2) Discriminate against any person in the terms, conditions, or privileges
+of the rental, lease, or sale of a dwelling, or in the provision of services or
+facilities in connection therewith, solely because of that person's criminal history;
+(3) Make, print, or publish, or cause to be made, printed, or published,
+any notice, statement, or advertisement with respect to the rental, lease, or sale
+of a dwelling that indicates any preference, limitation, or discrimination based on
+criminal history;
+- 3 - 011899
+
+(4) Represent to any person because of the person's criminal history that
+any dwelling is not available for inspection, rental, lease, or sale when such
+dwelling is in fact available;
+(5) Include on any housing application any question or inquiry regarding
+arrests that did not result in conviction; or
+(6) Consider any arrest, charge, criminal accusation, or participation in a
+diversion program that did not result in a conviction when evaluating a housing
+application.
+(b) Nothing in this section prohibits a housing provider from considering criminal
+history information that is specifically permitted under § 4-21-610.
+4-21-610. Permitted consideration of criminal history.
+(a) A housing provider may consider a misdemeanor conviction only if the
+conviction occurred within three (3) years preceding the date of the housing application,
+beginning from the date of conviction or the date of release from incarceration or
+completion of all terms of a sentence, including probation or parole, whichever is later.
+(b) A housing provider may consider a felony conviction only if the conviction
+occurred within ten (10) years preceding the date of the housing application, beginning
+from the date of conviction or the date of release from incarceration or completion of all
+terms of a sentence, including probation or parole, whichever is later.
+(c) Notwithstanding subsections (a) and (b), a housing provider may consider
+any sex offense conviction without regard to the look-back periods established in this
+section, if:
+(1) The housing provider conducts an individualized assessment as
+required by subsection (d);
+- 4 - 011899
+
+(2) The denial is based on a direct relationship between the sex offense
+conviction and the safety and welfare of other residents or compliance with
+applicable housing restrictions for registered sex offenders under state or federal
+law; and
+(3) The housing provider provides written notice of the denial in
+accordance with § 4-21-611.
+(d) If a housing provider intends to deny housing based on a criminal conviction
+that falls within the applicable look-back period, the housing provider must conduct an
+individualized assessment. A denial based on criminal history may be justified only if the
+housing provider determines, based on the individualized assessment, that there is a
+direct relationship between the criminal conviction and a demonstrable risk to the safety
+and welfare of other residents or property.
+(e) The housing provider bears the burden of demonstrating that any denial
+based on criminal history is justified under this section and is supported by an
+individualized assessment.
+(f) A housing provider shall not adopt or enforce any blanket policy that
+automatically disqualifies applicants based on the existence of any criminal conviction
+without conducting an individualized assessment as required by this section.
+4-21-611. Notice requirements.
+(a) If a housing provider denies a housing application, refuses to renew a lease,
+or takes any other adverse action based in whole or in part on an applicant's criminal
+history, the housing provider shall provide the applicant with written notice within seven
+(7) business days of the adverse action. The notice must include:
+(1) A statement that the adverse action was based in whole or in part on
+the applicant's criminal history;
+- 5 - 011899
+
+(2) A description of each specific conviction considered, including the
+nature of the offense, the date of conviction, and the jurisdiction of conviction;
+(3) A summary of the individualized assessment conducted, including the
+factors considered and the basis for the determination that the conviction
+presents a direct risk to safety or property;
+(4) A statement of the applicant's right to submit additional information or
+evidence of rehabilitation, mitigation, or inaccuracy of the criminal history
+information within fourteen (14) days of receipt of the notice;
+(5) A statement of the applicant's right to file a complaint with the
+commission or pursue legal remedies under § 4-21-613(b); and
+(6) Contact information for the commission.
+(b) The housing provider shall hold the application open and refrain from renting
+the dwelling to another applicant for fourteen (14) days following the date that a notice of
+denial is sent to allow the applicant to submit additional information or documentation.
+The housing provider shall consider any timely submitted information and issue a final
+decision in writing within seven (7) business days of receiving such information.
+(c) Housing providers shall retain copies of all notices of denial, individualized
+assessments, and related documentation for a period of not less than three (3) years
+from the date of the denial.
+4-21-612. Education and outreach by department of correction.
+(a) The department of correction, division of rehabilitative services, shall develop
+and implement a comprehensive education and outreach program to inform individuals
+with criminal convictions of their rights under §§ 4-21-609 - 4-21-613. The program must
+include:
+- 6 - 011899
+
+(1) Educational materials, including pamphlets, videos, and online
+resources, explaining the protections afforded under §§ 4-21-609 - 4-21-613 and
+the process for filing complaints if discrimination occurs;
+(2) Pre-release training sessions for individuals in state correctional
+facilities to educate such individuals about fair housing rights, the housing
+application process, and resources available upon reentry;
+(3) A dedicated telephone hotline and online portal for formerly
+incarcerated individuals to report suspected housing discrimination, obtain
+information about their rights, and receive referrals to legal assistance or fair
+housing organizations;
+(4) Partnerships with community-based organizations, reentry service
+providers, public housing authorities, and fair housing advocacy groups to
+conduct outreach and education; and
+(5) Annual reports to the general assembly detailing the number of
+individuals served, complaints received, and recommendations for improving
+housing access for individuals with criminal histories.
+(b) The department of correction shall coordinate with the commission to ensure
+consistent messaging and effective enforcement of §§ 4-21-609 - 4-21-613.
+(c) Upon release from a state correctional facility, the department of correction
+shall provide each individual with written materials summarizing their rights under §§ 4-
+21-609 - 4-21-613 and contact information for the hotline and resources available as
+described in subsection (a).
+4-21-613. Enforcement and remedies.
+- 7 - 011899
+
+(a) The commission has jurisdiction to receive, investigate, and adjudicate
+complaints alleging violations of §§ 4-21-609 - 4-21-611 in accordance with the
+procedures set forth in this chapter.
+(b) Any person aggrieved by a violation of §§ 4-21-609 - 4-21-611 may bring a
+civil action pursuant to part 3 of this chapter.
+(c) The commission may initiate investigations and bring enforcement actions
+against housing providers who engage in a pattern or practice of violating §§ 4-21-609 -
+4-21-611.
+4-21-614. Relationship to other laws.
+(a) Nothing in §§ 4-21-609 - 4-21-613 preempts or limits a local ordinance,
+regulation, or policy that provides greater protections against housing discrimination
+based on criminal history.
+(b) Nothing in §§ 4-21-609 - 4-21-613 requires a housing provider to violate any
+federal or state law or regulation, including, but not limited to, restrictions on housing for
+registered sex offenders in proximity to schools, childcare facilities, or other protected
+locations.
+SECTION 3. The headings in this act are for reference purposes only and do not
+constitute a part of the law enacted by this act. However, the Tennessee Code Commission is
+requested to include the headings in any compilation or publication containing this act.
+SECTION 4. If any provision of this act or its application to any person or circumstance
+is held invalid, then the invalidity does not affect other provisions or applications of the act that
+can be given effect without the invalid provision or application, and to that end, the provisions of
+this act are severable.
+- 8 - 011899
+
+SECTION 5. For purposes of promulgating rules and developing the education and
+outreach program, this act takes effect upon becoming a law, the public welfare requiring it. For
+all other purposes, this act takes effect on January 1, 2027, the public welfare requiring it.
+- 9 - 011899
+
+[DELETED: SS]
+[DELETED:  -0]
+[DELETED:  -0((((]
+[DELETED:  -0((((((((]
+[DELETED:  -0(((((4((]
+[DELETED:  -0(((((((4(]
+[DELETED:  -0(((((((4]
+[DELETED:  -0(((4((SS]
+[DELETED:  -0S]

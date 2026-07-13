@@ -1,0 +1,47 @@
+Title: HOUSE BILL 2412
+Official Title: HOUSE BILL 2412
+Number of Sections: 3
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+By Reedy
+SENATE BILL 2648
+By Roberts
+AN ACT to amend Tennessee Code Annotated, Title 55,
+relative to motor vehicles.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Section 55-19-108(c), is amended by
+deleting "ten (10) days" and substituting instead "fifteen (15) days".
+
+Section 3:
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+SB2648
+012566
+- 1 -
+[DELETED: S]
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL 2412
+By Reedy
+SENATE BILL 2648
+By Roberts
+AN ACT to amend Tennessee Code Annotated, Title 55,
+relative to motor vehicles.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 55-19-108(c), is amended by
+deleting "ten (10) days" and substituting instead "fifteen (15) days".
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+SB2648
+012566
+- 1 -
+
+[DELETED: S]

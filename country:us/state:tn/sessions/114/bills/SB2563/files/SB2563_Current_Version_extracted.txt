@@ -1,0 +1,218 @@
+Title: <BillNo> <Sponsor>
+Official Title: <BillNo> <Sponsor>
+Number of Sections: 14
+Source: versions - Current Version
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+SENATE BILL 2563
+By Bowling
+AN ACT to amend Tennessee Code Annotated, Title 68,
+Chapter 30, relative to anatomical gifts.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Title 68, Chapter 30, Part 1, is amended by
+adding the following as a new section:
+68-30-121. Contacting decedent's family regarding anatomical gifts prohibited.
+(a) As used in this section, "documented anatomical gift authorization" means an
+authorization for an anatomical gift of a decedent's body or body part that is made by the
+decedent voluntarily while living and legally competent, and is documented by being:
+(1) In the form of a signed writing;
+(2) A digital record in a state-recognized donor registry;
+(3) Expressed in a legally executed advance directive; or
+(4) In accordance with § 68-30-105.
+(b) A procurement organization or a contractor with, representative for, or other
+person or entity affiliated with a procurement organization shall not contact, solicit, or
+attempt to obtain consent from a decedent's family member, next of kin, or legally
+authorized representative for the purpose of securing an anatomical gift.
+(c) The only valid authorization for an anatomical gift is a documented
+anatomical gift authorization.
+(d) If a decedent did not make a documented anatomical gift authorization, then
+no anatomical gift may be made on the decedent's behalf, and a procurement
+organization or another person or entity shall not seek such authorization from the
+decedent's surviving family members.
+SB2563
+012456
+- 1 -
+(e)
+(1) A contact made in violation of this section is subject to a civil penalty
+of not less than:
+(A) Fifty thousand dollars ($50,000) for the first contact; and
+(B) An additional penalty of up to two hundred fifty thousand
+dollars ($250,000) for a second or subsequent contact.
+(2) Each contact in violation of this section constitutes a separate
+violation subject to a civil penalty as described in subdivision (e)(1).
+(3) Any financial benefit received by a person or entity in connection with
+a violation of this section is subject to forfeiture.
+(f)
+(1) The department of health shall investigate complaints of violations of
+this section and refer its findings to the attorney general and reporter for
+enforcement.
+(2) The attorney general and reporter is authorized to enforce this
+
+Section 3:
+section.
+(3) A violation of this section may constitute grounds for suspension or
+revocation of a procurement organization's authorization to operate within this
+state.
+
+Section 4:
+SECTION 2. Tennessee Code Annotated, Section 68-30-109, is amended by deleting
+the section and substituting:
+This chapter does not permit a family member, next of kin, or legally authorized
+representative to authorize an anatomical gift when the deceased did not personally
+authorize such a gift while alive and competent.
+- 2 - 012456
+
+Section 5:
+SECTION 3. Tennessee Code Annotated, Section 68-30-110, is amended by deleting
+the section.
+
+Section 6:
+SECTION 4. Tennessee Code Annotated, Section 68-30-114(g), is amended by
+deleting the subsection.
+
+Section 7:
+SECTION 5. Tennessee Code Annotated, Section 68-30-108(b), is amended by
+deleting "or § 68-30-109".
+
+Section 8:
+SECTION 6. Tennessee Code Annotated, Section 68-30-108(d), is amended by
+deleting "or § 68-30-109".
+
+Section 9:
+SECTION 7. Tennessee Code Annotated, Section 68-30-114(l), is amended by deleting
+the subsection and substituting:
+(l) In determining whether an anatomical gift has been made, amended, or
+revoked under this part, a person may rely upon representations of an individual who is
+an immediate family member or legal representative of the donor or prospective donor,
+unless the person knows that the representation is untrue.
+
+Section 10:
+SECTION 8. Tennessee Code Annotated, Section 68-30-117(b), is amended by
+deleting "under § 68-30-109".
+
+Section 11:
+SECTION 9. Tennessee Code Annotated, Section 68-30-102(5), is amended by
+deleting the subdivision and substituting:
+(5) "Disinterested witness" means a witness other than the spouse, child, parent,
+sibling, grandchild, grandparent, or guardian of the individual who makes, amends,
+revokes, or refuses to make an anatomical gift;
+
+Section 12:
+SECTION 10. Tennessee Code Annotated, Section 68-30-111(j), is amended by
+deleting "or § 68-30-110".
+- 3 - 012456
+
+Section 13:
+SECTION 12. The headings in this act are for reference purposes only and do not
+constitute a part of the law enacted by this act. However, the Tennessee Code Commission is
+requested to include the headings in any compilation or publication containing this act.
+
+Section 14:
+SECTION 13. This act takes effect July 1, 2026, the public welfare requiring it.
+- 4 - 012456
+[DELETED: S6((((((((]
+[DELETED:  -0((((((((((ST]
+[DELETED:  -0SSSSS(SS(S]
+[DELETED:  -0SS]
+
+
+================================================================================
+
+Raw Text:
+<BillNo> <Sponsor>
+SENATE BILL 2563
+By Bowling
+AN ACT to amend Tennessee Code Annotated, Title 68,
+Chapter 30, relative to anatomical gifts.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Title 68, Chapter 30, Part 1, is amended by
+adding the following as a new section:
+68-30-121. Contacting decedent's family regarding anatomical gifts prohibited.
+(a) As used in this section, "documented anatomical gift authorization" means an
+authorization for an anatomical gift of a decedent's body or body part that is made by the
+decedent voluntarily while living and legally competent, and is documented by being:
+(1) In the form of a signed writing;
+(2) A digital record in a state-recognized donor registry;
+(3) Expressed in a legally executed advance directive; or
+(4) In accordance with § 68-30-105.
+(b) A procurement organization or a contractor with, representative for, or other
+person or entity affiliated with a procurement organization shall not contact, solicit, or
+attempt to obtain consent from a decedent's family member, next of kin, or legally
+authorized representative for the purpose of securing an anatomical gift.
+(c) The only valid authorization for an anatomical gift is a documented
+anatomical gift authorization.
+(d) If a decedent did not make a documented anatomical gift authorization, then
+no anatomical gift may be made on the decedent's behalf, and a procurement
+organization or another person or entity shall not seek such authorization from the
+decedent's surviving family members.
+SB2563
+012456
+- 1 -
+
+(e)
+(1) A contact made in violation of this section is subject to a civil penalty
+of not less than:
+(A) Fifty thousand dollars ($50,000) for the first contact; and
+(B) An additional penalty of up to two hundred fifty thousand
+dollars ($250,000) for a second or subsequent contact.
+(2) Each contact in violation of this section constitutes a separate
+violation subject to a civil penalty as described in subdivision (e)(1).
+(3) Any financial benefit received by a person or entity in connection with
+a violation of this section is subject to forfeiture.
+(f)
+(1) The department of health shall investigate complaints of violations of
+this section and refer its findings to the attorney general and reporter for
+enforcement.
+(2) The attorney general and reporter is authorized to enforce this
+section.
+(3) A violation of this section may constitute grounds for suspension or
+revocation of a procurement organization's authorization to operate within this
+state.
+SECTION 2. Tennessee Code Annotated, Section 68-30-109, is amended by deleting
+the section and substituting:
+This chapter does not permit a family member, next of kin, or legally authorized
+representative to authorize an anatomical gift when the deceased did not personally
+authorize such a gift while alive and competent.
+- 2 - 012456
+
+SECTION 3. Tennessee Code Annotated, Section 68-30-110, is amended by deleting
+the section.
+SECTION 4. Tennessee Code Annotated, Section 68-30-114(g), is amended by
+deleting the subsection.
+SECTION 5. Tennessee Code Annotated, Section 68-30-108(b), is amended by
+deleting "or § 68-30-109".
+SECTION 6. Tennessee Code Annotated, Section 68-30-108(d), is amended by
+deleting "or § 68-30-109".
+SECTION 7. Tennessee Code Annotated, Section 68-30-114(l), is amended by deleting
+the subsection and substituting:
+(l) In determining whether an anatomical gift has been made, amended, or
+revoked under this part, a person may rely upon representations of an individual who is
+an immediate family member or legal representative of the donor or prospective donor,
+unless the person knows that the representation is untrue.
+SECTION 8. Tennessee Code Annotated, Section 68-30-117(b), is amended by
+deleting "under § 68-30-109".
+SECTION 9. Tennessee Code Annotated, Section 68-30-102(5), is amended by
+deleting the subdivision and substituting:
+(5) "Disinterested witness" means a witness other than the spouse, child, parent,
+sibling, grandchild, grandparent, or guardian of the individual who makes, amends,
+revokes, or refuses to make an anatomical gift;
+SECTION 10. Tennessee Code Annotated, Section 68-30-111(j), is amended by
+deleting "or § 68-30-110".
+- 3 - 012456
+
+SECTION 12. The headings in this act are for reference purposes only and do not
+constitute a part of the law enacted by this act. However, the Tennessee Code Commission is
+requested to include the headings in any compilation or publication containing this act.
+SECTION 13. This act takes effect July 1, 2026, the public welfare requiring it.
+- 4 - 012456
+
+[DELETED: S6((((((((]
+[DELETED:  -0((((((((((ST]
+[DELETED:  -0SSSSS(SS(S]
+[DELETED:  -0SS]

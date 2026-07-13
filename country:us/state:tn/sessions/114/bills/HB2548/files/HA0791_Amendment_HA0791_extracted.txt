@@ -1,0 +1,381 @@
+Title: AMEND S e n ate Bill No. 2234* House Bill No. 2548
+Official Title: AMEND S e n ate Bill No. 2234* House Bill No. 2548
+Number of Sections: 6
+Source: versions - Amendment HA0791
+Media Type: application/pdf
+Strikethrough Detection: 7 sections found
+
+================================================================================
+
+Section 1:
+House State & Local Government 1
+Amendment No. 1 to HB2548
+Crawford
+Signature of Sponsor
+by deleting all language after the enacting clause and substituting:
+
+Section 2:
+SECTION 1. Tennessee Code Annotated, Title 12, Chapter 3, is amended by adding
+the following as a new part:
+12-3-1301. Short title.
+(a) This part is known and may be cited as the "Critical Infrastructure Protection
+Act."
+(b) The purpose of this act is to ensure that critical technology infrastructure of
+this state is safe, secure, and free from influence and control by foreign adversaries.
+12-3-1302. Part definitions.
+As used in this part:
+(1) "Covered list" means the list of communications equipment and
+services that are deemed to pose an unacceptable risk to the national security of
+the United States or the security and safety of United States persons published
+by the federal communications commission pursuant to 47 CFR Part 1, Subpart
+DD, as amended, transferred, or succeeded;
+(2) "Finished good or service" means a technology product that has
+undergone all necessary manufacturing, assembly, and production processes
+and is ready for sale in its final, usable form;
+(3) "Foreign adversary" means a foreign government or non-government
+entity designated by the United States department of commerce pursuant to 15
+CFR Part 791, Subpart A, as amended, transferred, or succeeded;
+HA0791
+015876
+- 1 -
+(4) "Foreign adversary company":
+(A) Means a company that:
+(i) Is domiciled, incorporated, issued, or listed within a
+foreign adversary;
+(ii) Is headquartered within a foreign adversary;
+(iii) Has its principal place of business within a foreign
+adversary;
+(iv) Is controlled by the government, or an instrumentality
+thereof, of a foreign adversary; or
+(v) Is majority-owned or board-controlled by an entity that
+is under the jurisdictional control of the government of a foreign
+adversary; and
+(B) Does not mean a parent company solely because one (1) or
+more subsidiaries or affiliates meet the definition of a foreign adversary
+company, if the parent company does not meet the criteria in subdivision
+(4)(A) and does not recognize more than fifty percent (50%) of the total
+annual global revenue of the parent company and subsidiaries from
+China and Hong Kong combined; and
+(5) "Technology product" means:
+(A) A computer information product, including computer
+equipment, routers, modems, tablets, hardware, software,
+telecommunications equipment, smart televisions, security related
+devices, data storage, and other related physical infrastructure; and
+(B) Services related to the implementation, ongoing operation, or
+service or repair of such technology products, including cloud-based
+services; and
+- 2 - 015876
+(6) "Technology supplier" means a person that provides finished goods
+or services.
+12-3-1303. Technology supplier certification.
+The chief procurement officer shall require a technology supplier that submits a
+response to a solicitation for a contract for finished goods or services, including contract
+renewals, to submit a sworn statement, under penalty of perjury, affirming that the
+supplier and, if applicable, any of its holding companies, affiliates, or subsidiaries is not:
+(1) A foreign adversary company;
+(2) Owned or controlled by a foreign adversary or domiciled in a foreign
+adversary country;
+(3) A subcontractor of a foreign adversary; or
+(4) Procuring a technology product included in the covered list as part of
+its response or that is a finished good or service produced by a company covered
+under subdivision (1), (2), or (3).
+12-3-1304. Finished good or service limitation.
+(a) State governmental entities shall not enter into contracts for finished goods
+or services with a technology supplier that is owned or controlled by a foreign adversary
+or domiciled in a foreign adversary country. State governmental entities shall not enter
+into contracts for technology products included in the covered list.
+(b) A company shall not, as a third-party vendor, knowingly sell finished goods or
+services to a state agency if such finished good or service is manufactured or produced
+by a foreign adversary company. The restriction does not apply to finished goods or
+services which have inputs from a foreign adversary company but that are not finished
+goods or services of a foreign adversary company.
+(c) A state agency shall require a company that submits a bid or proposal for a
+contract for finished goods or services to certify that the company is not a foreign
+- 3 - 015876
+adversary company as described in subsection (a) and is not knowingly selling finished
+goods or services of a foreign adversary company to a state agency.
+(d) This part does not apply to state contracts that contain a certification of
+compliance with the Secure and Trusted Communications Networks Act of 2019 (47
+U.S.C. § 1601 et seq.).
+(e) This part does not apply to contracts for finished goods or services produced
+by a foreign adversary or included in the covered list if the chief procurement officer
+determines that there is no reasonable alternative to procuring the finished goods or
+services. Such determination must be made in writing and included in the procurement
+file for the finished goods or services, and as prescribed by the rules, policies, and
+procedures of the procurement commission.
+
+Section 3:
+SECTION 2. Tennessee Code Annotated, Title 66, Chapter 2, is amended by adding
+the following as a new part:
+66-2-401. Short title.
+This part is known and may be cited as the "Protection of State Land from
+Foreign Adversaries Act."
+66-2-402. Part definitions.
+As used in this part:
+(1) "Foreign adversary" means a foreign government or non-government
+entity designated by the United States department of commerce pursuant to 15
+CFR Part 791, Subpart A, as amended, transferred, or succeeded;
+(2) "State agency" means an agency, authority, board, commission,
+department, or office within the executive, legislative, or judicial branches of state
+government or an autonomous state agency, authority, board, commission,
+council, department, office, or institution of higher education;
+- 4 - 015876
+(3) "State-owned real property" means any land, building, structure,
+easement, mineral right, air right, improvement, or other real estate interest
+owned, leased, or otherwise controlled by this state or a state agency; and
+(4) "Transfer" means a sale, lease, assignment, license, easement,
+conveyance, or other disposition of an interest in real property, whether
+permanent or temporary, including those by operation of law, trust, or
+inheritance.
+66-2-403. Prohibition of transfer to foreign adversaries.
+(a) A state agency shall not transfer an interest in state-owned real property to:
+(1) A foreign adversary;
+(2) A legal entity that is organized under the laws of or has its principal
+place of business in a foreign adversary country;
+(3) A legal entity that is directly or indirectly owned, controlled, or directed
+by a foreign adversary; or
+(4) An agent, trustee, fiduciary, or intermediary acting on behalf of a
+foreign adversary or entity described in subdivisions (a)(1)-(3).
+(b) Prior to a transfer of state-owned real property, the prospective transferee
+shall submit a sworn statement to the applicable state agency, under penalty of perjury,
+affirming that the anticipated transfer is not in violation of subsection (a).
+(c) A transaction entered into in violation of this section is null and void and
+unenforceable.
+66-2-404. Enforcement and penalties.
+(a) The attorney general and reporter may:
+(1) Investigate a suspected violation of this part;
+(2) Issue subpoenas and compel the production of documents; and
+(3) Initiate civil actions to enforce compliance or seek nullification of
+unlawful transactions.
+- 5 - 015876
+(b) A person or entity that violates § 66-2-403(b) is subject to:
+(1) A civil penalty of up to two-hundred fifty thousand dollars ($250,000)
+or twice the value of the transaction, whichever is greater;
+(2) Disqualification from participating in future state property transactions
+for a minimum period of five (5) years; and
+(3) Reimbursement of this state's enforcement costs, including attorneys'
+fees and investigation expenses.
+(c) The attorney general and reporter may seek injunctive relief or other
+equitable remedies as necessary to enforce this part.
+66-2-405. Exemptions.
+This part does not apply to:
+(1) Transfers of state-owned real property expressly authorized or
+mandated by state or federal law or court order;
+(2) Transfers to entities that have received a valid waiver, license, or
+exemption from the United States secretary of commerce or another federal
+authority vested with such jurisdiction; or
+(3) Transfers involving state-owned real property necessary for national
+defense, homeland security, or critical infrastructure; provided, that:
+(A) Approval is obtained from the appropriate federal agency; and
+(B) Written approval is provided to the governor.
+
+Section 4:
+SECTION 3. The headings in this act are for reference purposes only and do not
+constitute a part of the law enacted by this act. However, the Tennessee Code Commission is
+requested to include the headings in any compilation or publication containing this act.
+
+Section 5:
+SECTION 4. If any provision of this act or the application of any provision of this act to
+any person or circumstance is held invalid, the invalidity does not affect other provisions or
+applications of this act that can be given effect without the invalid provision or application, and to
+that end, the provisions of this act are declared to be severable.
+- 6 - 015876
+
+Section 6:
+SECTION 5. This act takes effect on July 1, 2026, the public welfare requiring it, and
+applies to contracts entered into, renewed, or amended on or after July 1, 2026.
+- 7 - 015876
+[DELETED:  a HS1((1A(((]
+[DELETED:  -0((((]
+[DELETED:  -0(1T(((1(((]
+[DELETED:  -0((S6T6A((]
+[DELETED:  -0((6(((((((6((((]
+[DELETED:  -0(((((6T(((((SS]
+[DELETED:  -0S]
+
+
+================================================================================
+
+Raw Text:
+House State & Local Government 1
+Amendment No. 1 to HB2548
+Crawford
+Signature of Sponsor
+AMEND S e n ate Bill No. 2234* House Bill No. 2548
+by deleting all language after the enacting clause and substituting:
+SECTION 1. Tennessee Code Annotated, Title 12, Chapter 3, is amended by adding
+the following as a new part:
+12-3-1301. Short title.
+(a) This part is known and may be cited as the "Critical Infrastructure Protection
+Act."
+(b) The purpose of this act is to ensure that critical technology infrastructure of
+this state is safe, secure, and free from influence and control by foreign adversaries.
+12-3-1302. Part definitions.
+As used in this part:
+(1) "Covered list" means the list of communications equipment and
+services that are deemed to pose an unacceptable risk to the national security of
+the United States or the security and safety of United States persons published
+by the federal communications commission pursuant to 47 CFR Part 1, Subpart
+DD, as amended, transferred, or succeeded;
+(2) "Finished good or service" means a technology product that has
+undergone all necessary manufacturing, assembly, and production processes
+and is ready for sale in its final, usable form;
+(3) "Foreign adversary" means a foreign government or non-government
+entity designated by the United States department of commerce pursuant to 15
+CFR Part 791, Subpart A, as amended, transferred, or succeeded;
+HA0791
+015876
+- 1 -
+
+(4) "Foreign adversary company":
+(A) Means a company that:
+(i) Is domiciled, incorporated, issued, or listed within a
+foreign adversary;
+(ii) Is headquartered within a foreign adversary;
+(iii) Has its principal place of business within a foreign
+adversary;
+(iv) Is controlled by the government, or an instrumentality
+thereof, of a foreign adversary; or
+(v) Is majority-owned or board-controlled by an entity that
+is under the jurisdictional control of the government of a foreign
+adversary; and
+(B) Does not mean a parent company solely because one (1) or
+more subsidiaries or affiliates meet the definition of a foreign adversary
+company, if the parent company does not meet the criteria in subdivision
+(4)(A) and does not recognize more than fifty percent (50%) of the total
+annual global revenue of the parent company and subsidiaries from
+China and Hong Kong combined; and
+(5) "Technology product" means:
+(A) A computer information product, including computer
+equipment, routers, modems, tablets, hardware, software,
+telecommunications equipment, smart televisions, security related
+devices, data storage, and other related physical infrastructure; and
+(B) Services related to the implementation, ongoing operation, or
+service or repair of such technology products, including cloud-based
+services; and
+- 2 - 015876
+
+(6) "Technology supplier" means a person that provides finished goods
+or services.
+12-3-1303. Technology supplier certification.
+The chief procurement officer shall require a technology supplier that submits a
+response to a solicitation for a contract for finished goods or services, including contract
+renewals, to submit a sworn statement, under penalty of perjury, affirming that the
+supplier and, if applicable, any of its holding companies, affiliates, or subsidiaries is not:
+(1) A foreign adversary company;
+(2) Owned or controlled by a foreign adversary or domiciled in a foreign
+adversary country;
+(3) A subcontractor of a foreign adversary; or
+(4) Procuring a technology product included in the covered list as part of
+its response or that is a finished good or service produced by a company covered
+under subdivision (1), (2), or (3).
+12-3-1304. Finished good or service limitation.
+(a) State governmental entities shall not enter into contracts for finished goods
+or services with a technology supplier that is owned or controlled by a foreign adversary
+or domiciled in a foreign adversary country. State governmental entities shall not enter
+into contracts for technology products included in the covered list.
+(b) A company shall not, as a third-party vendor, knowingly sell finished goods or
+services to a state agency if such finished good or service is manufactured or produced
+by a foreign adversary company. The restriction does not apply to finished goods or
+services which have inputs from a foreign adversary company but that are not finished
+goods or services of a foreign adversary company.
+(c) A state agency shall require a company that submits a bid or proposal for a
+contract for finished goods or services to certify that the company is not a foreign
+- 3 - 015876
+
+adversary company as described in subsection (a) and is not knowingly selling finished
+goods or services of a foreign adversary company to a state agency.
+(d) This part does not apply to state contracts that contain a certification of
+compliance with the Secure and Trusted Communications Networks Act of 2019 (47
+U.S.C. § 1601 et seq.).
+(e) This part does not apply to contracts for finished goods or services produced
+by a foreign adversary or included in the covered list if the chief procurement officer
+determines that there is no reasonable alternative to procuring the finished goods or
+services. Such determination must be made in writing and included in the procurement
+file for the finished goods or services, and as prescribed by the rules, policies, and
+procedures of the procurement commission.
+SECTION 2. Tennessee Code Annotated, Title 66, Chapter 2, is amended by adding
+the following as a new part:
+66-2-401. Short title.
+This part is known and may be cited as the "Protection of State Land from
+Foreign Adversaries Act."
+66-2-402. Part definitions.
+As used in this part:
+(1) "Foreign adversary" means a foreign government or non-government
+entity designated by the United States department of commerce pursuant to 15
+CFR Part 791, Subpart A, as amended, transferred, or succeeded;
+(2) "State agency" means an agency, authority, board, commission,
+department, or office within the executive, legislative, or judicial branches of state
+government or an autonomous state agency, authority, board, commission,
+council, department, office, or institution of higher education;
+- 4 - 015876
+
+(3) "State-owned real property" means any land, building, structure,
+easement, mineral right, air right, improvement, or other real estate interest
+owned, leased, or otherwise controlled by this state or a state agency; and
+(4) "Transfer" means a sale, lease, assignment, license, easement,
+conveyance, or other disposition of an interest in real property, whether
+permanent or temporary, including those by operation of law, trust, or
+inheritance.
+66-2-403. Prohibition of transfer to foreign adversaries.
+(a) A state agency shall not transfer an interest in state-owned real property to:
+(1) A foreign adversary;
+(2) A legal entity that is organized under the laws of or has its principal
+place of business in a foreign adversary country;
+(3) A legal entity that is directly or indirectly owned, controlled, or directed
+by a foreign adversary; or
+(4) An agent, trustee, fiduciary, or intermediary acting on behalf of a
+foreign adversary or entity described in subdivisions (a)(1)-(3).
+(b) Prior to a transfer of state-owned real property, the prospective transferee
+shall submit a sworn statement to the applicable state agency, under penalty of perjury,
+affirming that the anticipated transfer is not in violation of subsection (a).
+(c) A transaction entered into in violation of this section is null and void and
+unenforceable.
+66-2-404. Enforcement and penalties.
+(a) The attorney general and reporter may:
+(1) Investigate a suspected violation of this part;
+(2) Issue subpoenas and compel the production of documents; and
+(3) Initiate civil actions to enforce compliance or seek nullification of
+unlawful transactions.
+- 5 - 015876
+
+(b) A person or entity that violates § 66-2-403(b) is subject to:
+(1) A civil penalty of up to two-hundred fifty thousand dollars ($250,000)
+or twice the value of the transaction, whichever is greater;
+(2) Disqualification from participating in future state property transactions
+for a minimum period of five (5) years; and
+(3) Reimbursement of this state's enforcement costs, including attorneys'
+fees and investigation expenses.
+(c) The attorney general and reporter may seek injunctive relief or other
+equitable remedies as necessary to enforce this part.
+66-2-405. Exemptions.
+This part does not apply to:
+(1) Transfers of state-owned real property expressly authorized or
+mandated by state or federal law or court order;
+(2) Transfers to entities that have received a valid waiver, license, or
+exemption from the United States secretary of commerce or another federal
+authority vested with such jurisdiction; or
+(3) Transfers involving state-owned real property necessary for national
+defense, homeland security, or critical infrastructure; provided, that:
+(A) Approval is obtained from the appropriate federal agency; and
+(B) Written approval is provided to the governor.
+SECTION 3. The headings in this act are for reference purposes only and do not
+constitute a part of the law enacted by this act. However, the Tennessee Code Commission is
+requested to include the headings in any compilation or publication containing this act.
+SECTION 4. If any provision of this act or the application of any provision of this act to
+any person or circumstance is held invalid, the invalidity does not affect other provisions or
+applications of this act that can be given effect without the invalid provision or application, and to
+that end, the provisions of this act are declared to be severable.
+- 6 - 015876
+
+SECTION 5. This act takes effect on July 1, 2026, the public welfare requiring it, and
+applies to contracts entered into, renewed, or amended on or after July 1, 2026.
+- 7 - 015876
+
+[DELETED:  a HS1((1A(((]
+[DELETED:  -0((((]
+[DELETED:  -0(1T(((1(((]
+[DELETED:  -0((S6T6A((]
+[DELETED:  -0((6(((((((6((((]
+[DELETED:  -0(((((6T(((((SS]
+[DELETED:  -0S]
