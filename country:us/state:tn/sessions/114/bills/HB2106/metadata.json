@@ -99,16 +99,6 @@
       }
     },
     {
-      "description": "Placed on cal. Education Committee for 3/10/2026",
-      "date": "2026-03-05",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-13T06:05:20Z"
-      }
-    },
-    {
       "description": "Assigned to s/c Finance, Ways, and Means Subcommittee",
       "date": "2026-03-10",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -195,7 +185,7 @@
       }
     },
     {
-      "description": "Rec for adopt by s/c ref. to Finance, Ways, and Means Committee",
+      "description": "Rec for pass by s/c ref. to Finance, Ways, and Means Committee",
       "date": "2026-04-15",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -203,7 +193,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-13T06:05:20Z"
+        "log_file_created": "2026-07-15T13:05:41Z"
       }
     },
     {
@@ -305,7 +295,7 @@
     "division_id": "ocd-division/country:us/state:tn"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:05:20Z",
+    "logs_latest_update": "2026-07-15T13:05:41Z",
     "text_extraction_latest_update": "2026-07-13T12:57:03.169100Z"
   }
 }

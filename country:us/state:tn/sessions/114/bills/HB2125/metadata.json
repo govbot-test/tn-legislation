@@ -207,18 +207,6 @@
       }
     },
     {
-      "description": "Sponsor(s) Added.",
-      "date": "2026-03-30",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "sponsorship"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-13T06:05:14Z"
-      }
-    },
-    {
       "description": "Comp. SB subst.",
       "date": "2026-03-30",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -230,7 +218,7 @@
     },
     {
       "description": "Sponsor(s) Added.",
-      "date": "2026-04-01",
+      "date": "2026-03-30",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
         "sponsorship"
@@ -309,7 +297,7 @@
     "division_id": "ocd-division/country:us/state:tn"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:05:14Z",
+    "logs_latest_update": "2026-07-15T13:05:41Z",
     "text_extraction_latest_update": "2026-07-13T14:39:16.108166Z"
   }
 }

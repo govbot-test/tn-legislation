@@ -99,16 +99,6 @@
       }
     },
     {
-      "description": "Placed on cal. Education Committee for 3/10/2026",
-      "date": "2026-03-05",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-13T06:05:20Z"
-      }
-    },
-    {
       "description": "Rec. for pass; ref to  Calendar & Rules Committee",
       "date": "2026-03-10",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -219,7 +209,7 @@
     "division_id": "ocd-division/country:us/state:tn"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:05:20Z",
+    "logs_latest_update": "2026-07-15T13:05:41Z",
     "text_extraction_latest_update": "2026-07-13T14:42:15.972398Z"
   }
 }
