@@ -1,0 +1,339 @@
+Title: 
+Official Title: 
+Source: versions - Amendment SA0824
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate Judiciary 1
+Amendment No. 1 to SB2263
+Gardenhire
+Signature of Sponsor
+AMEND S e n ate Bill No. 2263* House Bill No. 2254
+by deleting all language after the enacting clause and substituting:
+SECTION 1. Tennessee Code Annotated, Title 47, Chapter 18, is amended by adding
+the following as a new part:
+47-18-3501. Short title.
+This part is known and may be cited as the "App Store Accountability Act."
+47-18-3502. Part definitions.
+As used in this part:
+(1) ''Account holder" means the individual who is associated with the
+mobile device;
+(2) ''Age category" means one (1) of the following categories of
+individuals based on age:
+(A) "Child" means an individual who is less than thirteen (13)
+years of age;
+(B) "Younger teenager" means an individual who is at least
+thirteen (13) years of age and less than sixteen (16) years of age;
+(C) "Older teenager" means an individual who is at least sixteen
+(16) years of age and less than eighteen (18) years of age; or
+(D) "Adult" means an individual who is at least eighteen (18)
+years of age;
+SA0824
+014428
+- 1 -
+
+(3) ''Age category data" means information about an account holder's
+age category that is collected by an app store provider and is shared with a
+developer;
+(4) "Age rating" means one (1) or more classifications that assess the
+suitability of an app's content and functions for different age categories;
+(5) "App" means a software application or electronic service that a user
+may run or direct on a mobile device, including a pre-installed app;
+(6) ''App store" means a publicly available website, software application,
+or electronic service that allows account holders to download apps from third-
+party developers onto a mobile device;
+(7) ''App store provider" means a person that owns, operates, or controls
+an app store that allows account holders in this state to download apps onto a
+mobile device;
+(8) "Content description" means a description of the specific content
+elements or functions that informed an app's age rating;
+(9) "Developer" means a person that owns or controls an app made
+available through an app store in this state or a pre-installed app on a mobile
+device;
+(10) "Knowingly" means to act with actual knowledge or to act with
+knowledge fairly inferred based on objective circumstances;
+(11) "Minor":
+(A) Means an individual who has not yet attained eighteen (18)
+years of age; and
+(B) Does not include an individual who has not yet attained
+eighteen (18) years of age but who is married or legally emancipated;
+(12) "Minor account" means an account with an app store provider that is
+established by an individual who is a minor;
+- 2 - 014428
+
+(13) "Mobile device" means a phone or general-purpose tablet that:
+(A) Provides cellular or wireless connectivity;
+(B) Is capable of connecting to the internet;
+(C) Runs a mobile operating system; and
+(D) Is capable of running apps through the mobile operating
+system;
+(14) "Mobile operating system" means software that:
+(A) Manages mobile device hardware resources;
+(B) Provides common services for mobile device programs;
+(C) Controls memory allocation; and
+(D) Provides interfaces for apps to access device functionality;
+(15) "Parent" means, with respect to a minor, an individual who is
+reasonably believed to be a parent, legal guardian, individual with legal custody,
+or another individual who has the legal authority to make decisions on behalf of
+the minor under applicable state law;
+(16) "Parent account" means an account with an app store provider that:
+(A) Is verified to be established by an individual who the app store
+provider has determined is at least eighteen (18) years of age, married, or
+emancipated through the app store provider's age verification methods;
+and
+(B) May be affiliated with one (1) or more minor accounts;
+(17) "Parental consent disclosure" means the following information:
+(A) If the app store provider has an age rating for the app or in-
+app purchase, the app's or in-app purchase's age rating;
+(B) If the app store provider has a content description for the app
+or in-app purchase, the app's or in-app purchase's content description;
+(C) A description of:
+- 3 - 014428
+
+(i) The personal data collected by the app from an account
+holder; and
+(ii) The personal data shared by the app with a third party;
+and
+(D) If personal data is collected by the app, the methods
+implemented by the developer to protect the personal data;
+(18) "Person" means an individual, corporation, firm, association,
+organization, partnership, limited liability company, business, or trust;
+(19) "Pre-installed app":
+(A) Means an app, or portion of an app, that is present on a
+mobile device at the time of purchase, initial activation, or first use by the
+consumer;
+(B) Includes:
+(i) A browser, search engine, and messaging; and
+(ii) An app, or portion of an app, installed or partially
+installed by the device manufacturer, wireless service provider,
+retailer, or another party prior to purchase, initial activation, or first
+use by the consumer, and which may be updated after purchase,
+initial activation, or first use; and
+(C) Does not include an app, or portion of an app:
+(i) For core operating system functions;
+(ii) For essential device drivers; or
+(iii) Necessary for basic device operation, including the
+phone app, device settings, and emergency services apps;
+(20) "Significant change" means a material modification to an app's terms
+of service or privacy policy that:
+(A) Changes the categories of data collected, stored, or shared;
+- 4 - 014428
+
+(B) Alters the app's age rating or content descriptions; or
+(C) Adds new monetization features, including:
+(i) In-app purchases where no in-app purchases were
+previously present; or
+(ii) Advertisements where no advertisements were
+previously present in the app; and
+(21) "Verifiable parental consent" means authorization that:
+(A) Is provided by a parent account;
+(B) Is given after the app store provider has clearly and
+conspicuously provided the parental consent disclosure as part of the app
+download, purchase, or in-app purchase process; and
+(C) Requires the parent to make an affirmative choice to:
+(i) Grant consent; or
+(ii) Decline consent.
+47-18-3503. App store provider requirements.
+(a) An app store provider shall:
+(1) At the time an individual who is located in this state creates an
+account with the app store provider, or, for existing accounts, within twelve (12)
+months of the effective date of this part:
+(A) Request age category information from the individual or
+account holder; and
+(B) Verify the individual's age category using commercially
+available methods that are reasonably designed to ensure accuracy. For
+an individual under eighteen (18) years of age, a method is commercially
+available if the method includes:
+- 5 - 014428
+
+(i) Affirmative age attestation by an individual who is
+reasonably believed to be the minor's parent or legal guardian;
+and
+(ii) Other account information collected in the ordinary
+course of account creation or use;
+(2) If the app store provider determines that the individual is a minor:
+(A) Require the account to be affiliated with a parent account; and
+(B) Obtain verifiable parental consent from the holder of the
+affiliated parent account each time before allowing the minor to:
+(i) Download an app;
+(ii) Purchase an app; or
+(iii) Make an in-app purchase;
+(3) After receiving notice of a significant change from a developer:
+(A) Notify the account holder of the significant change; and
+(B) For a minor account:
+(i) Notify the affiliated parent account; and
+(ii) Obtain renewed verifiable parental consent before
+providing access to the significantly changed version of the app;
+(4) If requested by a developer, provide to the developer:
+(A) Age category data for an account holder located in this state;
+and
+(B) The status of verifiable parental consent for a minor user
+located in this state;
+(5) Provide a mechanism for a parent account to withdraw consent and
+notify a developer when a parent account revokes verifiable parental consent;
+(6) Protect age category data and any associated verification data by:
+(A) Limiting collection and processing to data necessary for:
+- 6 - 014428
+
+(i) Verifying an account holder's age category;
+(ii) Obtaining verifiable parental consent; or
+(iii) Maintaining compliance records; and
+(B) Transmitting age category data using industry-standard
+encryption protocols that ensure data integrity and data confidentiality;
+and
+(7) For a pre-installed app:
+(A) Provide available age category information in response to a
+request from a developer; and
+(B) Take reasonable measures to facilitate verifiable parental
+consent for use of the app in response to a request from a developer.
+(b) An app store provider shall not:
+(1) Enforce a contract or terms of service against a minor unless the app
+store provider has obtained verifiable parental consent;
+(2) Knowingly misrepresent the information in the parental consent
+disclosure; or
+(3) Share age category data and any associated data except as required
+by this part or another law.
+47-18-3504. Developer requirements.
+(a) A developer shall:
+(1) Request through the app store's data sharing methods verified age-
+category data of an account holder located in this state, and for a minor's
+account, whether verifiable parental consent has been obtained;
+(2) Request age category data or verifiable parental consent:
+(A) At the time an account holder:
+(i) Downloads an app;
+(ii) Purchases an app;
+- 7 - 014428
+
+(iii) Launches a pre-installed app for the first time; or
+(iv) Creates a new account with the developer;
+(B) When implementing a significant change to the app; and
+(C) To ensure compliance with applicable laws;
+(3) Notify the app store provider of a significant change to an app; and
+(4) Use age category data received through the app store's data sharing
+methods to:
+(A) Ensure compliance with any laws or regulations; and
+(B) Enforce any developer-created, age-related restrictions,
+safety features, or defaults.
+(b) When implementing a developer-created, age-related restriction, safety
+feature, or default, a developer shall utilize the lowest category indicated by:
+(1) Age category data received through the app store's data sharing
+methods; or
+(2) Age data independently collected by the developer.
+(c)
+(1) A developer shall not request age category data more than once
+during each twelve-month period to verify:
+(A) The accuracy of the age category associated with an account
+holder; or
+(B) Continued account use within the age category.
+(2) Notwithstanding subdivision (c)(1), a developer may more frequently
+request through the app store's data sharing methods verified age category data
+of an account holder located in this state when there is reasonable suspicion of:
+(A) Account transfer; or
+(B) Misuse outside of the age category.
+- 8 - 014428
+
+(3) In addition to the prohibition described under subdivision (c)(1), a
+developer shall not:
+(A) Enforce a contract or terms of service against a minor unless
+the developer has verified through an app store's data sharing methods
+that verifiable parental consent has been obtained;
+(B) Knowingly misrepresent information in the parental consent
+disclosure; or
+(C) Share age category data and any associated data except as
+required by this part or another law.
+47-18-3505. Enforcement.
+(a)
+(1) A minor, or the parent or other legal guardian of a minor, who has
+been aggrieved by a violation of this part may bring a civil action against an app
+store provider or developer.
+(2) In such an action, the court shall award a prevailing plaintiff:
+(A) The greater of actual damages or one thousand dollars
+($1,000) per violation;
+(B) Punitive damages, if the court finds that the violation was
+egregious; and
+(C) Reasonable attorney fees and court costs.
+(b)
+(1) A violation of this part constitutes a violation of the Tennessee
+Consumer Protection Act of 1977, compiled in part 1 of this chapter. A violation
+of this part constitutes an unfair or deceptive act or practice affecting trade or
+commerce and is subject to the penalties and remedies as provided in the
+Tennessee Consumer Protection Act of 1977, in addition to the penalties and
+remedies in this part.
+- 9 - 014428
+
+(2) In addition to the remedies described under subsection (a) and
+subdivision (b)(1), the attorney general and reporter may bring an action against
+an app store provider or developer to:
+(A) Recover a civil penalty not to exceed seven thousand five
+hundred dollars ($7,500) per violation;
+(B) Restrain or enjoin the app store provider or developer from
+violating this part;
+(C) Seek injunctive relief; and
+(D) Recover reasonable attorney fees and court costs.
+47-18-3506. Safe harbor.
+(a) A developer is not liable for a violation of § 47-18-3504 if the developer
+demonstrates that the developer:
+(1) Relied in good faith on applicable age category data received through
+an app store's data sharing methods;
+(2) Relied in good faith on notification from an app store provider that
+verifiable parental consent was obtained if the account holder was a minor; and
+(3) Complied with the requirements of § 47-18-3504.
+(b) In determining an app's age rating and content description, a developer is not
+liable for a violation of § 47-18-3504 if the developer:
+(1) Uses widely adopted industry standards to determine the app's age
+category and content description; and
+(2) Applies such standards consistently and in good faith.
+(c) The safe harbor described in this section:
+(1) Applies only to actions brought pursuant to this part; and
+(2) Does not limit an app store provider's or developer's liability under
+any other law.
+- 10 - 014428
+
+(d) This part does not affect or otherwise limit any other available remedies or
+rights authorized under federal law or the law of this state.
+47-18-3507. Application.
+This part does not:
+(1) Prevent an app store provider or developer from taking reasonable
+measures to:
+(A) Block, detect, or prevent distribution to minors of:
+(i) Unlawful material;
+(ii) Obscene material; or
+(iii) Other material harmful to minors;
+(B) Block or filter spam;
+(C) Prevent criminal activity; or
+(D) Protect app store or app security;
+(2) Require an app store provider to disclose user information to a
+developer beyond age category data or status of parental consent;
+(3) Allow an app store provider or developer to implement measures
+required by this part in a manner that is arbitrary, capricious, anticompetitive, or
+unlawful;
+(4) Require a developer to collect, retain, reidentify, or link any
+information beyond what is:
+(A) Necessary to verify age category data as required by this part;
+and
+(B) Collected, retained, reidentified, or linked in the developer's
+ordinary course of business; or
+(5) Require an app store provider to block access to an application that
+an account holder has downloaded or installed onto a mobile device prior to this
+part's effect date, except to the extent that:
+- 11 - 014428
+
+(A) A parent account revokes verifiable consent for an affiliated
+minor account; or
+(B) There has been a significant change to the affected app.
+SECTION 2. Tennessee Code Annotated, Section 47-18-104(b), is amended by adding
+the following as a new subdivision:
+( ) Violating the App Store Accountability Act, compiled in part 35 of this
+chapter;
+SECTION 3. If any provision of this act or the application of any provision of this act to
+any person or circumstance is held invalid, the invalidity does not affect other provisions or
+applications of the act that can be given effect without the invalid provision or application, and to
+that end, the provisions of this act are severable.
+SECTION 4. The headings in this act are for reference purposes only and do not
+constitute a part of the law enacted by this act. However, the Tennessee Code Commission is
+requested to include the headings in any compilation or publication containing this act.
+SECTION 5. This act takes effect December 1, 2026, the public welfare requiring it, and
+applies to conduct occurring on and after that date.
+- 12 - 014428

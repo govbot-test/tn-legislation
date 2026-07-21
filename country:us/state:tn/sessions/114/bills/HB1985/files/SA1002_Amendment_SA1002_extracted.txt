@@ -1,0 +1,33 @@
+Title: 
+Official Title: 
+Source: versions - Amendment SA1002
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate Commerce and Labor 1
+Amendment No. 1 to SB2291
+Bailey
+Signature of Sponsor
+AMEND S e n ate Bill No. 2291 House Bill No. 1985*
+by deleting all language after the enacting clause and substituting:
+SECTION 1. Tennessee Code Annotated, Section 62-32-305, is amended by adding
+the following as a new subdivision:
+(16)
+(A) A managed services provider that:
+(i) Provides direct sales, installation, or maintenance service for
+an IP camera connected to the managed services provider's network;
+(ii) Derives less than twenty-five percent (25%) of the managed
+services provider's gross annual revenue from those services; and
+(iii) Provides proof of employee vetting satisfactory to the
+commissioner;
+(B) This subdivision (16) does not apply to a managed services provider
+that offers monitoring services; and
+(C) As used in this subdivision (16), "managed services provider" means
+a business entity that manages and maintains a customer's information
+technology systems.
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+SA1002
+015754
+- 1 -

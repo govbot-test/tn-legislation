@@ -1,0 +1,242 @@
+Title: 
+Official Title: 
+Source: versions - Current Version
+Media Type: application/pdf
+
+================================================================================
+
+SENATE BILL 2686
+By Kyle
+HOUSE BILL 2190
+By Jones J
+AN ACT to amend Tennessee Code Annotated, Title 4 and
+Title 68, relative to climate.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Title 68, is amended by adding the following
+as a new chapter:
+68-206-101. Short title.
+This chapter is known and may be cited as the "Climate Resilient Tennessee
+Act."
+68-206-102. Office of resilience.
+There is created the office of resilience, to be administratively attached to the
+governor's office.
+68-206-103. "Office" defined for this chapter.
+As used in this chapter, "office" means the office of resilience created by § 69-
+206-102.
+68-206-104. Duties and responsibilities.
+The office has the following duties and responsibilities:
+(1) Coordinate the resilience task force and provide strategic direction for
+governmental resilience initiatives to build long-term climate resilience for a
+robust, vibrant economy, sustainable natural environment, healthy communities,
+and an equitable and just transition to the future climate;
+(2) Establish an inter-department resilience coordination team;
+HB2190
+012469
+- 1 -
+
+(3) Establish, in collaboration with the inter-department resilience
+coordination team, a statewide resilience plan and framework to facilitate
+coordination across resilience plans at all levels of government;
+(4) Provide technical guidance and assistance or support to departments
+and local and regional jurisdictions to integrate statewide resilience goals into
+future projects, plans, and programs, and to foster intermunicipal cooperation;
+(5) Establish a means of tracking progress toward statewide goals on
+climate resilience;
+(6) Identify and develop policies necessary to implement a statewide
+resilience plan and risk mitigation strategy;
+(7) Establish and maintain a website to facilitate the functions and duties
+of the office;
+(8) Establish and maintain a principal office and other offices within the
+state as the office may deem necessary;
+(9) Appoint a secretary, counsel, clerks, and other employees and agents
+as it may deem necessary, fix compensation within the limitations provided by
+law, and prescribe duties; and
+(10) Require that state and municipal departments, agencies, public
+authorities, task forces, commissions, or other state or municipal government
+bodies provide, and the same are hereby authorized to provide, such assistance,
+documents, and data as will enable the office to carry out its functions and duties.
+68-206-105. Chief resilience officer - Duties and responsibilities.
+(a) The head of the office is the chief resilience officer who is appointed by the
+governor and who holds office at the pleasure of the governor.
+(b) The chief resilience officer has the following duties and responsibilities:
+- 2 - 012469
+
+(1) Employ or allocate the necessary staff, and request the assistance of
+personnel of state or municipal departments or agencies, to carry out the
+functions, powers, and duties provided in this chapter or as otherwise provided
+by law;
+(2) Manage the office, the budget for the office, and related functions as
+provided by law;
+(3) Review and reconcile department comments on federally sponsored
+resilience and risk mitigation activities to develop and present an official state
+position;
+(4) Represent the policy and consensus viewpoint of this state at the
+federal, regional, state, and local levels with respect to resilience and risk
+mitigation;
+(5) Monitor and seek available funds to support resilience priorities,
+including coordinating cross-department federal funding applications for
+community resilience projects;
+(6) Provide strategic direction for inter-department and cross-disciplinary
+initiatives to build resilience, in collaboration with other relevant resilience task
+force and entities as the chief resilience officer deems appropriate, for the
+purposes of climate resilience planning and goal development, tracking and
+reporting progress on climate resilience goals, and public engagement on climate
+resilience issues;
+(7) Appraise the adequacy of statutory and administrative mechanisms
+for coordinating the state's policies and programs at both the intrastate and
+interstate levels, and between federal, state, and local governments, with respect
+to resilience and risk mitigation;
+- 3 - 012469
+
+(8) Develop, where appropriate, intrastate or intergovernmental
+agreements to formalize coordination roles for regional resilience projects;
+(9) Appraise policy barriers to meet the goals of the state with respect to
+resilience and risk mitigation;
+(10) Serve as a subject-matter expert for the state on issues related to
+resilience and risk mitigation and provide recommendations to the general
+assembly and United States congress with respect to policies, programs, and
+coordinating mechanisms relative to resilience and risk mitigation;
+(11) Assist with the state's planning efforts, including, but not limited to, a
+statewide resilience plan, a state hazard mitigation plan, and other relevant state
+and regional plans for which there is a state interest, to ensure the incorporation
+and alignment of the state's resilience goals and objectives into a unified,
+proactive, pre-disaster approach to adaptation and near-, mid-, and long-term
+resilience;
+(12) Serve as a clearinghouse for the benefit of municipalities regarding
+information relating to flooding, extreme heat, and other risk prevention and
+mitigation, including impact prevention and mitigation project funding programs,
+and other information relating to common problems with respect to these hazards
+and the state and federal services available to assist in solving related problems;
+and
+(13) Take other actions consistent with the law as deemed necessary by
+the chief resilience officer to carry out the officer's duties and responsibilities.
+68-206-106. Statewide resilience plan.
+(a) To coordinate and strengthen efforts to reduce losses from future disasters
+across the state, the office shall contribute to all statewide planning efforts related to
+- 4 - 012469
+
+resilience and risk mitigation and develop a strategic statewide resilience plan to protect
+the state from climate threats.
+(b) The plan must be developed using the best available science, including a
+range of future projections, to identify, implement, or reform policies, projects, and
+programs to achieve the office's goals and objectives.
+(c) The plan must prioritize natural, nature-based, and non-structural
+approaches to mitigate climate threats wherever possible, including, without limitation,
+use of permeable surfaces; rain gardens; green roofs; tree canopy expansion; wetland
+restoration; removing, altering, or right-sizing dams; natural area conservation;
+wastewater and stormwater infrastructure upgrades; alteration of structures; buyouts;
+and other flood and extreme heat prevention, mitigation, and resiliency strategies or
+projects.
+(d) The plan must include, but is not limited to:
+(1) The state's resilience goals and objectives;
+(2) Department-specific recommendations for strategic actions, including
+criteria for prioritization based on a vulnerability assessment of the risks from
+multiple environmental threats to department mission areas, assets, services,
+and populations served;
+(3) Resilience indicators to be tracked and reported to the public over
+time in an annual report; and
+(4) A framework for resilience project development, funding, and
+implementation. The framework must include, but is not limited to, the following:
+(A) Spatial analysis of projected climate threat exposure and
+vulnerability, including, but not limited to, flood, extreme heat and
+precipitation, storm events, wildfires, and other risks. The analysis and
+- 5 - 012469
+
+resulting maps must delineate risks geographically and by social and
+ecological vulnerability using statewide or regional, peer-reviewed, or best
+available scientific sources;
+(B) An accessible, updated database or inventory of critical
+infrastructure vulnerable to current and future flooding, developed in
+collaboration with municipalities. This includes infrastructure that is
+essential for critical government and business functions, national security,
+transportation, utilities, public health and safety, the economy, flood and
+storm protection, water quality management, and wildlife habitat
+management;
+(C) Maps or accessible visual representations of federal, state,
+and local municipal and county projects planned to reduce risks, along
+with identifying the federal, state, or local departments and agencies
+leading those projects and the funding source; and
+(D) A strategic plan for developing, funding, and financing
+projects that address risks through federal, state, local, and private
+sources. The strategic plan must:
+(i) Include a strategy with the goal of ensuring that
+disadvantaged communities, as identified using the affordability
+criteria created pursuant to § 68-221-1205, receive forty percent
+(40%) of the benefits of proposed plans and projects; provided,
+however, that disadvantaged communities must receive no less
+than thirty-five percent (35%) of such benefits; and
+(ii) Seek to build alignment and efficiencies across
+vulnerability assessments and resilience strategies.
+- 6 - 012469
+
+68-206-107. Resilience task force.
+(a) There is created within the office a resilience task force to provide strategic
+direction to resilience efforts across the state and make recommendations to the office.
+(b) The task force is composed of:
+(1) The chief resilience officer, who serves as chair and represents the
+views of the inter-department resilience coordination team;
+(2) The commissioner of environment and conservation or the
+commissioner's designee;
+(3) The commissioner of safety or the commissioner's designee;
+(4) The commissioner of economic and community development or the
+commissioner's designee;
+(5) The secretary of state or the secretary's designee;
+(6) The commissioner of finance and administration or the
+commissioner's designee;
+(7) The commissioner of health or the commissioner's designee;
+(8) The chair of the state energy policy council, created pursuant to § 68-
+204-101, or the chair's designee;
+(9) The commissioner of transportation or the commissioner's designee;
+(10) The commissioner of agriculture or the commissioner's designee;
+and
+(11) A member of the general public with expertise in resilience planning
+selected by the governor.
+68-206-108. Department resilience coordinators.
+Each department included in the resilience task force, and any other departments
+to be included in resilience planning as designated by the chief resilience officer or
+- 7 - 012469
+
+resilience task force, shall appoint a resilience coordinator to work with the chief
+resilience officer to ensure resilience is integrated into department missions and
+priorities, and otherwise coordinate with the chief resilience officer. The coordinators
+serve on the inter-department resilience coordination team established by this chapter.
+Each coordinator is appointed with the exclusive role of focusing on climate resilience
+through the respective department's mission and activities.
+68-206-109. Inter-department resilience coordination team.
+(a) There is created within the office an inter-department resilience coordination
+team to maintain awareness, communication, and alignment with regard to the state's
+resilience and risk mitigation needs, progress, and priorities and to oversee development
+of the statewide resilience plan.
+(b) The team must:
+(1) Be composed of resilience coordinators from each department
+included on the resilience task force or otherwise designated by the chief
+resilience officer or resilience task force;
+(2) Meet upon the call of the chief resilience officer, with a minimum of
+four (4) meetings annually;
+(3) Develop strategic plans for departments and collaborate in the
+development of a statewide resilience plan; and
+(4) Develop and implement a plan for public engagement, review key
+products of the statewide resilience plan, and track and report progress.
+(c) The chief resilience officer shall convene the first meeting of the inter-
+department resilience coordination team on or before the ninetieth day after July 1,
+2026.
+68-206-110. Public engagement and reporting.
+- 8 - 012469
+
+(a) The resilience task force shall develop a statewide resilience plan and hold at
+least six (6) public meetings on the draft plan that include periods for public comment,
+including two (2) meetings in each of the state's grand divisions. The task force shall
+allow at least one hundred twenty (120) days for public comment. The task force shall
+provide meaningful opportunities for public comment from all segments of the population
+that will be impacted by the plan, including persons living in disadvantaged communities,
+as identified using the affordability criteria created pursuant to § 68-221-1205.
+(b) Beginning July 1, 2027, and every five (5) years thereafter, the office shall
+complete and submit an updated statewide resilience plan to the governor and the
+legislative librarian and make the plan publicly available.
+SECTION 2. The headings in this act are for reference purposes only and do not
+constitute a part of the law enacted by this act. However, the Tennessee Code Commission is
+requested to include the headings in any compilation or publication containing this act.
+SECTION 3. For purposes of carrying out administrative duties necessary to effectuate
+this act, this act takes effect upon becoming a law, the public welfare requiring it. For all other
+purposes, this act takes effect July 1, 2026, the public welfare requiring it.
+- 9 - 012469

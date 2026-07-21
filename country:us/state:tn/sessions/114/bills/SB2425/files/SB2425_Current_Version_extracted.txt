@@ -1,0 +1,25 @@
+Title: 
+Official Title: 
+Source: versions - Current Version
+Media Type: application/pdf
+
+================================================================================
+
+<BillNo> <Sponsor>
+SENATE BILL 2425
+By Crowe
+AN ACT to amend Tennessee Code Annotated, Title 71,
+Chapter 5, relative to TennCare.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 71-5-106, is amended by adding the
+following as a new subsection:
+(s) When determining the eligibility of an individual for residential facility benefits,
+any scoring or evaluation that takes into consideration the individual's physical and
+mental well-being must evaluate the individual's physical condition and mental condition
+separately. As used in this subsection (s), "residential facility" includes, but is not limited
+to, a nursing home, skilled nursing facility, recuperation center, rehabilitation facility,
+home for the aged, and adult care home.
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+SB2425
+011197
+- 1 -

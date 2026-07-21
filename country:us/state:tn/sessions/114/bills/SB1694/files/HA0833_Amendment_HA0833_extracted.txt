@@ -1,0 +1,93 @@
+Title: 
+Official Title: 
+Source: versions - Amendment HA0833
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House Insurance 1
+Amendment No. 1 to HB1477
+Kumar
+Signature of Sponsor
+AMEND S e n ate Bill No. 1694 House Bill No. 1477*
+by deleting all language after the enacting clause and substituting:
+SECTION 1. Tennessee Code Annotated, Title 56, Chapter 1, Part 1, is amended by
+adding the following as a new section:
+56-1-111.
+(a)
+(1) The general assembly finds that:
+(A) Insurance claims handling directly affects the health, safety,
+and financial security of residents of this state, particularly elderly and
+vulnerable populations;
+(B) Transparency in regulatory enforcement promotes
+accountability and public trust;
+(C) Certain confidentiality provisions currently prevent the public
+from knowing whether insurers repeatedly fail to timely adjust, investigate,
+or pay valid claims; and
+(D) Disclosure of substantiated claims-handling violations, when
+properly redacted, does not require disclosure of trade secrets or
+personally identifying information.
+(2) It is the intent of the general assembly to increase transparency
+regarding insurer claims practices that affect the public, while maintaining
+appropriate protections for personal data and proprietary business information.
+HA0833
+010995
+- 1 -
+
+(b) Notwithstanding another law to the contrary, the department shall not treat as
+confidential information relating to substantiated violations of insurance claims-handling
+laws when such violations:
+(1) Involve failure to timely investigate, adjust, or pay claims;
+(2) Involve misrepresentation of policy provisions relating to coverage;
+(3) Demonstrate a pattern or practice of unfair claims settlement
+practices; or
+(4) Affect policyholders who are sixty-five (65) years of age or older,
+residents of long-term care facilities, or otherwise classified as vulnerable adults
+under the law of this state.
+(c) Information subject to disclosure under subsection (b) includes:
+(1) Final market conduct examination findings related to claims handling;
+(2) Final administrative orders, consent orders, or settlements;
+(3) Aggregated data reflecting the number and type of substantiated
+consumer complaints;
+(4) Corrective action plans required of insurers following substantiated
+violations; and
+(5) Administrative penalties or sanctions imposed for claims-handling
+misconduct.
+(d) Subsection (b) does not require disclosure of:
+(1) Personally identifying information of any claimant or insured;
+(2) Medical records or protected health information;
+(3) Trade secrets, actuarial formulas, or proprietary pricing
+methodologies; or
+(4) Information relating to an ongoing investigation prior to a final
+determination.
+(e)
+- 2 - 010995
+
+(1) On and after October 1, 2026, the department shall publish the
+information described in subsection (b) in a publicly accessible location and
+searchable format on its website. The department shall update the information
+not less than once every three (3) months.
+(2)
+(A) In addition to the requirement of subdivision (e)(1), by January
+15, 2027, and no later than January 15 of each year thereafter, the
+department shall prepare and publish in a publicly accessible location on
+the department's website an annual report summarizing:
+(i) The number of claims involving policyholders sixty-five
+(65) years of age or older;
+(ii) The number of substantiated complaints alleging failure
+to adjust or pay such claims;
+(iii) The insurers against whom such complaints were
+substantiated; and
+(iv) Enforcement actions taken as a result.
+(B) The report required under subdivision (e)(2)(A) must:
+(i) Not disclose personally identifying information; and
+(ii) Identify insurers by name.
+(f) This section does not:
+(1) Waive attorney-client privilege;
+(2) Require disclosure of trade secrets protected under state or federal
+law; or
+(3) Permit disclosure of confidential information unrelated to a
+substantiated claims-handling violation.
+SECTION 2. This act takes effect July 1, 2026, the public welfare requiring it.
+- 3 - 010995

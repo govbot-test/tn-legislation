@@ -1,0 +1,24 @@
+Title: 
+Official Title: 
+Source: versions - Current Version
+Media Type: application/pdf
+
+================================================================================
+
+SENATE BILL 1541
+By Jackson
+HOUSE BILL 1598
+By Lafferty
+AN ACT to amend Tennessee Code Annotated, Title 4,
+Chapter 29 and Title 62, Chapter 6, relative to the
+state board for licensing contractors.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 4-29-247(a), is amended by deleting
+subdivision (47).
+SECTION 2. Tennessee Code Annotated, Section 4-29-251(a), is amended by inserting
+the following as a new subdivision:
+( ) State board for licensing contractors, created by § 62-6-104;
+SECTION 3. This act takes effect upon becoming a law, the public welfare requiring it.
+HB1598
+010099
+- 1 -

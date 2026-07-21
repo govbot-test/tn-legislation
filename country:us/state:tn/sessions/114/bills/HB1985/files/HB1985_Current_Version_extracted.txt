@@ -1,0 +1,24 @@
+Title: 
+Official Title: 
+Source: versions - Current Version
+Media Type: application/pdf
+
+================================================================================
+
+SENATE BILL 2291
+By Stevens
+HOUSE BILL 1985
+By Grills
+AN ACT to amend Tennessee Code Annotated, Title 62,
+Chapter 32, relative to alarm systems contractors.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 62-32-304, is amended by deleting
+subsection (j) and substituting:
+(j) A person shall not sell and install, service, monitor, or respond to alarm
+signals, signal devices, fire alarms, or burglar alarms used to detect fire, burglary,
+breaking or entering, intrusion, shoplifting, pilferage, or theft in violation of this part or the
+rules adopted under this part.
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+HB1985
+011421
+- 1 -

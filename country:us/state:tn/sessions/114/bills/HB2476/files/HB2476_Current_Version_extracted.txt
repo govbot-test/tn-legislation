@@ -1,0 +1,176 @@
+Title: 
+Official Title: 
+Source: versions - Current Version
+Media Type: application/pdf
+
+================================================================================
+
+SENATE BILL 2641
+By Roberts
+HOUSE BILL 2476
+By Lankford
+AN ACT to amend Tennessee Code Annotated, Title 9,
+Chapter 4, relative to investments.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 9-4-1401(3), is amended by deleting
+the language "established by law and for which the state treasurer has, or has been delegated,
+investment authority, oversight, and responsibility:" and substituting instead "established by law,
+resolution, or ordinance and for which the state treasurer or a local governmental entity has, or
+has been delegated, investment authority, oversight, and responsibility:".
+SECTION 2. Tennessee Code Annotated, Section 9-4-1401(3), is amended by adding
+the following as a new subdivision:
+(F) A plan, fund, or program established, maintained, or offered by a political
+subdivision that does not participate in the Tennessee consolidated retirement system or
+in a plan under subdivision (3)(C), that does the following:
+(i) Provides retirement income or other retirement benefits to employees
+or former employees; or
+(ii) Results in a deferral of income by employees for a period extending to
+the termination of covered employment or beyond.
+SECTION 3. Tennessee Code Annotated, Section 9-4-1401, is amended by adding the
+following as new, appropriately designated subdivisions:
+( ) "Economic analysis" means a written analysis demonstrating the factors
+considered in evaluating the financial impact of a shareholder-sponsored proposal that
+addresses:
+(A) The subject matter of the shareholder-sponsored proposal;
+HB2476
+012258
+- 1 -
+
+(B) An evaluation of the issuer's stated reasons for opposition to the
+shareholder-sponsored proposal;
+(C) An evaluation of whether the shareholder-sponsored proposal is
+consistent with the investment objectives and risk management profile of the
+program in which the beneficiaries are invested;
+(D) An evaluation of the financial benefits and costs of implementing the
+shareholder-sponsored proposal, as written, over a time horizon that is
+consistent with the investment objectives and risk management profile of the
+program;
+(E) The quantifiable impact of the shareholder-sponsored proposal, as
+written, on the investment returns of the beneficiaries of the program; and
+(F) An explanation of the modeling, procedures, and processes used to
+complete the economic analysis;
+( ) "Fiduciary" means:
+(A) A person who, with respect to a program under Section 2(F):
+(i) Exercises discretionary authority or discretionary control with
+respect to management of the program or exercises authority or control
+with respect to acquisition, management, or disposition of the program's
+assets; or
+(ii) Has discretionary authority or discretionary responsibility in the
+administration of the program, including a plan administrator for the
+political subdivision; or
+(B) A person who, with respect to a program, renders investment advice
+for a fee or other compensation, direct or indirect, with respect to moneys or
+other assets of the program or has authority or responsibility to do so;
+- 2 - 012258
+
+( ) "Political subdivision" has the same meaning as defined in § 4-58-102;
+( ) "Proxy advisory firm" means a person who is engaged in the business of:
+(A) Providing proxy voting advice, research, analysis, ratings, or
+recommendations to the state treasurer, a political subdivision, or a fiduciary; or
+(B) Providing proxy voting advice, research, analysis, ratings, or
+recommendations relating to an issuer of securities;
+( ) "Shareholder-sponsored proposal" means a proposal submitted to an issuer
+of securities by a shareholder under 17 CFR 240.14a–8;
+SECTION 4. Tennessee Code Annotated, Section 9-4-1402, is amended by designating
+the existing language as a new subsection (a) and adding the following new subsection (b):
+(b) Consistent with the prudent investor rule pursuant to § 35-14-103, the
+standard of care pursuant to § 35-14-104, and the exercise of reasonable care in
+delegation of investment and management functions pursuant to § 35-14-111, a
+fiduciary, as defined in § 9-4-1401( )(A), and the fiduciary's staff, shall invest, reinvest,
+manage, and select investment options for assets of a program, as defined in Section
+2(F), for financial reasons for the exclusive benefit of the beneficiaries of the program
+while maximizing long-term shareholder value.
+SECTION 5. Tennessee Code Annotated, Title 9, Chapter 4, Part 14, is amended by
+adding the following as new sections:
+9-4-1405. Fiduciary voting responsibilities.
+(a) A fiduciary shall vote all shares held directly or indirectly by, subject to, or on
+behalf of a program for financial reasons for the exclusive benefit of the beneficiaries of
+the program while maximizing long-term shareholder value.
+(b) With respect to a shareholder-sponsored proposal, there is a rebuttable
+presumption that a fiduciary votes its shares for financial reasons if the fiduciary's vote
+- 3 - 012258
+
+follows the recommendation of the board of directors of the issuer of the shares, as long
+as the board includes a majority of independent directors.
+(c) With respect to a shareholder-sponsored proposal, a fiduciary's vote in a
+manner inconsistent with the recommendation of the board of directors of the issuer of
+the shares is presumed to be for financial reasons if:
+(1) The fiduciary conducts and documents an economic analysis
+demonstrating that the vote is for financial reasons; or
+(2) On behalf of the fiduciary, a third party conducts and documents an
+economic analysis demonstrating that the vote is for financial reasons, and the
+fiduciary determines that the economic analysis adequately demonstrates that
+the vote is for financial reasons.
+(d) A fiduciary shall not vote in a manner that:
+(1) Subordinates the financial interest of the program's beneficiaries to
+any environmental, social, and governance interests; or
+(2) Promotes any environmental, social, and governance interests,
+unless, based on an economic analysis, it is determined that the vote is for
+financial reasons.
+(e) With respect to shareholder-sponsored proposals, a fiduciary shall annually
+disclose in a report to the state treasurer, in the case of a program other than a program
+as defined in Section 2(F), and to the chief legislative body of a political subdivision, in
+the case of a program as defined in Section 2(F), that:
+(1) Each vote that was inconsistent with the recommendation of an
+issuer's board of directors composed of a majority of independent directors; and
+- 4 - 012258
+
+(2) The economic analysis conducted and documented with respect to
+each vote described in subsection (c) to determine that the vote was for financial
+reasons.
+(f) The report required under subsection (e) must be certified by the chief
+executive officer and chief financial officer, or an individual acting in a similar capacity, of
+the fiduciary.
+(g) At least once every three (3) years, a fiduciary shall back test its economic
+analysis to ensure that the models, procedures, and processes it used to predict the
+financial reasons were effective, and shall deliver a report detailing the back testing to
+the state treasurer, in the case of a program other than a program as defined in Section
+2(F), and to the chief legislative body of a political subdivision, in the case of a program
+as defined in Section 2(F). Based on the back testing, the chief executive officer and
+chief financial officer, or an individual acting in a similar capacity, of the fiduciary shall
+certify that the economic analysis performed by the fiduciary and included in the report
+was effective.
+9-4-1406. Prohibitions against conflicts of interest; disenfranchising shareholders
+and undermining independent boards of directors.
+(a) The state treasurer, a political subdivision, or a fiduciary shall not enter into
+an agreement with a proxy advisory firm with respect to the provision of proxy advisory
+services unless the proxy advisory firm acknowledges in writing and accepts under
+contract its obligations under this section.
+(b) A proxy advisory firm shall not provide proxy voting advice to a program if an
+actual or potential conflict of interest exists that could reasonably be expected to affect
+the objectivity or reliability of the proxy voting advice. For purposes of this section, "an
+- 5 - 012258
+
+actual or potential conflict of interest" includes the following acts by a proxy advisory firm
+or any of its affiliates:
+(1) Receiving or seeking to receive fees for consulting services from the
+issuer of the shares or any of its affiliates that are the subject of any proxy voting
+advice, written report, research, analysis, rating, or recommendation furnished by
+the proxy advisory firm;
+(2) Receiving or seeking to receive fees for consulting services from the
+sponsor of a shareholder-sponsored proposal or any of its affiliates that is the
+subject of the proxy voting advice; or
+(3) Is a member of an organization that actively supports a shareholder-
+sponsored proposal that is, or is substantially similar to, the subject of the proxy
+voting advice.
+(c) A proxy advisory firm shall not provide proxy voting advice to a program if its
+voting recommendation is not consistent with the recommendation of a board of
+directors or a committee of the program, in either instance which is composed of a
+majority of independent directors, and the recommendation is based, in whole or in part,
+on a decision by the applicable company's board of directors, or committee thereof, to:
+(1) Pursue the adjudication of a business dispute in federal or state court;
+or
+(2) Exercise its discretion in connection with executive compensation
+decisions.
+(d) A proxy advisory firm shall not provide proxy voting advice to a program if its
+negative voting recommendation is based, in whole or in part, on the level of shareholder
+support received with respect to a previous proposal submitted to a vote at the company;
+- 6 - 012258
+
+provided, that the company's previous proposal was approved by shareholders in
+accordance with the law of the state of incorporation of the applicable company.
+SECTION 6. The headings in this act are for reference purposes only and do not
+constitute a part of the law enacted by this act. However, the Tennessee Code Commission is
+requested to include the headings in any compilation or publication containing this act.
+SECTION 7. This act takes effect upon becoming a law, the public welfare requiring it.
+- 7 - 012258
