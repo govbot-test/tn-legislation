@@ -194,18 +194,6 @@
       }
     },
     {
-      "description": "Rec. for pass by s/c ref. to Finance, Ways, and Means Committee",
-      "date": "2026-04-01",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "committee-passage-favorable"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-13T06:05:13Z"
-      }
-    },
-    {
       "description": "Rec. for pass; ref to  Calendar & Rules Committee",
       "date": "2026-04-07",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -336,7 +324,7 @@
     "division_id": "ocd-division/country:us/state:tn"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:05:13Z",
+    "logs_latest_update": "2026-07-21T07:57:15Z",
     "text_extraction_latest_update": "2026-07-13T20:24:37.103136Z"
   }
 }
