@@ -1,0 +1,21 @@
+Title: 
+Official Title: 
+Source: versions - Current Version
+Media Type: application/pdf
+
+================================================================================
+
+HOUSE BILL 1978
+By White
+SENATE BILL 2042
+By Taylor
+AN ACT to amend Tennessee Code Annotated, Title 67,
+Chapter 6, relative to sales and use taxes.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 67-6-318(c)(2), is amended by
+adding the following sentence at the end of the subdivision:
+The commissioner may issue the certificate in paper or electronic medium.
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+SB2042
+011326
+- 1 -

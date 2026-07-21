@@ -1,0 +1,21 @@
+Title: 
+Official Title: 
+Source: versions - Current Version
+Media Type: application/pdf
+
+================================================================================
+
+<BillNo> <Sponsor>
+SENATE BILL 2134
+By Taylor
+AN ACT to amend Tennessee Code Annotated, Title 4;
+Title 5; Title 6; Title 7; Title 12; Title 45; Title 46;
+Title 47; Title 48; Title 50; Title 61; Title 62; Title
+65; Title 66 and Title 68, relative to commerce.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 45-2-103(d), is amended by deleting
+"twenty-four (24) hours" and substituting "forty-eight (48) hours".
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+SB2134
+011300
+- 1 -

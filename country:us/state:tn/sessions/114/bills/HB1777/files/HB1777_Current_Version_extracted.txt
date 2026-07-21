@@ -1,0 +1,38 @@
+Title: 
+Official Title: 
+Source: versions - Current Version
+Media Type: application/pdf
+
+================================================================================
+
+SENATE BILL 2126
+By Taylor
+HOUSE BILL 1777
+By Leatherwood
+AN ACT to amend Tennessee Code Annotated, Title 4;
+Title 5; Title 6; Title 7; Title 13; Title 47; Title 48;
+Title 61; Title 66 and Title 67, relative to real estate
+investment trusts.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1.
+(a) As used in this section, "real estate investment trust" or "REIT" means a
+business entity that qualifies as a real estate investment trust, as defined in 26 U.S.C. §
+856, and that purchases or acquires for consideration ten (10) or more single-family
+homes in this state in calendar year 2025.
+(b) Using existing available data and deed records, on or before December 31,
+2026, the comptroller of the treasury shall submit a report to the governor, the speaker of
+the senate, the speaker of the house of representatives, the chair of the state and local
+government committee of the senate, and the chair of the committee of the house of
+representatives having jurisdiction over housing containing a summary of the following
+de-identified information related to REITs' purchases and sales of single-family homes in
+this state for calendar year 2025:
+(1) The number of single-family homes purchased by each REIT in the
+calendar year 2025, including the appraised value of each home purchased; and
+(2) The number of homes described in subdivision (b)(1) that were:
+(A) Acquired through foreclosure;
+(B) Sold by each REIT during the same year; and
+(C) Used as rental properties during the same year.
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+HB1777
+010785
+- 1 -

@@ -1,0 +1,30 @@
+Title: 
+Official Title: 
+Source: versions - Amendment HA0611
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House State & Local Government 1
+Amendment No. 1 to HB1513
+Crawford
+Signature of Sponsor
+AMEND S e n ate Bill No. 1624 House Bill No. 1513*
+by deleting subdivision (a)(6)(D) in Section 2 and substituting instead:
+(D)
+(1) A person or entity that is a host, third-party producer, or internet service
+provider, including its affiliates or subsidiaries, or that operates a search engine or a
+cloud service provider, is not liable under this subdivision (a)(6) solely for providing
+access or connection to or from a website or other information or content on the internet,
+nor is a facility, system, or network not under the control of the internet service provider
+liable under this subdivision (a)(6), including from transmission, downloading,
+intermediate storage, or access software, to the extent such provider is not responsible
+for the creation of the deceptive and fraudulent deepfake.
+(2) This subdivision (a)(6) does not apply to a radio or television broadcasting
+station, cable or satellite television operator, streaming or other programming service
+when it is paid to broadcast material containing a deepfake, to the extent such entity is
+not responsible for the creation of the deceptive and fraudulent deepfake.
+HA0611
+013957
+- 1 -

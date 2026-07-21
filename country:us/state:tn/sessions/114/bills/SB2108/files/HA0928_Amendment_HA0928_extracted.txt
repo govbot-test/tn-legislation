@@ -1,0 +1,32 @@
+Title: 
+Official Title: 
+Source: versions - Amendment HA0928
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House State & Local Government 2
+Amendment No. 2 to HB1711
+Crawford
+Signature of Sponsor
+AMEND S e n ate Bill No. 2108 House Bill No. 1711*
+by deleting § 4-1-605(a) in SECTION 1 and substituting:
+(a)
+(1) Each LEA and public charter school shall submit the report required pursuant
+to title 49, chapter 6, part 30 that identifies the number of students enrolled in the LEA or
+public charter school who produced or failed to produce documentation to establish the
+student's lawful presence in the United States to the department of education on or
+before January 1, 2027, with such data the LEA or public charter school has collected for
+the 2026-2027 school year to date, and by each January 1 thereafter for the immediately
+preceding school year.
+(2) The department of education shall determine the cost for each student who
+produced or failed to produce documentation to establish the student's lawful presence
+in the United States in each LEA and public charter school.
+(3) On or before January 31, 2027, and by each January 31 thereafter, the
+department of education shall submit an aggregated report consisting of the data
+collected in subdivision (a)(1) and the cost per student determined pursuant to
+subdivision (a)(2) to the collecting entities.
+HA0928
+016470
+- 1 -
