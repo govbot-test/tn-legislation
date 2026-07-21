@@ -1,0 +1,33 @@
+Title: 
+Official Title: 
+Source: versions - Current Version
+Media Type: application/pdf
+
+================================================================================
+
+HOUSE BILL 2193
+By Salinas
+SENATE BILL 2494
+By Kyle
+AN ACT to amend Tennessee Code Annotated, Title 71,
+relative to welfare.
+WHEREAS, the Summer Electronic Benefits Transfer (EBT) program, also known as
+SUN Bucks, in 2024 served over seven hundred thousand (700,000) children in this state; and
+WHEREAS, Governor Bill Lee turned down over eighty-four million dollars ($84,000,000)
+in 2025 from the Summer EBT program; now, therefore,
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Title 71, Chapter 3, is amended by adding
+the following as a new part:
+71-3-201.
+Notwithstanding a law to the contrary, the governor shall not make a decision
+regarding the option to not enroll this state in or to disenroll this state from the summer
+electronic benefits transfer program, provided by the food and nutrition service, an
+agency of the United States department of agriculture, unless the requirement in § 71-3-
+202 has been met.
+71-3-202.
+The general assembly may authorize by joint resolution for the governor to not
+enroll in or to disenroll from the summer electronic benefits transfer program.
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+SB2494
+012199
+- 1 -

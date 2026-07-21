@@ -1,0 +1,30 @@
+Title: 
+Official Title: 
+Source: versions - Amendment HA0991
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House Judiciary 1
+Amendment No. 1 to HB2079
+Farmer
+Signature of Sponsor
+AMEND S e n ate Bill No. 1992* House Bill No. 2079
+by deleting all language after the enacting clause and substituting:
+SECTION 1. Tennessee Code Annotated, Title 39, Chapter 14, Part 1, is amended by
+adding the following new section:
+(a) A person commits an offense if, for the purpose of deriving a pecuniary
+benefit, the person engages in conduct intended to influence the occurrence or
+nonoccurrence of an event while the person, or another acting in active concert with the
+person, is a party to a contract traded on a prediction-market by which the person will
+derive such pecuniary benefit directly from the settlement of that contract based on the
+occurrence or a nonoccurrence of the event.
+(b) A violation of subsection (a) is a Class E felony.
+(c) As used in this section, "prediction-market" means a marketplace or
+exchange on which individuals trade contracts based on the occurrence or
+nonoccurrence of specified future events.
+SECTION 2. This act takes effect July 1, 2026, the public welfare requiring it.
+HA0991
+015666
+- 1 -

@@ -1,0 +1,83 @@
+Title: 
+Official Title: 
+Source: versions - Current Version
+Media Type: application/pdf
+
+================================================================================
+
+HOUSE BILL 1461
+By Clemmons
+SENATE BILL 1832
+By Yarbro
+AN ACT to amend Tennessee Code Annotated, Title 4;
+Title 8 and Title 68, relative to high performance
+computing facilities.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Title 68, Chapter 204, is amended by adding
+the following new section:
+(a) As used in this section:
+(1) "Department" means the department of environment and
+conservation;
+(2) "High performance computing (HPC) facility" means a facility, other
+than a facility owned or operated by a federal, state, or local governmental entity,
+that houses or operates a supercomputer, data center, artificial intelligence (AI)
+data center, AI factory, AI-optimized computing facility, HPC or AI cluster or
+supercluster, or exascale computing system in this state that utilizes, on average,
+more than fifty megawatts (50 MW) per month for its operation and maintenance;
+and
+(3) "Public benefit":
+(A) Means a positive material effect or a reduction in negative
+material effect on individuals, businesses, and communities in this state;
+and
+(B) Includes, but is not limited to, a positive material effect or a
+reduction in negative material effect on society, academia and education,
+SB1832
+010551
+- 1 -
+
+literacy, public health and benefits, environment, culture, and the
+economy.
+(b) An HPC facility operator shall devote not less than fifty percent (50%) of the
+computing and data processing output of the HPC facility for a public benefit.
+(c)
+(1) An HPC facility operator shall annually report the source and amount
+of all energy utilized for its operation and maintenance to the department,
+council, comptroller of the treasury, and executive head and governing body of
+each local government in which the facility is located.
+(2) The annual report must:
+(A) Specify the HPC facility's carbon footprint in terms of total
+annual greenhouse gas emissions as the direct result of its operation and
+energy consumption, including, but not limited to, resource extraction,
+manufacturing, assembly, and transportation of materials and hardware;
+(B) Summarize the HPC facility operator's efforts to reduce the
+energy consumption and carbon footprint of the HPC facility; and
+(C) Specify each public benefit to which output was devoted as
+required pursuant to subsection (b), including the amount of output and
+the manner in which such public benefit was augmented.
+(3) The annual report must be submitted no later than January 31, 2027,
+and each January 31 thereafter. The department, comptroller, and council shall
+post the annual reports prominently on their respective websites.
+(d) An HPC facility operator shall conduct an annual internal audit on its
+compliance with this section, and upon request, permit such a compliance audit by the
+department, council, or comptroller of the treasury, or a third party retained by the
+- 2 - 010551
+
+department, council, or comptroller to conduct the audit. The annual internal audit
+findings must be reported and posted in the same manner as the annual report in
+accordance with subdivision (c)(3).
+(e) If an HPC facility operator fails to submit an annual report or internal audit in
+compliance with this section, or if a recipient of such report or audit finds that an HPC
+facility is not otherwise in compliance with this section, then the recipient shall provide
+written notice to the HPC facility operator of noncompliance and that the HPC facility
+operator has thirty (30) days to comply with this section. If the HPC facility is not in
+compliance at the end of such period, the recipient shall suspend any applicable
+operating license or permit of the HPC facility, pending compliance. The comptroller of
+the treasury shall certify compliance to the department and each applicable local
+government for purposes of reinstating a license or permit of the HPC facility. If an HPC
+facility operator fails to timely comply with this section after receiving notice of
+noncompliance under this subsection (e), such license and permit must remain
+suspended, and the department and each applicable local government shall not renew
+such license or permit of the HPC facility until the comptroller of the treasury certifies
+compliance.
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+- 3 - 010551

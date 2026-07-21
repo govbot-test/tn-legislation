@@ -1,0 +1,32 @@
+Title: 
+Official Title: 
+Source: versions - Current Version
+Media Type: application/pdf
+
+================================================================================
+
+HOUSE BILL 1911
+By Shaw
+SENATE BILL 1970
+By Akbari
+AN ACT to amend Tennessee Code Annotated, Title 10,
+Chapter 7, relative to public records.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 10-7-503, is amended by adding the
+following as a new subsection:
+(i)
+(1) Notwithstanding the restriction in subdivision (a)(2) limiting access to public
+records to citizens of this state, an individual who is not a citizen of this state is entitled
+to inspect or receive a copy of any law enforcement record or report pertaining solely to
+that individual, including, but not limited to, an arrest report, incident report, crash report,
+or citation, if the individual submits:
+(A) A written request identifying the specific record sought;
+(B) A copy of a valid government-issued photo identification; and
+(C) A signed affidavit affirming that the record requested pertains solely
+to the individual requester.
+(2) This subsection (i) does not authorize the release of a record that is
+otherwise confidential by law.
+SECTION 2. This act takes effect July 1, 2026, the public welfare requiring it.
+SB1970
+011282
+- 1 -

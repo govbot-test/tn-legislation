@@ -1,0 +1,30 @@
+Title: 
+Official Title: 
+Source: versions - Amendment SA0520
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate Judiciary 1
+Amendment No. 1 to SB1850
+Gardenhire
+Signature of Sponsor
+AMEND S e n ate Bill No. 1850* House Bill No. 2283
+by deleting all language after the enacting clause and substituting:
+SECTION 1. Tennessee Code Annotated, Section 37-1-186, is amended by adding the
+following as a new subsection:
+(d) A court that issues an order granting custody or guardianship of a child to a
+person who qualifies as a relative caregiver shall not require the relative caregiver to
+provide the child with the child's own bedroom, unless there are specific safety or
+medical reasons that would make placement of the child with another child unsafe.
+SECTION 2. Tennessee Code Annotated, Section 37-2-414, is amended by adding the
+following as a new subsection:
+(f) In determining whether placement of a child with a relative for kinship foster
+care is in the best interest of a child, the department shall not require the relative to
+provide the child with the child's own bedroom, unless there are specific safety or
+medical reasons that would make placement of the child with another child unsafe.
+SECTION 3. This act takes effect upon becoming a law, the public welfare requiring it.
+SA0520
+013839
+- 1 -
