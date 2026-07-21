@@ -1,0 +1,26 @@
+Title: 
+Official Title: 
+Source: versions - Current Version
+Media Type: application/pdf
+
+================================================================================
+
+SENATE BILL 1641
+By Jackson
+HOUSE BILL 1496
+By Moon
+AN ACT to amend Tennessee Code Annotated, Section
+10-7-604, relative to data provided to the secretary
+of state.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 10-7-604, is amended by deleting the
+first sentence of the section and substituting the following:
+The secretary of state shall annually compile an update of the required data
+listed in § 10-7-603. On or about November 15 of each year, the secretary of state shall
+publish the compiled data from all agencies, excluding the personal mailing addresses
+and telephone numbers of members, which are confidential and not subject to
+disclosure.
+SECTION 2. This act takes effect July 1, 2026, the public welfare requiring it.
+HB1496
+010826
+- 1 -

@@ -1,0 +1,54 @@
+Title: 
+Official Title: 
+Source: versions - Current Version
+Media Type: application/pdf
+
+================================================================================
+
+SENATE BILL 2395
+By Yarbro
+HOUSE BILL 2212
+By Powell
+AN ACT to amend Tennessee Code Annotated, Title 4;
+Title 5; Title 6; Title 7; Title 8; Title 39 and Title 47,
+relative to personal data.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Title 39, Chapter 13, Part 6, is amended by
+adding the following as a new section:
+(a) This section is known and may be cited as the "Fourth Amendment is Not for
+Sale Act."
+(b) A state agency or local governmental entity, or any of its officers, employees,
+or contractors, that is required by § 39-13-610 or another law to be issued a warrant
+prior to obtaining personal information or sensitive data about an individual shall not
+knowingly purchase, license, or otherwise obtain the personal information or sensitive
+data from a controller in lieu of the warrant requirement.
+(c) A officer, employee, or contractor of a state agency or local governmental
+entity who violates subsection (b) commits a Class B misdemeanor.
+(d) It is not a violation of subsection (b) if the personal information or sensitive
+data is purchased, licensed, or otherwise obtained under any of the following
+circumstances:
+(1) If necessary to respond to a call for emergency services placed by
+the individual to whom the personal information or sensitive data relates;
+(2) To prevent imminent danger to the life of the individual to whom the
+personal information or sensitive data relates;
+(3) To prevent imminent danger to the public;
+HB2212
+012061
+- 1 -
+
+(4) With the express, written consent of the individual to whom the
+personal information or sensitive data relates; or
+(5) If required by federal law or a valid federal court order.
+(e) As used in this section:
+(1) "Controller," "identified or identifiable natural person," "natural
+person," "individual," "personal information," and "sensitive data" have the same
+meanings as defined in § 47-18-3302;
+(2) "Local governmental entity" means a municipality, metropolitan
+government, county, utility district, local law enforcement agency, school district,
+public building authority, and development district created and existing pursuant
+to the laws of this state, or any instrumentality of government created by any one
+(1) or more of the named local governmental entities; and
+(3) "State agency" means a state department, board, commission, and
+other body which carries out state functions and programs.
+SECTION 2. This act takes effect July 1, 2026, the public welfare requiring it.
+- 2 - 012061

@@ -1,0 +1,22 @@
+Title: 
+Official Title: 
+Source: versions - Amendment HA0764
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House Judiciary 1
+Amendment No. 1 to HB0181
+Farmer
+Signature of Sponsor
+AMEND S e n ate Bill No. 166* House Bill No. 181
+by deleting all language after the enacting clause and substituting:
+SECTION 1. Tennessee Code Annotated, Section 16-2-522(a)(4), is amended by
+deleting "January 1, 2027" and substituting "January 1, 2028".
+SECTION 2. Tennessee Code Annotated, Section 16-2-522(b), is amended by deleting
+"December 31, 2027" and substituting "December 31, 2028".
+SECTION 3. This act takes effect upon becoming a law, the public welfare requiring it.
+HA0764
+014903
+- 1 -

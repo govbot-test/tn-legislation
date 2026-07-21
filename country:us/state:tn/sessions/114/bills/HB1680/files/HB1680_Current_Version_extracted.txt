@@ -1,0 +1,125 @@
+Title: 
+Official Title: 
+Source: versions - Current Version
+Media Type: application/pdf
+
+================================================================================
+
+SENATE BILL 1481
+By Walley
+HOUSE BILL 1680
+By Wright
+AN ACT to amend Tennessee Code Annotated, Title 9;
+Title 54; Title 55 and Title 67, relative to vehicles
+wholly or partly powered by electricity.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Title 67, Chapter 3, Part 6, is amended by
+adding the following as a new section:
+67-3-620.
+(a) As used in this section, "electric vehicle", "electric vehicle charging station",
+and "electric vehicle power" have the same meanings as defined in § 67-3-1001.
+(b) A person who owns or leases an electric vehicle charging station in this state
+and who sells or distributes electric vehicle power through the station must first obtain a
+special electricity sale and distribution license under this chapter. The person must
+submit an application and fee of thirty dollars ($30.00) to the department. The license
+must identify the location of each electric vehicle charging station owned or leased by
+the person and the name, brand, or manufacturer of the type of electric vehicle charging
+station. Licenses issued by the commissioner pursuant to this section must be posted in
+a prominent and accessible place upon each electric vehicle charging station.
+(c) In addition to the initial license issued under subsection (b), the
+commissioner shall renew the license upon verification that the person has remitted all
+taxes due pursuant to § 67-3-1002. A fee must not be charged for the renewal of a
+license issued under this section.
+(d) The department shall remit the proceeds of the license fee imposed by
+subsection (b) to the county or municipality in which an electric vehicle charging station
+HB1680
+009075
+- 1 -
+
+is located, less a reasonable amount or percentage as determined by the department to
+cover the expenses of administration and collection, which must not exceed two percent
+(2%) of the fees collected. The proceeds from the license fee received by the county or
+municipality must be used for construction, repair, or improvement of roads and bridges
+or for the funding of public transportation systems located or provided wholly or partly
+within the county or municipality.
+SECTION 2. Tennessee Code Annotated, Title 67, Chapter 3, is amended by adding
+the following as a new part:
+67-3-1001. As used in this part:
+(1) "All-electric vehicle" and "plug-in hybrid electric vehicle" have the same
+meanings as defined in § 55-4-116;
+(2) "Distribute" means the delivery or transfer of electric power into the battery or
+other energy storage device of an electric vehicle at a location in this state;
+(3) "Electric vehicle" means an all-electric vehicle or a plug-in hybrid electric
+vehicle;
+(4) "Electric vehicle charging station":
+(A) Means a place accessible to general public vehicular traffic where
+electric power may be used to charge a battery or other storage device of an
+electric vehicle; and
+(B) Does not include a place located on the premises of a residence;
+(5) "Electric vehicle power" means electrical energy distributed into the battery or
+other energy storage device of an electric vehicle to be used to power the vehicle;
+(6) "Electric vehicle power dealer" means a person who owns or leases an
+electric vehicle charging station in this state with a charging capacity of twenty (20)
+- 2 - 009075
+
+kilowatts or more and who sells or distributes electric vehicle power through the electric
+vehicle charging station;
+(7) "Extended stay rental" means a structure, space, or a portion of the structure
+or space, that is occupied or intended or designed for occupancy by a person for
+dwelling, lodging, or sleeping purposes, for a period of thirty (30) or more continuous
+days; and
+(8) "Residence" means a single-family dwelling, multifamily dwelling, or an
+extended stay rental.
+67-3-1002.
+(a) Beginning on January 1, 2027, an excise tax at the rate of three cents (3¢)
+per kilowatt-hour is imposed on all electric vehicle power sold or distributed in this state
+by an electric vehicle power dealer for the purpose of charging electric vehicles. The tax
+imposed by this section must be collected and paid by an electric vehicle power dealer in
+the manner specified in this part.
+(b) The proceeds of the tax imposed by subsection (a) must be apportioned
+pursuant to § 55-4-116(c) in the same manner as the additional registration fees
+established in § 55-4-116.
+(c) The tax imposed by subsection (a) on electric vehicle power must be
+included in the sales price for the purpose of determining sales price under the Retailers'
+Sales Tax Act, compiled in chapter 6 of this title, and for calculating the applicable sales
+or use tax, regardless of whether the taxes may be separately stated by the electric
+vehicle power dealer.
+(d) All taxes accrued by the electric vehicle power dealer with respect to electric
+vehicle power sold or distributed from an electric vehicle charging station during a
+calendar month are due and payable to, and reports must be filed with, the department
+- 3 - 009075
+
+on or before the twentieth day of the month following the month of activity. In addition to
+other information as the department determines is reasonably required to collect the tax
+under this part, the report must include the number of kilowatt-hours sold and distributed
+by the electric vehicle power dealer in this state during the calendar month.
+67-3-1003.
+(a) An electric vehicle charging station must be capable of accurately measuring
+and prominently displaying the amount of electric vehicle power delivered to each
+electric vehicle on a per kilowatt-hour basis. The stations must be further equipped with
+meters to record the total kilowatt-hours dispensed.
+(b) A sign, placard, or other means used to advertise the price of electric vehicle
+power for sale at retail through an electric vehicle charging station may contain a
+separate listing of the price and a separate listing of the tax imposed pursuant to this
+part, and must contain a total of that price and taxes, which must be at least as large as
+the listing of the price or a tax imposed on the price.
+67-3-1004.
+The commissioner may authorize investigations of an electric vehicle charging
+station for the purpose of enforcing this part, to be conducted by an employee of the
+special investigations section of the department who is appointed by the commissioner,
+or other deputies, subordinate officers, clerks, investigators, or employees appointed by
+the commissioner who may be necessary to conduct the investigation.
+67-3-1005.
+The commissioner may assess a civil penalty of five thousand dollars ($5,000)
+per day or twenty-five dollars ($25.00) per kilowatt-hour of electric vehicle power
+involved, whichever is greater, against a person who violates this part.
+67-3-1006.
+- 4 - 009075
+
+The commissioner may promulgate rules to effectuate the purposes of this part in
+accordance with the Uniform Administrative Procedures Act, compiled in title 4, chapter
+5.
+SECTION 3. For purposes of promulgating rules, this act takes effect upon becoming a
+law, the public welfare requiring it. For all other purposes, this act takes effect July 1, 2026, the
+public welfare requiring it.
+- 5 - 009075

@@ -1,0 +1,28 @@
+Title: 
+Official Title: 
+Source: versions - Amendment SA0749
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate State and Local Government 1
+Amendment No. 1 to SB1922
+Briggs
+Signature of Sponsor
+AMEND S e n ate Bill No. 1922 House Bill No. 1705*
+by deleting subsection (b) in SECTION 1 and substituting:
+(b)
+(1) Except as provided in subdivision (b)(2), an employer shall not:
+(A) Appoint or hire a prospective employee on or after July 1,
+2026, without verifying the work authorization status of such prospective
+employee by using the E-Verify program; or
+(B) Adopt an ordinance, resolution, regulation, rule, policy, or
+guideline contrary to the requirements of this section.
+(2) An employer who currently uses a third-party vendor for Form I-9
+verification for prospective employees may continue to use such vendor until
+January 1, 2027, at which time the employer must begin using the E-Verify
+program.
+SA0749
+015864
+- 1 -

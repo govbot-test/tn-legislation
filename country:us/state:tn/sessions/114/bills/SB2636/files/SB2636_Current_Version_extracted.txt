@@ -1,0 +1,149 @@
+Title: 
+Official Title: 
+Source: versions - Current Version
+Media Type: application/pdf
+
+================================================================================
+
+HOUSE BILL 1729
+By Slater
+SENATE BILL 2636
+By Roberts
+AN ACT to amend Tennessee Code Annotated, Title 49,
+relative to education.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 49-6-3050(b)(5), is amended by
+deleting subdivision (A) and substituting:
+(A) Ensure that if the parent-teacher's student is in any of the grades five (5),
+seven (7), or nine (9), that the student is administered:
+(i) A standardized test selected by the parent-teacher that provides
+nationally normed analytics in the subjects of English language arts and
+mathematics, that is proctored by an individual who is not related to the student,
+and that is recorded by the developer of the nationally normed examination, at
+the expense of the parent-teacher; or
+(ii) The same state board-approved standardized tests required of public
+school students in the same grade as the parent-teacher's student that is
+administered by the commissioner of education, or the commissioner's designee,
+or by a professional testing service approved by the LEA; provided, however, that
+the test for grade nine (9) is not an end-of-course examination required by the
+state board of education pursuant to § 49-6-6001;
+SECTION 2. Tennessee Code Annotated, Section 49-6-3050(b)(5)(B), is amended by
+deleting subdivision (iii) and substituting:
+(iii) All results from tests administered pursuant to this subdivision (b)(5) must be
+provided to the parent-teacher, the director of schools, and the state board of education;
+SB2636
+011100
+- 1 -
+
+SECTION 3. Tennessee Code Annotated, Section 49-6-3050(b), is amended by
+deleting subdivision (6) and substituting:
+(6)
+(A) If a home school student does not test proficient in a subject matter
+tested pursuant to subdivision (b)(5), as demonstrated by the student scoring a
+performance level rating of "approaching" in the subject matter tested on a test
+administered pursuant to subdivision (b)(5)(A)(ii) or by the student scoring below
+the fiftieth percentile, but above the twenty-fifth percentile, on the subject matter
+tested on a test administered pursuant to subdivision (b)(5)(A)(i), then the parent-
+teacher shall consult with the director of schools;
+(B) If a home school student does not test proficient in the subject matter
+tested pursuant to subdivision (b)(5), as demonstrated by the student scoring a
+performance level rating of "below" in the subject matter tested on a test
+administered pursuant to subdivision (b)(5)(A)(ii) or by the student scoring below
+the twenty-fifth percentile on the subject matter tested on a test administered
+pursuant to subdivision (b)(5)(A)(i), then:
+(i) The same test must be readministered to the student within
+one (1) year of the date on which the first test was administered to the
+student, notwithstanding the required testing schedule in subdivision
+(b)(5)(B), if applicable; and
+(ii) The parent-teacher shall consult with a teacher licensed by the
+state board of education and having a certificate or endorsement in the
+grade level or subject matter for which the parent-teacher's student did
+not test proficient. The parent-teacher and consulting teacher shall
+design remedial coursework to help the student obtain proficiency for the
+- 2 - 011100
+
+student's grade level in the respective subject area. The parent-teacher
+shall report the remedial coursework designed for the student pursuant to
+this subdivision (b)(6)(B)(ii) to the director of schools;
+(C) If a home school student completes the requirements of subdivision
+(b)(6)(B) in the same subject matter for two (2) consecutive test administrations
+and the student is not diagnosed as learning disabled by a qualified medical
+professional, then the director of schools may require the parent of the student to
+enroll the student in a public, private, or church-related school, in accordance
+with this part, and the parent shall have all rights provided by law to respond to
+this requirement; and
+SECTION 4. Tennessee Code Annotated, Section 49-6-3050(f), is amended by deleting
+the subsection and substituting:
+(f)
+(1) As used in this subsection (f):
+(A) "Advanced course" means a college-level course
+administered to high school students for a particular subject area that
+may earn students college credit through a standardized examination that
+includes, but is not limited to, an advanced placement program offered by
+the College Board; and
+(B) "Preparatory college entrance examination" means a test
+administered to students for the purpose of preparation for a college
+entrance exam that includes the:
+(i) Preliminary SAT/National Merit Scholarship Qualifying
+Test (PSAT/NMSQT) administered by the College Board and
+National Merit Scholarship Corporation;
+- 3 - 011100
+
+(ii) Pre-ACT administered by ACT; and
+(iii) CLT10 administered by Classic Learning Initiatives,
+LLC.
+(2) A public school that administers an advanced course or preparatory
+college entrance examination shall provide notice of the following on its website:
+(A) The date and time for which an advanced course or
+preparatory college entrance examination is offered;
+(B) The student capacity and availability of an advanced course
+or preparatory college entrance examination being offered; and
+(C) The availability of outside financial assistance for low-income
+and at-risk students to assist such students in taking an advanced course
+and preparatory college entrance examination.
+(3) A public school shall allow a home school student to take an
+advanced course or preparatory college entrance examination offered by the
+public school if space is available.
+SECTION 5. Tennessee Code Annotated, Section 49-6-6010(a)(1), is amended by
+adding "or Classic Learning Test (CLT)" after "SAT".
+SECTION 6. Tennessee Code Annotated, Section 49-6-705(a), is amended by adding
+the following new subdivisions:
+( ) "CLT" means the Classic Learning Test administered by Classic Learning
+Initiatives, LLC;
+( ) "CLT10" means a college preparatory examination administered by Classic
+Learning Initiatives, LLC, to prepare students for the CLT;
+SECTION 7. Tennessee Code Annotated, Section 49-6-705(c), is amended by deleting
+subdivision (1) and substituting:
+- 4 - 011100
+
+(1) The purpose of the pilot after school educational programs is to increase
+performance for at-risk students on the ACT, SAT, or CLT examinations, in order to
+expand the number of students in the at-risk population eligible for lottery scholarships
+and to increase the abilities of students to excel in postsecondary education. The
+programs must serve at-risk students in grades seven through nine (7-9). The programs
+must prepare students to take the EXPLORE and PLAN ACT preparatory examinations,
+the PSAT/NMSQT preparatory examination, or the CLT10 preparatory examination and
+eventually to take the ACT, SAT, or CLT examinations.
+SECTION 8. Tennessee Code Annotated, Section 49-6-705(d)(2), is amended by
+deleting subdivision (A) and substituting:
+(A) Academic tutoring and skills development in subjects covered by EXPLORE,
+PLAN, and ACT examinations; PSAT/NMSQT and SAT examinations; or CLT10 and
+CLT examinations; and
+SECTION 9. Tennessee Code Annotated, Section 49-2-702(a)(2), is amended by
+deleting subdivision (B) and substituting:
+(B) Exhibits an average student ACT score of 21 or higher, or the concordant
+equivalent score on the SAT or Classic Learning Test (CLT) or higher; provided, that
+prior to an LEA using the average student ACT, SAT, or CLT score, at least thirty (30)
+students within the LEA or at least twenty-five percent (25%) of the graduating class,
+whichever is larger, took the ACT, SAT, or CLT;
+SECTION 10. Tennessee Code Annotated, Section 49-1-613(a), is amended by
+deleting "proficiency, graduation rates, ACT or SAT scores where applicable" and substituting
+"proficiency; graduation rates; ACT, SAT, or Classic Learning Test (CLT) scores where
+applicable;".
+- 5 - 011100
+
+SECTION 11. Tennessee Code Annotated, Section 49-6-8103(c)(4), is amended by
+deleting "either the ACT or the SAT" and substituting "the ACT, SAT, or Classic Learning Test
+(CLT)".
+SECTION 12. This act takes effect upon becoming a law, the public welfare requiring it.
+- 6 - 011100

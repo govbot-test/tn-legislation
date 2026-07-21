@@ -1,0 +1,52 @@
+Title: 
+Official Title: 
+Source: versions - Current Version
+Media Type: application/pdf
+
+================================================================================
+
+HOUSE BILL 1741
+By Davis
+SENATE BILL 1790
+By Reeves
+AN ACT to amend Tennessee Code Annotated, Title 8;
+Title 41; Title 53; Title 56; Title 63; Title 68 and
+Title 71, relative to the use of drugs for the
+treatment of pain.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Title 41, Chapter 21, Part 2, is amended by
+adding the following as a new section:
+(a) As used in this section:
+(1) "Healthcare prescriber" means a prescriber as defined in § 53-10-
+203;
+(2) "Insurance policy" means a group or individual insurance plan or
+policy offered through this state or a local government, a private insurance
+company, a healthcare corporation, a health management organization,
+TennCare, or other plan or policy that provides medical or pharmaceutical
+coverage to inmates incarcerated in this state;
+(3) "Insurer" means an entity that offers an insurance policy; and
+(4) "Non-opioid medication" means a drug or biological product that is
+indicated to produce analgesia without acting on the body's opioid receptors.
+(b) Except as otherwise provided in this section, an insurer, for purposes of
+offering an insurance policy, may adopt or amend a preferred drug list (PDL).
+(c)
+(1) In establishing and maintaining the PDL, the insurer shall ensure that
+a non-opioid medication approved by the United States food and drug
+administration for the treatment or management of pain is not disadvantaged or
+SB1790
+011195
+- 1 -
+
+discouraged with respect to coverage relative to an opioid or narcotic drug for the
+treatment or management of pain on the PDL.
+(2) Subdivision (c)(1) does not prohibit an opioid medication from being
+preferred over other opioid medications, or a non-opioid medication from being
+preferred over other non-opioid medications.
+(d) This section applies to a non-opioid medication after it has been approved by
+the United States food and drug administration for a period of nine (9) months or longer
+for the treatment or management of pain, regardless of whether the drug has been
+reviewed by the insurer for inclusion on the PDL. This section also applies to drugs
+being provided under a contract between the insurer and a pharmacy benefits manager
+for purposes of an insurance policy.
+SECTION 2. This act takes effect January 1, 2027, the public welfare requiring it.
+- 2 - 011195

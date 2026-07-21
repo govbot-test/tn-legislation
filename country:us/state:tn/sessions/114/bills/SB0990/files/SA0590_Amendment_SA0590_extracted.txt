@@ -1,0 +1,35 @@
+Title: 
+Official Title: 
+Source: versions - Amendment SA0590
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate Commerce and Labor 1
+Amendment No. 1 to SB0990
+Bailey
+Signature of Sponsor
+AMEND S e n ate Bill No. 990* House Bill No. 1194
+by deleting all language after the enacting clause and substituting:
+SECTION 1. Tennessee Code Annotated, Section 50-1-702(13), is amended by
+deleting "at least six (6) employees" and substituting "at least one (1) employee".
+SECTION 2. Tennessee Code Annotated, Section 50-1-703(f), is amended by deleting
+subdivision (3) and substituting:
+(3) The private employer shall submit to the commissioner evidence of
+compliance with subdivision (a)(1) and subsection (b) within forty-five (45) days of the
+final order. If the private employer fails to submit such documentation, then the
+commissioner shall request an order consistent with § 4-5-320, requiring the appropriate
+local government with respect to business licensure pursuant to title 67, chapter 4, to
+suspend the private employer's license:
+(A) For a first or second violation, until the employer remedies the
+violation; provided, however, if the private employer's license has also been
+suspended pursuant to § 50-1-103(e)(1)(B) or (e)(1)(C), then the license shall
+remain suspended until the expiration of the period provided for in § 50-1-
+103(e)(1)(B) or (e)(1)(C); or
+(B) For a third or subsequent violation, permanently.
+SECTION 3. This act takes effect January 1, 2027, the public welfare requiring it, and
+applies to conduct occurring and employees hired on or after that date.
+SA0590
+008584
+- 1 -

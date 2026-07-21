@@ -1,0 +1,21 @@
+Title: 
+Official Title: 
+Source: versions - Current Version
+Media Type: application/pdf
+
+================================================================================
+
+HOUSE BILL 2170
+By Travis
+SENATE BILL 2186
+By Stevens
+AN ACT to amend Tennessee Code Annotated, Title 56,
+Chapter 7, relative to health care.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 56-7-2003(7), is amended by
+deleting "files an annual report" and substituting "files an annual report, which may be filed
+electronically,".
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+SB2186
+012042
+- 1 -

@@ -1,0 +1,77 @@
+Title: 
+Official Title: 
+Source: versions - Current Version
+Media Type: application/pdf
+
+================================================================================
+
+HOUSE BILL 1705
+By Rudd
+SENATE BILL 1922
+By Briggs
+AN ACT to amend Tennessee Code Annotated, Title 4;
+Title 5; Title 6; Title 7; Title 8; Title 12 and Title 50,
+relative to employment.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Title 50, Chapter 1, Part 1, is amended by
+adding the following as a new section:
+(a) As used in this section:
+(1) "Employee" means a person, whether appointed, under contract, or
+hired at-will or on an hourly basis, where an employee-employer relationship is
+established, who provides services for an employer for which compensation is
+paid regardless of whether such person renders less than a full day of service
+per working day or less than a full week of service per working week;
+(2) "Employer" means this state and any branch, unit, or political
+subdivision thereof, including all boards, local education agencies (LEAs), as
+defined in § 49-1-103, commissions, agencies, institutions, authorities, counties,
+municipalities, metropolitan governments, and other bodies politic and corporate
+of this state, created by or in accordance with state law or rule; and
+(3) "E-Verify program" means the electronic verification system operated
+by the United States department of homeland security, or its successor program,
+as authorized by the Illegal Immigration Reform and Immigrant Responsibility Act
+of 1996, Pub. L. No. 104-208, and the federal Basic Pilot Program Extension and
+Expansion Act of 2003, Pub. L. No. 108-156.
+(b) An employer shall not:
+SB1922
+011360
+- 1 -
+
+(A) Appoint or hire a prospective employee on or after July 1, 2026,
+without verifying the work authorization status of such prospective employee by
+using the E-Verify program; or
+(B) Adopt an ordinance, resolution, regulation, rule, policy, or guideline
+contrary to the requirements of this section.
+(c) An employer shall maintain documentation of the E-Verify program inquiry
+results for each verified employee during the duration of employment showing that the
+employee is authorized to be employed by the employer.
+(d)
+(1) The attorney general and reporter may investigate each credible
+allegation or complaint that a local government or LEA has violated this section.
+(2) If the attorney general and reporter concludes that:
+(A) A local government has violated this section, then the attorney
+general and reporter may enforce compliance with this section by taking
+action in accordance with § 4-1-429 to withhold all funds of this state
+allocated to the local government via grant, contract, or statute, including,
+but not limited to, state-shared taxes; or
+(B) An LEA has violated this section, then the attorney general
+may enforce compliance with this section by taking action in accordance
+with subdivision (d)(2)(A) against the local government that approves the
+budget of the LEA.
+(3) As used in this subsection (d), "local government" means a county,
+including a county with a metropolitan or charter form of government, an
+incorporated city or town, and each agency, department, or other subdivision of
+thereof.
+- 2 - 011360
+
+SECTION 2. Tennessee Code Annotated, Section 4-1-429(f)(2), is amended by deleting
+the subdivision and substituting:
+(2) "Local government action" means:
+(A) An ordinance, regulation, or order adopted or promulgated by the
+chief executive officer or governing body of a local government or a regulation,
+rule, written policy, or written guideline adopted by any agency, department, or
+other subdivision of the local government; and
+(B) An alleged failure to comply with SECTION 1, or another duty or
+requirement to comply with state law relating to immigration enforcement or
+persons unlawfully present in this state.
+SECTION 3. This act takes effect July 1, 2026, the public welfare requiring it.
+- 3 - 011360
