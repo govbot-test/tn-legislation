@@ -1,0 +1,38 @@
+Title: 
+Official Title: 
+Source: versions - Current Version
+Media Type: application/pdf
+
+================================================================================
+
+SENATE BILL 2180
+By Yager
+HOUSE BILL 2094
+By Powers
+AN ACT to amend Tennessee Code Annotated, Title 4;
+Title 54 and Title 64, Chapter 8, relative to the
+allocation of funding to transportation planning
+organizations.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Title 54, Chapter 1, Part 1, is amended by
+adding the following as a new section:
+(a) As used in this section:
+(1) "Metropolitan planning organization" or "MPO" has the same meaning
+as defined in § 64-8-302;
+(2) "Nonmetropolitan area" has the same meaning as defined in 23
+U.S.C. § 134;
+(3) "Rural planning organization" or "RPO" means an organization
+established as the result of a designation under 23 U.S.C. § 135(m); and
+(4) "Urbanized area" has the same meaning as defined in 23 U.S.C. §
+134.
+(b) The department's allocation of federal and state funds to rural planning
+organizations (RPOs) for transportation planning and implementation in nonmetropolitan
+areas of this state must remain in parity with the department's allocation of federal and
+state funds to metropolitan planning organizations (MPOs) for transportation planning
+and implementation in urbanized areas of this state.
+SECTION 2. This act takes effect July 1, 2026, the public welfare requiring it, and
+applies to federal or state funds applied for on or after July 1, 2026, and if no application
+occurred before July 1, 2026, applies to federal or state funds accepted on or after July 1, 2027.
+HB2094
+009645
+- 1 -

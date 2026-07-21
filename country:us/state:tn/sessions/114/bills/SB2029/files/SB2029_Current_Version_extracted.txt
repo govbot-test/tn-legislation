@@ -1,0 +1,408 @@
+Title: 
+Official Title: 
+Source: versions - Current Version
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HOUSE BILL 1793
+By Bricken
+SENATE BILL 2029
+By Lowe
+AN ACT to amend Tennessee Code Annotated, Title 8;
+Title 30; Title 31; Title 32; Title 35; Title 55; Title 66
+and Section 67-4-409, relative to the automatic
+transfer of property upon death.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Title 31, is amended by adding the following
+as a new chapter 8:
+31-8-101. This chapter is known and may be cited as the "Tennessee Uniform Real
+Property Transfer on Death Act."
+31-8-102.
+As used in this chapter:
+(1) "Beneficiary" means a person that receives property under a transfer
+on death deed;
+(2) "Designated beneficiary" means a person designated to receive
+property in a transfer on death deed;
+(3) "Joint owner":
+(A) Means an individual who owns property concurrently with one
+(1) or more individuals with a right of survivorship;
+(B) Includes a joint tenant and tenant by the entirety; and
+(C) Does not include a tenant in common or joint tenant with no
+right of survivorship;
+(4) "Person" means an individual, corporation, business trust, estate,
+trust, partnership, limited liability company, association, joint venture, public
+SB2029
+010604
+- 1 -
+
+corporation, government or governmental subdivision, agency, or instrumentality,
+or any other legal or commercial entity;
+(5) "Property" means an interest in real property located in this state that
+is transferable upon the death of the owner;
+(6) "Transfer on death deed" means a deed authorized under this
+chapter; and
+(7) "Transferor" means an individual who makes a transfer on death
+deed.
+31-8-103.
+This chapter does not affect any method of transferring property otherwise
+permitted in this state.
+31-8-104.
+An individual may transfer property to one (1) or more beneficiaries effective
+upon the transferor's death by a transfer on death deed.
+31-8-105.
+A transfer on death deed is revocable even if the deed or another instrument
+contains a contrary provision.
+31-8-106.
+A transfer on death deed is nontestamentary.
+31-8-107.
+The capacity required to make or revoke a transfer on death deed is the same as
+the capacity required to make a will.
+31-8-108.
+A transfer on death deed:
+- 2 - 010604
+
+(1) Except as otherwise provided in subdivision (2), must contain the
+essential elements and formalities of a properly recordable inter vivos deed;
+(2) Must state that the transfer to the designated beneficiary is to occur
+upon the transferor's death; and
+(3) Must be recorded before the transferor's death in the public records in
+the office of the register of deeds of the county where the property is located.
+31-8-109.
+A transfer on death deed is effective without:
+(1) Notice or delivery to or acceptance by the designated beneficiary
+during the transferor's life; or
+(2) Consideration.
+31-8-110.
+(a) Subject to subsection (b), an instrument is effective to revoke a recorded
+transfer on death deed, or any part of it, if the instrument:
+(1) Is one (1) of the following:
+(A) A transfer on death deed that expressly revokes the recorded
+transfer on death deed or part of the recorded transfer on death deed;
+(B) A transfer on death deed that names a designated beneficiary
+that is inconsistent with the designated beneficiary in a recorded transfer
+on death deed;
+(C) An instrument of revocation that expressly revokes the
+recorded transfer on death deed or part of the recorded transfer on death
+deed; or
+- 3 - 010604
+
+(D) An inter vivos deed that expressly revokes the recorded
+transfer on death deed or part of the recorded transfer on death deed;
+and
+(2) Is acknowledged by the transferor after the acknowledgment of the
+deed being revoked and recorded before the transferor's death in the public
+records in the office of the register of deeds of the county where the deed is
+recorded.
+(b) If a transfer on death deed is made by more than one (1) transferor, then:
+(1) Revocation by one (1) transferor does not affect the transfer on death
+deed as to the interest of another transferor; and
+(2) A transfer on death deed of joint owners is revoked only if it is
+revoked by all of the living joint owners.
+(c) After a transfer on death deed is recorded, it can be revoked only by an
+effective revocatory instrument recorded prior to the death of the transferor and may not
+be revoked by a revocatory act taken against or on the original or a copy of the recorded
+transfer on death deed.
+(d) This section does not limit the effect of an inter vivos transfer of the property.
+31-8-111.
+During a transferor's life, a transfer on death deed does not:
+(1) Affect an interest or right of the transferor or any other owner,
+including the right to transfer or encumber the property;
+(2) Affect an interest or right of a transferee, even if the transferee has
+actual or constructive notice of the deed;
+- 4 - 010604
+
+(3) Affect an interest or right of a secured or unsecured creditor or future
+creditor of the transferor, even if the creditor has actual or constructive notice of
+the deed;
+(4) Affect the transferor's or designated beneficiary's eligibility for any
+form of public assistance unless required by federal law;
+(5) Create a legal or equitable interest in favor of the designated
+beneficiary; or
+(6) Subject the property to claims or process of a creditor of the
+designated beneficiary.
+31-8-112.
+(a) Except as otherwise provided in the transfer on death deed, this section, §
+32-3-104, § 31-1-102, § 31-1-106, or chapter 3 or 4 of this title, upon the death of the
+transferor, the following rules apply to property that is the subject of a transfer on death
+deed and owned by the transferor at death:
+(1) Subject to subdivision (a)(2), the interest in the property is transferred
+to and vests in the designated beneficiary upon the death of the transferor in
+accordance with the deed;
+(2) The interest of a designated beneficiary is contingent upon the
+designated beneficiary surviving the transferor. The interest of a designated
+beneficiary that fails to survive the transferor lapses;
+(3) Subject to subdivision (a)(4), concurrent interests are transferred to
+the beneficiaries in equal and undivided shares with no right of survivorship; and
+(4) If the transferor has identified two (2) or more designated
+beneficiaries to receive concurrent interests in the property, then the share of one
+(1) that lapses or fails for any reason is transferred to the other, or to the others
+- 5 - 010604
+
+in proportion to the interest of each in the remaining part of the property held
+concurrently.
+(b) Subject to §§ 66-5-106 and 66-26-101 and title 66, chapter 24, a beneficiary
+takes the property subject to all conveyances, encumbrances, assignments, contracts,
+mortgages, liens, claims of the bureau of TennCare or successor entity for medical
+assistance, and other interests to which the property is subject at the transferor's death.
+For purposes of this title and title 66, the transfer and conveyance of the property subject
+to the transfer on death deed is deemed to be effective upon the transferor's death.
+(c) If a transferor is a joint owner and is:
+(1) Survived by one (1) or more other joint owners, then the property that
+is the subject of a transfer on death deed belongs to the surviving joint owner or
+owners with right of survivorship but remains subject to the naming of the
+designated beneficiary in the transfer on death deed; or
+(2) The last surviving joint owner, then the transfer on death deed is
+effective.
+(d) A transfer on death deed transfers property without covenant or warranty of
+title even if the deed contains a contrary provision.
+31-8-113.
+A beneficiary may disclaim all or part of the beneficiary's interest as provided by
+chapter 7 of this title.
+31-8-114.
+(a) To the extent the transferor's probate estate is insufficient to satisfy an
+allowed claim against the estate or a statutory allowance to a surviving spouse or child,
+the estate or any creditor may enforce the liability against property transferred upon the
+transferor's death by a transfer on death deed. If a beneficiary conveys property subject
+- 6 - 010604
+
+to a transfer on death deed before the initiation of an action to enforce a liability under
+this section, then the estate or any creditor may enforce the liability against the
+beneficiary up to the value of the property conveyed and obtain a judgment against the
+beneficiary.
+(b) If more than one (1) property is transferred by one (1) or more transfer on
+death deeds, then liability under subsection (a) may be enforced against any property
+transferred by a transfer on death deed. If a beneficiary conveys property before the
+initiation of an action to enforce a liability under this section, then the estate or any
+creditor may enforce the liability:
+(1) Against the beneficiary as provided in subsection (a);
+(2) Against the remaining properties that the beneficiary has not
+conveyed; or
+(3) Against both the beneficiary and the remaining properties that the
+beneficiary has not conveyed.
+(c) A proceeding to enforce the liability under this section must be commenced
+not later than twelve (12) months after the transferor's death.
+31-8-115.
+The following form may be used to create a transfer on death deed; provided,
+however, the other sections of this chapter govern the effect of this or any other
+instrument used to create a transfer on death deed:
+(front of form)
+REVOCABLE TRANSFER ON DEATH DEED
+NOTICE TO OWNER
+- 7 - 010604
+
+This deed will transfer ownership of the property described below when you die.
+You should carefully read all of the information on this form. You should consult a
+lawyer before using this form.
+This form must be recorded with the register of deeds before your death, or it will
+not be effective. Any change to this deed must also be recorded to be effective.
+IDENTIFYING INFORMATION
+Owner or Owners Making This Deed:
+___________________________ ______________________________
+Printed name Mailing address
+___________________________
+Marital status
+___________________________ ______________________________
+Printed name Mailing address
+___________________________
+Marital status
+Legal description of the property:
+____________________________________________________________
+PRIMARY BENEFICIARY
+I designate the following beneficiary if the beneficiary survives me.
+___________________________ _______________________________
+Printed name Mailing address, if available
+ALTERNATE BENEFICIARY – Optional
+If my primary beneficiary does not survive me, I designate the following alternate
+beneficiary if that beneficiary survives me.
+- 8 - 010604
+
+___________________________ _______________________________
+Printed name Mailing address, if available
+TRANSFER ON DEATH
+At my death, I transfer my interest in the described property to the beneficiaries
+as designated above.
+Before my death, I have the right to revoke this deed.
+SIGNATURE OF OWNER OR OWNERS MAKING THIS DEED
+_______________________________ __________________________
+Signature Date
+_______________________________ __________________________
+Signature Date
+State of Tennessee
+County of _______________
+Personally appeared before me, ___________, a notary public in and for the state and
+county aforesaid, ______________________, the within named person(s), with whom I
+am personally acquainted or proved to me on the basis of satisfactory evidence, and
+who acknowledged that such person was the one who executed the foregoing
+instrument for the purposes therein contained.
+WITNESS my hand and seal at office, on this _____ day of _________________, 20__
+__________________________________
+Notary Public
+My Commission Expires:
+- 9 - 010604
+
+___________________________
+(back of form)
+COMMON QUESTIONS ABOUT THE USE OF THIS FORM
+What does the Transfer on Death (TOD) deed do? When you die, this deed
+transfers the described property, subject to any liens or mortgages (or other
+encumbrances) on the property at your death. Probate is not required. The TOD deed
+has no effect until you die. You can revoke it at any time. You are also free to transfer
+the property to someone else during your lifetime. If you do not own any interest in the
+property when you die, this deed will have no effect.
+How do I make a TOD deed? Complete this form. Have it acknowledged before
+a notary public or other individual authorized by law to take acknowledgments. Record
+the form in each county where any part of the property is located. The form has no
+effect unless it is acknowledged and recorded before your death.
+Is the "legal description" of the property necessary? Yes.
+How do I find the "legal description" of the property? This information may be on
+the deed you received when you became an owner of the property. This information
+may also be available in the office of the register of deeds for the county where the
+property is located. If you are not absolutely sure, consult a lawyer.
+Can I change my mind before I record the TOD deed? Yes. If you have not yet
+recorded the deed and want to change your mind, simply tear up or otherwise destroy
+the deed.
+How do I "record" the TOD deed? Take the completed and acknowledged form
+to the office of the register of deeds of the county where the property is located. Follow
+the instructions given by the register of deeds to make the form part of the official
+- 10 - 010604
+
+property records. If the property is in more than one county, you need to record the
+deed in each county.
+Can I later revoke the TOD deed if I change my mind? Yes. You can revoke the
+TOD deed. No one, including the beneficiaries, can prevent you from revoking the deed.
+How do I revoke the TOD deed after it is recorded? There are three ways to
+revoke a recorded TOD deed: (1) Complete and acknowledge a revocation form, and
+record it in each county where the property is located; (2) Complete and acknowledge a
+new TOD deed that disposes of the same property, and record it in each county where
+the property is located; or (3) Transfer the property to someone else during your lifetime
+by a recorded deed that expressly revokes the TOD deed. You cannot revoke the TOD
+deed by will.
+I am being pressured to complete this form. What should I do? Do not complete
+this form under pressure. Seek help from a trusted family member, friend, or lawyer.
+Do I need to tell the beneficiaries about the TOD deed? No, but it is
+recommended. Secrecy can cause later complications and might make it easier for
+others to commit fraud.
+I have other questions about this form. What should I do? This form is designed
+to fit some but not all situations. If you have other questions, you are encouraged to
+consult a lawyer.
+31-8-116.
+The following form may be used to create an instrument of revocation under this
+chapter; provided, however, the other sections of this chapter govern the effect of this or
+any other instrument used to revoke a transfer on death deed:
+(front of form)
+REVOCATION OF TRANSFER ON DEATH DEED
+- 11 - 010604
+
+NOTICE TO OWNER
+This revocation must be recorded with the register of deeds before your death, or
+it will not be effective. This revocation is effective only as to the interests in the property
+of owners who sign this revocation.
+IDENTIFYING INFORMATION
+Owner or Owners of Property Making This Revocation:
+___________________________ ______________________________
+Printed name Mailing address
+__________________________
+Marital status
+___________________________ ______________________________
+Printed name Mailing address
+__________________________
+Marital status
+Legal description of the property:
+____________________________________________________________
+REVOCATION
+I revoke all my previous transfers of the property by transfer on death deed.
+SIGNATURE OF OWNER OR OWNERS MAKING THIS REVOCATION
+_______________________________ ________________________
+Signature Date
+_______________________________ ________________________
+Signature Date
+- 12 - 010604
+
+State of Tennessee
+County of _______________
+Personally appeared before me, ___________, a notary public in and for the state and
+county aforesaid, ______________________, the within named person(s), with whom I
+am personally acquainted or proved to me on the basis of satisfactory evidence, and
+who acknowledged that such person was the one who executed the foregoing
+instrument for the purposes therein contained.
+WITNESS my hand and seal at office, on this ______ day of ________________, 20__.
+___________________________________
+Notary Public
+My Commission Expires:
+___________________________
+(back of form)
+COMMON QUESTIONS ABOUT THE USE OF THIS FORM
+How do I use this form to revoke a Transfer on Death (TOD) deed? Complete this form.
+Have it acknowledged before a notary public or other individual authorized to take
+acknowledgments. Record the form in the public records in the office of the register of deeds of
+each county where the property is located. The form must be acknowledged and recorded
+before your death or it has no effect.
+How do I find the "legal description" of the property? This information may be on the
+TOD deed. It may also be available in the office of the register of deeds for the county where
+the property is located. If you are not absolutely sure, consult a lawyer.
+- 13 - 010604
+
+How do I "record" the form? Take the completed and acknowledged form to the office of
+the register of deeds of the county where the property is located. Follow the instructions given
+by the register of deeds to make the form part of the official property records. If the property is
+located in more than one county, you need to record the form in each of those counties.
+I am being pressured to complete this form. What should I do? Do not complete this
+form under pressure. Seek help from a trusted family member, friend, or lawyer.
+I have other questions about this form. What should I do? This form is designed to fit
+some but not all situations. If you have other questions, consult a lawyer.
+31-8-117.
+In applying and construing this uniform act, consideration must be given to the
+need to promote uniformity of the law with respect to its subject matter among the states
+that enact it.
+31-8-118.
+This chapter modifies, limits, and supersedes the federal Electronic Signatures in
+Global and National Commerce Act (15 U.S.C. § 7001, et seq.) but does not modify,
+limit, or supersede § 101(c) of that act, or authorize electronic delivery of any of the
+notices described in § 103(b) of that act.
+SECTION 2. Tennessee Code Annotated, Section 31-7-112(a), is amended by adding
+the following as a new subdivision:
+( ) A transfer on death deed;
+SECTION 3. Tennessee Code Annotated, Section 66-24-101(a)(12), is amended by
+adding the language ", including transfer on death deeds" immediately after the word
+"description".
+SECTION 4. Tennessee Code Annotated, Section 55-3-118, is amended by adding the
+following as a new subsection:
+- 14 - 010604
+
+(e)
+(1) An owner may provide for the transfer of title to a motor vehicle upon
+the owner's death by including in the certificate of title a designation of a
+beneficiary to whom the motor vehicle must be transferred upon the death of the
+owner, subject to the rights of all lienholders. A trust may be a designated
+beneficiary. If a motor vehicle is jointly owned by two (2) or more persons, then
+ownership of the motor vehicle shall not vest in the designated beneficiary until
+the death of the last owner, subject to the rights of all lienholders.
+(2) If a motor vehicle is jointly owned by two (2) or more persons, then
+the signatures of all owners is required to designate a beneficiary. Only one (1)
+party's signature is required to designate a beneficiary if the title is registered in
+the name of one (1) spouse or where the conjunction between the names on the
+title is "or."
+(3) A transfer on death certificate of title must include, after the name of
+the owner or owners, the words "transfer on death to" or the abbreviation "TOD"
+followed by the name of the beneficiary.
+(4) A beneficiary designation may be changed at any time without the
+consent of a beneficiary with the filing of an application for a subsequent transfer
+on death certificate of title and payment of the fee provided in § 55-6-101(a)(4).
+Upon issuance of any subsequent certificate of title pursuant to this subsection
+(e), the previous certificate that was issued is void.
+SECTION 5. Tennessee Code Annotated, Section 55-6-101(a)(4), is amended by
+deleting the language "destroyed certificate," and substituting instead the language "destroyed
+certificate or a subsequent transfer on death certificate of title pursuant to § 55-3-118(e),".
+- 15 - 010604
+
+SECTION 6. Tennessee Code Annotated, Section 67-4-409(a)(1)(C), is amended by
+adding the following as a new subdivision:
+( ) Are transfers by a transfer on death deed pursuant to title 31, chapter 8;
+SECTION 7. For purposes of preparing forms or promulgating rules, this act takes effect
+upon becoming a law, the public welfare requiring it. For all other purposes, this act takes effect
+July 1, 2026, the public welfare requiring it, and applies to transfer on death deeds or certificates
+of title with a designated beneficiary made before, on, or after July 1, 2026, by a transferor or
+motor vehicle owner dying on or after July 1, 2026.
+- 16 - 010604

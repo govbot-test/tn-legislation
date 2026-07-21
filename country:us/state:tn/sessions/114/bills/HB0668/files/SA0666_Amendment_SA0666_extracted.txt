@@ -1,0 +1,158 @@
+Title: 
+Official Title: 
+Source: versions - Amendment SA0666
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate Commerce and Labor 1
+Amendment No. 1 to SB0739
+Bailey
+Signature of Sponsor
+AMEND S e n ate Bill No. 739 House Bill No. 668*
+by deleting all language after the enacting clause and substituting:
+SECTION 1. Tennessee Code Annotated, Title 47, Chapter 18, Part 1, is amended by
+adding the following as a new section:
+47-18-139.
+(a) As used in this section:
+(1) "Cash" means physical coins and notes that are legal tender in the
+United States;
+(2) "Employee" includes:
+(A) A person employed by the same parent entity, regardless of
+function or location;
+(B) A part-time worker;
+(C) An independent contractor;
+(D) A worker for whom the person paying the compensation for
+the work performed is required to file a W-2 wage and tax statement with
+the federal internal revenue service; and
+(E) A person employed by a third party but regularly present on a
+business's premises to facilitate the operation of the business and under
+supervision of the entity or its affiliate;
+(3) "In-person transaction" includes curbside pickup, drive-through, public
+transportation, and other transactions where a buyer and seller are physically
+SA0666
+014850
+- 1 -
+
+present on or at a retailer's premises or point of sale, or the purchase occurs on
+property controlled by the seller; and
+(4) "Person" means an individual, group of individuals, trust, or business
+entity.
+(b) A person selling or offering for sale goods or services at retail through an in-
+person transaction:
+(1) Shall not require a buyer to pay electronically or prohibit cash as
+payment in order to purchase the goods or services;
+(2) Shall not charge a buyer who uses cash a fee or surcharge for doing
+so, or charge a higher price than is charged a person who pays electronically;
+and
+(3) Shall accept legal tender when offered by the buyer as payment.
+(c) Subsection (b) only applies to in-person transactions by or with a person:
+(1) That employs six (6) or more employees; and
+(2) Offers goods or services to consumers on retail premises or
+transportation, including concessionaires, vendors, and independent contractors
+operating under lease or license on such retail premises or transportation.
+(d) For purposes of this section, a person's number of employees is calculated in
+the aggregate across all entities under common ownership or control, or through
+franchise agreements operating under the same brand or business model in this state.
+(e) Subsection (b) does not apply to:
+(1) A person that provides a device on the person's retail premises that
+converts cash into a prepaid card that allows a buyer to complete a transaction at
+such retail establishment, as long as:
+(A) Upon request by a buyer, the device provides the buyer with a
+paper or electronic receipt indicating the amount of cash the buyer
+deposited onto the prepaid card;
+- 2 - 014850
+
+(B) Cash deposits onto the prepaid card are not subject to an
+expiration date, or to dormancy, maintenance, or other fees;
+(C) There is no limit on the number of transactions that may be
+completed on the prepaid card;
+(D) Cards issued at a kiosk are redeemable at the point of sale
+for the full balance at any time without submitting paperwork or submitting
+to a waiting period; and
+(E) The device does not:
+(i) Charge a fee;
+(ii) Require a minimum deposit amount of greater than five
+dollars ($5.00); or
+(iii) Require identification, creation of an account, or entry
+of personally identifiable or contact information;
+(2) A public institution of higher education that provides a location on
+campus during regular business hours that converts cash into a prepaid card that
+allows a buyer to complete a transaction at such campus, as long as:
+(A) Upon request by a buyer, the device provides the buyer with a
+paper or electronic receipt indicating the amount of cash the buyer
+deposited onto the prepaid card;
+(B) The device does not charge a fee or require a minimum
+deposit amount of greater than five dollars ($5.00);
+(C) Cash deposits onto the prepaid card are not subject to an
+expiration date, or to dormancy, maintenance, or other fees;
+(D) There is no limit on the number of transactions that may be
+completed on the prepaid card; and
+- 3 - 014850
+
+(E) Cards issued at a kiosk are redeemable at the point of sale for
+the full balance at any time without submitting paperwork or submitting to
+a waiting period;
+(3) Special events or parking transactions on the campus of, or camps
+organized by, a public institution of higher education;
+(4) A business operating under the Tennessee Self-Service Storage
+Facility Act, compiled in title 66, chapter 31; or
+(5) A privately-owned arena or venue with a capacity of fifteen thousand
+(15,000) or more. This subdivision (e)(5) does not exempt an arena or venue
+that is owned by this state or an entity of this state.
+(f) A person shall not require biometric verification or mobile application
+enrollment as a condition for access to a retail premises or transportation system or
+vehicle, or to complete an in-person retail transaction when a buyer offers to pay in cash.
+(g)
+(1) Subsection (b) does not prohibit a provider of goods or services from
+refusing to accept cash for a transaction that exceeds the greater of three
+thousand dollars ($3,000) or the amount specified by the attorney general and
+reporter pursuant to subdivision (g)(2).
+(2) Beginning in 2027 with the earliest publication of consumer price
+index data for calendar year 2026, the attorney general and reporter shall
+annually calculate and publish on its website the threshold dollar amount in
+subdivision (g)(1) adjusted for inflation according to the previous calendar year's
+rate of inflation according to the consumer price index published by the United
+States bureau of labor statistics.
+(h)
+(1) A violation of this section constitutes a violation of the Tennessee
+Consumer Protection Act of 1977, compiled in this part.
+- 4 - 014850
+
+(2) For the purpose of application of the Tennessee Consumer Protection
+Act of 1977, a violation of this section constitutes an unfair or deceptive act or
+practice affecting trade or commerce and is subject to the penalties and
+remedies as provided in the Tennessee Consumer Protection Act of 1977, in
+addition to the penalties and remedies set forth in this section; provided, that a
+violation of this section does not incur a criminal penalty.
+(3) If the attorney general and reporter has reason to believe that a
+person has violated this section, then the attorney general and reporter may
+institute a proceeding under this section.
+(i) Notwithstanding this part to the contrary, in addition to other remedies
+available under this part, a person aggrieved by a violation of this section may bring suit
+for actual and punitive damages in the chancery court of either the plaintiff's or the
+defendant's county of domicile or business location. To prevail in an action brought
+under this subsection (i), the plaintiff must first serve the defendant with a cease-and-
+desist letter. If the defendant does not respond within thirty (30) days or continues to
+violate this section, then the court may issue an injunction and award the plaintiff actual
+damages and reasonable attorney fees. Notwithstanding § 47-18-109(a)(3), the court
+may also award punitive damages in the amount of up to three (3) times the actual
+damages.
+(j) If a defendant in an action for a violation of this section employs more than
+one hundred (100) employees and has previously been found to be in violation of this
+section, then § 47-18-109(g) does not apply.
+(k) This section does not waive the sovereign immunity of an agency or
+instrumentality of this state or of an employee of an agency or instrumentality of the
+state.
+- 5 - 014850
+
+SECTION 2. Tennessee Code Annotated, Section 47-18-109(g), is amended by
+deleting "No class action lawsuit may be brought" and substituting "Except as provided in § 47-
+18-139(j), a class action lawsuit must not be brought".
+SECTION 3. Tennessee Code Annotated, Section 47-18-104(b), is amended by adding
+the following as a new subdivision:
+( ) Violating § 47-18-139;
+SECTION 4. This act takes effect July 1, 2026, the public welfare requiring it, and
+applies to actions occurring on or after that date.
+- 6 - 014850

@@ -1,0 +1,175 @@
+Title: 
+Official Title: 
+Source: versions - Amendment SA0478
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate Commerce and Labor 1
+Amendment No. 1 to SB1991
+Bailey
+Signature of Sponsor
+AMEND S e n ate Bill No. 1991* House Bill No. 2233
+by deleting all language after the caption and substituting:
+WHEREAS, Tennesseans are charged billions of dollars every year for junk fees added
+to the costs of goods and services provided across a large swath of this State's economy,
+including in banking, air travel, online ticket sales, hotel bookings, delivery services, ride
+sharing, and car rentals; and
+WHEREAS, junk fees obfuscate the true cost of a company's goods and services, luring
+in customers and undercutting competitors by advertising deceptively low prices and slowly
+adding on surcharges and fees later in the purchasing process; and
+WHEREAS, these junk fees result in systematic transfers of wealth from low-information
+consumers to more educated ones; and
+WHEREAS, such junk fees also result in confusion around advertised prices, which
+makes it harder for competitors with genuinely lower prices to compete with those who shroud
+their prices with hidden junk fees, and enable tacit collusion between competitors in the form of
+parallel decisions to make certain junk fees a standard part of the purchasing process; and
+WHEREAS, deceptive pricing methods, acts, and practices create a confusing
+marketplace for buyers, and their existence structurally harms competition; and
+WHEREAS, such deceptive pricing models have also enabled the proliferation of junk
+fees in this State's economy, so that consumers cannot take advertised prices at face value or
+comparison shop with any efficiency; and
+WHEREAS, the General Assembly should take steps to address the rampant use of
+deceptive pricing methods, acts, and practices, known as junk fees, in order to combat
+SA0478
+012577
+- 1 -
+
+artificially increased prices, exacerbated inflation, and harm to competition across the
+Tennessee economy; now, therefore,
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. This act is known and may be cited as the "Junk Fee Prevention Act."
+SECTION 2. Tennessee Code Annotated, Title 47, Chapter 18, Part 1, is amended by
+adding the following as a new section:
+47-18-139.
+(a) As used in this section:
+(1) "Consumer" means an individual who seeks or acquires, by purchase
+or lease, any goods or services for personal, family, or household purposes;
+(2) "Delivery platform" means a third-party delivery service provider that
+does not produce the goods itself or set the price of the goods being delivered;
+(3) "Goods":
+(A) Means tangible chattels bought or leased primarily for
+personal, family, or household purposes; and
+(B) Includes:
+(i) Consumer financial products, as that term is defined in
+12 U.S.C. § 5481;
+(ii) Certificates or coupons exchangeable for consumer
+financial products; and
+(iii) Goods that, at the time of the sale or subsequently,
+are to be so affixed to real property as to become a part of real
+property, whether or not they are severable from the real property;
+(4) "Mandatory fee" includes:
+(A) Any fee or surcharge that must be paid in order to purchase
+an advertised good or service;
+(B) A fee or surcharge that is not reasonably avoidable; or
+- 2 - 012577
+
+(C) A fee or surcharge for a good or service that a reasonable
+consumer would expect to be included with the purchase of the
+advertised good or service;
+(5) "Person" means an individual, partnership, corporation, limited liability
+company, association, or other legal entity;
+(6) "Services":
+(A) Means work, labor, and services bought primarily for
+personal, family, or household purposes; and
+(B) Includes:
+(i) Consumer financial services, as that term is defined in
+12 U.S.C. § 5481; and
+(ii) Services furnished in connection with the sale or repair
+of goods; and
+(7) "Transaction":
+(A) Means an agreement between a consumer and another
+person, whether or not the agreement is a contract enforceable by law;
+and
+(B) Includes the making of, and the performance pursuant to,
+such agreement.
+(b) On and after July 1, 2027, a person shall not sell or lease, or attempt to sell
+or lease, goods or services to a consumer using the following deceptive pricing methods,
+acts, or practices as part of the transaction:
+(1) Advertising or otherwise displaying the price of a good or service
+without displaying the total price of the good or service, including all mandatory
+fees, in a clear and conspicuous manner;
+(2) Selling a good or service, or displaying a good or service being sold
+by a third party, without disclosing the portion of the purchase price that
+- 3 - 012577
+
+represents a mandatory fee for the purchase in a clear and conspicuous manner
+prior to accepting payment for the good or service selected;
+(3) Making a false or misleading disclosure of subtotals, fees, charges, or
+another component of the total price of a good or service;
+(4) Presenting subtotals, fees, charges, or other components of the total
+price of the good or service less prominently or in a font size that is smaller than
+the font size used to present the total price of the good or service;
+(5) Increasing the price of a good or service after a purchaser has
+selected the good or service for purchase;
+(6) Charging an excessive or unreasonable fee or surcharge for the early
+termination of a contract for goods or services; and
+(7) Charging a fee or surcharge for, or imposing other conditions or
+requirements on, the early termination of a contract for goods or services that
+was automatically renewed upon the expiration of the original contract.
+(c) Subsection (b) does not apply to:
+(1) Any tax, duty, or custom levied by a federal, state, or local
+governmental entity;
+(2) Fees covering the cost of delivery of goods, the amount of which is
+based upon the delivery method selected by the purchaser, as long as the
+person discloses the amount of the delivery fees prior to accepting payment;
+(3) A method, act, or practice declared to be unlawful by subsection (b) if
+the person alleged to have employed or committed such method, act, or practice:
+(A) Proves that such violation resulted from a bona fide error
+notwithstanding the use of reasonable procedures adopted to avoid any
+such error; and
+- 4 - 012577
+
+(B) Upon notice, makes an appropriate refund of the resulting
+overcharge to the consumer or consumers harmed by the violation within
+thirty (30) days of receipt of such notice;
+(4) A person who can demonstrate that the person is governed by and
+compliant with applicable federal law, rule, or regulation regarding price
+transparency for the purposes of the transaction at issue, including, but not
+limited to:
+(A) The federal Truth in Savings Act (12 U.S.C. § 4301 et seq.);
+(B) The federal Electronic Fund Transfer Act of 1978 (15 U.S.C. §
+1693 et seq.);
+(C) Section 19 of the Federal Reserve Act (12 U.S.C. § 461 et
+seq.), as amended;
+(D) The federal Truth in Lending Act (15 U.S.C. § 1601 et seq.);
+(E) The federal Home Ownership and Equity Protection Act of
+1994 (15 U.S.C. § 1639 et seq.);
+(F) The federal Investment Company Act of 1940 (15 U.S.C. §
+80a-1 et seq.);
+(G) The federal Investment Advisers Act of 1940 (15 U.S.C. §
+80b-1 et seq.); or
+(H) The federal best interest regulation in 17 CFR 240.151-1,
+enacted pursuant to the Securities Exchange Act of 1934 (15 U.S.C. 78a
+et seq.);
+(5) A person governed by federal law that preempts this section;
+(6) A delivery platform that satisfies the following:
+(A) At the point when a consumer views and selects either a
+vendor or items for purchase, the delivery platform displays in a clear and
+- 5 - 012577
+
+conspicuous manner that an additional flat fee or percentage is charged,
+and the amount of such additional fee or percentage; and
+(B) After a consumer selects items for purchase but prior to
+checkout, the delivery platform displays a subtotal that itemizes the price
+of the menu items and the additional fee included in the total cost; or
+(7) A food or beverage service establishment, including a hotel, if in
+every offer or advertisement for the purchase of a good or service that includes
+pricing information, the food or beverage service establishment displays in a
+clear and conspicuous manner the total price of the good or service on offer or
+advertised and the percentage of any mandatory gratuity charged.
+(d) A violation of subsection (b) constitutes a violation of the Tennessee
+Consumer Protection Act of 1977, compiled in this part. A violation of subsection (b)
+constitutes an unfair or deceptive act or practice affecting trade or commerce and is
+subject to the penalties and remedies as provided in this part.
+(e) On or before October 1, 2026, the commissioner of revenue shall develop a
+public notice campaign designed to inform the public, with specific emphasis on notice to
+persons most likely to be directly impacted by the pricing requirements of subsection (b),
+of this section's requirements. The commissioner shall ensure that the public notice
+campaign is implemented on or before January 1, 2027.
+SECTION 3. Tennessee Code Annotated, Section 47-18-104(b), is amended by adding
+the following new subdivision:
+( ) Violating § 47-18-139;
+SECTION 4. This act takes effect July 1, 2026, the public welfare requiring it.
+- 6 - 012577

@@ -1,0 +1,57 @@
+Title: 
+Official Title: 
+Source: versions - Amendment SA0920
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate Judiciary 1
+Amendment No. 1 to SB2543
+Gardenhire
+Signature of Sponsor
+AMEND S e n ate Bill No. 2543* House Bill No. 2368
+by deleting all language after the enacting clause and substituting:
+SECTION 1. Tennessee Code Annotated, Title 39, Chapter 13, Part 9, is amended by
+adding the following new section:
+(a) A person commits the offense of unauthorized operation of an unmanned
+aircraft who operates an unmanned aircraft within four hundred feet (400') of or above a
+ticketed entertainment event.
+(b) A violation of this section is a Class A misdemeanor.
+(c) Subsection (a) does not apply when a person who operates an unmanned
+aircraft:
+(1) Has obtained consent by any person with legal authority over a
+ticketed entertainment event;
+(2) Is authorized by federal regulations to operate an unmanned aircraft
+and is operating the unmanned aircraft in a lawful manner and consistent with
+federal regulations;
+(3) Is an employee of the property where the ticketed entertainment
+event is held and is conducting official business;
+(4) Is an employee of a water, sewer, electrical, telephone, cable, or
+other regulated utility service provider and is conducting official business;
+(5) Is a law enforcement officer engaged in the actual discharge of official
+duties;
+SA0920
+015905
+- 1 -
+
+(6) Is a member or employee of any branch of the United States armed
+forces or the military forces of this state engaged in the actual discharge of
+official duties;
+(7) Is an emergency management officer of this state or of any city, town,
+municipality, metropolitan government, or county of this state engaged in the
+actual discharge of official duties; or
+(8) Is an owner of private property who is operating an unmanned aircraft
+above such property; provided, that the operation is:
+(A) Consistent with federal regulations;
+(B) Not for the purpose of interfering in any way with a ticketed
+entertainment event; and
+(C) Not to surveille or capture images of security procedures for
+unlawful purposes.
+(d) As used in this section, "ticketed entertainment event" means any music,
+sporting, or performing arts event held in a location with gated entries or barriers that
+prevent access to the general public and in which a ticket that has been issued by an
+owner, operator, or lessee of such property is required for attendance at such event.
+SECTION 2. This act takes effect July 1, 2026, the public welfare requiring it, and
+applies to acts occurring on or after that date.
+- 2 - 015905
