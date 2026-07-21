@@ -1,0 +1,2818 @@
+Title: 
+Official Title: 
+Source: versions - Amendment SA0937
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate Judiciary 1
+Amendment No. 1 to SB0459
+Gardenhire
+Signature of Sponsor
+AMEND S e n ate Bill No. 459 House Bill No. 390*
+by deleting all language after the enacting clause and substituting:
+SECTION 1. Tennessee Code Annotated, Title 68, Chapter 7, is amended by adding
+the following as a new part:
+68-7-201. Definitions.
+As used in this part:
+(1) "Approved state" means the states of Arkansas, Delaware, Missouri,
+Ohio, Rhode Island, Utah, and other states as determined by the commission. In
+approving other states, the commission shall consider whether other states allow
+participation in a medical cannabis program by citizens of this state. Other
+considerations include provisions for seed-to-sale tracking, packaging, labeling,
+and a licensing structure;
+(2) "Awarded licensee" means a person or entity that has been awarded
+a medical cannabis license through the lottery-based selection process
+established under this part;
+(3) "Background check" means a fingerprint-based criminal history record
+check conducted by the federal bureau of investigation pursuant to 28 U.S.C. §
+534 and applicable federal regulations;
+(4) "Bona fide physician-patient relationship" means a treating or
+consulting relationship, during the course of which a medical cannabis physician
+has:
+SA0937
+015689
+- 1 -
+
+(A) Completed an initial in-person examination and assessment
+of the patient's medical history and current medical condition;
+(B) Consulted with the patient with respect to the possible
+medical, therapeutic, and palliative properties of medical cannabis;
+(C) Advised the patient of the possible risks and side effects
+associated with the use of medical cannabis, including addiction and
+interactions between medical cannabis and any other drug or medication
+that the patient is taking at that time; and
+(D) Established an expectation that the physician will provide
+follow-up care and treatment to the patient in accordance with
+administrative regulations promulgated pursuant to this part;
+(5) "Board" means the board of medical examiners and board of
+osteopathic examination;
+(6) "Buildout completion" means that the licensed facility meets the
+following requirements:
+(A) All construction, renovation, and physical improvements
+required to operate the licensed medical cannabis business are
+substantially complete;
+(B) All required equipment, security systems, inventory tracking
+systems, and operational infrastructure are installed and operational;
+(C) The facility meets all applicable building codes, fire codes,
+health and safety standards, and local zoning requirements;
+(D) The facility has obtained all required certificates of
+occupancy, business permits, and regulatory approval necessary for
+operation;
+(E) The facility is ready to commence medical cannabis
+operations upon final approval from the department; and
+- 2 - 015689
+
+(F) The facility meets all requirements set forth in the
+department's rules and regulations for the applicable license type;
+(7) "Cannabis business" means an entity licensed under this part as a
+cultivator, dispensary, processor, or testing laboratory;
+(8) "Cannabis business agent" means a principal officer, board member,
+employee, volunteer, or agent of a cannabis business;
+(9) "Commission" means the medical marijuana commission;
+(10) "CSD" means the controlled substance database;
+(11) "Cultivator" means an entity licensed as such under this part;
+(12) "Cultivator agent" means a principal officer, board member,
+employee, volunteer, or agent of a cultivator;
+(13) "Daily dosage" means the total amount of one (1) or more cannabis
+derivatives, including, but not limited to, cannabidiol and tetrahydrocannabinol,
+which may be present in a medical cannabis product that may be ingested by a
+registered qualified patient during a twenty-four-hour period, as determined by a
+registered certifying physician;
+(14) "Department" means department of health or any successor agency
+responsible for administering the medical cannabis program;
+(15) "Dispensary" means an entity licensed as such under this part;
+(16) "Dispensary agent" means a principal officer, board member,
+employee, volunteer, or agent of a dispensary;
+(17) "Disqualified Condition" means untreated substance use disorder;
+(18) "Disqualifying felony offense" means:
+(A) A felony offense that would classify the person as a violent
+offender under § 16-22-103; or
+- 3 - 015689
+
+(B) A violation of a state or federal controlled substance law that
+was classified as a felony in the jurisdiction where the person was
+convicted, except:
+(i) An offense for which the sentence, including any term
+of probation, incarceration, or supervised release, was at least five
+(5) years earlier; or
+(ii) An offense that consisted of conduct for which this part
+would likely have prevented a conviction, but the conduct either
+occurred prior to the enactment of this part or was prosecuted by
+an authority other than this state;
+(19) "Enclosed, locked facility" means an indoor growing space such as a
+room, greenhouse, building, or other indoor enclosed area that is maintained and
+operated by a cultivator and is equipped with locks and other security devices
+that permit access only by authorized agents of the cultivator;
+(20) "Geographic zone" or "zone" means a geographic region established
+by the commission;
+(21) "Growth area" means the same as an enclosed, locked facility;
+(22) "Inspection date" means the date that is exactly six (6) months
+following the date on which the department issued a medical cannabis license to
+the awarded licensee;
+(23) "License" or "medical cannabis license" means a license issued
+under this part for a medical cannabis dispensary, grower, processor, or any
+other license type established by the department;
+(24) "Licensed pharmacist" or "pharmacist" means an individual who
+holds a current, active, and unrestricted license to practice pharmacy in this
+state, pursuant to title 63, chapter 10;
+- 4 - 015689
+
+(25) "Lottery-based selection" means the random selection process
+selected by the medical marijuana commission or other body pursuant to § 68-7-
+214 to award initial medical cannabis licenses and merit-based lottery medical
+cannabis licenses from among qualified applicants;
+(26) "Marijuana" means the same as defined in § 39-17-402;
+(27) "Medical cannabis":
+(A) Means marijuana when cultivated, harvested, processed,
+produced, transported, dispensed, distributed, sold, possessed, or used
+in accordance with this part;
+(B) Includes medical cannabis products, raw plant material, and
+concentrated extract; and
+(C) Does not include hemp, as defined in § 43-27-101, hemp
+products, or hemp-derived cannabinoid products;
+(28) "Medical cannabis accessories" means any equipment, product, or
+material of any kind which is used, intended for use, or designed for use in
+preparing, storing, using, or consuming medical cannabis in accordance with this
+part;
+(29) "Medical cannabis physician" means a physician who is authorized
+to prescribe controlled substances;
+(30) "Medical cannabis product"
+(A) Means a medical grade product in the form of any of the
+following that contains a derivative of cannabis for medical use by a
+registered qualified patient pursuant to this part:
+(1) Oral tablet, capsule, or tincture;
+(2) Non-sugarcoated gelatinous product;
+(3) Gel, oil, cream, or other topical preparation;
+(4) Suppository;
+- 5 - 015689
+
+(5) Transdermal patch;
+(6) Nebulizer; or
+(7) Liquid or oil for administration using an inhaler; and
+(B) Does not include:
+(1) Raw plant material;
+(2) A product administered by smoking; or
+(3) Hemp products;
+(31) "Merit-based backup pool" means the pool of qualified applicants
+established under § 68-7-216 who are eligible to receive forfeited licenses;
+(32) "Minor" means a person less than eighteen (18) years of age;
+(33) "Out-of-state registry identification card" means a registry
+identification card, or an equivalent document, that was issued pursuant to the
+laws of another state, district, territory, commonwealth, or insular possession of
+the United States;
+(34) "Per-zone license limit" means the maximum number of licenses of
+each specific license type that may be awarded within a single geographic zone;
+(35) "Possession limit" means the limit of an acceptable form of medical
+cannabis a qualified patient or designated caregiver may possess at any time;
+(36) "Prescription" means a written or oral order for drugs or medical
+devices issued by a duly licensed physician authorized by law to prescribe in the
+course of such physician's professional practice for a legitimate medical purpose.
+(37) "Processor" means an entity licensed by the department and
+authorized to purchase cannabis from a cultivator and extract derivatives from
+the cannabis to produce a medical cannabis product for sale and transfer in
+packaged and labeled form to a dispensing site;
+(38) "Processor agent" means a principal officer, board member,
+employee, volunteer, or agent of a processor;
+- 6 - 015689
+
+(39) "Program expansion" means legislative action that increases the
+total number of medical cannabis licenses authorized under this part beyond the
+number initially authorized;
+(40) "Qualified patient" means a person who is:
+(A) A resident of this state; and
+(B) A patient who has been diagnosed by a qualified physician as
+having a qualifying medical condition;
+(41) "Qualified physician" means a person who holds an active, valid,
+and unrestricted license as a physician under title 63, chapter 6 or as an
+osteopathic physician under title 63, chapter 9;
+(42) "Qualifying medical condition" means:
+(A) Alzheimer's disease;
+(B) Amyotrophic lateral sclerosis (ALS);
+(C) Cancer, when such disease is diagnosed as end stage or the
+treatment produces related wasting illness, recalcitrant nausea and
+vomiting, or pain;
+(D) Inflammatory bowel disease, including Crohn's disease and
+ulcerative colitis;
+(E) Epilepsy or seizures;
+(F) Multiple sclerosis;
+(G) Parkinson's disease;
+(H) Human immunodeficiency virus (HIV) or acquired
+immunodeficiency syndrome (AIDS); or
+(I) Sickle cell disease;
+(43) "Raw plant material":
+- 7 - 015689
+
+(A) Means the trichome-covered part of the female plant
+Cannabis sp. or any mixture of shredded leaves, stems, seeds, and
+flowers of the Cannabis sp. plant; and
+(B) Does not include plant material obtained from hemp;
+(44) "Safety sensitive occupation" means a position designated as safety
+sensitive under federal law or regulation, including positions subject to federal
+department of transportation drug testing requirements under 49 CFR Part 40
+and § 50-9-103;
+(45) "Seedling" means a medical cannabis plant that has no flowers and
+is not taller than twenty-four inches (24");
+(46) "Seed-to-sale tracking system" means the tracking system
+established pursuant to this part that tracks all cannabis and medical cannabis in
+this state;
+(47) "Serious violation" means:
+(A) A violation of this part or an administrative regulation
+promulgated thereunder that is capable of causing death or which causes
+serious and prolonged disfigurement, prolonged impairment of health, or
+prolonged loss or impairment of the function of any bodily organ;
+(B) The diversion of medical cannabis for use not regulated
+pursuant to this part; or
+(C) An act that would constitute a violation of title 39, chapter 17,
+part 4;
+(48) "Smoking" means the inhalation of smoke produced from the
+combustion of raw plant material when ignited by a flame;
+(49) "State licensing board" means:
+(A) The board of medical examiners, board of osteopathic
+examiners, or board of pharmacy;
+- 8 - 015689
+
+(50) "Telehealth" means the application of telecommunication technology
+to deliver healthcare services remotely to assess, diagnose, and treat health
+conditions;
+(51) "Testing laboratory" means an entity authorized to test cannabis to
+ensure the product meets safety qualifications required under this part;
+(52) "Testing laboratory agent" means a principal officer, board member,
+employee, volunteer, or agent of a testing laboratory;
+(53) "Use of medical cannabis":
+(A) Includes the acquisition, administration, possession, transfer,
+transportation, or consumption of medical cannabis or medical cannabis
+accessories by a patient in accordance with this part; and
+(B) Does not include:
+(i) Cultivation of marijuana by a patient;
+(ii) The use or consumption of marijuana by smoking; or
+(iii) The use of hemp or hemp products; and
+(54) "Visiting qualified patient" means a person who possesses a valid
+out-of-state registry identification card and documentation of having been
+diagnosed with a qualifying medical condition.
+68-7-202. Department of health and commission.
+(a) The department of health is charged with the implementation, operation,
+oversight, and regulation of the medical cannabis program established in this part.
+(b) The medical cannabis commission shall review and recommend to the
+department protocols for determining:
+(1) The amount of medical cannabis or delta-9 tetrahydrocannabinol that
+constitutes a daily supply, an uninterrupted ten-day supply, and an uninterrupted
+thirty-day supply of medical cannabis for registered qualified patients and visiting
+qualified patients;
+- 9 - 015689
+
+(2) Review and recommend to the department protocols, evolving
+continuous quality improvement metrics, and minimal performance standards for
+the biennial accreditation process of licensed cannabis businesses;
+(3) Review relevant peer-reviewed, scientific data related to the delta-9
+tetrahydrocannabinol dosage, toxicology, and tolerance, and make
+recommendations to the general assembly regarding revisions to current law;
+(4) Review relevant peer-reviewed, scientific data related to the various
+methods of use and consumption of medical cannabis and make
+recommendations to the general assembly to approve or restrict certain methods
+as the board deems appropriate;
+(5) Review relevant peer-reviewed, scientific data related to the use of
+medical cannabis for medical, therapeutic, or palliative purposes and make
+recommendations to the general assembly to add or remove conditions from the
+list of qualifying medical conditions; and
+(6) Perform other duties related to the use of medical cannabis upon
+request by the executive director of the commission.
+(c) By December 1 of each year, the commission, in consultation with the
+department, shall submit an annual report to the general assembly. The report
+submitted by the commission must, at a minimum, include:
+(1) The number of applications and renewals received by the department
+for patients, individually and collectively;
+(2) The number of applications and renewals for patients;
+(3) The number of patients revoked by the department for misconduct
+and the nature of the misconduct;
+(4) The number of medical cannabis physicians authorized to provide
+prescriptions;
+- 10 - 015689
+
+(5) The nature of the medical conditions for which medical cannabis
+physicians have provided written prescriptions;
+(6) The number of applications and renewals received by the department
+for cannabis business licenses, the number of cannabis business licenses issued
+for each business type and tier, and the number of cannabis business license
+applications and renewals that were denied by the department;
+(7) The number of cannabis business agents employed by each type of
+cannabis business;
+(8) An assessment of:
+(A) The ability of patients in all areas of the state to obtain timely
+affordable access to medical cannabis;
+(B) The evolving continuous quality improvement metrics and
+minimal performance standards for the biennial accreditation process of
+licensed cannabis businesses;
+(C) The effectiveness of the cultivators, processors, and testing
+laboratories licensed under this part, individually and collectively, in
+serving the needs of processors, dispensaries, and patients, the
+reasonableness of fees, whether cultivators, processors, and testing
+laboratories are generating complaints or security problems, and the
+sufficiency of the number operating to serve processors, dispensaries,
+and patients in this state;
+(D) The effectiveness of the dispensaries licensed under this part,
+individually and collectively, in serving the needs of patients, including the
+provision of educational and support services, the reasonableness of
+fees, whether dispensaries are generating complaints or security
+problems, and the sufficiency of the number operating to serve patients in
+this state; and
+- 11 - 015689
+
+(E) The effectiveness of the licensed safety compliance facilities
+licensed under this part, individually and collectively, in serving the needs
+of other cannabis businesses, including the provision of testing and
+training services, the reasonableness of fees, whether the facilities are
+generating complaints or security problems, and the sufficiency of the
+number operating to serve other cannabis businesses and patients in this
+state;
+(9) The amount of medical cannabis products sold per month in this
+state;
+(10) The total amount of revenue for each calendar year and aggregated
+by prior years generated from any cannabis business licensure and patients'
+application and renewal fees established by the department;
+(11) The total cost of enforcement for the medical cannabis program at
+the time of the report, by city, county, and overall;
+(12) The sufficiency of the regulatory and security safeguards contained
+in this part and adopted by the department through administrative regulations to
+ensure that access to and use of medical cannabis cultivated and processed in
+this state is provided only to patients;
+(13) Any recommended additions or revisions to this part or
+administrative regulations promulgated thereunder, including those relating to
+security, safe handling, labeling, and nomenclature;
+(14) The results of any scientific research studies regarding the health
+effects of cannabis; and
+(15) Any other data requested by the general assembly relating to the
+medical cannabis program and this part.
+(d) The information contained in the annual report described in subsection (c)
+must be presented in a manner that complies with the federal Health Insurance
+- 12 - 015689
+
+Portability and Accountability Act, Pub. L. No. 104-191, and does not disclose any
+identifying information about patients or licensed cannabis businesses.
+68-7-203. Protections.
+(a) A qualified patient or designated caregiver in actual possession of a qualified
+patient or designated caregiver identification card is not subject to arrest, prosecution, or
+penalty in any manner or denied any right or privilege, including, without limitation, a civil
+penalty or disciplinary action by a business, occupational, or professional licensing
+board, or bureau, for the medical use of cannabis in accordance with this part if the
+qualified patient or designated caregiver possesses an amount less than or equal to the
+patient's thirty-day supply.
+(b)
+(1) A qualified patient or designated caregiver is presumed to be lawfully
+engaged in the medical use of cannabis in accordance with this part if the
+qualified patient or designated caregiver is in actual possession of an acceptable
+form of medical cannabis that does not exceed the amount allowed under this
+part.
+(2) The presumption established in subdivision (b)(1) may be rebutted by
+evidence the medical cannabis exceeded the allowable amount.
+(3) A person is not permitted to possess medical cannabis that is not in
+an acceptable form.
+(c) A school or landlord shall not refuse to enroll, refuse to lease to, or otherwise
+penalize an individual solely for the individual's status as a qualified patient or
+designated caregiver unless doing so would put the school or landlord in violation of
+federal law or regulations.
+(d) For the purposes of medical care, a qualified patient's authorized use of
+medical cannabis in accordance with this amendment is considered the equivalent of the
+- 13 - 015689
+
+authorized use of any other medication used at the direction of a physician and does not
+constitute the use of an illicit substance.
+(e)
+(1) An employer shall not discriminate against an applicant or employee
+in hiring, termination, or any term or condition of employment, or otherwise
+penalize an applicant or employee, based upon the applicant's or employee's
+past or present status as a qualified patient.
+(2) There is no cause of action against an employer based upon, and an
+employer is not prohibited from, any of the following actions:
+(A) Establishing and implementing a substance abuse or drug-
+free workplace policy that may include a drug testing program that
+complies with state or federal law and taking action with respect to an
+applicant or employee under the policy;
+(B) Acting on the employer's good faith belief that a qualified
+patient:
+(i) Possessed, ingested, or otherwise engaged in the use
+of medical cannabis while on the premises of the employer or
+during the hours of employment; or
+(ii) Was under the influence of medical cannabis while on
+the premises of the employer or during the hours of employment;
+provided, that a positive test result for marijuana or THC cannot
+provide the sole basis for the employer's good faith belief.
+(3) Safety sensitive occupations are excluded from the protections in this
+subsection (e).
+(4) For reasons other than an applicant's or employee's past or present
+status as a qualified patient or designated caregiver, the authorized or protected
+actions of an employer under this subsection (e) include, without limitation:
+- 14 - 015689
+
+(A) Implementing, monitoring, or taking measures to assess,
+supervise, or control the job performance of an employee;
+(B) Reassigning an employee to a different position or job duties;
+(C) Placing an employee on paid or unpaid leave;
+(D) Suspending or terminating an employee;
+(E) Requiring an employee to successfully complete a substance
+abuse program before returning to work;
+(F) Refusing to hire an applicant for reasons other than being a
+qualified patient; or
+(G) Any combination of the actions listed in this subdivision (e)(4).
+(5)
+(A) Damages established for an employment discrimination claim
+based on an applicant's or employee's past or present status as a
+qualified patient or designated caregiver in violation of this part are limited
+to the damages available for an employment discrimination claim under
+state law.
+(B) Liability for back pay does not accrue from a date more than
+two (2) years prior to the filing of an action.
+(C) Damages under this subdivision (e)(5) must not duplicate or
+increase an award for damages over the statutory limit allowed by state or
+federal law existing on January 1, 2027, whichever is lower.
+(6) An action based on employment discrimination in violation of this
+subsection (e) must be brought within one (1) year of the occurrence of the
+alleged discrimination.
+(7) An individual employee, agent of the employer, or employee of the
+agent of the employer is not liable for any violation of this subsection (e) that the
+employer is found to have committed.
+- 15 - 015689
+
+(f) This section does not waive the sovereign immunity of this state.
+(g) A court shall not deny custody, visitation, or parenting time to a person who
+is otherwise entitled to custody of, or visitation or parenting time with, a minor based
+solely on conduct allowed under this part, nor shall a court:
+(1) Find abuse solely for conduct allowed under this part; or
+(2) Presume neglect or child endangerment for conduct permitted under
+this part.
+(h)
+(1) An acceptable form of medical cannabis under possession limits,
+medical cannabis paraphernalia, licit property, or interest in licit property, that is
+possessed, owned, or used exclusively in connection with the medical use of
+cannabis as allowed under this part, or property incidental to such use, shall not
+be seized or forfeited.
+(2) Forms not acceptable or amounts in excess of possession limits may
+be seized and forfeited.
+(3) Medical cannabis not contained in the manufacturer's original
+packaging and labeling may be seized and forfeited.
+(i) A person is not subject to arrest, prosecution, or penalty in any manner and
+shall not be denied any right or privilege, including, without limitation, a civil penalty or
+disciplinary action by a business, occupational, or professional licensing board or
+bureau, simply for being in the presence or vicinity of the medical use of cannabis as
+allowed under this part or for directly assisting a qualified patient with the medical use of
+cannabis.
+(j)
+(1) A physician is not subject to arrest, prosecution, or penalty in any
+manner and shall not be denied any right or privilege, including, without
+limitation, a civil penalty or disciplinary action by the board of medical examiners
+- 16 - 015689
+
+or the board of osteopathic examiners or by any other business, occupational, or
+professional licensing board or bureau, solely for providing a prescription for
+medical cannabis.
+(2) This subsection (j) does not prevent the board of medical examiners
+or the board of osteopathic examiners from sanctioning a physician for failing to
+properly evaluate a patient's medical condition or for otherwise violating the
+applicable physician-patient standard of care or the corresponding practice acts
+under title 63.
+(3) This section does not require a physician to issue a prescription for
+medical cannabis.
+(k) School personnel may possess medical cannabis under title 49, chapter 50,
+part 16, when obtained for medical use pursuant to this section by a student who is a
+qualified patient.
+(l) This section does not prohibit the medical use of cannabis or a designated
+caregiver assisting with the medical use of cannabis in a nursing home facility, hospital,
+hospice facility, or an assisted living facility, if the medical use of cannabis is permitted
+under federal law.
+(m)
+(1) This part does not apply to hemp or hemp products.
+(2) Notwithstanding another law to the contrary, and except as provided
+in this subsection (m):
+(A) The use of medical cannabis by a patient is lawful if done in
+accordance with this part and any administrative regulations promulgated
+thereunder;
+(B) The acquisition, blending, cultivation, delivery, distribution,
+manufacturing, manipulation, packaging for sale, preparation, possession,
+sale, testing, transportation, or transfer of medical cannabis or medical
+- 17 - 015689
+
+cannabis accessories by a cannabis business or cannabis business agent
+is lawful if done in accordance with this part and any administrative
+regulations promulgated thereunder;
+(C) A registered qualified patient or visiting qualified patient shall
+not be considered to be under the influence of medical cannabis solely
+because of the presence of tetrahydrocannabinol metabolites, including,
+but not limited to, the cannabinoid carboxy THC, which is also known as
+THC-COOH;
+(D) This subsection (m) does not apply to a person in a safety
+sensitive occupation as designated by federal law or regulation, including
+positions subject to United States department of transportation drug
+testing requirements under 49 CFR Part 40;
+(E) The determination of whether a position is safety sensitive
+must be based on the essential functions of the position and the actual
+duties performed, not merely the job title;
+(F) A medical cannabis physician is not subject, under the laws of
+this state, to arrest, prosecution, or penalty in any manner, and shall not
+be denied any right or privilege, including, but not limited to, a civil penalty
+or disciplinary action by a state licensing board or by any other
+occupational or professional licensing board, solely for providing
+prescriptions or for otherwise stating that, in the medical cannabis
+physician's professional opinion, a patient may receive medical,
+therapeutic, or palliative benefit from the use of medical cannabis, if done
+in accordance with this part;
+(G) An attorney is not subject, under the laws of this state, to
+arrest, prosecution, or penalty in any manner, and shall not be denied any
+right or privilege, including, but not limited to, a civil penalty or disciplinary
+- 18 - 015689
+
+action by the board of professional responsibility and the supreme court,
+solely for providing an individual or cannabis business with legal
+assistance related to activity that is no longer subject to criminal penalties
+under state law pursuant to this part; and
+(H) A person is not subject, under the laws of this state, to arrest,
+prosecution, or penalty in any manner, and shall not be denied any right
+or privilege, including, but not limited to, a civil penalty or disciplinary
+action by an occupational or professional licensing board, solely for
+providing assistance or services, including, but not limited to, accounting
+services, financial services, security services, or business consulting
+services, to any individual or cannabis business related to activity that is
+no longer subject to criminal penalties under state law pursuant to this
+part.
+(n) This section does not:
+(1) Prohibit the arrest, prosecution, or imposition of any other penalty
+arising from, but not limited to, breach of contract, breach of fiduciary duty,
+negligence, or engaging in criminal activity that would constitute a felony or
+misdemeanor; or
+(2) Prevent a medical cannabis physician from being subject to
+administrative penalties imposed by a licensing board for a violation of this part
+or an administrative regulation promulgated thereunder.
+(o) Notwithstanding this section or another law to the contrary, a patient who is
+professionally licensed may be subject to intervention or disciplinary action by the
+patient's state licensing board if:
+(1) There is probable cause to believe that the patient has become
+impaired by, or otherwise abused, medical cannabis; or
+- 19 - 015689
+
+(2) The patient has a medically diagnosable disease that is characterized
+by chronic, habitual, or periodic use of medical cannabis resulting in interference
+with the patient's professional, social, or economic functions in the community or
+the loss of powers of self-control regarding the use of medical cannabis.
+(p)
+(1) All qualified physicians shall complete two (2) of the forty (40) hours
+of continuing medical education required for licensure related to medical
+cannabis prescribing before issuing such prescriptions. This continuing medical
+education must be approved according to the rules of the corresponding
+licensing board.
+(2) A pharmacist employed by a licensed dispensary shall complete two
+(2) hours of continuing pharmacy education (CPE) related to medical cannabis
+dispensing before dispensing products following initial patient consultation and
+every two (2) years thereafter. The CPE must be approved by the accreditation
+council for pharmacy education. Failure to comply may result in disciplinary
+action by the board of pharmacy.
+68-7-204. Patient monitoring via controlled substance database.
+(a) The controlled substance database (CSD) established under title 53, chapter
+10, part 3, is the sole patient monitoring system for medical cannabis. A separate
+patient registry shall not be created.
+(b) A qualified physician shall write all prescriptions for medical cannabis that will
+be entered into the CSD in accordance with the Tennessee Prescription Safety Act of
+2016, compiled in title 53, chapter 10, part 3.
+(c)
+(1) A physician shall specify authorized daily dosage based on a patient's
+condition, age, health status, and professional judgment.
+- 20 - 015689
+
+(2) A patient may possess up to a thirty-day supply based on authorized
+daily dosage. A physician may authorize up to a ninety-day supply for patients in
+rural areas, with mobility limitations, or other documented circumstances.
+(d) ICD diagnosis codes must be reported to the department.
+. (e)
+(1) A dispensary must report all medical cannabis transactions to the
+CSD.
+(2) Before dispensing, a dispensary agent shall:
+(A) Verify active certification in CSD;
+(B) Verify patient or caregiver identity via driver license or state
+identification card;
+(C) Check dispensing history to ensure the patient's possession
+limit is not exceeded; and
+(D) Refuse to dispense if the dispensary finds invalid certification,
+certification is expired or deactivated, or dispensing would exceed limits.
+(3) A dispensary must maintain backup records for seven (7) years.
+(f)
+(1) Law enforcement may access the CSD to verify active certifications
+and possession limits, but shall not access specific medical conditions, ICD
+codes, or detailed medical history.
+(2) The department of health personnel shall have full CSD access for
+compliance monitoring, investigations, audits, and reporting.
+(3) All CSD medical cannabis data is confidential and exempt from public
+inspection. Unauthorized access or disclosure of CSD medical cannabis data is
+a Class A misdemeanor and may be punished by a fine of no more than five
+thousand dollars ($5,000) per violation.
+(g)
+- 21 - 015689
+
+(1) The department must integrate medical cannabis monitoring into
+existing CSD infrastructure.
+(2) CSD reporting compliance is a condition of licensure for physicians
+and dispensaries.
+(3) The department must submit an annual report on the medical
+cannabis program to the general assembly by March 1 of each year, including
+the total number of patients, certifications issued, conditions by ICD code,
+dispensing data, violations, and recommendations.
+68-7-205. Limitations.
+(a) This part does not permit a person to:
+(1) Undertake any task under the influence of medical cannabis when
+doing so would constitute negligence or professional malpractice; or
+(2) Operate, navigate, or be in actual physical control of a motor vehicle,
+aircraft, motorized watercraft, or any other vehicle drawn by power other than
+muscle power while under the influence of medical cannabis. Impairment must
+be determined by evaluating the totality of the circumstances.
+(b) This part does not require:
+(1) A government medical assistance program or private health insurer to
+reimburse a person for costs associated with the medical use of cannabis unless
+federal law requires reimbursement;
+(2) An employer to accommodate the ingestion of medical cannabis in a
+workplace or an employee working while under the influence of medical
+cannabis;
+(3) An individual or establishment in lawful possession of property to
+allow a guest, client, customer, or other visitor to use medical cannabis on or in
+that property;
+- 22 - 015689
+
+(4) An individual or establishment in lawful possession of property to
+admit a guest, client, customer, or other visitor who is impaired as a result of the
+person's medical use of cannabis; or
+(5) A public school to permit a qualified patient who is a student to be
+present on school grounds, to attend a school event, or to participate in
+extracurricular activities in violation of the public school's student discipline
+policies when a school official has a good faith belief that the behavior of the
+qualified patient is impaired.
+(c) This part does not exempt a person from prosecution for a criminal offense
+related to impairment or intoxication resulting from the medical use of cannabis or relieve
+a person from any requirement under law to submit to a breath, blood, urine, or other
+test to detect the presence of a controlled substance.
+(d) This part does not limit the ability of an employer to establish, continue, or
+enforce a drug-free workplace program or policy.
+(e) This part does not create a cause of action against an employer for wrongful
+discharge or discrimination.
+68-7-206. Penalties.
+(a) A qualified physician violates title 63, chapter 6 or 9, if the qualified physician
+issues a prescription for a patient without a reasonable belief that the patient is suffering
+from a qualified medical condition.
+(b) A person who fraudulently represents that the person has a qualified medical
+condition to a qualified physician for the purpose of being issued a prescription commits
+a Class A misdemeanor.
+(c) A qualified patient who possesses medical cannabis in an unauthorized form
+or in an amount beyond possession limits or not contained in the manufacturer's original
+packaging and labeling may be prosecuted under title 39, chapter 17, part 4.
+- 23 - 015689
+
+(d) A physician who issues a prescription shall not have an employment interest
+or direct or indirect ownership of an equity interest, including direct ownership of stock or
+shares from a business engaged in the cultivation, processing, shipping, or distribution
+of cannabis for medical use. A physician must be referred to the proper license board
+for disciplinary action under the applicable practice act for issuing such prescription while
+in possession of employment interest or direct or indirect ownership of an equity interest.
+68-7-207. Rulemaking authority.
+(a) The department must promulgate rules and regulations necessary to
+implement and administer this part, including, but not limited to:
+(1) Detailed standards and requirements for buildout completion for each
+license type;
+(2) Inspection procedures, protocols, and checklists;
+(3) Pre-qualification inspection procedures and standards;
+(4) Merit-based scoring criteria and point allocations;
+(5) Lottery procedures for reallocation of forfeited licenses;
+(6) Fee schedules for inspections and re-inspections;
+(7) Forms and documentation requirements;
+(8) Timelines and procedures for appeals and administrative review;
+(9) Procedures for maintaining and updating the merit-based backup
+pool;
+(10) Standards for determining good cause for extensions;
+(11) Geographic zone definitions and limitations, if applicable; and
+(12) Any other matters necessary to effectuate the purposes of this part.
+(b) Rules promulgated pursuant to this section shall be promulgated in
+accordance with the Tennessee Uniform Administrative Procedures Act, compiled in
+Tennessee Code Annotated, Title 4, Chapter 5.
+- 24 - 015689
+
+(c) The department shall promulgate initial rules necessary to implement this act
+within one hundred eighty (180) days of the effective date of this act.
+68-7-208. Seizure and forfeiture.
+(a)
+(1) A lawful medical cannabis product, medical cannabis accessories,
+lawful property, or interest in lawful property that is possessed, owned, or used in
+connection with the use of medical cannabis or acts incidental to that use shall
+not be subject to seizure or forfeiture under this section.
+(2) This part does not prevent the seizure or forfeiture of marijuana
+exceeding the maximum amounts permitted, or seizure or forfeiture if the basis
+for that action is unrelated to the use of medical cannabis in accordance with this
+part and any administrative regulation promulgated thereunder.
+(b) Possession of medical cannabis products or a business license does not
+constitute probable cause or reasonable suspicion, and shall not be used to support the
+search of the person, property, or home of the person possessing medical cannabis
+products or a cannabis business license. The possession of medical cannabis products
+or a medical cannabis business license does not preclude the existence of probable
+cause or reasonable suspicion based on other grounds.
+(c)
+(1) There is a rebuttable presumption that a patient is engaged in the
+lawful use of medical cannabis if the patient:
+(A) Possesses an amount of medical cannabis that does not
+exceed the amounts allowed under this part or administrative regulations
+promulgated by the department; and
+(B) The medical cannabis is contained in original packaging.
+- 25 - 015689
+
+(2) The presumption established by subdivision (c)(1) may be rebutted by
+a preponderance of evidence that conduct was unrelated to the use of medical
+cannabis or was otherwise in violation of this part.
+68-7-209. Operating machinery or driving under the influence.
+(a) This part does not authorize a person to engage in the following conduct or
+prevent the imposition of any civil, criminal, or other penalties, including criminal
+prosecution or disciplinary action by the department or an occupational or professional
+licensing board, for engaging in the following conduct:
+(1) Operating, navigating, or being in actual physical control of a motor
+vehicle, aircraft, motorized watercraft, or any other vehicle drawn by power other
+than muscle power and that is or may be used to transport persons or property
+while under the influence of medical cannabis;
+(2) Consuming medical cannabis while operating, navigating, or being in
+actual physical control of an aircraft, motor vehicle, vessel, or any other device
+known, or hereafter invented, that is powered by machinery and that is or may be
+used to transport persons or property;
+(3) Undertaking any task under the influence of medical cannabis, when
+doing so would constitute negligence or professional malpractice;
+(4) Possessing medical cannabis, or otherwise engaging in the use of
+medical cannabis:
+(A) On the grounds of a preschool or primary or secondary
+school, except as permitted in accordance with policies enacted pursuant
+to § 68-7-203;
+(B) In a correctional facility; or
+(C) On property of the federal government;
+(5) Using marijuana, if the person is not a registered qualified patient or
+visiting qualified patient;
+- 26 - 015689
+
+(6) Using or consuming marijuana by smoking; or
+(7) Cultivating marijuana unless that person is licensed by the
+department as a cannabis cultivator.
+(b) A violation of subdivision (a)(1) is punished as a violation of § 55-10-401 or §
+69-9-217.
+(c)
+(1) An individual who violates subsection (a) shall not be considered to
+be in possession of medical cannabis or engaged in the use of medical cannabis
+and shall not benefit from the legal protections afforded by this part.
+(2) The odor or smell of uncombusted raw plant material is not evidence
+of use or consumption of cannabis by smoking.
+(d) This part does not exempt a person from arrest, prosecution, or penalty for
+operating, navigating, or being in actual physical control of any motor vehicle, aircraft, or
+watercraft while under the influence of medical cannabis.
+(e) The prohibitions and penalties set forth in § 55-10-401, § 69-9-217, and any
+other applicable statutes regarding operation of vehicles, aircraft, or watercraft while
+impaired or intoxicated shall apply to medical cannabis in the same manner as the
+prohibitions and penalties apply to alcohol and other intoxicating substances.
+(f) The presence of THC metabolites alone, including inactive metabolites such
+as carboxy THC (THC-COOH), are not sufficient evidence of impairment for purposes of
+prosecution under § 55-10-401 or § 69-9-217 or related statutes.
+68-7-210. Cannabis business licenses.
+(a) A person shall not cultivate, process, produce, possess, test, transfer,
+transport, or sell medical cannabis or otherwise operate a cannabis business in this state
+without first obtaining a license under this section.
+- 27 - 015689
+
+(b) The department must create separate licenses, licensure application fees,
+initial licensure fees, and licensure renewal fees allowing a person to operate a cannabis
+business, pursuant to this part, as a:
+(1) Tier I cannabis cultivator;
+(2) Tier II cannabis cultivator;
+(3) Tier III cannabis cultivator;
+(4) Cannabis dispensary;
+(5) Cannabis processor; or
+(6) Testing laboratory.
+(c) Licensure application fees, initial licensing fees, and licensure renewal fees
+collected by the department pursuant to this section must be retained by the department
+for administrative purposes.
+(d) Except as provided in subsection (b), a cannabis business is required to
+apply for and obtain from the department a separate license for each location the
+cannabis business intends to operate.
+(e)
+(1) A cannabis business license issued under this section is valid for one
+(1) year from the date of issuance. The department must notify each licensee
+ninety (90) days prior to the date the license expires to allow the licensee to
+begin the renewal process established by the department.
+(2) The renewal of a cannabis business license is contingent upon
+successful achievement of minimal performance standards established by the
+department as part of the biennial accreditation process.
+(f) The department must approve a license holder's sale of a license issued
+pursuant to this section if the purchaser and any new facilities meet the requirements of
+this part.
+68-7-211. Initial and renewal applications.
+- 28 - 015689
+
+(a)
+(1) The department must accept the following types of applications for
+cannabis business licenses:
+(A) Initial application; and
+(B) Renewal application.
+(2) By submitting an initial or renewal application to the department, an
+applicant consents to any investigation of the applicant's ability to meet the
+requirements of this part.
+(3) An application for an initial license or renewal license is incomplete
+and must be rejected by the department unless:
+(A) The payment of the applicable fee is submitted with the
+application; and
+(B) All required information for each section of the application,
+including attachments and any supplemental information requested by the
+department, is submitted within the allowable time period.
+(4) An application submitted under this section must contain the following
+statement acknowledged by the applicant: "A false statement made in this
+application is punishable as perjury, pursuant to § 39-16-702."
+(b) An applicant for an initial cannabis business license shall pay the applicable
+application fee by credit card or automated clearing house (ACH) transfer at the time of
+application submission to the department. The initial application fee is nonrefundable.
+The initial license application fees are as follows:
+(1) Tier I cultivator: $3,000;
+(2) Tier II cultivator: $10,000;
+(3) Tier III cultivator: $20,000;
+(4) Processor: $5,000;
+(5) Dispensary: $5,000; and
+- 29 - 015689
+
+(6) Testing laboratory: $3,000.
+(c)
+(1) An initial license is valid for one (1) year from the date of issuance
+shown on the license. The department must publish notice of initial license
+application availability on the department website, including the time frame during
+which initial license applications will be accepted. The notice must also state the
+category and number of cannabis business licenses available for issuance at the
+close of the application period.
+(2) An applicant shall only use the initial license application form
+prescribed by the department and made available through the website.
+(3) An applicant shall submit an initial license application to the
+department in the manner prescribed by the application instructions.
+(4) An applicant shall apply for a separate license for each location
+where the applicant intends to operate a cannabis business. During an initial
+license application availability period, an applicant shall only apply for a license in
+one (1) cannabis business license type being offered at that time: cultivator,
+processor, dispensary, or testing laboratory. An applicant may submit multiple
+applications for a license within one (1) cannabis business license type if the
+following criteria are met:
+(A) Each application must contain a separate and distinct physical
+address where the applicant proposes to conduct cannabis business
+activities;
+(B) Each application must contain documentation of sufficient
+capital in accordance with this section, and the applicant shall not use the
+same capital for more than one (1) application;
+(C) For the three (3) cannabis cultivator tiers, an applicant shall
+only submit one (1) application per cultivation tier; and
+- 30 - 015689
+
+(D) For dispensaries, an applicant shall only submit one (1)
+application per medical cannabis region, as shown on the map published
+on the website of the department.
+(5) In the initial license application, the applicant shall submit:
+(A) The legal name, business type, any trade or doing business
+as (DBA) name, mailing address, federal tax identification number,
+website, if any, email address, and phone number of the proposed
+cannabis business and confirmation that the entity is registered with the
+secretary of state in good standing and authorized to do business in this
+state;
+(B) The type of cannabis business license requested;
+(C) The business entity formation documents such as articles of
+incorporation, articles of organization, or bylaws;
+(D) The proposed location of cannabis business activities,
+including the physical address of the proposed cannabis business and the
+global positioning system coordinates for any proposed cannabis
+business activities, and:
+(i) Documentation such as a contingent agreement for
+property sale or lease or an existing deed or lease that shows the
+applicant has the authority to use the proposed location as a
+cannabis business for, at a minimum, the term of the license; and
+(ii) A site plan for the proposed cannabis business;
+(E) The name, address, date of birth, and curricula vitae or
+resume of each principal officer and board member of the proposed
+cannabis business;
+(F) Disclosure of any individual or business entity with an
+ownership interest of at least ten percent (10%) equity or similar interest
+- 31 - 015689
+
+in the proposed cannabis business and each identified individual or
+entity's ownership percentage;
+(G) Disclosure of any parent company or parent individual that
+has an ownership interest in the proposed cannabis business and each
+identified individual or entity's ownership percentage;
+(H) A document showing the ownership organizational structure
+of the proposed cannabis business;
+(I) The name and address of any individual or entity providing
+financial support to the proposed cannabis business that is not involved in
+the day-to-day operations beyond providing financial resources;
+(J) The name and address of any physician or advanced practice
+registered nurse who has an ownership or investment interest in or
+compensation agreement with the proposed cannabis business;
+(K) Disclosure of whether any principal officer or board member
+of the applicant has been convicted of a felony criminal offense, and if so,
+a description of each felony offense;
+(L) Proof that any owner with equity is a resident of this state by
+utilizing a photo of state identification;
+(M) Disclosure of any instances in which a business or not-for-
+profit entity that any of the applicant's board members managed or served
+on the board of was convicted, fined, censured, or had a registration or
+license suspended or revoked in any administrative or judicial proceeding;
+(N) The name and address of any pharmacist who has an
+ownership or investment interest in or compensation agreement with the
+proposed cannabis business;
+- 32 - 015689
+
+(O) If applicable, documentation that the applicant is capable of
+successfully establishing and operating a cannabis business in this state,
+including:
+(i) Demonstrated experience establishing and operating a
+for-profit or nonprofit organization or other business within this
+state or another jurisdiction, and the nature of the business
+conducted by the organization;
+(ii) Any history relating to receipt of a similar license or
+other authorization in other jurisdictions, including provisional
+licenses, suspensions, revocations, or disciplinary actions to
+include civil monetary fines or warnings; and
+(iii) Any history of response to suspensions, revocations,
+disciplinary actions, civil monetary fines, or warnings imposed
+relating to any similar license or other authorization in another
+jurisdiction, and the plans of correction or other responses made
+to those actions;
+(P) A description of the duties, responsibilities, and roles of each
+principal officer, board member, employee, and any other individual or
+entity with a financial interest in the proposed cannabis business that are
+not involved in the day-to-day operations of the business;
+(Q) A timeline showing the steps and estimated amount of time
+the applicant will take to begin cannabis business activities in the state;
+(R) A financial plan for the proposed cannabis business, including
+budget and cash flow planning and debt management;
+(S) Documentation of sufficient capital available to the applicant,
+either on deposit or through extension of credit from one (1) or more
+financial institutions, in the following amounts as applicable:
+- 33 - 015689
+
+(i) Tier I cultivator: $10,000;
+(ii) Tier II cultivator: $200,000;
+(iii) Tier III cultivator: $500,000;
+(iv) Processor: $150,000;
+(v) Dispensary: $150,000; or
+(vi) Testing Laboratory: $150,000;
+(T) A summary of the intended plan of operation that describes, at
+a minimum, how the applicant's proposed cannabis business operations
+will address:
+(i) Security;
+(ii) Employee qualifications, supervision, and training;
+(iii) Transportation of medical cannabis;
+(iv) Storage and labeling of medical cannabis;
+(v) Inventory management;
+(vi) Recordkeeping;
+(vii) Preventing unlawful diversion of medical cannabis;
+and
+(viii) Workforce development and job creation;
+(U) The name, mailing address, business title, phone number,
+and email address of the primary contact for the application as well as the
+name, address, and email address of any entity or individual who assisted
+the applicant with preparing the application;
+(V) Documentation of any management service agreement in
+place for the proposed cannabis business;
+(W) A notarized signature page signed by the applicant; and
+(X) An attestation that:
+- 34 - 015689
+
+(i) The site of the proposed cannabis business is not
+within one thousand feet (1,000') of an existing elementary or
+secondary school or a daycare center. For purposes of this
+subdivision (c)(5)(X)(i), the distance must be measured in a
+straight line from the nearest property line of an existing
+elementary school, secondary school, or daycare center to the
+nearest property line of the applicant's proposed place of
+business. Licensed pharmacies are exempt from this subdivision
+(c)(5)(X)(i);
+(ii) The applicant can continuously maintain sufficient
+capital for operations of its proposed cannabis business for, at a
+minimum, the term of the initial license;
+(iii) The applicant can continuously maintain effective
+security, surveillance, and accounting control measures to prevent
+diversion, abuse, and other illegal conduct regarding medical
+cannabis;
+(iv) The applicant consents to the department verifying
+information provided in the application with any relevant
+governmental agency or third party;
+(v) If issued a license, the applicant will pay the applicable
+license fee within fifteen (15) calendar days of notification in a
+manner prescribed by the department;
+(vi) If issued a license, the applicant will conduct a criminal
+background check into the criminal history of each person seeking
+to be a principal officer, board member, agent, volunteer, or
+employee of the cannabis business before that person begins
+work and shall not employ, take on as a volunteer, or have as a
+- 35 - 015689
+
+board member, principal officer, or agent any person who was
+convicted of a disqualifying felony offense or is younger than
+twenty-one (21) years of age;
+(vii) The applicant consents to reasonable inspections,
+examinations, searches, and seizures as provided in § 68-7-214;
+(viii) The applicant will obtain and maintain workers'
+compensation insurance for all employees in this state and pay all
+required employer contributions for unemployment insurance;
+(ix) The applicant will obtain and maintain commercial
+general liability insurance for one million dollars ($1,000,000) per
+occurrence and two million dollars ($2,000,000) per aggregate
+and commercial automobile insurance for any vehicle used to
+transport medical cannabis or medical cannabis products;
+(x) The applicant will complete all trainings required by the
+department for the proposed cannabis business's principals,
+agents, employees, and volunteers;
+(xi) The applicant will establish any standard operating
+procedures required prior to the first date of cannabis business
+activities in this state, including those specific to the cannabis
+business category. The standard operating procedures that apply
+to cannabis businesses include:
+(a) Security;
+(b) Recordkeeping;
+(c) Employee qualifications, supervision, and
+training;
+(d) Quality assurance;
+(e) Adverse event reporting and recall;
+- 36 - 015689
+
+(f) Waste disposal and sanitation;
+(g) Transportation of medical cannabis;
+(h) Inventory management, including storage and
+labeling of medical cannabis;
+(i) Cash management and anti-fraud procedures;
+and
+(j) Preventing unlawful diversion of medical
+cannabis;
+(xii) For an applicant seeking a testing facility license, one
+(1) or more of its prospective principal officers or board members
+must not be a principal officer or board member of a cultivator,
+processor, or dispensary applying to operate in this state;
+(xiii) For an applicant seeking a cultivator, processor, or
+dispensary license, one (1) or more of its prospective principal
+officers or board members must not be a principal officer or board
+member of a testing facility applying to operate in this state;
+(xiv) The applicant will use this state's designated
+electronic monitoring system established pursuant to § 68-7-229
+and seed-to-sale tracking system in the manner prescribed by the
+department;
+(xv) The applicant has disclosed all individuals and entities
+with an ownership interest of at least ten (10) percent equity or
+similar interest in the proposed cannabis business as well as any
+parent companies and parent company individuals with an
+ownership interest in its proposed cannabis business; and
+- 37 - 015689
+
+(xvi) The applicant swears or affirms that all information
+and documentation provided with the initial license application is
+true and correct.
+(6) An initial license application received after the submission time frame
+stated in the published notice of initial license application availability must be
+rejected by the department without further consideration along with the return of
+the initial application fee.
+(7) The department must acknowledge receipt of an initial application for
+a cannabis business license within fifteen (15) calendar days of submission by
+the applicant. The department must review each application to determine
+whether the application is complete. The department must provide written notice
+to an applicant upon determining that the application is complete. If the
+department determines an application is not complete, then the department must
+provide written notice to the applicant of the identified deficiencies in the
+application. The applicant has ten (10) calendar days from the date of the
+deficiency notification to cure the identified deficiencies and provide any missing
+information or documentation to the department in the manner prescribed by the
+department. If the applicant fails to cure any deficiency within ten (10) calendar
+days from the date of the deficiency notification, then the department must reject
+the application as incomplete.
+(8) The department must provide notification to applicants as to whether
+an application for a license has been approved or denied within forty-five (45)
+calendar days of receiving an application and determining the application is
+complete. An application denial must include written notice that the applicant
+may file a written request for an administrative hearing on the denial of the
+application within thirty (30) calendar days after the mailing date of the notice.
+An applicant must use the hearing request form prescribed by the department
+- 38 - 015689
+
+and made available through the website for the department. An applicant must
+submit the hearing request form to the department in the manner prescribed by
+the form's instructions.
+(d) An applicant for renewal of a cannabis business license shall pay the
+applicable annual renewal fee by credit card or ACH transfer at the time of application
+submission to the department. The annual renewal fee shall be refundable if the
+renewal application is denied. The annual renewal fees are as follows:
+(1) Tier I cultivator: $5,000;
+(2) Tier II cultivator: $25,000;
+(3) Tier III cultivator: $50,000;
+(4) Processor: $25,000;
+(5) Dispensary: $30,000; and
+(6) Testing laboratory: $12,000.
+(e)
+(1) A renewal license is valid for one (1) year from the date of issuance
+shown on the license. The requirements that a licensed cannabis business must
+meet to receive an initial license are continuing requirements to maintain the
+license. A cannabis business must continuously comply with the licensing
+requirements of this part and rules promulgated by the department during the
+initial licensure period and any subsequent renewal period.
+(2) The department must notify each licensee at least ninety (90)
+calendar days prior to the date the license expires to allow the licensee to begin
+the renewal process if the licensee so chooses.
+(3) A licensee must only use the license renewal application form
+prescribed by the department and made available through the department's
+website.
+- 39 - 015689
+
+(4) A license renewal application must be submitted to the department at
+least sixty (60) calendar days prior to the expiration of the license. The
+department must reject a license renewal application if the application is not
+submitted at least sixty (60) calendar days prior to the expiration of the license
+and must return the annual renewal fee to the licensee along with written notice
+of the rejection.
+(5) A licensee must submit a license renewal application to the
+department in the manner prescribed by the application instructions.
+(6) A licensee must include the following information with a license
+renewal application:
+(A) Information regarding any charge, or any initiated, pending, or
+concluded investigation or proceeding, during the period of the initial
+license or prior renewal period, by any governmental or administrative
+agency, including an investigation or proceeding involving theft, loss, or
+possible diversion of medical cannabis by the licensee or from the
+licensee's facility;
+(B) Information regarding the licensee's ability to continue with
+licensed activities, including any staffing issues, delays, medical cannabis
+shortages, medical cannabis product recalls, location issues, and
+financial issues that have occurred since the license was issued;
+(C) The licensee's history of compliance with this part, including a
+summary of any noncompliance and corrective action taken during the
+current and any previous licensing period or a statement indicating that
+the licensee has not violated this part as of the date the renewal
+application is submitted; and
+(D) Any additional information required by the department.
+- 40 - 015689
+
+(7) The department must acknowledge receipt of a renewal license
+application within fifteen (15) calendar days of submission by the applicant. The
+department must review each application to determine whether the application is
+complete. If the department determines an application is not complete, then the
+department must provide written notice to the applicant of the identified
+deficiencies in the application. The applicant has ten (10) calendar days from the
+date of the deficiency notification to cure the identified deficiencies and provide
+any missing information or documentation to the department in the manner
+prescribed by the department. If the applicant fails to cure any deficiency within
+ten (10) calendar days from the date of the deficiency notification, the department
+must reject the application as incomplete.
+(8) If the department determines that a license renewal application is
+lacking sufficient information upon which to make a renewal determination, then
+the department must notify the licensee in writing of the factors that require
+additional information and documentation. The licensee has ten (10) calendar
+days from the date of the notice to provide the requested information and
+documentation to the department. A licensee's failure to provide the requested
+information to the department by the deadline is grounds for denial of the license
+renewal application.
+(9) The department may conduct an onsite inspection of the licensee's
+facilities and records to assist with determining continuing compliance with this
+part.
+(10) An existing cannabis business license is immediately invalid upon
+expiration if the licensee has not filed a license renewal application and paid the
+required renewal fee. If a licensee properly submits a timely renewal application
+with the applicable renewal fee, then the department may extend the applicant's
+- 41 - 015689
+
+existing license from the date the existing license expires until the department
+can complete its renewal application review and issue a determination.
+(f)
+(1) The renewal of a cannabis business license is contingent upon
+successful achievement of minimal performance standards established by the
+department. The minimum performance standards for licensees participating in
+the medical cannabis program are that:
+(A) The licensee has, and is likely to continue to maintain,
+effective controls against diversion of medical cannabis at its facility;
+(B) The licensee has not made false or misleading statements in:
+(i) A renewal application or any other application
+submitted to the department;
+(ii) Any document or written communication submitted to
+the department; or
+(iii) Any verbal communication to the department;
+(C) The licensee has a documented history of compliance with
+the licensee requirements in this part;
+(D) The licensee has effectively addressed any identified
+compliance issues through corrective action;
+(E) The licensee has shown the ability to continue to comply with
+all state and local laws and administrative regulations applicable to the
+activities in which the licensee may engage under the license, if renewed;
+(F) The licensee has a documented history of successfully
+addressing and mitigating any quality or safety issues with medical
+cannabis or medical cannabis products;
+(G) The licensee timely completes all reporting required by this
+part; and
+- 42 - 015689
+
+(H) The licensee participates in surveys distributed by the
+department and provides full, complete, and timely responses.
+(2) The department must deny a renewal application for a cannabis
+business license if the department determines the licensee has failed to:
+(A) Meet one (1) or more of the minimum performance standards
+established in this section; or
+(B) Any additional basis established in this part.
+(3) The department must provide written notification to a licensee as to
+whether the licensee's renewal application has been approved or denied within
+forty-five (45) calendar days of receiving an application and determining the
+application is complete. Any renewal application denial must be done in
+accordance with this section, including providing written notice that the applicant
+may file a written request for an administrative hearing on the denial of the
+application within thirty (30) calendar days after the mailing date of the notice.
+An applicant must use the hearing request form prescribed by the department
+and made available through the department's website. An applicant must submit
+the hearing request form to the department in the manner prescribed by the
+form's instructions. Any hearing resulting from the applicant's written request
+must be conducted in accordance with this part.
+(4) During the application process, an applicant for an initial cannabis
+business license or renewal license shall, upon discovery of any change in facts
+or circumstances reflected in the initial application or renewal application
+submitted to the department, notify the department in writing of the change or
+any newly discovered fact or circumstance that would have been included in the
+application if known at the time the application was submitted. The notification
+required under this subdivision (f)(4) must be sent by electronic mail to the
+department within twenty-four (24) hours of discovery. Failure to timely notify the
+- 43 - 015689
+
+department of a change or newly discovered facts or circumstances may result in
+denial of the application.
+68-7-212. Uniform application form.
+(a) The department must create a uniform application form for the cannabis
+business licenses established in § 68-7-210.
+(b) When applying for a license, the applicant must submit the information
+required by § 68-7-211 in accordance with the department's administrative regulations.
+(c) The department or commission shall create a lottery system to select the
+initial licenses for each geographic zone.
+68-7-213. Initial license award process.
+(a)
+(1) The department shall contract with the Tennessee education lottery
+corporation, established under title 4, chapter 51, to conduct all lottery drawings
+for initial medical cannabis licenses.
+(2) The Tennessee education lottery corporation shall provide:
+(A) Certified random number generation equipment and software;
+(B) Security protocols and fraud prevention measures;
+(C) Public drawing procedures with video documentation;
+(D) Verification and certification of results; and
+(E) Audit trails and post-drawing reports.
+(3) The department must reimburse the Tennessee education lottery
+corporation for reasonable costs from license application fees collected pursuant
+to § 68-7-211.
+(b)
+(1) All initial medical cannabis licenses shall be awarded exclusively
+through random lottery selection conducted by the Tennessee education lottery
+corporation.
+- 44 - 015689
+
+(2) Merit-based scoring, ranking, or subjective criteria must not be used.
+All qualified applicants have equal probability of selection.
+(3) The department does not have discretion to select, prefer, or favor
+any applicant. Selection must be determined solely by random chance.
+(c)
+(1) To enter the lottery, an applicant must:
+(A) Submit a complete application during the designated
+application period;
+(B) Pay all required application fees per § 68-7-211;
+(C) Meet all mandatory minimum qualifications in § 68-7-211; and
+(D) Receive written confirmation from the department that the
+application qualifies for lottery entry.
+(2) The department must conduct pass/fail review of applicants only and
+shall not score or rank applications.
+(3) Qualified applications must be assigned a unique lottery entry
+number.
+(d)
+(1) The department must announce the initial application period at least
+sixty (60) days in advance on the department's website.
+(2) The application period shall:
+(A) Open no earlier than one hundred eighty (180) days after
+federal rescheduling of cannabis;
+(B) Remain open for ninety (90) consecutive days; and
+(C) Close at the published deadline. Late applications must not
+be accepted.
+(3) The department shall:
+- 45 - 015689
+
+(A) Complete qualification review within forty-five (45) days after
+the application period closes;
+(B) Provide a certified qualified applicant list to the Tennessee
+education lottery corporation within sixty (60) days after close of the
+application period; and
+(C) Coordinate with the Tennessee education lottery corporation
+to conduct all drawings within thirty (30) days after close of the application
+period.
+(e)
+(1) An applicant may submit multiple applications subject to the following
+limitations:
+(A) An applicant may submit one (1) application per license type
+per geographic zone, but may apply in all geographic zones;
+(B) An applicant may apply for different license types in the same
+zone with separate facility addresses;
+(C) An applicant may apply for one (1) cultivator tier per
+geographic zone, but may apply for different tiers in different geographic
+zones;
+(D) Each application must show separate capital. The same
+funds must not support multiple applications; and
+(E) Each application must identify a distinct address with separate
+site control documentation.
+(2) Each qualified application constitutes a separate lottery entry with
+equal probability.
+(3) Winners of multiple compatible licenses may accept and hold all
+licenses if permitted under this part and all fees are paid.
+(f)
+- 46 - 015689
+
+(1) The Tennessee education lottery corporation shall conduct number
+lottery drawings, to be determined by the department, including:
+(A) Drawings per license type for cultivation, processor,
+dispensary, and testing laboratory licenses; and
+(B) Drawings per geographic zone for each license type.
+(2) Each drawing must randomly select winners to receive the licenses
+allocated to a particular zone.
+(3) Each qualified applicant must receive a sequential lottery number.
+The Tennessee education lottery corporation must randomly draw winning
+numbers using certified equipment. After primary winners, the Tennessee
+education lottery corporation must draw additional numbers to rank all remaining
+applicants as alternates.
+(4) All drawings must be open to public attendance. A schedule of
+drawings must be published at least thirty (30) days in advance on the
+department's website and the Tennessee education lottery corporation's website.
+Drawings must be conducted at the Tennessee education lottery corporation
+headquarters or other designated public location. The Tennessee education
+lottery corporation must ensure that a complete video recording of the drawings
+is taken and retained for seven (7) years.
+(5) Within five (5) business days of completing all drawings, the
+Tennessee education lottery corporation must certify results and provide the
+department with:
+(A) Certified written reports for all drawings;
+(B) Complete video recordings; and
+(C) A comprehensive list of winners and alternates by license
+type and zone.
+(g)
+- 47 - 015689
+
+(1) Within five (5) business days of receiving certified results, the
+department must publish on its website:
+(A) The names and business entities of all winners and top three
+(3) alternates per license type and zone;
+(B) The city and county of proposed facility locations; and
+(C) Summary statistics, including applications received, qualified
+applicants, and unawarded licenses.
+(2) Within five (5) business days of receiving certified results, the
+department must notify each winner via certified mail and email stating:
+(A) Selection as a lottery winner;
+(B) The specific license type and geographic zone;
+(C) A requirement to accept the license and pay fees within thirty
+(30) days;
+(D) The initial license fee amount and payment instructions;
+(E) The six-month buildout requirement per § 68-7-214; and
+(F) The department's contact information.
+(h)
+(1) A lottery winner must accept the license and pay all fees within thirty
+(30) days of notification.
+(2) In order to accept the license, a lottery winner must:
+(A) Submit written acceptance on a form created by the
+department;
+(B) Pay the full initial license fee per § 68-7-211;
+(C) Confirm that the lottery winner's application information
+remains accurate;
+(D) Execute any additional required documents; and
+- 48 - 015689
+
+(E) Provide proof of insurance or binding commitment from an
+insurer.
+(3) If a lottery winner fails to accept the license within thirty (30) days of
+notification, then the license is automatically forfeited. The forfeited license must
+be offered to the first alternate.
+(4) Upon timely acceptance of a license and payment, the department
+must issue a license within ten (10) business days. The issuance of a license
+triggers the start of the six-month buildout timeline pursuant to § 68-7-214.
+(i)
+(1) An applicant that is rejected for failing minimum qualifications may
+request an administrative hearing within thirty (30) days under the Uniform
+Administrative Procedures Act, compiled in title 4, chapter 5. The scope of the
+appeal is limited to whether the department correctly applied qualification
+standards.
+(2) The random selection is not subject to administrative appeal and shall
+not be challenged based on merit or qualifications.
+(3) The lottery results may be challenged in Davidson County chancery
+court only for fraud, misconduct, or irregularities compromising randomness. The
+challenging party must file such an action within thirty (30) days of the lottery
+results announcement. In such an action, the plaintiff bears the burden of
+proving by clear and convincing evidence that the lottery results were invalid due
+to fraud, misconduct, or irregularities compromising randomness.
+(j)
+(1) Tennessee education lottery corporation and department personnel
+involved in application review or lottery conduct shall not have any financial
+interest in an applicant or licensee.
+- 49 - 015689
+
+(2) A person shall not offer anything of value to influence qualification,
+lottery, or award process.
+(3) A violation of this subsection (j) must result in disqualification, license
+revocation, and criminal referral, if appropriate.
+(k)
+(1) The names of applicants, qualified applicants, winners, alternates,
+facility locations, lottery schedules, results, videos, and summary statistics are
+public records.
+(2) Financial details, business plans, security plans, social security
+numbers, dates of birth, home addresses, and background check reports are
+confidential and not subject to public inspection.
+(3) The department must maintain a public webpage with real-time
+updates, winner names, license status, and lottery videos.
+68-7-214. Mandatory inspection timeline.
+(a) The department must conduct a mandatory facility inspection of each
+awarded licensee no later than six (6) months after the date the license was issued.
+(b) The department must provide written notice to each awarded licensee no
+less than thirty (30) days prior to the scheduled inspection date, specifying:
+(1) The date, time, and expected duration of the inspection;
+(2) The specific requirements and standards that will be evaluated during
+the inspection;
+(3) A comprehensive checklist of all buildout completion requirements;
+(4) The consequences of failing to demonstrate buildout completion,
+including license forfeiture as provided in subsection (c); and
+(5) The opportunity for the licensee to request one (1) postponement of
+the inspection for good cause shown, not to exceed thirty (30) additional days.
+- 50 - 015689
+
+(c) The inspection must be conducted by qualified department personnel or
+authorized third-party inspectors designated by the department, and must include:
+(1) Physical examination of the entire licensed facility;
+(2) Review of all construction and renovation documentation;
+(3) Testing of security systems, surveillance equipment, and inventory
+tracking systems;
+(4) Verification of compliance with all applicable building codes, fire
+codes, and safety standards;
+(5) Review of all required permits, certificates of occupancy, and
+regulatory approvals;
+(6) Assessment of the licensee's readiness to commence medical
+cannabis operations; and
+(7) Documentation of any deficiencies or areas of non-compliance.
+(d) Within fifteen (15) business days following the inspection, the department
+must issue a written inspection report to the licensee, which must:
+(1) Detail all findings of the inspection;
+(2) Identify any deficiencies or areas of non-compliance;
+(3) State whether the licensee has achieved buildout completion;
+(4) If buildout completion has not been achieved, specify the exact
+deficiencies that must be remedied; and
+(5) If applicable, provide notice of the right to cure any deficiencies.
+68-7-215. Forfeiture for failure to complete buildout.
+(a) If, at the time of the mandatory inspection conducted pursuant to § 68-7-214,
+the department determines that the awarded licensee has not achieved buildout
+completion, the department must issue a written notice of deficiency to the licensee.
+(b)
+- 51 - 015689
+
+(1) The licensee has thirty (30) calendar days from the date of the notice
+of deficiency to remedy all identified deficiencies and request a re-inspection.
+(2) The licensee must submit a written request for re-inspection to the
+department, along with documentation demonstrating that all deficiencies have
+been remedied.
+(3) The department must conduct the re-inspection within fifteen (15)
+business days of receiving the request.
+(4) The re-inspection fee, if any, must be established by the department
+through rulemaking and shall not exceed the reasonable cost of conducting the
+re-inspection.
+(5) If the licensee achieves buildout completion at the re-inspection, then
+the license shall remain in good standing.
+(6) A licensee may request only one (1) re-inspection under this
+subsection (b).
+(c) If the licensee fails to request a re-inspection within thirty (30) calendar days
+of the notice of deficiency, or if the licensee fails to demonstrate buildout completion at
+the re-inspection, then the license shall be automatically forfeited effective immediately
+upon:
+(1) The expiration of the thirty-day cure period without a re-inspection
+request; or
+(2) The department's written determination following re-inspection that
+buildout completion has not been achieved.
+(d)
+(1) The department's determination of forfeiture under this section is a
+final administrative action subject to judicial review pursuant to the Uniform
+Administrative Procedures Act, compiled in title 4, chapter 5.
+- 52 - 015689
+
+(2) A petition for judicial review must be filed within thirty (30) days of the
+department's final determination.
+(3) Filing a petition for judicial review does not stay the forfeiture or
+prevent reallocation of the forfeited license, unless the reviewing court issues a
+specific order staying the forfeiture pending resolution of the review.
+(e) Upon forfeiture of a license under this section, the forfeiting licensee is not
+entitled to any refund of application fees, license fees, or any other fees paid to the
+department in connection with the forfeited license.
+(f)
+(1) A person or entity that has forfeited a medical cannabis license
+pursuant to this section, and any principal, officer, director, manager, or owner
+holding ten percent (10%) or greater ownership interest in such forfeiting entity, is
+permanently prohibited from:
+(A) Applying for, receiving, or holding a medical cannabis license
+under this part until such time as the general assembly enacts a program
+expansion;
+(B) Serving as a principal, officer, director, manager, or owner of
+ten percent (10%) or greater ownership interest in an entity that applies
+for or holds a medical cannabis license under this part until such time as
+the general assembly enacts a program expansion; and
+(C) Acting as a consultant, advisor, or providing management
+services to a medical cannabis licensee or license applicant under this
+part until such time as the general assembly enacts a program expansion.
+(2) The prohibition set forth in subdivision (f)(1) applies regardless of
+whether the forfeiting entity or individual seeks to apply for the same license type
+or a different license type under this part.
+- 53 - 015689
+
+(3) As used in this subsection (f), "program expansion" means only a
+legislative enactment that increases the total number of medical cannabis
+licenses authorized beyond the number initially authorized when the medical
+cannabis program was established, and does not include:
+(A) The reallocation of forfeited licenses;
+(B) The replacement of licenses that have been revoked for
+cause;
+(C) The addition of new qualifying medical conditions; or
+(D) Any administrative or regulatory changes that do not increase
+the total number of authorized licenses.
+(g) The department must submit a written report to the medical marijuana
+commission no later than thirty (30) days following each inspection period, detailing:
+(1) The total number of licenses awarded;
+(2) The total number of licensees inspected;
+(3) The number of licensees that achieved buildout completion;
+(4) The number of licensees that received notices of deficiency;
+(5) The number of licensees that successfully remedied deficiencies at
+re-inspection;
+(6) The number of licenses forfeited under this section;
+(7) The license types and geographic locations of all forfeited licenses;
+and
+(8) Any recommendations for legislative action or program
+improvements.
+(h)
+(1) Notwithstanding this section to the contrary, the department may
+grant an extension of time to achieve buildout completion, not to exceed ninety
+(90) additional days, upon a showing of good cause by the licensee.
+- 54 - 015689
+
+(2) As used in this subsection (h), "good cause":
+(A) Is limited to:
+(i) Natural disasters, acts of God, or other events beyond
+the licensee's control that have directly prevented buildout
+completion;
+(ii) Documented delays in obtaining building permits,
+certificates of occupancy, or other governmental approvals, where
+the licensee has demonstrated diligent and timely efforts to obtain
+such approvals;
+(iii) Documented supply chain disruptions or labor
+shortages that have materially delayed construction, where the
+licensee has demonstrated reasonable efforts to mitigate such
+delays; or
+(iv) Other extraordinary circumstances that the department
+determines, in its discretion, constitute good cause; and
+(B) Does not include:
+(i) Lack of financing or capital;
+(ii) Business disputes among principals or owners;
+(iii) Ordinary construction delays;
+(iv) Failure to timely commence construction or buildout;
+or
+(v) Any circumstance that was reasonably foreseeable at
+the time the license was awarded.
+(3) A licensee seeking a good cause extension must submit a written
+request to the department no later than fifteen (15) days prior to the scheduled
+inspection date, including:
+- 55 - 015689
+
+(A) A detailed explanation of the circumstances constituting good
+cause;
+(B) Supporting documentation substantiating the claim;
+(C) A realistic timeline for achieving buildout completion; and
+(D) A plan for completing the buildout within the requested
+extension period.
+(4) The department must issue a written decision on any good cause
+extension request within ten (10) business days of receipt.
+(5) A licensee may request only one (1) good cause extension under this
+subsection (h).
+(6) If a good cause extension is granted, and the licensee subsequently
+fails to achieve buildout completion within the extended time period, the license
+shall be forfeited pursuant to subsection (c) without any additional right to cure.
+68-7-216. Merit-based backup pool and reallocation of forfeited licenses.
+(a)
+(1) The department must establish a merit-based backup pool of qualified
+applicants eligible to receive medical cannabis licenses that are forfeited
+pursuant to this part.
+(2) The merit-based backup pool must be established for each license
+type, including dispensary, grower, processor, or other license types established
+by the department, and for each geographic zone or region, if the department
+has established geographic limitations on licenses.
+(3) The merit-based backup pool shall consist of applicants who meet the
+requirements in § 68-7-211.
+(4) Applicants in the merit-based backup pool must maintain their
+qualifications and readiness throughout the duration of the pool. The department
+may remove an applicant from the pool if the applicant:
+- 56 - 015689
+
+(A) No longer meets the minimum qualifications for licensure;
+(B) Fails to maintain site control;
+(C) Fails to maintain adequate capitalization;
+(D) Fails to respond to department inquiries within specified time
+frames; or
+(E) Requests to be removed from the pool.
+(b)
+(1) The department must establish a pre-qualification inspection process
+for applicants seeking inclusion in the merit-based backup pool.
+(2) The pre-qualification inspection shall occur after the initial lottery-
+based license selection but before any licenses are forfeited under § 68-7-215.
+(3) The department must provide written notice to all qualified applicants
+who were not selected in the initial lottery, inviting them to participate in the pre-
+qualification inspection process.
+(4) An applicant wishing to participate in the pre-qualification inspection
+process must:
+(A) Submit a written request to the department within sixty (60)
+days of receiving the invitation;
+(B) Pay a pre-qualification inspection fee, to be established by the
+department through rulemaking, not to exceed the reasonable cost of
+conducting the inspection;
+(C) Provide updated documentation of site control, capitalization,
+business plans, and operational readiness;
+(D) Make the proposed facility available for inspection by the
+department; and
+(E) Demonstrate that the proposed facility can achieve buildout
+completion within six (6) months of receiving a license.
+- 57 - 015689
+
+(5) The pre-qualification inspection must evaluate the requirements in §
+68-7-211.
+(6) Within thirty (30) days of completing the pre-qualification inspection,
+the department must issue a written determination indicating whether the
+applicant has passed the pre-qualification inspection and is eligible for inclusion
+in the merit-based backup pool.
+(7) Applicants who successfully pass the pre-qualification inspection
+must be placed in the merit-based backup pool for their respective license type
+and geographic zone.
+(8) Applicants who do not pass the pre-qualification inspection may
+appeal the department's determination pursuant to the Uniform Administrative
+Procedures Act, compiled in title 4, chapter 5.
+(c)
+(1) The department must establish a merit-based scoring system to rank
+applicants within the merit-based backup pool.
+(2) The scoring system must award points based on the following criteria,
+with specific point values to be established by the department through
+rulemaking:
+(A) Demonstrated financial capacity and access to capital
+(maximum twenty (20) points);
+(B) Experience of management team in cannabis, healthcare,
+agriculture, or related industries (maximum twenty (20) points);
+(C) Strength and comprehensiveness of business plan and
+operational plan (maximum fifteen (15) points);
+(D) Quality and suitability of proposed facility location and design
+(maximum fifteen (15) points);
+- 58 - 015689
+
+(E) Level of operational readiness and ability to commence
+operations quickly (maximum fifteen (15) points);
+(F) Community support and local government endorsements
+(maximum five (5) points);
+(G) Previously licensed by the department of agriculture to grow
+hemp (maximum five (5) points);
+(H) Veterans' ownership or employment (maximum five (5)
+points); and
+(I) Any other criteria established by the department through
+rulemaking, not to exceed a total of one hundred (100) points.
+(3) The department must calculate each applicant's score based on
+information provided during the pre-qualification inspection process and must
+rank applicants within each license type and geographic zone from highest to
+lowest score.
+(4) In the event of tied scores, the department must break the tie by
+lottery.
+(5) The department must maintain a current ranking list for each merit-
+based backup pool and must make the rankings publicly available; provided, that
+specific applicant information that is confidential under state law shall not be
+disclosed.
+(d)
+(1) When a license is forfeited pursuant to this part, the department must
+reallocate the forfeited license to qualified applicants from the merit-based
+backup pool in accordance with this subsection (d).
+(2) Within fifteen (15) business days of a license forfeiture becoming
+final, the department must identify all applicants in the relevant merit-based
+backup pool who are eligible to receive the forfeited license, taking into account:
+- 59 - 015689
+
+(A) The license type of the forfeited license;
+(B) The geographic zone or region of the forfeited license, if
+applicable;
+(C) Any ownership requirements applicable to the forfeited
+license; and
+(D) Current qualification status of backup pool applicants.
+(e)
+(1) From among the eligible applicants identified in subdivision (d)(2), the
+department must conduct a lottery to select the recipient of the forfeited license
+as follows:
+(A) Only applicants who scored in the top fifty percent (50%) of
+the merit-based backup pool for the relevant license type and geographic
+zone are eligible to participate in the lottery;
+(B) If fewer than ten (10) applicants scored in the top fifty percent
+(50%), then the top ten (10) scoring applicants are eligible to participate in
+the lottery, or all applicants if fewer than ten (10) exist in the pool;
+(C) The lottery must be conducted in a public meeting with notice
+provided at least fifteen (15) days in advance;
+(D) The lottery must use a transparent, verifiable random
+selection method;
+(E) The department shall partner with the Tennessee education
+lottery corporation as provided in § 68-7-218 to conduct lottery drawings
+and ensure fairness and transparency; and
+(F) The results of the lottery must be recorded and made publicly
+available.
+- 60 - 015689
+
+(2) The department must notify the lottery-selected applicant in writing
+within five (5) business days of the lottery, informing the applicant that they have
+been selected to receive the forfeited license.
+(3) The selected applicant has thirty (30) calendar days from the date of
+notification to:
+(A) Accept the license award in writing;
+(B) Pay any required license fees;
+(C) Provide updated documentation of site control, capitalization,
+and operational readiness;
+(D) Execute any required agreements or documents; and
+(E) Comply with any other requirements established by the
+department.
+(4) If the selected applicant fails to accept the license and comply with all
+requirements within the thirty-day period, or if the applicant declines the license,
+then the license must be offered to the next applicant selected in a subsequent
+lottery conducted in accordance with subdivision (e)(1).
+(5) Upon a selected applicant's acceptance of the forfeited license and
+compliance with all requirements, the department must issue the license to the
+selected applicant.
+(6) A license reallocated under this subsection (e) is subject to the same
+mandatory inspection timeline and buildout requirements established in this part,
+with the inspection date being six (6) months from the date the reallocated
+license is issued.
+(f)
+(1) If the medical cannabis program or commission establishes
+geographic zones, regions, or limitations on the number of licenses per area,
+then the department must ensure that forfeited licenses are reallocated to
+- 61 - 015689
+
+applicants whose proposed facilities are located in the same geographic zone or
+region as the forfeited license.
+(2) If no qualified applicants exist in the merit-based backup pool for the
+specific geographic zone or region, then the department may:
+(A) Expand the geographic eligibility to adjacent zones or regions;
+(B) Conduct a new limited application period specifically for the
+forfeited license, with applications subject to the same pre-qualification
+inspection and merit-based evaluation process established in this section;
+or
+(C) Hold the license for reallocation when qualified applicants
+become available, for a period not to exceed one (1) year.
+(g)
+(1) The department must submit a written report to the speaker of the
+senate, the speaker of the house of representatives, and the chairs of the senate
+health committee and the committee of the house of representatives with
+jurisdiction over health no later than sixty (60) days following the reallocation of
+each forfeited license, detailing:
+(A) The circumstances of the license forfeiture;
+(B) The number of applicants in the relevant merit-based backup
+pool;
+(C) The scoring and ranking of eligible applicants;
+(D) The lottery selection process and results;
+(E) The identity of the selected applicant;
+(F) The timeline for reallocation; and
+(G) Any challenges or issues encountered in the reallocation
+process.
+68-7-217. Geographic zones.
+- 62 - 015689
+
+(a) For purposes of medical cannabis license distribution under this part, the
+medical marijuana commission is tasked with creating geographic zones based on equal
+or close to equal population distribution across this state.
+(b) The commission must establish geographic zones using county boundaries
+to ensure:
+(1) Each zone contains approximately equal population based on the
+most recent United States census data;
+(2) Counties within each zone are geographically contiguous;
+(3) Reasonable geographic access to medical cannabis dispensaries,
+processors, and cultivators for qualified patients in all areas of the state;
+(4) Fair and equitable distribution of medical cannabis licenses across
+urban, suburban, and rural populations; and
+(5) Consideration of existing healthcare infrastructure and patient
+population density.
+(c) The commission must establish the geographic zones no later than sixty (60)
+days following the effective date of this act and the final zone map must be published on
+the department of health website.
+68-7-218. Licensing by zone.
+(a)
+(1) For purposes of medical cannabis license distribution under this part,
+the medical marijuana commission is tasked with creating the number of licenses
+for each geographic zone established.
+(2) In determining the number of licenses to allocate to each geographic
+zone, the commission shall consider:
+(A) Population of each geographic zone based on the most recent
+United States census data;
+- 63 - 015689
+
+(B) Number of qualified patients and projected patient demand
+within each zone;
+(C) Geographic size and accessibility challenges within each
+zone;
+(D) Existing healthcare infrastructure and pharmacy distribution
+within each zone;
+(E) Rural versus urban population distribution and access needs;
+(F) Economic impact and workforce development opportunities;
+(G) Public safety and regulatory oversight capacity; and
+(H) Recommendations from the department of health and public
+input received during commission meetings.
+(3) Notwithstanding another provision of this part, the department shall
+not issue, award, or authorize any medical cannabis license that would cause the
+number of licenses of a particular license type within a geographic zone to
+exceed the per-zone limit established in subdivision (d)(1).
+(4) For purposes of determining which geographic zone a license is
+allocated to, the zone shall be determined by the county in which the licensed
+facility is physically located.
+(5) A medical cannabis license shall not be transferred, sold, assigned,
+or relocated to a facility in a different geographic zone if such transfer would
+cause the receiving zone to exceed its per-zone license limit, unless a
+corresponding license in the receiving zone is simultaneously transferred to the
+sending zone or otherwise relinquished.
+(b)
+(1) The department must structure the medical cannabis license
+application process to ensure compliance with the geographic zone requirements
+and per-zone license limits established by the commission.
+- 64 - 015689
+
+(2) Each applicant for a medical cannabis license must specify in the
+application:
+(A) The license type being sought;
+(B) The geographic zone in which the applicant proposes to
+locate the licensed facility;
+(C) The specific county within the chosen geographic zone where
+the facility will be located;
+(D) The exact street address or legal description of the proposed
+facility location, or documentation demonstrating site control; and
+(E) Confirmation that the applicant understands that the license, if
+awarded, will be allocated to the specified geographic zone and may not
+be relocated to a different zone except as permitted in subsection (c).
+(3) The department shall partner with the Tennessee education lottery
+corporation to conduct separate lottery drawings for each license type and
+geographic zone per § 68-7-213, as follows:
+(A) Only applicants who designated a particular zone compete for
+licenses in that zone;
+(B) No more than two (2) licenses of each type are awarded per
+zone;
+(C) All zones receive license awards before any zone receives a
+second license of a particular type, to the extent qualified applicants exist
+for all zones; and
+(D) The selection process is conducted in a transparent, verifiable
+manner with public notice.
+(4) To be eligible for a license in any geographic zone, an applicant must:
+(A) Meet all minimum qualifications established by the
+department for the applicable license type;
+- 65 - 015689
+
+(B) Demonstrate site control in the designated geographic zone
+through ownership, lease, or binding purchase or lease agreement;
+(C) Demonstrate financial capacity to establish and operate the
+proposed medical cannabis business;
+(D) Pass all required background checks;
+(E) Demonstrate compliance with all applicable local zoning
+ordinances and land use regulations in the county where the facility will
+be located;
+(F) Obtain any required local approvals or non-objection
+statements, if required by local ordinance; and
+(G) Meet any additional requirements established by the
+department through rulemaking.
+(5) If fewer than two (2) qualified applicants apply for a particular license
+type in a particular geographic zone, the department shall:
+(A) Award licenses to the qualified applicants in that zone;
+(B) Not reallocate the unfilled license slots to another zone during
+the initial license award period;
+(C) Retain the unfilled license slots for future awards in that zone
+if additional qualified applicants emerge; and
+(D) Conduct a supplemental application period specifically for the
+unfilled zones, with reasonable notice to potential applicants, within one
+(1) year of the initial license awards.
+(c)
+(1) A licensee may relocate a licensed facility to a different location within
+the same geographic zone, subject to:
+(A) Prior written approval from the department;
+- 66 - 015689
+
+(B) Compliance with all applicable zoning, building code, and
+local regulatory requirements at the new location;
+(C) Demonstration that the new location meets all facility
+requirements for the license type;
+(D) Payment of any relocation processing fees established by the
+department; and
+(E) Inspection and approval of the new facility by the department
+prior to commencing operations at the new location.
+(2) Except as provided in subdivision (c)(3), a licensee shall not relocate
+a licensed facility to a location in a different geographic zone.
+(3) A licensee may relocate a licensed facility to a different geographic
+zone only if:
+(A) The receiving zone has fewer than two (2) licenses of the
+applicable license type;
+(B) The relocation would not cause the receiving zone to exceed
+its per-zone license limit;
+(C) The department determines that the relocation serves a
+compelling public interest, such as:
+(i) Addressing a documented shortage of access to
+medical cannabis in the receiving zone;
+(ii) Responding to changes in local ordinances or zoning
+that make continued operation in the current zone impractical or
+impossible;
+(iii) Responding to natural disasters, condemnation, or
+other extraordinary circumstances beyond the licensee's control;
+or
+- 67 - 015689
+
+(iv) Other compelling circumstances approved by the
+department;
+(D) The licensee meets all requirements for operating in the
+receiving zone;
+(E) The department approves the zone change in writing; and
+(F) The general assembly is notified of the zone change within
+thirty (30) days.
+(4) When a license is relocated from one (1) zone to another pursuant to
+subdivision (c)(3), the sending zone's license count shall be reduced by one (1),
+and that zone is eligible to receive an additional license of that type in any future
+supplemental application periods or license expansions.
+(d)
+(1) The per-zone license limits established in subdivision (b)(3) may be
+increased only by an act of the general assembly.
+(2) The general assembly may consider increasing per-zone license
+limits based on:
+(A) Demonstrated patient demand exceeding available supply in
+one (1) or more zones;
+(B) Documented access barriers or shortages in particular zones;
+(C) Program performance data showing insufficient competition or
+pricing concerns;
+(D) Recommendations from the commission; or
+(E) Other compelling public interest considerations.
+(3) The general assembly or commission may adjust the geographic
+zone boundaries established in subsection (c) if:
+(A) Demographic, economic, or geographic changes warrant
+adjustment;
+- 68 - 015689
+
+(B) Data shows significant disparities in patient access among
+zones that could be addressed through boundary adjustments;
+(C) The adjustment maintains contiguous county groupings within
+each zone;
+(D) The adjustment maintains a reasonable balance in the
+number of counties per zone; and
+(E) The adjustment does not violate the rights of existing
+licensees or create unfair competitive advantages.
+(4) If zone boundaries are adjusted pursuant to subdivision (d)(3), any
+existing licenses remain valid and must be counted toward the per-zone limit of
+the zone in which the facility is located after the boundary adjustment takes
+effect.
+68-7-219. Requirements for licensed businesses.
+(a) A cannabis business licensed under this part must:
+(1) Comply with this part and any administrative regulations promulgated
+thereunder by the department;
+(2) Conduct a criminal background check into the criminal history of each
+person seeking to become a principal officer, board member, agent, volunteer, or
+employee before that person begins work as follows:
+(A) Each applicant shall submit to a federal bureau of
+investigation (FBI) fingerprint-based background check;
+(B) An applicant is disqualified if the background check reveals
+any felony conviction for a drug offense within the ten (10) years
+preceding the application date;
+(C) A cannabis business shall not employ, accept as a volunteer,
+or have as a board member, principal officer, or agent any person who:
+(i) Was convicted of a disqualifying felony offense; or
+- 69 - 015689
+
+(ii) Is younger than twenty-one (21) years of age;
+(3) Implement appropriate security measures to deter and prevent the
+theft of medical cannabis and unauthorized entrance into areas containing
+medical cannabis;
+(4) Demonstrate sufficient capital to establish the business and meet the
+needs for the type of cannabis business licensed;
+(5) Display the issued license on the premises at all times; and
+(6) Only acquire, possess, cultivate, manufacture, deliver, transfer,
+transport, supply, or dispense medical cannabis:
+(A) For the purposes of distributing medical cannabis to qualifying
+patients; and
+(B) From a cannabis business licensed under this part.
+(b) A cannabis business licensed under this part shall not:
+(1) Be located within one thousand feet (1,000') of an existing elementary
+or secondary school or a daycare center; except that licensed pharmacies are
+exempt from this restriction;
+(2) Sell:
+(A) Raw plant material;
+(B) Any medical cannabis product with a delta-9
+tetrahydrocannabinol content of more than ninety percent (90%);
+(C) Any medical cannabis product that contains vitamin E
+acetate; or
+(D) Any medical cannabis product that does not have a full panel
+test through a testing laboratory;
+(3) Permit a person under eighteen (18) years of age to enter or remain
+on the premises of a cannabis business;
+- 70 - 015689
+
+(4) Permit a person who is not a patient to enter or remain on the
+premises of a cannabis business, except in accordance this section;
+(5) Employ, have as a board member, or be owned by, in part or in
+whole, a medical cannabis physician;
+(6) Advertise medical cannabis sales in print, broadcast, online, by paid
+in-person solicitation of customers, or by any other advertising device, except
+that this subdivision (b)(6) does not prevent appropriate signs on the property of
+a licensed cannabis business, listings in business directories, including phone
+books, listings in trade or medical publications, or sponsorship of health or not-
+for-profit charity or advocacy events; or
+(7) Use signage, symbols, or marketing materials that:
+(A) Include cannabis leaf imagery, green crosses, or other
+symbols commonly associated with recreational cannabis use;
+(B) Are designed in a manner that appeals to minors or creates a
+carnival-like atmosphere;
+(C) Are visible from public rights-of-way in a manner that
+promotes or normalizes cannabis use beyond its medical purpose;
+(D) Use neon, flashing, or animated displays; or
+(E) Include language or imagery that suggests recreational use,
+intoxication, or non-medical benefits.
+(c) The operating documents of a cannabis business must include procedures
+for its oversight and procedures to ensure accurate recordkeeping and inventory control.
+(d) When transporting medical cannabis on behalf of a cannabis business that is
+permitted to transport it, a cannabis business agent shall have:
+(1) A copy of the cannabis business license for the business that
+employs the agent;
+- 71 - 015689
+
+(2) Documentation that specifies the amount of medical cannabis being
+transported and the date on which it is being transported; and
+(3) The cannabis business license number and telephone number of any
+other cannabis business receiving or otherwise involved in the transportation of
+the medical cannabis.
+(e) The cultivation of medical cannabis for cannabis businesses licensed in this
+state must only be done by cultivators licensed under this part and must only take place
+in an enclosed, locked facility that can only be accessed by cultivator agents working on
+behalf of the cultivator at the physical address or global positioning system coordinates
+provided to the department during the license application process.
+(f) A person who is at least eighteen (18) years of age but not a patient may be
+allowed to enter and remain on the premises of a cannabis business if:
+(1) The person is present at the cannabis business to perform contract
+work, including, but not limited to, electrical, plumbing, or security maintenance
+that does not involve handling medical cannabis; or
+(2) The person is a government employee and is at the cannabis
+business in the course of the person's official duties.
+68-7-220. Reasonable inspection by the department.
+(a) A cannabis business is subject to reasonable inspection by the department
+pursuant to the department's procedures or administrative regulations. The department
+may inspect any licensed cannabis business premises without having to first obtain a
+search warrant.
+(b) The department may, on its own motion or on complaint, after investigation
+and opportunity for a public hearing at which the cannabis business has been afforded
+an opportunity to appear and be heard, suspend or revoke a cannabis business license
+for multiple violations or a serious violation of this part or any administrative regulations
+- 72 - 015689
+
+promulgated thereunder by the licensee or any of its agents. A suspension must not be
+for a period of time longer than six (6) months.
+(c) The department must provide notice of suspension, revocation, fine, or other
+penalty, as well as the required notice of the hearing, by mailing, via certified mail, the
+same in writing to the cannabis business at the address on the license. The cannabis
+business may, within thirty (30) days after the date of the mailing of the department's
+notice, file a written request for an administrative hearing regarding the suspension,
+revocation, fine, or other penalty.
+(d) Final orders of the department after administrative hearings are subject to
+judicial review. Jurisdiction and venue for judicial review are vested in the circuit court of
+the county in which the cannabis business is physically located.
+(e) A cultivator may continue to cultivate and possess cannabis plants during a
+suspension, but shall not transfer or sell medical cannabis during a suspension.
+(f) A dispensary may continue to possess its existing medical cannabis inventory
+during a suspension, but shall not acquire additional medical cannabis, or dispense,
+transfer, or sell medical cannabis during a suspension.
+(g) A processor may continue to process and possess its existing medical
+cannabis inventory during a suspension, but shall not acquire additional medical
+cannabis, or dispense, transfer, or sell medical cannabis products during a suspension.
+(h) A testing laboratory may continue to possess medical cannabis during a
+suspension, but shall not receive any new medical cannabis, test, or otherwise analyze
+medical cannabis, or transfer or transport medical cannabis during a suspension.
+68-7-221. Cultivators; cultivator tiers and square feet limitations.
+(a) A cultivator or cultivator agent acting on behalf of a cultivator shall not be
+subject to prosecution under state or local law, to search or inspection except by the
+department pursuant to § 68-7-220, or to seizure or penalty in any manner, or be denied
+any right or privilege, including, but not limited to, civil penalty or disciplinary action by a
+- 73 - 015689
+
+court or business licensing board, for acting pursuant to this part and the department's
+administrative regulations for:
+(1) Acquiring, possessing, planting, cultivating, raising, harvesting,
+trimming, or storing cannabis seeds, seedlings, plants, or raw plant material;
+(2) Delivering, transporting, transferring, supplying, or selling raw plant
+material or related supplies to other licensed cannabis businesses in this state; or
+(3) Selling cannabis seeds or seedlings to similar entities that are
+licensed to cultivate cannabis in this state or in any other jurisdiction.
+(b) Cultivators and cultivator agents acting on behalf of a cultivator shall:
+(1) Only deliver raw plant material to a licensed processor for fair market
+value;
+(2) Only deliver raw plant material to a processor after the raw plant
+material has been checked by a licensed testing laboratory agent for cannabinoid
+contents and contaminants in accordance with administrative regulations
+promulgated by the department;
+(3) Not supply a processor with more than the amount of raw plant
+material reasonably required by a processor; and
+(4) Not deliver, transfer, or sell raw plant material with a delta-9
+tetrahydrocannabinol content of more than thirty-five percent (35%) to a licensed
+processor.
+(c)
+(1) A Tier I cultivator shall not exceed an indoor growth area of two
+thousand five hundred (2,500) square feet.
+(2) A Tier II cultivator shall not exceed an indoor growth area of fifteen
+thousand (15,000) square feet.
+(3) A Tier III cultivator shall not exceed an indoor growth area of thirty
+thousand (30,000) square feet.
+- 74 - 015689
+
+68-7-222. Dispensary and dispensary agent; civil liability.
+(a) A dispensary or dispensary agent acting on behalf of a dispensary is not
+subject to prosecution under state or local law, to search or inspection except by the
+department pursuant to § 68-7-220, to seizure or penalty in any manner, or denial of any
+right or privilege, including, but not limited to, a civil penalty or disciplinary action by a
+court or business licensing board, for acting pursuant to this part and the department's
+administrative regulations for:
+(1) Acquiring or possessing medical cannabis from a processor in this
+state;
+(2) Acquiring or possessing medical cannabis accessories or educational
+material;
+(3) Supplying, selling, dispensing, distributing, or delivering medical
+cannabis, medical cannabis accessories, and educational material to qualified
+patients or other dispensaries;
+(4) Selling cannabis seeds to similar entities that are licensed to cultivate
+cannabis in this state or in any other jurisdiction;
+(5) Acquiring, accepting, or receiving medical cannabis products from a
+qualified patient, except that a dispensary may not offer anything of monetary
+value in return for medical cannabis received from a qualified patient. Any
+medical cannabis received by a dispensary under this subdivision (a)(5) must be
+destroyed by the dispensary or its agents and shall not be sold, dispensed, or
+distributed to another patient; or
+(6) Acquiring a pharmacist to employ or contract with the dispensary to
+provide qualified patient consultation.
+(b) A dispensary or dispensary agent acting on behalf of a dispensary must:
+(1) Maintain records that include specific notations of the amount of
+medical cannabis being dispensed to a qualified patient and whether the medical
+- 75 - 015689
+
+cannabis was dispensed directly to a registered qualified patient or visiting
+qualified patient, or to a registered qualified patient's designated caregiver. Each
+entry must include the date and time the medical cannabis was dispensed. The
+data required to be recorded by this subdivision (b)(1) must be entered into the
+electronic monitoring system established pursuant to § 68-7-229 in accordance
+with administrative regulations promulgated by the department for the recording
+of medical cannabis dispensing;
+(2) Only dispense or sell medical cannabis after the medical cannabis
+has been checked by a testing laboratory agent for cannabinoid contents and
+contaminants in accordance with administrative regulations promulgated by the
+department;
+(3) Only dispense or sell medical cannabis to a registered qualified
+patient or visiting qualified patient after determining:
+(A) That the prescription or the out-of-state registry identification
+card presented to the dispensary is valid, including by checking the
+verification system, if it is operational, or other database designated by
+the department;
+(B) That the person presenting the prescription or, for visiting
+qualified patients, the out-of-state registry identification card is at least
+eighteen (18) years of age and is the person identified on the prescription
+or registry identification card by examining at least one (1) other form of
+government-issued photo identification; and
+(C) The amount of medical cannabis the person is legally
+permitted to purchase by checking the electronic monitoring system
+established pursuant to § 68-7-229;
+(4) Not acquire, possess, dispense, sell, offer for sale, transfer, or
+transport:
+- 76 - 015689
+
+(A) Raw plant material; or
+(B) Any medical cannabis product that contains vitamin E acetate;
+(5) Not acquire medical cannabis from any person other than a cannabis
+business licensed under this part, or an agent thereof, a registered qualified
+patient, or a designated caregiver;
+(6) Not sell or dispense medical cannabis products intended for
+consumption by vaporizing to a patient who is younger than twenty-one (21)
+years of age or to a designated caregiver for a registered qualified patient who is
+younger than twenty-one (21) years of age;
+(7) Not dispense or sell medical cannabis to a minor;
+(8) Not dispense or sell more medical cannabis to a patient than the
+patient is legally permitted to purchase at the time of the transaction; and
+(9) Not rent office space to a medical cannabis physician.
+(c)
+(1) A dispensary may operate a delivery service for patients and may
+deliver medical cannabis, medical cannabis accessories, and educational
+material to patients at the address identified with the patient.
+(2) All delivery services operated or offered by a dispensary shall comply
+with administrative regulations promulgated by the department.
+(d) If a dispensary or dispensary agent fails to comply with this section, the
+dispensary and dispensary agent are liable in a civil action for compensatory and
+punitive damages and reasonable attorney's fees to any person or the representative of
+the estate of any person who sustains injury, death, or loss to person or property as a
+result of the failure to comply with this section. In an action under this subsection (d),
+the court may also award any injunctive or equitable relief that the court considers
+appropriate.
+68-7-223. Processors and processor agents; permissible actions.
+- 77 - 015689
+
+(a) A processor or processor agent acting on behalf of a processor is not subject
+to prosecution under state or local law, to search or inspection except by the department
+pursuant to § 68-7-220, to seizure or penalty in any manner, or denial of any right or
+privilege, including, but not limited to, civil penalty or disciplinary action by a court or
+business licensing board, for acting pursuant to this part and the department's
+administrative regulations for:
+(1) Acquiring or purchasing raw plant material from a cultivator or
+processor in this state;
+(2) Possessing, processing, preparing, manufacturing, manipulating,
+blending, preparing, or packaging medical cannabis;
+(3) Transferring, transporting, supplying, or selling medical cannabis and
+related supplies to other cannabis businesses in this state; or
+(4) Selling cannabis seeds or seedlings to similar entities that are
+licensed to cultivate cannabis in this state or in any other jurisdiction.
+(b) A processor licensed under this section shall not possess, process, produce,
+or manufacture:
+(1) Raw plant material with a delta-9 tetrahydrocannabinol content of
+more than thirty-five percent (35%);
+(2) Medical cannabis products intended for oral consumption as an
+edible, oil, or tincture with more than the allowed amount of cannabinoids; or
+(3) Any medical cannabis product that contains vitamin E acetate.
+68-7-224. Pharmacist employment or contract requirement.
+(a) Every medical cannabis dispensary licensed under this part must employ or
+contract with at least one (1) licensed pharmacist to serve as the dispensary pharmacist
+and to provide patient consultation services as required by this section.
+(b) A dispensary may satisfy the requirement in subsection (a) through any of
+the following arrangements:
+- 78 - 015689
+
+(1) Direct employment of one (1) or more licensed pharmacists;
+(2) Independent contractor agreement with one (1) or more licensed
+pharmacists;
+(3) Contract with a pharmacy consulting firm or telehealth service that
+employs licensed pharmacists;
+(4) Contract with licensed pharmacists who provide consultation services
+via secure telehealth technology;
+(5) Shared pharmacist arrangements with other dispensaries to jointly
+employ or contract with one (1) or more licensed pharmacists; or
+(6) Other lawful arrangements approved by the department that ensure
+access to licensed pharmacist consultation services.
+(c) Regardless of the arrangement used, the dispensary must ensure that:
+(1) Pharmacist consultation services are available during all hours that
+the dispensary is open for business;
+(2) The dispensary pharmacist has access to all information necessary to
+provide effective consultation; and
+(3) The arrangement complies with all applicable laws and regulations
+governing pharmacy practice and patient privacy.
+(d) Each dispensary must designate one (1) licensed pharmacist as the
+pharmacist-in-charge who has primary responsibility for ensuring the dispensary's
+compliance with all pharmacist consultation requirements.
+(e) The dispensary must notify the department in writing within ten (10) business
+days of:
+(1) Initially employing or contracting with a pharmacist-in-charge;
+(2) Any change in the pharmacist-in-charge; or
+(3) Loss of pharmacist affiliation.
+- 79 - 015689
+
+(f) A dispensary shall not dispense medical cannabis products without having a
+current, valid employment or contractual relationship with at least one (1) licensed
+pharmacist.
+(g) If a dispensary loses its pharmacist affiliation, then the dispensary must:
+(1) Immediately cease dispensing medical cannabis products;
+(2) Notify the department within three (3) business days;
+(3) Engage a replacement pharmacist within thirty (30) days; and
+(4) Resume operations only after the department verifies that a qualified
+replacement pharmacist has been engaged.
+(h) The department must coordinate with the board of pharmacy in implementing
+this section, including consulting on pharmacist qualification standards, training
+requirements, and referring professional misconduct concerns for investigation and
+potential disciplinary action.
+68-7-225. Mandatory patient consultation requirements.
+(a) A dispensary must ensure that a dispensary pharmacist provides patient
+consultation in the following circumstances:
+(1) Initial consultation: every qualified patient or designated caregiver
+obtaining medical cannabis products from a dispensary for the first time must
+receive an initial patient consultation from a dispensary pharmacist before
+products are dispensed;
+(2) Significant change in therapy: when a qualified patient requests or is
+recommended a product that represents a significant change in the qualified
+patient's medical cannabis therapy;
+(3) Qualified patient request: whenever a qualified patient or designated
+caregiver requests to speak with a pharmacist;
+- 80 - 015689
+
+(4) Staff or pharmacist concern: when dispensary staff or a pharmacist
+identifies concerns about a qualified patient's product selection, potential drug
+interactions, reported adverse effects, or any other patient safety issue; and
+(5) Other circumstances: any other circumstances determined by the
+department through rulemaking to require pharmacist consultation.
+(b) The mandatory consultation requirements are not waivable by the patient,
+the dispensary, or the pharmacist.
+(c) Patient consultation may be provided in person at the dispensary or via real-
+time telehealth using secure, HIPAA-compliant audio-video technology.
+68-7-226. Testing laboratory and testing laboratory agent; permissible actions.
+A testing laboratory or testing laboratory agent acting on behalf of a testing
+laboratory is not subject to prosecution, search except by the department pursuant to §
+68-7-220, seizure, or penalty in any manner, or denial of any right or privilege, including,
+but not limited to, civil penalty or disciplinary action by a court or business licensing
+board, for acting in accordance with this part and the department's administrative
+regulations to provide the following services:
+(1) Acquiring or possessing medical cannabis obtained from qualified
+patients or cannabis businesses in this state;
+(2) Returning the medical cannabis to qualified patients or cannabis
+businesses in this state;
+(3) Transporting medical cannabis that was produced by cannabis
+businesses in this state;
+(4) The production or sale of approved educational materials related to
+the use of medical cannabis;
+(5) The production, sale, or transportation of equipment or materials
+other than medical cannabis, including, but not limited to, lab equipment and
+packaging materials that are used by cannabis businesses under this part;
+- 81 - 015689
+
+(6) Testing of medical cannabis produced in this state, including testing
+for cannabinoid content, solvents, pesticides, mold, contamination, vitamin E
+acetate, and other prohibited additives;
+(7) Training patients and cannabis business agents. Training may
+include, but need not be limited to:
+(A) The safe and efficient cultivation, harvesting, packaging,
+labeling, and distribution of medical cannabis;
+(B) Security and inventory accountability procedures; and
+(C) Up-to-date scientific and medical research findings related to
+the use of medical cannabis;
+(8) Receiving compensation for actions allowed under this section; and
+(9) Engaging in any noncannabis-related business activities that are not
+otherwise prohibited or restricted by state law.
+68-7-227. Local government; ordinances regulating or prohibiting cannabis.
+(a) As used in this section, "local government" means a municipality or county.
+(b) A local government may:
+(1) Enact ordinances not in conflict with this part or with the department's
+administrative regulations, regulating the time, place, and manner of cannabis
+business operations; except that a local government shall not enact ordinances
+that impose an undue burden or make cannabis business operations
+unreasonable or impractical;
+(2) Prohibit all cannabis business operations within its territory through
+the passage of an ordinance; or
+(3) Enact a resolution directing that the question of prohibiting cannabis
+businesses from operating within its territory be submitted to the voters of its
+territory at the next regular election pursuant to subsection (e).
+- 82 - 015689
+
+(c) If a county prohibits all cannabis business operations, the legislative body of
+a municipality located within the county may:
+(1) Approve cannabis business operations within the limits of the
+municipality through the passage of an ordinance; or
+(2) Enact a resolution directing that the question of allowing cannabis
+businesses to operate within the limits of the municipality be submitted to the
+voters who are eligible to vote in that municipality's elections at the next regular
+election pursuant to subsection (e).
+(d) If a local government legislative body with jurisdiction prohibits cannabis
+business operations through the passage of an ordinance, a public question that is
+initiated by petition and that proposes allowing a cannabis business to operate within the
+affected territory is authorized.
+(e) A public question that is initiated by petition or by resolution and is authorized
+by this section shall be submitted to the voters within the affected territory at the next
+regular election by complying with the following requirements:
+(1) For a public questions initiated by petition:
+(A) Before a petition for submission of the proposal may be
+presented for signatures, an intent to circulate the petition, including a
+copy of the unsigned petition, must be filed with the county election
+commission of the affected territory by any person or group of persons
+seeking the submission of the public question. The statement of intent
+must include the addresses of the person or group of persons and must
+specify the person or group of persons, as well as the address, to whom
+all notices are to be sent. Within ten (10) days after the intent to circulate
+the petition is filed, the county election commission shall deliver a copy of
+the intent to circulate the petition, including a copy of the unsigned
+petition, to the legislative body of the affected territory;
+- 83 - 015689
+
+(B) The petition must set out in full the following question: "Are
+you in favor of the sale of medical cannabis at a licensed dispensary and
+the operation of other cannabis businesses in (affected zone)?";
+(C) The petition for the submission of the proposal must be
+signed by a number of constitutionally qualified voters of the territory to be
+affected equal to five percent (5%) of registered voters for the affected
+zone;
+(D) Each signature must be executed in ink or indelible pencil and
+shall be followed by the legibly printed name of each voter, followed by
+the voter's residence address, year of birth, and the correct date upon
+which the voter's name was signed;
+(E) A petition for the submission of the proposal must not be
+circulated for more than six (6) months prior to its filing;
+(F) After a petition for the submission of the proposal has
+received the number of qualifying signatures required by subdivision
+(e)(1)(C), the signed petition must be filed with the county election
+commission. When the petition is filed, each sheet of the petition must
+have an affidavit executed by the circulator stating that the circulator
+personally circulated the sheet, the number of signatures thereon, that all
+signatures were affixed in the circulator's presence, that the circulator
+believes the signatures to be the genuine signatures of registered voters
+within the affected territory, and that each signer had an opportunity
+before signing to read the full text of the proposal;
+(G) A signer of the petition shall not withdraw the signer's name
+or have the name taken from the petition after the petition has been filed.
+If the name of any person has been placed on the petition for submission
+of the public question without that person's authority, then the person
+- 84 - 015689
+
+may, at any time prior to certification of sufficiency of the petition by the
+county election commission as required by subdivision (e)(1)(H), request
+the removal of the name by the county election commission and, upon
+proof that the person's name was placed on the petition without the
+person's authority, the person's name and personal information must be
+eliminated, and the person must not be counted as a petitioner;
+(H) Within thirty (30) days after the petition is filed, the county
+election commission shall complete a certificate as to its sufficiency or, if
+insufficient, specifying the particulars of the insufficiency, and shall send a
+copy to the person specified in the statement of intent to receive all
+notices and to the legislative body of the affected territory, all by
+registered mail. A petition certified insufficient for lack of the required
+number of valid signatures may be amended once by filing a
+supplemental petition upon additional sheets within thirty (30) days after
+receiving the certificate of insufficiency. The supplemental petition must
+comply with the requirements applicable to the original petition and, within
+ten (10) days after the supplemental petition is filed, the county election
+commission shall complete a certificate as to the sufficiency of the petition
+as amended and promptly send a copy of the certificate to the person
+specified to receive all notices and to the legislative body of the affected
+territory by registered mail; and
+(I) A final determination as to the sufficiency of a petition is
+subject to review in the circuit court of the county of the affected territory
+and such review is limited to the validity of the county election
+commission's determination. A final determination of insufficiency shall
+not prejudice the filing of a new petition for the same purpose; and
+- 85 - 015689
+
+(2) If, not later than the established deadline for nominating petitions for a
+regular November election, the county election commission has certified that a
+petition is sufficient or has received a local government resolution pursuant to
+subsection (b) or (c), then the county election commission must have prepared to
+place before the voters of the affected territory at the next regular election the
+question, which shall be "Are you in favor of the sale of medical cannabis at a
+licensed dispensary and the operation of other cannabis businesses in (affected
+territory)? Yes / No". The county election commission must cause to be
+published in accordance with § 2-5-211, the full text of the proposal.
+(f) If the question submitted to the voters under subsection (e) fails to pass, one
+(1) year must elapse before the question of medical cannabis sales and cannabis
+business operations may be included on a regular election ballot for the affected
+territory.
+(g) If the question submitted to the voters under subsection (e) passes, medical
+cannabis sales and cannabis business operations may be conducted in the affected
+territory, notwithstanding any local government ordinances which prohibit all cannabis
+business operations within its territory.
+(h) In circumstances where a county prohibits cannabis business operations, but
+a municipality within that county approves cannabis business operations either through
+the adoption of an ordinance or following the affirmative vote of a public question
+allowing cannabis business operations, then:
+(1) The cannabis business operations may proceed within the limits of
+the municipality; and
+(2) The county may assess an additional reasonable fee to compensate
+for any additional corrections impact caused by the approval of cannabis
+business operations. Any additional fees collected pursuant to this subsection
+- 86 - 015689
+
+(h) must not exceed the additional corrections impact caused by the approval of
+cannabis business operations.
+(i) In circumstances where neither a municipality nor the county in which the
+municipality is located prohibit cannabis business operations, a cannabis business that
+is located within the jurisdiction of both the municipality and the county shall only pay the
+reasonable established local fees of either the municipality or the county. The fee must
+be established, assessed, collected, and shared between the municipality and the
+county in a manner to be negotiated between the municipality and the county.
+(j) The provisions of general election law apply to public questions submitted to
+voters under this section.
+(k) Notwithstanding another provision of this part, medical cannabis businesses
+are not automatically allowed to operate in any municipality or county, and a municipality
+or county vote must happen first to approve cannabis business operations before any
+licensed cannabis business may commence operations within that jurisdiction.
+68-7-228. Confidential list of patients; penalty.
+(a) The department must maintain a confidential list of the registered qualified
+patients and their addresses, telephone numbers, and registry identification numbers.
+(b) The department must, only at a qualified patient's request, confirm the
+patient's status as a registered qualified patient, visiting qualified patient, or designated
+caregiver to a third party, such as a landlord, employer, school, medical professional, or
+court.
+(c)
+(1) The following information received and records kept pursuant to the
+department's administrative regulations promulgated for purposes of
+administering this part are confidential and are not subject to the open records
+law, compiled in title 10, chapter 7, and are not subject to disclosure to any
+- 87 - 015689
+
+individual or public or private entity, except as necessary for authorized
+employees of the department to perform official duties pursuant to this part:
+(A) Applications and renewals, including the contents and
+supporting information submitted by qualified patients and visiting
+qualified patients and information regarding medical cannabis physicians;
+(B) Any dispensing information, which must not contain names or
+other personal identifying information; and
+(C) Any department hard drives or other data-recording media
+that are no longer in use and that contain patient information. The hard
+drives and other media must be destroyed after a reasonable time or after
+the data is otherwise stored.
+(2) Data subject to this section must not be combined or linked in any
+manner with any other list or database maintained by the department and must
+not be used for any purpose not provided for in this part.
+(d) This section does not preclude the following:
+(1) Notification by the department's employees to state or local law
+enforcement about falsified or fraudulent information submitted to the department
+or of other apparently criminal violations of this part if the employee who
+suspects that falsified or fraudulent information has been submitted has
+conferred with the employee's supervisor and both agree that circumstances
+exist that warrant reporting;
+(2) Notification by the department employees to a state licensing board if
+the department has reasonable suspicion to believe a medical cannabis
+physician did not have a bona fide physician-patient relationship with a qualified
+patient for whom the physician signed a prescription, if the department has
+reasonable suspicion to believe the medical cannabis physician violated the
+- 88 - 015689
+
+standard of care, or for other suspected violations of this part by a medical
+cannabis physician;
+(3) Notification by dispensary agents to the department of a suspected
+violation or attempted violation of this part or the administrative regulations
+promulgated thereunder; and
+(4) The submission of the report required by § 68-7-202.
+(e) A person commits a Class A misdemeanor who knowingly releases
+information in violation of this section.
+68-7-229. Electronic monitoring system.
+(a) No later than six (6) months after the effective date of this act, the
+department must:
+(1) Ensure that an electronic monitoring system is designed or configured
+to enable:
+(A) Medical cannabis physicians to record the issuance of
+prescriptions to qualified patients;
+(B) The department and commission to monitor the issuance of
+prescriptions by medical cannabis physicians;
+(C) Department personnel, law enforcement personnel, and
+dispensary agents to verify the validity of registry of qualified patients;
+(D) Law enforcement personnel and dispensary agents to access
+medical cannabis sales data recorded by dispensary agents;
+(E) Dispensary agents to record the amount of medical cannabis
+that is dispensed to a qualified patient during each transaction; and
+(F) The sharing of dispensing data recorded by dispensary
+agents with all dispensaries in real time;
+- 89 - 015689
+
+(2) Ensure that the electronic monitoring system is designed to facilitate
+the tracking of medical cannabis from the point of cultivation to the point of sale
+to qualified patients;
+(3) Procure and maintain a centralized computer software tracking
+system that tracks cannabis from seed or immature plant stage through growth,
+harvest, and processing, to testing, transport, recall of product and sale, and
+allows real-time, twenty-four-hour access by the department to data from each
+medical cannabis business licensed under this part. The tracking system must
+uniquely identify and track each cannabis plant, package, and product. Each
+medical cannabis business is responsible for ensuring that all medical cannabis
+sold or disbursed to a registered qualifying patient or registered designated
+caregiver is recorded in the tracking system as a purchase by or on behalf of the
+applicable registered qualifying patients. Each medical cannabis licensee shall
+use the tracking system established by the department, either directly or by
+integrating its own enterprise software system with the tracking system. Each
+medical cannabis licensee shall be responsible for the costs associated with
+compliance;
+(4) Establish:
+(A) Procedures for the issuance, renewal, suspension, and
+revocation of registry identification cards, including the creation of a
+standardized:
+(i) Prescription form; and
+(ii) Application form, which the department must require to
+be notarized;
+(B) Procedures for the issuance and revocation of qualified
+patient registrations;
+- 90 - 015689
+
+(C) Procedures for the issuance, renewal, suspension, and
+revocation of cannabis business licenses, including the creation of a
+uniform licensure application form, which the department shall require to
+be notarized, and minimal performance standards for a biennial
+accreditation process;
+(D) A convenience fee to be assessed and collected by
+dispensaries for visiting qualified patients who do not possess a valid
+registry identification card issued by the department and who purchase
+medical cannabis with an out-of-state registry identification card and
+documentation of having been diagnosed with a qualifying medical
+condition. The convenience fee established pursuant to this subdivision
+(a)(4)(D) must not exceed fifteen dollars ($15.00) per transaction;
+(E) In collaboration with the board of medical examiners, board of
+nursing, and the commission, an amount of medical cannabis or delta-9
+tetrahydrocannabinol that constitutes a daily supply, an uninterrupted ten-
+day supply, and an uninterrupted thirty-day supply of medical cannabis;
+(F) A process by which a medical cannabis physician may
+recommend, and a registered qualified patient or the patient's designated
+caregiver may legally purchase and possess, an amount of medical
+cannabis in excess of the thirty-day supply of medical cannabis, if the
+medical cannabis physician reasonably believes that the standard thirty-
+day supply would be insufficient in providing the patient with uninterrupted
+therapeutic or palliative relief;
+(G) Provisions governing the following matters related to
+cannabis businesses with the goal of protecting against diversion and
+theft, without imposing any undue burden that would make cannabis
+- 91 - 015689
+
+business operations unreasonable or impractical on cannabis businesses
+or compromising the confidentiality of patients:
+(i) Recordkeeping and inventory control requirements,
+including the use of the electronic monitoring system;
+(ii) Procedures for the verification and validation of a
+registry identification card, or its equivalent, that was issued
+pursuant to the laws of another state, district, territory,
+commonwealth, or insular possession of the United States that
+allows for the use of medical cannabis in the jurisdiction of
+issuance;
+(iii) Security requirements for testing laboratories,
+processors, dispensaries, and cultivators, which must include, at a
+minimum, lighting, video security, alarm requirements, on-site
+parking, and measures to prevent loitering;
+(iv) Procedures for the secure transportation, including
+delivery services provided by dispensaries, and storage of medical
+cannabis by cannabis business licensees and the licensee's
+employees or agents;
+(v) Employment and training requirements for licensees
+and the licensee's agents, including requiring each licensee to
+create an identification badge for each of the licensee's agents or
+employees; and
+(vi) Restrictions on visits to licensed cultivation and
+processing facilities, including requiring the use of visitor logs;
+(H) Procedures to establish, publish, and annually update a list of
+varieties of cannabis that possess a low but effective level of
+tetrahydrocannabinol, including the substance cannabidiol, by comparing
+- 92 - 015689
+
+percentages of chemical compounds within a given variety against other
+varieties of cannabis;
+(I) A rating system that tracks the terpene content of at least the
+twelve (12) major terpenoids within each strain of cannabis available for
+medical use within this state;
+(J) Requirements for random sample testing of medical cannabis
+to ensure quality control, including testing for cannabinoids, terpenoids,
+residual solvents, pesticides, poisons, toxins, mold, mildew, insects,
+bacteria, and any other dangerous adulterant;
+(K) Requirements for licensed cultivators and processors to
+contract with an independent testing laboratory to test the medical
+cannabis before it is sold at a dispensary. The department may approve
+the testing laboratory chosen by a cultivator or processor and require that
+the testing laboratory report test results for a designated quantity of
+medical cannabis to the cultivator or processor and department;
+(L) Standards for the operation of testing laboratories, which may
+include:
+(i) Requirements for equipment;
+(ii) Personnel qualifications; and
+(iii) Requiring facilities to be accredited by a relevant
+certifying entity;
+(M) Standards for the packaging and labeling of medical cannabis
+sold or distributed by cannabis businesses which must comply with 15
+U.S.C. §§ 1471-1476 and include:
+(i) Packaging that requires at least a two-step process of
+initial opening;
+- 93 - 015689
+
+(ii) A warning label which may include the length of time in
+which the product typically takes effect, how long the effects of the
+product typically last, and any other information deemed
+appropriate or necessary by the department;
+(iii) The amount of medical cannabis the product is
+considered the equivalent to;
+(iv) Disclosure of ingredients, possible allergens, and
+certain bioactive components, including cannabinoids and
+terpenoids, as determined by the department;
+(v) A nutritional fact panel;
+(vi) Opaque, child-resistant packaging;
+(vii) A requirement that medical cannabis products be
+clearly marked with an identifiable and standardized symbol
+indicating that the product contains cannabis;
+(viii) A requirement that all medical cannabis product
+packaging include an expiration date; and
+(ix) A requirement that medical cannabis products and
+their packaging not be visually reminiscent of major brands of
+edible non-cannabis products or otherwise present an attractive
+nuisance to minors;
+(N) Health and safety requirements for the processing of medical
+cannabis and the indoor cultivation of medical cannabis by licensees;
+(O) Restrictions on:
+(i) Additives to medical cannabis that are toxic, including
+vitamin E acetate, or increase the likelihood of addiction; and
+- 94 - 015689
+
+(ii) Pesticides, fertilizers, and herbicides used during
+medical cannabis cultivation which pose a threat to human health
+and safety;
+(P) Standards for the safe processing of medical cannabis
+products created by extracting or concentrating compounds from raw
+plant material;
+(Q) Restrictions on advertising, marketing, and signage in regard
+to operations or establishments owned by licensees necessary to prevent
+the targeting of minors;
+(R) The requirement that evidence-based educational materials
+regarding dosage and impairment be disseminated to registered qualified
+patients, visiting qualified patients, and designated caregivers who
+purchase medical cannabis products;
+(S) Policies governing insurance requirements for cultivators,
+dispensaries, processors, and testing laboratories; and
+(T) Standards, procedures, or restrictions that the department
+deems necessary to ensure the efficient, transparent, and safe operation
+of the medical cannabis program, except that the department must not
+promulgate any administrative regulation that would impose an undue
+burden or make cannabis business operations unreasonable or
+impractical.
+(b) Except as provided this section, the department shall not restrict or limit
+methods of delivery, use, or consumption of medical cannabis or the types of products
+that may be acquired, produced, processed, possessed, sold, or distributed by a
+cannabis business.
+(c) If a need for additional cannabis cultivation, processing, or dispensaries in
+this state is demonstrated by the department's own analysis, then the department may
+- 95 - 015689
+
+request the commission to consider the additional cultivation, processing, or dispensary
+locations within the zones.
+(d) When promulgating regulations and procedures under this section, the
+department must consider standards, procedures, and restrictions that have been found
+to be best practices relative to the use and regulation of medical cannabis.
+68-7-230. Department of health.
+(a) Upon the effective date of the federal government's rescheduling of cannabis
+from Schedule I to Schedule III under the Controlled Substances Act, 21 U.S.C. § 801 et
+seq., as evidenced by publication of a final rule in the Federal Register or other official
+federal action, the department of health is hereby required to oversee and administer the
+state's medical cannabis program, with the department authorized to enact emergency
+hiring measures to achieve operational staffing within ninety (90) days of federal
+rescheduling.
+(b) The department of health must notify the public of the license application
+process within one hundred twenty (120) days of federal rescheduling and shall begin
+accepting license applications for medical cannabis cultivators, processors, and
+dispensaries at one hundred eighty (180) days following federal rescheduling.
+(c) The department of health is authorized to promulgate emergency rules and
+regulations necessary to implement the medical cannabis program, to modify program
+regulations to ensure consistency with federal Schedule III requirements, to facilitate
+licensee access to banking and financial services, to promote medical and scientific
+research on cannabis, to enter into interstate compacts for regulated interstate
+commerce in medical cannabis products when authorized by federal law, and to take
+any other actions necessary to establish and operate a medical cannabis program in this
+state following federal rescheduling, and the department shall submit a report to the
+general assembly within six (6) months of federal rescheduling detailing the status of
+licensee compliance with federal requirements, changes in banking access, interstate
+- 96 - 015689
+
+commerce opportunities, research developments, and recommendations for any
+legislative adjustments to this state's medical cannabis tax structure, licensing
+framework, or program operations.
+68-7-231. Medical marijuana research license fee waiver.
+(a) Institutions of higher education may apply for a medical marijuana cultivation
+license for bona fide research purposes.
+(b) All application fees and annual license fees must be waived for licenses
+issued to such institutions under this section.
+(c) A license holder must comply with all applicable security, operational, and
+reporting requirements established by the department.
+68-7-232. Commission to make notifications regarding qualifying medical
+conditions.
+If the commission determines that sufficient scientific data and evidence exist to
+demonstrate that an individual diagnosed with that specific medical condition or disease
+that is not a qualifying medical condition is likely to receive medical, therapeutic, or
+palliative benefits from the use of medical cannabis, then the commission shall notify the
+general assembly in its annual report, pursuant to § 68-7-202.
+68-7-233. Medical cannabis product recall.
+(a) A licensed cannabis business must immediately recall medical cannabis
+flower, extracted material, or any medical cannabis product if:
+(1) Testing reveals contaminants, pesticides, heavy metals, mold, or
+other safety hazards exceeding department limits;
+(2) The product contains prohibited additives, including vitamin E
+acetate;
+(3) The product is mislabeled or incorrectly dosed;
+(4) Packaging fails child-safety requirements; or
+(5) The department orders a recall.
+- 97 - 015689
+
+(b) Within two (2) hours of discovering a recall condition, the licensee must:
+(1) Notify the department by phone and email;
+(2) Stop all sales and distribution of the affected product;
+(3) Quarantine all affected inventory; and
+(4) Identify affected batch/lot numbers through the seed-to-sale tracking
+system.
+(c) Within twenty-four (24) hours, the licensee must submit to the department:
+(1) A description and identification of the recalled product;
+(2) The reason for the recall;
+(3) The quantity distributed and a list of dispensaries that received the
+recalled product;
+(4) A plan for retrieving and destroying the product; and
+(5) The name of the recall coordinator.
+(d)
+(1) A licensee must notify all dispensaries that received the product
+within twenty-four (24) hours.
+(2) A dispensary must immediately remove and quarantine the recalled
+product.
+(3) The department must post public notice on its website within forty-
+eight (48) hours of a recall.
+(4) For serious health hazards, dispensaries must attempt to contact
+affected patients.
+(e)
+(1) All recalled product must be retrieved from dispensaries within seven
+(7) days.
+(2) Recalled product must be destroyed pursuant to department
+regulations.
+- 98 - 015689
+
+(3) All destruction must be documented through the seed-to-sale tracking
+system.
+(f)
+(1) The penalty for failure to initiate a mandatory recall required by this
+section is license suspension and a fine of up to ten thousand dollars ($10,000)
+per day.
+(2) The penalty for failure to properly notify as required by this section is
+a fine of up to five thousand dollars ($5,000) per violation.
+(3) The penalty for continued sale of a recalled product is license
+revocation.
+(4) The penalty for submitting false recall information is a fine of up to
+twenty-five thousand dollars ($25,000) and license suspension.
+(g) The licensee responsible for a recall must pay all recall costs, including the
+costs of notification, retrieval, and destruction.
+SECTION 2. The headings in this act are for reference purposes only and do not
+constitute a part of the law enacted by this act. However, the Tennessee Code Commission is
+requested to include the headings in any compilation or publication containing this act.
+SECTION 3. This act takes effect thirty (30) days following the effective date of the
+federal government's rescheduling of cannabis from Schedule I to Schedule III under the
+Controlled Substances Act, 21 U.S.C. § 801 et seq., as evidenced by publication of a final rule
+in the Federal Register or other official federal action, the public welfare requiring it. The
+commissioner of health shall notify in writing the Tennessee code commission of the occurrence
+of such act and what date is the thirtieth day following such occurrence.
+- 99 - 015689

@@ -1,0 +1,32 @@
+Title: 
+Official Title: 
+Source: versions - Current Version
+Media Type: application/pdf
+
+================================================================================
+
+SENATE BILL 2117
+By Jackson
+HOUSE BILL 2242
+By Hurt
+AN ACT to amend Tennessee Code Annotated, Title 41,
+Chapter 22, relative to TRICOR.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 41-22-414(a)(1), is amended by
+deleting the language:
+TRICOR has as part of its mission to offset the costs of incarceration by
+generating revenue through the sale of products in lieu of state appropriated
+funds.
+and substituting instead:
+TRICOR has as part of its mission to offset the costs of incarceration by
+generating revenue through the sale of products and the operation of
+commissary programs within state prisons in lieu of state appropriated funds.
+SECTION 2. Tennessee Code Annotated, Section 41-22-414, is amended by adding
+the following as a new subsection:
+(c) Notwithstanding any law to the contrary, the TRICOR board, within the
+principles of free enterprise, and for the purpose of carrying out its legislative intent as
+stated in subsection (a), may operate commissary programs within state prisons.
+SECTION 3. This act takes effect upon becoming a law, the public welfare requiring it.
+HB2242
+011939
+- 1 -

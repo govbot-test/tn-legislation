@@ -1,0 +1,28 @@
+Title: 
+Official Title: 
+Source: versions - Current Version
+Media Type: application/pdf
+
+================================================================================
+
+<BillNo> <Sponsor>
+SENATE BILL 1575
+By Lowe
+AN ACT to amend Tennessee Code Annotated, Title 8,
+Chapter 44, Part 1, relative to public meetings.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 8-44-103, is amended by adding the
+following new subsection (d):
+(d)
+(1) In lieu of providing adequate notice by publication in a newspaper of general
+circulation or by other means, a governmental body may provide adequate notice by
+publishing notice of the meeting on a secure internet website of the governmental body,
+if available.
+(2) If the governmental body publishes an e-newsletter or its notices online, the
+governmental body shall establish a mechanism by which a person may sign up to
+receive such notices and e-newsletters by electronic mail or, alternatively, to receive a
+hard copy by regular mail.
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+SB1575
+010550
+- 1 -

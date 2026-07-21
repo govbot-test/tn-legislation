@@ -1,0 +1,36 @@
+Title: 
+Official Title: 
+Source: versions - Current Version
+Media Type: application/pdf
+
+================================================================================
+
+SENATE BILL 2127
+By Taylor
+HOUSE BILL 2040
+By Parkinson
+AN ACT to amend Tennessee Code Annotated, Title 39,
+relative to threats against certain persons.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Title 39, Chapter 16, Part 5, is amended by
+adding the following as a new section:
+(a) A person commits an offense who intentionally communicates a threat to a
+public official, or a member of a public official's immediate family, and:
+(1) The person communicating the threat knows the person threatened is
+a public official or a member of the public official's immediate family;
+(2) The person communicating the threat intends the communication to
+be a threat of harm to the public official, or a member of the public official's
+immediate family, because of the public official's official capacity; and
+(3) A reasonable person would perceive the communication to be a
+threat of harm.
+(b) A violation of subsection (a) is a Class E felony.
+(c) As used in this section:
+(1) "Communicate" means the same as defined in § 39-17-308;
+(2) "Immediate family" means a public official's spouse, parent, sibling, or
+child and includes stepparents, stepchildren, stepsiblings, and adoptive
+relationships; and
+(3) "Public official" means the same as defined in § 39-16-516.
+SECTION 2. This act takes effect July 1, 2026, the public welfare requiring it.
+HB2040
+008763
+- 1 -
