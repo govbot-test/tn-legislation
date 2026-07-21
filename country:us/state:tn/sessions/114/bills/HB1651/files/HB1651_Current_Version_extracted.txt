@@ -1,0 +1,27 @@
+Title: 
+Official Title: 
+Source: versions - Current Version
+Media Type: application/pdf
+
+================================================================================
+
+<BillNo> <Sponsor>
+HOUSE BILL 1651
+By Miller
+AN ACT to amend Tennessee Code Annotated, Title 3,
+relative to the general assembly.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 3-1-106(f)(3), is amended by deleting
+the subdivision and substituting:
+(3) On the date of the statewide general election in 2026, and on the date of the
+statewide general election every two (2) years thereafter, the expense allowance
+established in subdivision (f)(1) must be adjusted to reflect the percentage increase in
+the average consumer price index (all items-city average), as published by the United
+States department of labor, bureau of labor statistics, for the immediately preceding two-
+year period. Each such adjustment under this subdivision (f)(3) must be rounded up to
+the nearest multiple of one hundred dollars ($100). The total adjustment must not
+exceed fifty percent (50%) of the principal amount of the current allowance.
+SECTION 2. This act takes effect November 3, 2026, the public welfare requiring it.
+HB1651
+010398
+- 1 -

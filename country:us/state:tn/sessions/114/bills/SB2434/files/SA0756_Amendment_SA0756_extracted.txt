@@ -1,0 +1,40 @@
+Title: 
+Official Title: 
+Source: versions - Amendment SA0756
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate Judiciary 1
+Amendment No. 1 to SB2434
+Gardenhire
+Signature of Sponsor
+AMEND S e n ate Bill No. 2434 House Bill No. 2147*
+by deleting all language after the enacting clause and substituting:
+SECTION 1. Tennessee Code Annotated, Section 39-13-903(a)(6), is amended by
+deleting "subdivision (a)(6)" in subdivisions (a)(6)(B) and (a)(6)(C) and substituting "subdivision
+(a)(7)".
+SECTION 2. Tennessee Code Annotated, Section 39-13-903(a), is amended by adding
+the following as a new subdivision (5) and renumbering the subsequent subdivisions:
+(5) Knowingly uses an unmanned aircraft over the grounds of a public school
+that serves students in any of the grades kindergarten through twelve (K-12) with the
+intent to conduct surveillance of the school grounds without permission of a school
+administrator, the director of schools, or the director's designee. This subdivision (a)(5)
+does not apply to a law enforcement officer acting within the scope of the law
+enforcement officer's lawful duties;
+SECTION 3. Tennessee Code Annotated, Section 39-13-903, is amended by deleting
+subsection (b) and substituting:
+(b)
+(1) An offense under subdivisions (a)(1)-(6) is a Class C misdemeanor.
+(2) An offense under subdivision (a)(7) is a Class E felony.
+SECTION 4. Tennessee Code Annotated, Section 39-13-902, is amended by deleting
+subdivision (a)(14) and substituting:
+(14) Of public real property or a person on that property, except as prohibited by
+§ 39-13-903(a)(5).
+SA0756
+013671
+- 1 -
+
+SECTION 5. This act takes effect July 1, 2026, the public welfare requiring it.
+- 2 - 013671

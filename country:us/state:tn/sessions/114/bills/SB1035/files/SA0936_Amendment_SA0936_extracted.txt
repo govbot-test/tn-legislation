@@ -1,0 +1,34 @@
+Title: 
+Official Title: 
+Source: versions - Amendment SA0936
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate Judiciary 1
+Amendment No. 1 to SB1035
+Gardenhire
+Signature of Sponsor
+AMEND S e n ate Bill No. 1035 House Bill No. 989*
+by deleting all language after the enacting clause and substituting:
+SECTION 1. Tennessee Code Annotated, Section 39-11-621, is amended by deleting
+the language "or threaten to use" and by adding the following to the end of the section:
+A threat to use deadly force, in itself, is not considered use of deadly force for purposes
+of this section. A private citizen shall not threaten to use deadly force unless the arrest
+is for:
+(1) A crime committed or threatened against the person making the
+arrest; or
+(2) A violent crime committed or threatened in the presence of the person
+making the arrest.
+SECTION 2. Tennessee Code Annotated, Section 39-11-602, is amended by deleting
+"or intended use," in subdivision (2) and by adding the following new subdivision:
+( ) "Violent crime" means:
+(A) A criminal offense the elements of which include intentionally causing
+bodily injury to another; or
+(B) Any degree of arson, burglary, carjacking, homicide, kidnapping,
+robbery, sexual battery, rape, and human trafficking.
+SECTION 3. This act takes effect July 1, 2026, the public welfare requiring it.
+SA0936
+012912
+- 1 -

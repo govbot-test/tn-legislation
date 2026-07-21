@@ -1,0 +1,25 @@
+Title: 
+Official Title: 
+Source: versions - Current Version
+Media Type: application/pdf
+
+================================================================================
+
+SENATE BILL 2280
+By Briggs
+HOUSE BILL 2481
+By Parkinson
+AN ACT to amend Tennessee Code Annotated, Title 8;
+Title 9; Title 16 and Title 40, relative to funding of
+licensing fees for district attorneys general.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Title 8, Chapter 7, Part 3, is amended by
+adding the following as a new section:
+The district attorneys general conference may pay the licensing fees for software
+applications used by the office of the district attorney general within a judicial district,
+regardless of whether the district attorney general office staff member using the
+application has a position funded by the state or another entity.
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+HB2481
+011997
+- 1 -

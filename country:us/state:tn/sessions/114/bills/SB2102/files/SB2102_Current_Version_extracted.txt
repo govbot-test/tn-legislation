@@ -1,0 +1,23 @@
+Title: 
+Official Title: 
+Source: versions - Current Version
+Media Type: application/pdf
+
+================================================================================
+
+HOUSE BILL 2592
+By Boyd
+SENATE BILL 2102
+By Taylor
+AN ACT to amend Tennessee Code Annotated, Title 4;
+Title 5; Title 6; Title 7; Title 8; Title 12; Title 13;
+Title 54; Title 64; Title 65; Title 68 and Title 69,
+relative to utilities.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 65-1-109(e), is amended by adding
+the following at the end of the subsection:
+The report may be submitted electronically.
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+SB2102
+011292
+- 1 -
