@@ -1,0 +1,24 @@
+Title: 
+Official Title: 
+Source: versions - Amendment SA0721
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Amendment No. 8 to SB0564
+Southerland
+Signature of Sponsor
+AMEND S e n ate Bill No. 564* House Bill No. 803
+by inserting the following new section immediately preceding the penultimate section and
+renumbering the subsequent sections accordingly:
+SECTION ___. This act does not apply in counties having a population, according to the
+2020 federal census or any subsequent federal census, of:
+not less than nor more than
+17,900 17,935
+35,900 36,000
+64,400 64,500
+70,100 70,200
+SA0721
+015678
+- 1 -
