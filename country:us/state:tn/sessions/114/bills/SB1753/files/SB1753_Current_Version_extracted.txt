@@ -1,0 +1,24 @@
+Title: 
+Official Title: 
+Source: versions - Current Version
+Media Type: application/pdf
+
+================================================================================
+
+HOUSE BILL 1770
+By Martin B
+SENATE BILL 1753
+By Haile
+AN ACT to amend Tennessee Code Annotated, Title 63,
+Chapter 6 and Title 63, Chapter 9, relative to the
+practice of medicine.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 63-6-204(m)(1), is amended by
+adding the following as new subdivisions:
+(SS) "Clinical informatics";
+(TT) "Lifestyle medicine"; or
+(UU) "Medical virtualist";
+SECTION 2. This act takes effect upon becoming law, the public welfare requiring it.
+SB1753
+011661
+- 1 -

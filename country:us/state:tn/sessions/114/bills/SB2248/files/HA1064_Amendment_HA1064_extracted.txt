@@ -1,0 +1,298 @@
+Title: 
+Official Title: 
+Source: versions - Amendment HA1064
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House Finance, Ways, and Means 1
+Amendment No. 3 to HB2560
+Hicks G
+Signature of Sponsor
+AMEND S e n ate Bill No. 2248* House Bill No. 2560
+by deleting all language after the enacting clause and substituting:
+SECTION 1. Tennessee Code Annotated, Section 4-3-101, is amended by adding the
+following as a new subdivision:
+( ) Department of the Tennessee emergency management authority ("TEMA");
+SECTION 2. Tennessee Code Annotated, Section 4-3-111, is amended by adding the
+following as a new subdivision:
+( ) Commissioner of the Tennessee emergency management authority
+("TEMA");
+SECTION 3. Tennessee Code Annotated, Section 4-3-1017(a)(1), is amended by
+deleting "emergency management agency" and substituting "department of TEMA".
+SECTION 4. Tennessee Code Annotated, Title 4, Chapter 3, is amended by adding the
+following as a new part:
+Part 29. Department of the Tennessee emergency management authority ("TEMA").
+4-3-2901. Creation.
+There is created the department of the Tennessee emergency management
+authority ("TEMA").
+4-3-2902. Commissioner.
+The department of TEMA is under the charge and general supervision of the
+commissioner of TEMA.
+4-3-2903. Powers and duties.
+HA1064
+016761
+- 1 -
+
+The commissioner of TEMA is vested with such powers and required to perform
+such duties as are set forth in title 58, chapter 2, and is charged with the administration
+of such laws as the general assembly from time to time may enact.
+4-3-2904. Continuing effect of contracts and leases.
+(a) Contracts or leases entered into prior to the effective date of this act, with
+respect to any program or function transferred to the department of TEMA with any
+entity, corporation, agency, enterprise, or person, continue in full force and effect as to
+all essential provisions in accordance with the terms and conditions of the contracts in
+existence on the effective date of this act, to the same extent as if such contracts had
+originally been entered into by and between such entity, corporation, agency, enterprise,
+or person and the department of TEMA, unless and until such contracts or leases are
+amended or modified by the parties thereto or until the expiration of such contract.
+(b) This part must not be implemented in any manner that violates the prohibition
+against impairment of contract obligations as contained in the Constitution of
+Tennessee, Article I, § 20.
+4-3-2905. Continuing effect of current rules, orders, decisions, and policies.
+All current rules, orders, decisions, and policies issued or promulgated by the
+Tennessee emergency management agency under title 58, chapter 2, remain in full
+force and effect and must be administered and enforced by the department of TEMA.
+To this end, the department of TEMA, through its commissioner, may, consistent with
+the statutes and rules pertaining to the programs and functions transferred by this
+section, modify or rescind orders, rules, decisions, or policies so issued and to adopt,
+issue, or promulgate new orders, rules, decisions, or policies as may be necessary for
+the administration of the programs or functions transferred by this section.
+SECTION 5. Tennessee Code Annotated, Section 4-29-250(a), is amended by deleting
+subdivision (32) and by adding the following as a new subdivision:
+( ) Department of TEMA, created by § 4-3-2901;
+- 2 - 016761
+
+SECTION 6. Tennessee Code Annotated, Section 9-4-215(a), is amended by deleting
+"Tennessee emergency management agency" wherever it appears and substituting "department
+of TEMA".
+SECTION 7. Tennessee Code Annotated, Section 9-4-216, is amended by deleting
+"Tennessee emergency management agency" wherever it appears in subsections (a), (d), and
+(e) and substituting "department of TEMA".
+SECTION 8. Tennessee Code Annotated, Section 16-3-818(a)(18), is amended by
+deleting the subdivision and substituting:
+(18) Commissioner of TEMA or a designee; and
+SECTION 9. Tennessee Code Annotated, Section 39-13-902, is amended by deleting
+"Tennessee emergency management agency" wherever it appears in subdivision (a)(22) and
+subsection (c) and substituting "department of TEMA" and by deleting the language "created in
+§ 58-2-104" in subdivision (a)(22) and substituting "created in § 4-3-2901".
+SECTION 10. Tennessee Code Annotated, Section 39-17-1315(a)(1)(A)(ii), is amended
+by deleting the subdivision and substituting:
+(ii) Any commissioner or full-time employee of the department of TEMA in the
+performance of the commissioner's or employee's duty;
+SECTION 11. Tennessee Code Annotated, Section 55-8-199(d)(4), is amended by
+deleting "agency".
+SECTION 12. Tennessee Code Annotated, Section 58-1-114, is amended by deleting
+"and the emergency management agency,".
+SECTION 13. Tennessee Code Annotated, Section 58-2-101, is amended by deleting
+subdivision (1), by deleting "TEMA" in subdivision (9) and substituting "the department", by
+deleting "the agency" in subdivision (11) and substituting "the department", and by adding the
+following as new subdivisions:
+( ) "Commissioner" means the commissioner of TEMA;
+( ) "Department" means the department of TEMA;
+- 3 - 016761
+
+SECTION 14. Tennessee Code Annotated, Section 58-2-103(a)(1), is amended by
+deleting the subdivision and substituting:
+(1) Create a state emergency management department, to be known as the
+department of the Tennessee emergency management authority ("TEMA"), to authorize
+the creation of local organizations for emergency management in the political
+subdivisions of the state, and to authorize cooperation with the federal government and
+the governments of other states;
+SECTION 15. Tennessee Code Annotated, Section 58-2-103(a)(2), is amended by
+deleting "TEMA" and substituting "the department".
+SECTION 16. Tennessee Code Annotated, Section 58-2-104, is amended by deleting
+the section and substituting:
+(a) The department shall authorize the creation of local organizations for
+emergency management in the political subdivisions of this state, and authorize
+cooperation with the federal government and the governments of other states.
+(b) The commissioner, subject to the direction and control of the governor, is the
+executive head of the department and is responsible to the governor for carrying out the
+program for the department for this state. The commissioner shall coordinate the
+activities of all organizations for the department within this state and shall maintain
+liaison with and cooperate with emergency management agencies and organizations of
+other states and of the federal government. The department of the military is a resource
+for this state as with all other departments and agencies; further, the commissioner shall
+make recommendations to the governor for the use of the national guard and other state
+resources as disaster conditions mandate, including, but not limited to, the assistance of
+local and private agencies. The commissioner shall coordinate with the governor's office
+on the activation or the potential activation of any mutual aid agreement or compact.
+(c) The commissioner may employ such area directors and professional,
+technical, clerical, and other personnel, and the commissioner shall fix their
+- 4 - 016761
+
+compensation and may make expenditures from available funds appropriated for the
+department or from funds made available to the commissioner for purposes of
+emergency management, as may be necessary to carry out this chapter. The
+commissioner must be provided with necessary and appropriate office space, furniture,
+supplies, printing, and equipment, including, but not limited to, radio, radiological, and
+any and all other proper equipment necessary to carry out the emergency management
+program for this state. The necessary mileage, office expenses, salaries of personnel,
+postage, telephone, and expressage must be chargeable to any funds available for
+emergency management.
+SECTION 17. Tennessee Code Annotated, Section 58-2-106, is amended by:
+(1) Deleting "director of the agency" in subsection (a) and substituting
+"commissioner";
+(2) Deleting "The agency is responsible for carrying out this chapter. In
+performing its duties under this chapter, the agency" and substituting "The department is
+responsible for carrying out this chapter. In performing its duties under this chapter, the
+department";
+(3) Deleting "the agency" in subdivisions (b)(1) and (b)(1)(D) and substituting
+"the department"; and
+(4) Deleting "agency is" wherever it appears in subsection (a) and substituting
+"department is".
+SECTION 18. Tennessee Code Annotated, Section 58-2-107, is amended by deleting
+"agency" in subsections (h) and (i) and substituting "department".
+SECTION 19. Tennessee Code Annotated, Section 58-2-107(k), is amended by
+deleting the subsection and substituting:
+(k) The governor may delegate to the commissioner the authority to declare a
+state of emergency in order that certain commercial vehicles engaged in the distribution
+of electric power, the supply of fuel, or telecommunications services to residences and
+- 5 - 016761
+
+businesses may be considered to be participating in an emergency relief effort for the
+purpose of the federal hours-of-service regulations promulgated by the federal motor
+carrier safety administration. Pursuant to the delegation of authority granted by this
+subsection (k), the commissioner may declare a state of emergency prospectively in
+anticipation of an emergency.
+SECTION 20. Tennessee Code Annotated, Section 58-2-108, is amended by:
+(1) Deleting "director of TEMA" in subsections (b) and (f) and substituting
+"commissioner";
+(2) Deleting "TEMA must define" and substituting "The department must define"
+in subsection (a);
+(3) Deleting "TEMA, in consultation with" and substituting "The department, in
+consultation with" in subsection (f);
+(4) Deleting "TEMA may" and substituting "The department may" in subsection
+(f);
+(5) Deleting "TEMA" and substituting "the department" wherever it appears in
+subsections (b), (c), (d), and (e); and
+(6) By deleting "director's" in subsection (b) and substituting "commissioner's".
+SECTION 21. Tennessee Code Annotated, Section 58-2-109, is amended by deleting
+"a state emergency management agency" in subsection (b) and substituting "the department"
+and by deleting "the agency" wherever it appears in subsection (d) and substituting "the
+department".
+SECTION 22. Tennessee Code Annotated, Section 58-2-110, is amended by deleting
+"TEMA" in subdivisions (1)(A) and (1)(B) and substituting "the department".
+SECTION 23. Tennessee Code Annotated, Section 58-2-111, is amended by deleting
+the section and substituting:
+Notwithstanding another law to the contrary, a person being housed in a camp or
+shelter organized or maintained by the federal emergency management agency, the
+- 6 - 016761
+
+department, or a local emergency management agency, or pursuant to an action taken
+by such entities, may possess a mobile telephone.
+SECTION 24. Tennessee Code Annotated, Section 58-2-113, is amended by deleting
+"TEMA is" in subsection (a) and substituting "The department is", by deleting "of TEMA" in
+subsection (a) and substituting "of the department", and by deleting "TEMA" in subdivision (b)(3)
+and substituting "the department".
+SECTION 25. Tennessee Code Annotated, Section 58-2-114, is amended by deleting
+"director of TEMA" and substituting "commissioner" and by deleting "to the director" and
+substituting "to the commissioner".
+SECTION 26. Tennessee Code Annotated, Section 58-2-115, is amended by deleting
+"TEMA" in subsections (b) and (e) and substituting "the department" and by deleting "agency"
+wherever it appears in subsection (d) and substituting "department".
+SECTION 27. Tennessee Code Annotated, Section 58-2-116, is amended by deleting
+"TEMA" in subsections (b) and (c) and substituting "the department" and by deleting "agency" in
+subdivision (c)(3) and substituting "department".
+SECTION 28. Tennessee Code Annotated, Section 58-2-118(a), is amended by
+deleting "TEMA" and substituting "the department" and by deleting "the agency" and substituting
+"the department".
+SECTION 29. Tennessee Code Annotated, Section 58-2-121, is amended by deleting
+"TEMA" and substituting "the department".
+SECTION 30. Tennessee Code Annotated, Section 58-2-123, is amended by deleting
+"TEMA" in subsection (c) and substituting "the department", by deleting "director of the agency
+or the director's" in subsection (d) and substituting "commissioner or the commissioner's", by
+deleting "agency" in subdivision (d)(1) and substituting "department", and by deleting "director"
+in subdivision (d)(4) and substituting "commissioner".
+SECTION 31. Tennessee Code Annotated, Section 58-2-124, is amended by deleting
+"Tennessee emergency management agency" and substituting "department".
+- 7 - 016761
+
+SECTION 32. Tennessee Code Annotated, Section 58-2-127, is amended by deleting
+"the TEMA" wherever it appears in subdivision (f)(2) and substituting "the department" and by
+deleting "TEMA" wherever it appears in subdivisions (e)(4), (f)(1), and (f)(2) and substituting "the
+department".
+SECTION 33. Tennessee Code Annotated, Section 58-2-501(b), is amended by
+deleting "director of the Tennessee emergency management agency" and substituting
+"commissioner".
+SECTION 34.
+(a) Tennessee Code Annotated, Section 58-2-601, is amended by deleting the
+section and substituting:
+Notwithstanding another law to the contrary, in addition to any reports
+required by law, any person who is transporting hazardous materials and
+placarded as carrying such materials as required by rules of the department of
+safety or department of transportation, or both, shall report any accident or
+incident in which such materials are released from the container in which such
+materials are being transported to the department of TEMA as soon as
+practicable after such accident or incident. Any other person having knowledge
+of such accident or incident shall also report such accident or incident to the
+department of TEMA.
+(b) The Tennessee code commission is requested to revise the heading for
+Tennessee Code Annotated, Section 58-2-601, to more accurately reflect the change
+made pursuant to SECTION 34(a).
+SECTION 35. Tennessee Code Annotated, Section 58-2-602, is amended by deleting
+"such agency" and substituting "the department".
+SECTION 36. Tennessee Code Annotated, Section 58-2-603, is amended by deleting
+"Tennessee emergency management agency" and substituting "department".
+- 8 - 016761
+
+SECTION 37. Tennessee Code Annotated, Section 58-2-802, is amended by deleting
+"the department or TEMA" in subdivisions (a)(4)(A) and (a)(4)(B) and substituting "the
+department of health or the department of TEMA" and by deleting subdivision (a)(19).
+SECTION 38. Tennessee Code Annotated, Section 58-2-804, is amended by deleting
+"TEMA" in subsection (a) and subdivision (c)(1) and substituting "the department".
+SECTION 39. Tennessee Code Annotated, Section 58-2-805, is amended by deleting
+"TEMA" wherever it appears in subdivision (a)(4)(D) and subsection (b) and substituting "the
+department".
+SECTION 40. Tennessee Code Annotated, Section 58-2-808(c), is amended by
+deleting "TEMA" and substituting "The department".
+SECTION 41. Tennessee Code Annotated, Section 58-2-809(b), is amended by
+deleting "TEMA" and substituting "The department".
+SECTION 42. Tennessee Code Annotated, Section 58-2-810, is amended by deleting
+the section and substituting:
+The department of TEMA may promulgate emergency rules to implement this
+part in accordance with the Uniform Administrative Procedures Act, compiled in title 4,
+chapter 5. In doing so, the department of TEMA shall consult with the department of
+health and shall consult with and consider the recommendations of any other entity
+established to coordinate the implementation of the emergency management assistance
+compacts and shall also consult with and consider rules promulgated by similarly
+empowered agencies in other states to promote uniformity of application of this part and
+make the emergency response systems in the various states reasonably compatible.
+SECTION 43. Tennessee Code Annotated, Section 58-2-904(e), is amended by
+deleting "the director" and substituting "the commissioner".
+SECTION 44. Tennessee Code Annotated, Section 58-2-905, is amended by deleting
+"agency" wherever it appears and substituting "department".
+- 9 - 016761
+
+SECTION 45. Tennessee Code Annotated, Section 58-8-111(f), is amended by deleting
+"the Tennessee emergency management agency (TEMA)" in subsection (f) and substituting "the
+department of TEMA" and by deleting "the request of TEMA" and substituting "the request of the
+department of TEMA".
+SECTION 46. Tennessee Code Annotated, Section 58-8-112, is amended by deleting
+"the request of TEMA" and substituting "the request of the department of TEMA".
+SECTION 47. Tennessee Code Annotated, Section 58-8-113, is amended by deleting
+"TEMA" and substituting "the department".
+SECTION 48. Tennessee Code Annotated, Section 58-9-104(2), is amended by
+deleting "the emergency management agency" and substituting "the department of TEMA".
+SECTION 49. Tennessee Code Annotated, Section 62-2-109(c)(3), is amended by
+deleting "director or the director's assistants of the emergency management agency" and
+substituting "commissioner of TEMA and employees of the department of TEMA acting at the
+specific direction of the commissioner of TEMA".
+SECTION 50. Tennessee Code Annotated, Section 65-15-114, is amended by deleting
+"emergency management agency" in subsection (b) and substituting "department of TEMA" and
+by deleting "Tennessee emergency management agency" in subdivision (c)(3) and substituting
+"department of TEMA".
+SECTION 51. Tennessee Code Annotated, Section 68-202-104(c), is amended by
+deleting "Tennessee emergency management agency" and substituting "department of TEMA".
+SECTION 52. Tennessee Code Annotated, Section 68-212-311, is amended by deleting
+"Tennessee emergency management agency" and substituting "department of TEMA".
+SECTION 53. Tennessee Code Annotated, Section 71-4-2103(a), is amended by
+deleting "Tennessee Emergency Management Agency" and substituting "department of TEMA".
+SECTION 54. The headings in this act are for reference purposes only and do not
+constitute a part of the law enacted by this act. However, the Tennessee code commission is
+requested to include the headings in any compilation or publication containing this act.
+- 10 - 016761
+
+SECTION 55. This act takes effect July 1, 2026, the public welfare requiring it.
+- 11 - 016761
