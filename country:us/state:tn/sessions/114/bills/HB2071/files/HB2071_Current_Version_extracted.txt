@@ -1,0 +1,22 @@
+Title: 
+Official Title: 
+Source: versions - Current Version
+Media Type: application/pdf
+
+================================================================================
+
+<BillNo> <Sponsor>
+HOUSE BILL 2071
+By Todd
+AN ACT to amend Tennessee Code Annotated, Section 4-
+1-401, relative to time.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 4-1-401(d), is amended by deleting
+the subsection and substituting:
+(d) Beginning on the second Sunday in March of 2027, this state and its political
+subdivisions shall observe standard time as provided in 15 U.S.C. §§ 261-263 at all
+times throughout the year, and each year thereafter.
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+HB2071
+010252
+- 1 -

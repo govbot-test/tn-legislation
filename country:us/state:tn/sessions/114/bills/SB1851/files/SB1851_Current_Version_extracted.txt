@@ -1,0 +1,188 @@
+Title: 
+Official Title: 
+Source: versions - Current Version
+Media Type: application/pdf
+
+================================================================================
+
+HOUSE BILL 1737
+By Fritts
+SENATE BILL 1851
+By Hensley
+AN ACT to amend Tennessee Code Annotated, Title 16;
+Title 36; Title 37; Title 38; Title 39; Title 40; Title 49
+and Title 65, relative to firearms.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 39-17-1307, is amended by deleting
+the section and substituting:
+(a)
+(1) A person commits an offense who possesses a firearm and:
+(A) Has been convicted of a felony crime of violence or an
+attempt to commit a felony crime of violence;
+(B) Has been convicted of a felony drug offense;
+(C) Has been convicted of a felony offense other than an offense
+under subdivision (a)(1)(A) or (a)(1)(B);
+(D) Has been convicted of a misdemeanor crime of domestic
+violence as defined in 18 U.S.C. § 921, and is still subject to the
+disabilities of such a conviction;
+(E) Is prohibited from possessing a firearm under 18 U.S.C. §
+922(g); or
+(F) Has been adjudicated as a mental defective, has been
+judicially committed to a mental institution pursuant to title 33, or had a
+court appoint a conservator for the person by reason of a mental defect.
+(2) An offense under subdivision (a)(1)(A) is a Class B felony.
+(3) An offense under subdivision (a)(1)(B) is a Class C felony.
+SB1851
+009696
+- 1 -
+
+(4) An offense under subdivision (a)(1)(C) is a Class E felony.
+(5) An offense under subdivisions (a)(1)(D)-(F) is a Class A
+misdemeanor.
+(b) Subdivisions (a)(1)(A)–(F) do not apply if:
+(1) The person has been pardoned for the offense;
+(2) The conviction has been expunged or otherwise set aside;
+(3) The person's civil rights have been restored pursuant to title 40,
+chapter 29;
+(4) The person has been granted relief of disabilities relative to firearms
+under 18 U.S.C. § 925 or by any other statutory procedure or court ruling; or
+(5) The person has been granted relief of disabilities relative to firearms
+under the applicable law of this or another state relative to a disability arising in
+that state.
+(c)
+(1) A person commits an offense who possesses a deadly weapon with
+the intent to employ it during the commission of, attempt to commit, or escape
+from a felony offense.
+(2) A violation of subdivision (c)(1) is a Class E felony.
+(d) If a person is licensed as a federal firearms dealer, is identified as a
+responsible party under a federal firearms license, or is employed by a federal firearms
+dealer, the determination of whether such an individual possesses firearms that
+constitute the business assets or inventory under the federal license must be determined
+based upon the applicable federal statutes or the rules, regulations, official letters,
+rulings, and publications of the federal bureau of alcohol, tobacco, firearms and
+explosives.
+- 2 - 009696
+
+(e) A person does not possess a firearm if the firearm is in a safe or similar
+container that is securely locked and to which the person does not have the
+combination, key, or other means of normal access.
+SECTION 2. Tennessee Code Annotated, Section 39-17-1308(b), is amended by
+deleting "§ 39-17-1307(b)(1)" and substituting "§ 39-17-1307(a)(1)(A) or (B)" and by deleting
+subdivisions (a)(8) and (a)(9).
+SECTION 3. Tennessee Code Annotated, Section 39-17-1311, is amended by deleting
+the section.
+SECTION 4. Tennessee Code Annotated, Section 16-10-205, is amended by deleting
+"§ 39-17-1307(i)" wherever it appears and substituting "§ 39-17-1307(a)(1)(F)".
+SECTION 5. Tennessee Code Annotated, Section 16-11-202, is amended by deleting
+"§ 39-17-1307(i)" wherever it appears and substituting "§ 39-17-1307(a)(1)(F)".
+SECTION 6. Tennessee Code Annotated, Section 16-15-405, is amended by deleting
+"§ 39-17-1307(i)" wherever it appears and substituting "§ 39-17-1307(a)(1)(F)".
+SECTION 7. Tennessee Code Annotated, Section 16-16-121, is amended by deleting
+"§ 39-17-1307(i)" wherever it appears and substituting "§ 39-17-1307(a)(1)(F)".
+SECTION 8. Tennessee Code Annotated, Section 36-3-625(a)(3), is amended by
+deleting "and § 39-17-1307(f)" and substituting "and § 39-17-1307(a)(1)(E)".
+SECTION 9. Tennessee Code Annotated, Section 36-3-625(h)(3), is amended by
+deleting "or § 39-17-1307(f)" and substituting "or § 39-17-1307(a)(1)(E)".
+SECTION 10. Tennessee Code Annotated, Section 37-1-131(a)(2)(B)(i)(t), is amended
+by deleting "carrying or".
+SECTION 11. Tennessee Code Annotated, Section 38-8-116(c)(6)(A)(i), is amended by
+deleting "§ 39-17-1307(b) or (c)" and substituting "§ 39-17-1307(a)".
+- 3 - 009696
+
+SECTION 12. Tennessee Code Annotated, Section 39-13-113(h)(4), is amended by
+deleting "or § 39-17-1307(f)" and substituting "or § 39-17-1307(a)(1)(E)".
+SECTION 13. Tennessee Code Annotated, Section 39-17-1351, is amended by deleting
+"§ 39-17-1307(b)" wherever it appears and substituting "§ 39-17-1307(a)".
+SECTION 14. Tennessee Code Annotated, Section 39-17-1366, is amended by deleting
+"§ 39-17-1307(b)" wherever it appears and substituting "§ 39-17-1307(a)".
+SECTION 15. Tennessee Code Annotated, Section 40-14-109(b)(1), is amended by
+deleting "§ 39-17-1307(f)(1)" and substituting "§ 39-17-1307(a)(1)(D)".
+SECTION 16. Tennessee Code Annotated, Section 40-29-103, is amended by deleting
+"§ 39-17-1307(b), (f)(1), (h)(1)(D), (i), or (j)" wherever it appears and substituting "§ 39-17-
+1307(a)(1)".
+SECTION 17. Tennessee Code Annotated, Section 40-32-105(i)(5), is amended by
+deleting "§ 39-17-1307(b)(1)(B) and (c)" and substituting "§ 39-17-1307(a)(1)(B) and (C)".
+SECTION 18. Tennessee Code Annotated, Section 40-32-107(a)(1)(D)(xxx), is
+amended by deleting "Section 39-17-1307(f)(1)(A)" and substituting "Section 39-17-
+1307(a)(1)(D)".
+SECTION 19. Tennessee Code Annotated, Section 40-32-107(a)(1)(D)(xxxi), is
+amended by deleting the subdivision.
+SECTION 20. Tennessee Code Annotated, Section 40-32-107(a)(1)(D)(xxxii), is
+amended by deleting "Section 39-17-1307(f)(1)(C)" and substituting "Section 39-17-
+1307(a)(1)(E) or (F)".
+SECTION 21. Tennessee Code Annotated, Section 40-32-110(d), is amended by
+deleting "§ 39-17-1307(b)(1)(B) and (c)" and substituting "§ 39-17-1307(a)(1)(B) and (C)".
+SECTION 22. Tennessee Code Annotated, Section 40-35-121(a)(3)(B)(xxvi), is
+amended by deleting "carrying or".
+- 4 - 009696
+
+SECTION 23. Tennessee Code Annotated, Section 40-35-124, is amended by deleting
+subdivision (a)(32) and substituting:
+(32) Unlawful possession of a firearm, under § 39-17-1307(a)(1)(D);
+SECTION 24. Tennessee Code Annotated, Section 40-35-124, is amended by deleting
+subdivision (c)(5) and substituting:
+(5) Unlawful possession of a firearm, under § 39-17-1307(a)(1)(D);
+SECTION 25. Tennessee Code Annotated, Section 40-35-501, is amended by deleting
+subdivisions (y)(2)(A)-(C) and substituting:
+(A) Unlawful possession of a firearm by a person convicted of a felony crime of
+violence or an attempt to commit a felony crime of violence, under § 39-17-
+1307(a)(1)(A);
+(B) Unlawful possession of a firearm by a person convicted of a felony drug
+offense, under § 39-17-1307(a)(1)(B);
+(C) Unlawful possession of a firearm by a person convicted of a felony offense
+other than a felony crime of violence, an attempt to commit a felony crime of violence, or
+a felony drug offense, under § 39-17-1307(a)(1)(C); and
+SECTION 26. Tennessee Code Annotated, Section 49-6-3051(b)(2)(F), is amended by
+deleting "carrying or".
+SECTION 27. Tennessee Code Annotated, Section 65-15-106(c)(2), is amended by
+deleting "carrying or".
+SECTION 28. Tennessee Code Annotated, Section 39-17-1316, is amended by deleting
+subdivisions (a)(1)(A)(i) and (a)(1)(A)(v).
+SECTION 29. Tennessee Code Annotated, Section 39-17-1351, is amended by deleting
+subdivisions (c)(11), (c)(18), and (c)(19).
+- 5 - 009696
+
+SECTION 30. Tennessee Code Annotated, Section 39-17-1352, is amended by deleting
+subdivisions (a)(9) and (a)(11).
+SECTION 31. Tennessee Code Annotated, Section 39-17-1313(a), is amended by
+deleting the phrase "a person who has a valid enhanced handgun carry permit or concealed
+handgun carry permit or who lawfully carries a handgun pursuant to § 39-17-1307(g) may," and
+substituting "a person who lawfully possesses a firearm may,".
+SECTION 32. Tennessee Code Annotated, Section 37-1-131, is amended by deleting
+subdivision (a)(2)(B)(i)(v).
+SECTION 33. Tennessee Code Annotated, Section 39-17-1359(f), is amended by
+deleting the last sentence.
+SECTION 34. Tennessee Code Annotated, Section 39-17-1359(g)(2)(B), is amended by
+deleting "or § 39-17-1311(b)(1)(H)(ii)".
+SECTION 35. Tennessee Code Annotated, Section 49-6-3051, is amended by deleting
+subdivision (b)(2)(H).
+SECTION 36. Tennessee Code Annotated, Section 37-1-190, is amended by deleting
+the section.
+SECTION 37. Tennessee Code Annotated, Section 37-1-103, is amended by deleting
+subdivision (a)(7).
+SECTION 38. Tennessee Code Annotated, Section 37-1-133(a), is amended by
+deleting "Except as provided in § 37-1-190, an" and substituting "An".
+SECTION 39. Tennessee Code Annotated, Section 37-1-133, is amended by deleting
+subdivision (b)(4).
+SECTION 40. Tennessee Code Annotated, Section 37-1-153(a)(6), is amended by
+deleting "prior to the transfer of a firearm pursuant to § 37-1-190 or" and by deleting "§ 37-1-190
+and".
+- 6 - 009696
+
+SECTION 41. Tennessee Code Annotated, Section 37-1-153(f)(1)(A)(i), is amended by
+deleting "and is not currently prohibited from possessing or purchasing a firearm pursuant to §
+37-1-190".
+SECTION 42. Tennessee Code Annotated, Section 37-1-159, is amended by deleting
+subsection (h).
+SECTION 43. Tennessee Code Annotated, Section 39-17-1316, is amended by deleting
+subdivision (a)(1)(A)(v).
+SECTION 44. Tennessee Code Annotated, Section 39-17-1351, is amended by deleting
+subdivision (c)(19).
+SECTION 45. Tennessee Code Annotated, Section 39-17-1352, is amended by deleting
+subdivision (a)(11).
+SECTION 46. If any provision of this act or its application to any person or circumstance
+is held invalid, then the invalidity does not affect other provisions or applications of the act that
+can be given effect without the invalid provision or application, and to that end, the provisions of
+this act are severable.
+SECTION 47. This act takes effect July 1, 2026, the public welfare requiring it.
+- 7 - 009696

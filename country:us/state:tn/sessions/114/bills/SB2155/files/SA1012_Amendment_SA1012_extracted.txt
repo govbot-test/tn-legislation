@@ -1,0 +1,200 @@
+Title: 
+Official Title: 
+Source: versions - Amendment SA1012
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate Commerce and Labor 1
+Amendment No. 1 to SB2155
+Bailey
+Signature of Sponsor
+AMEND S e n ate Bill No. 2155* House Bill No. 2619
+by deleting all language after the enacting clause and substituting:
+SECTION 1. Tennessee Code Annotated, Section 56-7-3706, is amended by deleting
+subsections (a) and (b) and substituting:
+(a) A prior authorization required for an outpatient healthcare service to treat a
+chronic condition of an enrollee remains valid for at least twelve (12) months after the
+healthcare professional or provider receives the prior authorization approval, unless the
+clinical criteria in § 56-7-3707 provides otherwise.
+(b) A prior authorization required for a prescription drug to treat a chronic
+condition of an enrollee remains valid for at least twelve (12) months after the healthcare
+professional or provider receives the prior authorization approval, unless the clinical
+criteria in § 56-7-3707 provides otherwise.
+SECTION 2. Tennessee Code Annotated, Section 56-7-3703, is amended by adding
+the following as a new subsection:
+(d)
+(1) A healthcare professional with the same education and training as the
+healthcare professional requesting the prior authorization of a healthcare service
+shall make an adverse determination of medical necessity.
+(2) Before making an adverse determination under subdivision (d)(1), the
+reviewing healthcare professional must review:
+(A) The treating healthcare professional's recommendation;
+(B) The enrollee's medical record or other clinical history; and
+SA1012
+017311
+- 1 -
+
+(C) The enrollee's individual clinical circumstances.
+(3) A pharmacist may perform a medical necessity determination for any
+drug except a specialty drug. As used in this subdivision (d)(3), "specialty drug"
+means a high-cost, complex medication that is designed to treat a chronic, rare,
+or complex condition.
+SECTION 3. Tennessee Code Annotated, Title 56, Chapter 7, Part 10, is amended by
+adding the following as new sections:
+56-7-1022. Credit card payments.
+(a) When initiating or changing the type of payment to a healthcare provider
+using electronic funds transfer payments, including virtual credit card payments, a health
+insurance entity or the health insurance entity's vendor must:
+(1) Notify the healthcare provider of any fees associated with a particular
+payment method;
+(2) Advise the healthcare provider of the available payment methods;
+and
+(3) Provide clear instructions to the healthcare provider on how to select
+an alternative payment method.
+(b) A health insurance entity or the health insurance entity's vendor that initiates
+or changes the type of payment to a healthcare provider for healthcare electronic funds
+transfer and remittance advice transactions under 45 CFR 162.1601 and 45 CFR
+162.1602 shall not charge a fee solely to transmit the payment to the healthcare provider
+unless the healthcare provider has consented to the fee.
+(c) A healthcare provider's agent may charge reasonable fees for transaction
+management, data management, portal services, and other value-added services
+related to transactions under 45 CFR 162.1601 and 45 CFR 162.1602, in addition to any
+bank transmission fee.
+56-7-1023. Medical complexity considerations in reimbursement.
+- 2 - 017311
+
+A health insurance entity's contracts and reimbursement policies issued,
+delivered, entered into, amended, or renewed on or after April 30, 2027, must take into
+account a patient's medical complexity and comorbidity and must reimburse healthcare
+providers for covered services, procedures, and devices provided to the patient that are
+medically necessary.
+SECTION 4. Tennessee Code Annotated, Title 56, Chapter 7, is amended by adding
+the following as a new part:
+56-7-3901. Part definitions.
+(a) As used in this part:
+(1) "Commissioner" means the commissioner of commerce and
+insurance;
+(2) "Downcoding":
+(A) Means:
+(i) The adjustment of a claim submitted to a health
+insurance entity to a less complex or lower cost procedure code;
+or
+(ii) A reduction of billed service levels made by a health
+insurance entity, including, but not limited to, diagnosis-related
+group assignments, that reduces payment below the amount
+originally billed by the healthcare provider; and
+(B) Does not mean a recoupment, as defined in § 56-7-110;
+(3) "Health insurance entity" has the same meaning as defined in § 56-7-
+109; and
+(4) "Healthcare provider" has the same meaning as defined in § 56-61-
+102 and includes a facility licensed under title 33.
+56-7-3902. Prohibition on downcoding insurance claims.
+- 3 - 017311
+
+A health insurance entity shall not downcode a claim that contains a current
+procedural terminology evaluation and management code submitted by a healthcare
+provider unless:
+(1) An employee or contractor of the health insurance entity makes the
+downcoding determination in accordance with the American Medical
+Association's current procedural terminology manual evaluation and
+management documentation criteria and the centers for medicare and medicaid
+services guidelines for reporting evaluation and management codes, after a
+documented clinical review of the medical records supporting the claim; and
+(2) The health insurance entity complies with the notification
+requirements in § 56-7-3904.
+56-7-3903. Protections for patients with chronic conditions.
+A health insurance entity shall not use downcoding practices in a targeted or
+discriminatory manner against a healthcare provider that routinely treats patients with
+complex or chronic conditions.
+56-7-3904. Notification requirements for downcoded claims.
+(a) A health insurance entity may downcode a claim submitted by a healthcare
+provider only after providing notice to the healthcare provider that the entity intends to
+downcode the claim, requesting from the healthcare provider the medical records that
+support the claim, and reviewing the medical records supporting the claim.
+(b) If a health insurance entity intends to downcode a claim, then the health
+insurance entity must request from the submitting healthcare provider the medical
+records associated with such claim.
+(c) A healthcare provider shall submit medical records requested by a health
+insurance entity pursuant to subsection (b) within fifteen (15) days after the date of the
+request.
+- 4 - 017311
+
+(d) A health insurance entity that receives medical records pursuant to
+subsection (c) shall send a written acknowledgement of receipt of such records to the
+submitting healthcare provider.
+(e) A health insurance entity shall pay a claim within twenty-one (21) days after
+the date the health insurance entity sends a written acknowledgement of receipt to a
+healthcare provider pursuant to subsection (d).
+(f) If a healthcare provider does not submit to a health insurance entity the
+medical records requested pursuant to subsection (b), then the health insurance entity
+may downcode the claim and must provide notice as described in subsection (g).
+(g) If a health insurance entity downcodes a claim after reviewing the medical
+records, then the health insurance entity must notify the healthcare provider in a
+remittance advice that includes:
+(1) The specific reasons for the downcoding, including reference to the
+clinical criteria used to justify the downcoding;
+(2) The original and revised service codes and payment amounts; and
+(3) Notice of the right to appeal under § 56-7-3905.
+56-7-3905. Appeal process for downcoded claims.
+(a) When a health insurance entity downcodes a claim submitted by a
+healthcare provider, the health insurance entity must provide the healthcare provider
+with:
+(1) Electronic notice to the email address listed in the healthcare
+provider's contract, or any subsequent contact update made to such contract, of
+the right to appeal the portion of the claim that was downcoded;
+(2) Instructions on how to file an appeal; and
+(3) The name, email address, and telephone number for the individual or
+department responsible for the appeal.
+- 5 - 017311
+
+(b) The health insurance entity shall acknowledge receipt of an appeal in writing
+within five (5) business days after receipt.
+(c) A health insurance entity may have multiple levels of appeals, not to exceed
+three (3) levels. The determination of at least one (1) level of appeal must be made by a
+healthcare professional with the same or a higher level of licensure as the treating
+healthcare professional. A health insurance entity shall only downcode a claim after
+reviewing the treating healthcare professional's recommendation, the enrollee's medical
+record or other clinical history, and the enrollee's individual clinical circumstances.
+(d) The health insurance entity shall render a decision on an appeal no later than
+thirty (30) days after the date the healthcare provider files the appeal.
+(e) If the health insurance entity determines that the claim should not have been
+downcoded, then the health insurance entity must pay the healthcare provider within
+fifteen (15) business days after the determination with any interest due to the healthcare
+provider pursuant to § 56-7-109.
+(f) If the health insurance entity fails to render a decision within the thirty-day
+time period in subsection (d), then the claim is deemed approved and payable as
+originally submitted. The health insurance entity shall pay the healthcare provider within
+fifteen (15) days after the expiration of the thirty-day time period in subsection (d).
+(g) A healthcare provider may appeal in batches of similar claims involving
+substantially similar downcoding issues by a health insurance entity.
+(h) If a health insurance entity has a level of appeal that includes arbitration,
+then the health insurance entity must not require a healthcare provider to have more
+than one (1) arbitrator. Such appeal level must include an option for the healthcare
+provider to participate virtually in arbitration.
+56-7-3906. Enforcement of part.
+(a) The commissioner may assess a civil penalty for a violation of this part in
+accordance with § 56-2-305.
+- 6 - 017311
+
+(b) This part must be construed to promote prompt and full payment for
+healthcare services rendered. A health insurance entity shall not evade, delay, or
+otherwise avoid liability under this part through internal procedures, policy language, or
+administrative practices.
+(c) The commissioner may, upon finding that a contract provision, policy term, or
+administrative practice waives, limits, or circumvents the protections of this part, order
+such provision to be unenforceable as against public policy.
+SECTION 5. If any provision of this act or its application to any person or circumstance
+is held invalid, then the invalidity does not affect other provisions or applications of the act that
+can be given effect without the invalid provision or application, and to that end, the provisions of
+this act are severable.
+SECTION 6. The headings in this act are for reference purposes only and do not
+constitute a part of the law enacted by this act. However, the Tennessee Code Commission is
+requested to include the headings in any compilation or publication containing this act.
+SECTION 7.
+(a) For the purpose of promulgating rules, this act takes effect upon becoming a
+law, the public welfare requiring it.
+(b) For all other purposes, this act takes effect April 30, 2027, the public welfare
+requiring it.
+- 7 - 017311

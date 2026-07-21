@@ -1,0 +1,443 @@
+Title: 
+Official Title: 
+Source: versions - Current Version
+Media Type: application/pdf
+
+================================================================================
+
+HOUSE BILL 2535
+By Lamberth
+SENATE BILL 2231
+By Johnson
+AN ACT to amend Tennessee Code Annotated, Title 59;
+Title 60 and Title 68, relative to the production of
+oil and gas.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 60-1-101(7), is amended by deleting
+the subdivision and substituting:
+(7) "Operator" means any person who is supervising or responsible for drilling,
+operating, producing, repairing, abandoning, or plugging of wells under this part;
+SECTION 2. Tennessee Code Annotated, Section 60-1-101(9), is amended by deleting
+the subdivision and substituting:
+(9) "Person" means any natural person, public or private entity, or any
+subdivision or agent thereof, including a corporation, association, partnership, receiver,
+trustee, guardian, executor, administrator, fiduciary, agent, or representative of any kind;
+SECTION 3. Tennessee Code Annotated, Section 60-1-101(10), is amended by
+deleting "crude petroleum".
+SECTION 4. Tennessee Code Annotated, Section 60-1-101(11), is amended by
+deleting the subdivision and substituting:
+(11) "Producer" means the owner or operator of a well or wells capable of
+producing oil or gas, or both, in paying quantities;
+SECTION 5. Tennessee Code Annotated, Section 60-1-101, is amended by adding the
+following as a new subdivision:
+SB2231
+012421
+- 1 -
+
+( ) "Well" means a borehole drilled or proposed to be drilled for the purpose of
+producing natural gas or oil, or both, or a borehole through which natural gas or oil, or
+both, is being produced.
+SECTION 6. Tennessee Code Annotated, Section 60-1-103(a)(1), is amended by
+deleting the subdivision and substituting:
+(1) A person shall not conduct any surface disturbances incidental to or in
+preparation for drilling until a permit application has been submitted to the supervisor.
+The supervisor shall not issue a permit until the conditions established by this subsection
+(a) have been met.
+SECTION 7. Tennessee Code Annotated, Section 60-1-103(a)(3), is amended by
+deleting "blue-line streams within one-half mile (0.5 mi.) of the well site or access roads" and
+substituting "streams within one-fourth mile (1/4 mi.) of the well site".
+SECTION 8. Tennessee Code Annotated, Section 60-1-103(a)(5), is amended by
+deleting the subdivision and substituting:
+(5) A person shall not drill or operate a well without a permit issued by the
+supervisor.
+SECTION 9. Tennessee Code Annotated, Section 60-1-103(d), is amended by deleting
+the subsection and substituting:
+(d) Upon approval, the operator's plan must be a condition of the operator's
+permit. Failure to comply with the plan is grounds for one (1) or more of the following:
+(1) Suspension of operations;
+(2) Permit revocation;
+(3) Forfeiture of bonds;
+(4) Assessment of civil penalties as provided by this chapter; and
+(5) Imposition of any other penalties permitted by this chapter.
+- 2 - 012421
+
+SECTION 10. Tennessee Code Annotated, Section 60-1-104(a), is amended by
+deleting "crude petroleum" wherever it appears and substituting instead "oil".
+SECTION 11. Tennessee Code Annotated, Section 60-1-104(b), is amended by
+deleting "oil and gas".
+SECTION 12. Tennessee Code Annotated, Section 60-1-105, is amended by deleting
+the section in its entirety.
+SECTION 13. Tennessee Code Annotated, Section 60-1-202(a)(3), is amended by
+adding "to contract with any person to perform plugging or reclamation work;" immediately
+preceding "and to take such action as may be necessary to enforce this chapter;".
+SECTION 14. Tennessee Code Annotated, Section 60-1-202(a)(4), is amended by
+deleting the subdivision and substituting:
+(4) To promulgate rules, in accordance with the Uniform Administrative
+Procedures Act, compiled in title 4, chapter 5, to effectuate this chapter, including but not
+limited to the following:
+(A) To require the drilling, casing, and plugging of wells in a manner that
+prevents the escaping of oil and gas out of one (1) stratum to another; to prevent
+intrusion of water to oil and gas strata; to prevent pollution of fresh water by oil,
+gas, or salt water; to protect potentially mineable coal and other minerals; and to
+require a bond for the plugging of each well;
+(B) To require notification to the supervisor, upon such forms as the
+supervisor shall prescribe, of the intention to drill any well for oil or gas;
+(C) To require the filing of logs, including electrical logs and drilling
+records, cores and drill cutting samples, and all other downhole surveys and
+information, within sixty (60) days following the cessation of drilling operations of
+the well;
+- 3 - 012421
+
+(D) To prevent wells from being drilled, operated, and produced in such
+manner as to cause injury to neighboring leases or property;
+(E) To prevent the drowning by water of any oil and gas stratum in
+paying quantities and to prevent the premature and irregular encroachment of
+water which would affect the total ultimate recovery of oil and gas;
+(F) To require the operation of wells with efficient gas-oil ratios and to fix
+such ratios;
+(G) To prevent "blow outs," "caving," and "seepage" in the same sense
+that conditions indicated by such terms are generally understood in the oil and
+gas business;
+(H) To prevent fires;
+(I) To identify ownership of oil and gas wells, producing leases,
+refineries, tanks, plants, structures, and all storage and transportation equipment
+and facilities;
+(J) To regulate the "shooting" and chemical treatment of wells in the
+same sense that conditions indicated by such terms are generally understood in
+the oil and gas business;
+(K) To regulate secondary recovery methods;
+(L) To regulate the spacing of wells;
+(M) To provide for the forced integration of separately owned tracts and
+other property ownership interests into drilling and production units;
+(N) To provide that the board may, in the absence of a voluntary
+agreement and at least sixty (60) days after providing notice to owners, force a
+volumetric or surface poolwide unit; provided, that the pool producers having
+- 4 - 012421
+
+rights to more than fifty percent (50%) of the pool acreage request such
+unitization of the pool;
+(O) To provide that the board may, in the absence of an acceptable plan
+of unitization by the producers, shut in the pool to prevent waste and to protect
+correlative rights until an acceptable plan is presented by the producers;
+(P) To require that any person conducting oil or gas operations, or
+causing surface disturbances preparatory to or incidental to such operations,
+conduct such operations in a manner which will prevent or mitigate adverse
+environmental impacts, such as soil erosion and water pollution, and perform
+reclamation of all areas disturbed by the operations, including access roads, as
+prescribed by part 7 of this chapter; and
+(Q) To require that any operator conducting oil and gas operations, or
+causing surface disturbances preparatory to or incidental to such operations, for
+wells permitted and drilled after July 1, 1987, post a bond or bonds to secure
+compliance with the requirements of this chapter and the rules promulgated
+under this chapter, both for plugging of the wells and reclamation of the surface.
+A prospective operator shall post the bond with the supervisor at the time the
+prospective operator's permit application is submitted. The bond takes effect
+when the initial surface disturbances begin. As an alternative to the performance
+bond required in this subdivision (a)(4)(Q), a person may submit:
+(i) A certificate of deposit issued by any federally-insured financial
+institution to be placed in a separate departmental account that must not
+revert to the general fund;
+(ii) An irrevocable letter of credit issued by any federally-insured
+bank or savings and loan association; or
+- 5 - 012421
+
+(iii) Other cash or securities in an amount mutually agreed to by
+the supervisor and the operator, to be placed in a separate departmental
+account that must not revert to the general fund.
+SECTION 15. Tennessee Code Annotated, Section 60-1-203, is amended by deleting
+the section in its entirety.
+SECTION 16. Tennessee Code Annotated, Section 60-1-204, is amended by deleting
+the section in its entirety.
+SECTION 17. Tennessee Code Annotated, Section 60-1-207, is amended by deleting
+the section in its entirety.
+SECTION 18. Tennessee Code Annotated, Section 60-1-208, is amended by deleting
+the section in its entirety.
+SECTION 19. Tennessee Code Annotated, Section 60-1-209, is amended by deleting
+the section in its entirety and substituting:
+60-1-209.
+(a)
+(1) No later than the filing of the application with the supervisor for a
+permit to drill and prior to initiating site preparation, the applicant shall give notice
+by certified mail, return receipt requested, of the applicant's intent to drill to the
+property owner or owners of the surface of the land to be drilled or to be affected
+by the surface disturbances listed in subdivision (a)(3).
+(2) The property owners to be notified under this section are each
+property owner of record in the property tax assessor's office in the county where
+the property is located.
+(3) The notice must include: the proposed location of the well site; the
+proposed location of all new ingress and egress; the location of all diversions,
+- 6 - 012421
+
+drilling pits, dikes, and related structures and facilities; the location of proposed
+storage tanks; and all other surface disturbances.
+(4) The notice must state that each property owner of record and the
+applicant have fifteen (15) business days from the date of mailing to discuss the
+location of surface disturbances in connection with the drilling operation. The
+notice must also state that if each property owner and the applicant are unable to
+resolve differences regarding the location of surface disturbances, either or both
+may bring an action for settlement in a court of proper jurisdiction.
+(b) Notwithstanding any other requirements for a permit to drill, such a permit
+may only be issued if:
+(1) The applicant submits to the supervisor statements of no objection
+signed by each property owner entitled to notice under subsection (a); or
+(2) Upon the submittal of a court order approving the location to the
+supervisor.
+SECTION 20. Tennessee Code Annotated, Section 60-1-401, is amended by deleting
+the section in its entirety and substituting:
+60-1-401.
+(a) If, upon an inspection or investigation, the supervisor determines that a
+person is in violation of this chapter, rules promulgated pursuant to this chapter, an order
+adopted by the board, or terms or conditions of a permit, the supervisor shall with
+reasonable promptness, and in no event no later than six (6) months following the
+inspection or investigation, issue by certified mail a written notice that states the nature
+and, if applicable, the location of the violation, including a reference to the statute, rules,
+order, or permit terms or conditions alleged to have been violated. In addition, the notice
+must fix a reasonable time for abatement of the violation. The supervisor may suspend
+- 7 - 012421
+
+or lengthen the abatement period upon a showing of a good faith effort to comply with
+the abatement requirements and that failure to comply with the abatement requirements
+is due to factors beyond the person's reasonable control. If applicable, the notice may
+state that the supervisor has reason to believe that a violation, or the failure to abate
+such violation, should result in the assessment of a civil penalty.
+(b)
+(1) The supervisor may assess civil penalties up to ten thousand dollars
+($10,000) for each day a violation occurs against a person who violates this
+chapter, rules promulgated pursuant to this chapter, an order adopted by the
+board, or the terms or conditions of a permit.
+(2) A civil penalty must be assessed in the following manner:
+(A) An order and assessment must be issued by certified mail,
+return receipt requested, personal service, or any other means authorized
+by the Tennessee Rules of Civil Procedure stating the amount of the
+penalty to be assessed and the reason therefor;
+(B) An order and assessment issued pursuant to subdivision
+(b)(2)(A) must inform the person of the right to appeal to the board within
+thirty (30) days of service by filing a written notice of appeal with the
+supervisor and the board setting forth the grounds and reasons for the
+objections and requesting a hearing in the matter involved before the
+board;
+(C) A hearing brought before the board must be conducted as a
+contested case in accordance with the Uniform Administrative Procedures
+Act, compiled in title 4, chapter 5; and
+- 8 - 012421
+
+(D) If a petition for review of an order and assessment is not filed
+within thirty (30) days after the date of service, the person is deemed to
+consent to the order and assessment, and the order and assessment is
+final.
+(3) In assessing a civil penalty, the supervisor shall consider the
+following:
+(A) The appropriateness of the penalty with respect to the size of
+the business of the person assessed;
+(B) The gravity of the violation;
+(C) The good faith of the person;
+(D) The person's history of previous violations;
+(E) The economic benefit gained by the person; and
+(F) Damages to this state, including waste resulting from the
+violation, as well as expenses incurred in investigating and enforcing this
+section and the costs involved in rectifying any damage.
+(4)
+(A) If a person appeals an order and assessment of a penalty
+pursuant to this subsection (b), the appeal must be conducted as a
+contested case and heard before an administrative judge sitting alone
+pursuant to §§ 4-5-301(a)(2) and 4-5-314(b), unless settled by the parties.
+(B) The administrative judge to whom an appeal is assigned shall
+convene the parties for a scheduling conference within thirty (30) days of
+the date the appeal is filed.
+(C) The administrative judge shall issue a scheduling order for the
+contested case that results in a hearing being completed within one-
+- 9 - 012421
+
+hundred eighty (180) days of the scheduling conference, unless the
+parties agree to a longer time or the administrative judge allows otherwise
+for good cause shown, and an initial order being issued within ninety (90)
+days of completion of the record of the hearing.
+(D) The administrative judge's initial order, together with any
+earlier orders issued by the administrative judge, becomes final unless a
+party appeals pursuant to § 4-5-315 within fifteen (15) days after entry of
+the initial order.
+(E) The board is precluded from reviewing an initial order unless
+appealed by a party. Upon appeal to the board by a party the board shall
+afford each party an opportunity to present briefs, review the record, and
+allow each party an opportunity to present oral argument. If appealed to
+the board, the review of the administrative judge's initial order is limited to
+the record, but must be reviewed de novo with no presumption of
+correctness. In such appeals, the board shall render a final order, in
+accordance with § 4-5-315, affirming, modifying, remanding, or vacating
+the order and assessment. A final order rendered pursuant to this
+subdivision (b)(4)(E) is effective upon its entry unless a later effective
+date is stated in the final order. A petition to stay the effective date of a
+final order may be filed under § 4-5-316. A petition for reconsideration of
+a final order may be filed pursuant to § 4-5-317. Judicial review of a final
+order may be sought by filing a petition for review in accordance with § 4-
+5-322.
+(F) An order of an administrative judge that becomes final in the
+absence of an appeal is deemed to be a decision of the board in that
+- 10 - 012421
+
+case for purposes of the standard of review by a court; provided,
+however, that in other matters before the board, it may be considered but
+is not binding on the board.
+(c)
+(1) The supervisor, through a notice of forfeiture, may order the forfeiture
+of the bond to the department for any person who violates this chapter, rules
+promulgated pursuant to this chapter, an order adopted by the board, or the
+terms or conditions of a permit.
+(2) A bond forfeiture must be issued in the following manner:
+(A) The supervisor shall with reasonable promptness, and no
+later than six (6) months following the inspection or investigation, issue to
+the person by certified mail a notice of noncompliance that states the
+nature, and if applicable, the location of the violation, including a
+reference to the alleged violation;
+(B) A notice of noncompliance must fix a reasonable time for
+abatement of the violation. The supervisor may suspend or lengthen the
+abatement period upon a showing of a good faith effort to comply with the
+abatement requirements and that failure to comply with the abatement
+requirements is due to factors beyond the person's reasonable control. If
+the supervisor has reason to believe that the violation, or the failure to
+abate the violation, may result in bond forfeiture, the notice may so state;
+(C) If, within the period of abatement established in the notice of
+noncompliance, no agreement has been reached with the supervisor
+regarding the alleged failure to comply, and the supervisor determines
+that the person has not complied with the requirements set forth by the
+- 11 - 012421
+
+notice of noncompliance, then the supervisor shall issue a notice of
+forfeiture to the person by certified mail, return receipt requested,
+personal service, or any other means authorized by the Tennessee Rules
+of Civil Procedure stating that the bond is ordered forfeited to the
+department;
+(D) A notice of forfeiture issued pursuant to this subsection (c)
+must inform the person of their right to appeal to the board within a period
+of thirty (30) days of service by filing a written notice of appeal with the
+supervisor and the board setting forth the grounds and reasons for the
+objections and asking for a hearing in the matter involved before the
+board.
+(E) Any hearing brought before the board must be conducted as a
+contested case in accordance with the Uniform Administrative Procedures
+Act, compiled in title 4, chapter 5; and
+(F) If a petition for review of the notice of forfeiture is not filed
+within thirty (30) days after the date the notice of forfeiture is served, then
+the bond must be ordered forfeited to the department.
+(3)
+(A) If a person appeals a notice of forfeiture pursuant to this
+subsection (c), the appeal must be conducted as a contested case and
+heard before an administrative judge sitting alone pursuant to §§ 4-5-
+301(a)(2) and 4-5-314(b), unless settled by the parties.
+(B) The administrative judge to whom an appeal is assigned shall
+convene the parties for a scheduling conference within thirty (30) days of
+the date the appeal is filed.
+- 12 - 012421
+
+(C) The administrative judge shall issue a scheduling order for the
+contested case that results in a hearing being completed within one-
+hundred eighty (180) days of the scheduling conference, unless the
+parties agree to a longer time or the administrative judge allows otherwise
+for good cause shown, and an initial order being issued within ninety (90)
+days of completion of the record of the hearing.
+(D) The administrative judge's initial order, together with any
+earlier orders issued by the administrative judge, becomes final unless a
+party appeals pursuant to § 4-5-315 within fifteen (15) days after entry of
+the initial order.
+(E) The board shall not review an initial order unless appealed by
+a party. Upon appeal to the board by a party, the board shall afford each
+party an opportunity to present briefs, review the record, and allow each
+party an opportunity to present oral argument. If appealed to the board,
+the review of the administrative judge's initial order is limited to the record,
+but must be reviewed de novo with no presumption of correctness. In
+such appeals, the board shall render a final order, in accordance with § 4-
+5-314, affirming, modifying, remanding, or vacating the notice of
+forfeiture. A final order rendered pursuant to this subdivision (c)(3)(E) is
+effective upon its entry unless a later effective date is stated in the final
+order. A petition to stay the effective date of a final order may be filed
+under § 4-5-316. A petition for reconsideration of a final order may be
+filed pursuant to § 4-5-317. Judicial review of a final order may be sought
+by filing a petition for review in accordance with § 4-5-322.
+- 13 - 012421
+
+(F) An order of an administrative judge that becomes final in the
+absence of an appeal is deemed to be a decision of the board in that
+case for purposes of the standard of review by a court; provided,
+however, that in other matters before the board, it may be considered but
+is not binding on the board.
+(4)
+(A) Reclamation bonds must be performance bonds, conditioned
+on the reclamation of the well site and access roads pursuant to part 7 of
+this chapter.
+(B) Any portion of a reclamation bond not expended for the
+purposes described in subdivision (c)(4)(A) shall be refunded to the
+operator or the operator's surety if the conditions of the bond are fully
+satisfied.
+(C) If the conditions of a reclamation bond are not fully satisfied,
+because the bond is a blanket bond or otherwise, the unexpended
+proceeds must be held or applied in a manner to secure the performance
+of the remaining obligations secured by the bond. If the bond is a blanket
+bond and the unexpended portion is less than is required for the
+remaining wells covered by the bond, a supplementary bond must be
+required.
+SECTION 21. Tennessee Code Annotated, Section 60-1-404(a), is amended by
+deleting the subsection and substituting:
+(a) All sums received in payment of penalties and bond forfeitures pursuant to
+this part must be placed in the state treasury in a separate account to be designated as
+the Tennessee oil and gas reclamation fund.
+- 14 - 012421
+
+SECTION 22. Tennessee Code Annotated, Section 60-1-404, is amended by deleting
+"default and" from subsections (b) and (c).
+SECTION 23. Tennessee Code Annotated, Section 60-1-701, is amended by deleting
+the section and substituting:
+At the well site, the operator shall take measures to prevent or minimize soil
+erosion and pollution of surface waters during the life of the operation, including work
+preparatory to or incidental to such operations. Such measures may include sediment
+ponds, berms, diversion ditches, hay bales, and other measures designed to prevent
+erosion and discharge of pollutants from the well site.
+SECTION 24. Tennessee Code Annotated, Section 60-1-702, is amended by deleting
+the section and substituting:
+Access roads must be constructed and maintained in accordance with all
+applicable local, state, and federal laws, rules, and regulations, including, but not limited
+to, the requirements of title 69, chapter 3, part 1, and applicable rules promulgated by
+the board.
+SECTION 25. Tennessee Code Annotated, Section 60-1-703(6), is amended by
+deleting the subdivision and substituting:
+(6) Access roads are subject to all of the above reclamation requirements unless
+the landowner establishes by sworn affidavit that a road will continue to be used for
+purposes other than well access. The access road must be maintained in a usable
+condition by the surface owner and must comply with all applicable local, state, and
+federal laws and regulations, including, but not limited to, the requirements of title 69,
+chapter 3, part 1, and applicable rules promulgated by the board. An access road may
+continue to be used by the operator to gain access to the well site in order to determine
+the adequacy of the vegetation cover or to perform additional revegetation;
+- 15 - 012421
+
+SECTION 26. Tennessee Code Annotated, Section 60-1-703(7), is amended by
+deleting the subdivision and substituting:
+(7) Revegetation success must not be determined until after two (2) successfully
+completed growing seasons have occurred, or at a lesser time as determined by the
+supervisor; and
+SECTION 27. Tennessee Code Annotated, Section 60-1-704(a), is amended by
+deleting the subsection and substituting:
+(a) Upon satisfactory completion of regrading and revegetation of all disturbed
+areas except active work areas and access roads needed for oil or gas production, the
+supervisor may release one-third (1/3) of the reclamation bond upon written request by
+the operator or as determined by the supervisor. After plugging, and upon final
+reclamation and satisfactory survival of the vegetation as determined by the supervisor,
+the supervisor may release the remainder of the reclamation bond upon written request
+of the operator or as determined by the supervisor.
+SECTION 28. Tennessee Code Annotated, Section 60-1-705, is amended by deleting
+the section.
+SECTION 29. Tennessee Code Annotated, Section 68-203-103(b)(6), is amended by
+deleting the subdivision and substituting:
+(6) The fees under the Mineral Test Hole Regulatory Act, compiled in title 59, as
+a new chapter pursuant to Section 30, must be set by the supervisor in accordance with
+redesignated § 59-9-105.
+SECTION 30. Tennessee Code Annotated, Title 60, Chapter 1, Part 5, is amended by
+deleting "part" wherever it appears and substituting "chapter" in §§ 60-1-501; 60-1-502; 60-1-
+503; 60-1-504(a), (b)(1), (b)(3), (b)(4), (b)(5), and (b)(9); 60-1-505(a) and (c); 60-1-506; 60-1-
+507; 60-1-508(1), (3), and (5); 60-1-509; 60-1-510(a) and (c); and 60-1-511.
+- 16 - 012421
+
+SECTION 31. The Tennessee Code Commission is directed to transfer the Mineral Test
+Hole Regulatory Act, compiled in Title 60, Chapter 1, Part 5, from that part to Title 59 as a new
+chapter 9.
+SECTION 32. This act takes effect upon becoming a law, the public welfare requiring it.
+- 17 - 012421

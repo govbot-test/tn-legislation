@@ -1,0 +1,312 @@
+Title: 
+Official Title: 
+Source: versions - Current Version
+Media Type: application/pdf
+
+================================================================================
+
+HOUSE BILL 2095
+By White
+SENATE BILL 2141
+By White
+AN ACT to amend Tennessee Code Annotated, Title 43,
+Chapter 6, Part 5 and Title 49, relative to higher
+education.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 43-6-502, is amended by deleting
+subsection (a) and substituting instead the following:
+(a) The University of Tennessee shall initiate and administer a two-year black fly
+suppression program using a biological control agent in the Greenbrier Valley and the
+areas adjacent to the Pigeon River under the supervision of the department of
+agriculture. The university shall study the biological and socioeconomic effects of the
+suppression program on the region.
+SECTION 2. Tennessee Code Annotated, Section 49-4-204, is amended by deleting the
+section and substituting:
+The Tennessee student assistance corporation shall promulgate rules governing
+the making of awards of financial assistance, to establish criteria for the restriction or
+suspension of an eligible postsecondary institution's participation in this state's financial
+aid programs for noncompliance with applicable statutory or regulatory requirements,
+and to carry out and make effective the purposes of parts 2, 3, and 6-9 of this chapter.
+The rules must be promulgated in accordance with the Uniform Administrative
+Procedures Act, compiled in title 4, chapter 5.
+SECTION 3. Tennessee Code Annotated, Section 49-4-301, is amended by deleting the
+section and substituting instead the following:
+(a) As used in this part:
+SB2141
+011327
+- 1 -
+
+(1) "Eligible postsecondary institution" means:
+(A) An institution in the state university and community college
+system, or an institution in the University of Tennessee system;
+(B) An eligible independent postsecondary institution as defined
+in § 49-4-902; or
+(C) A postsecondary institution that was eligible for awards under
+this part and whose students received such awards in the academic year
+beginning July 1, 2025, and that remains accredited by an accrediting
+agency recognized by the United States department of education;
+(2) "Eligible program of study" means:
+(A) A curriculum of courses leading to a certificate or diploma at a
+Tennessee college of applied technology; or
+(B) A federal Title IV-eligible curriculum of courses leading to a
+certificate, diploma, or an associate or a bachelor's degree at an eligible
+postsecondary institution;
+(3) "FAFSA" means the Free Application for Federal Student Aid;
+(4) "Financial need" means having a valid SAI on a student's FAFSA that
+is at or under the eligible SAI established by the executive director of the
+Tennessee higher education commission;
+(5) "Primary campus" means the main location or campus where the
+eligible postsecondary institution is headquartered and typically conducts its
+central administrative operations for its programs and campuses;
+(6) "Resident" means a student classified as a resident of this state
+pursuant to § 49-8-104;
+- 2 - 011327
+
+(7) "SAI" means the Student Aid Index, which is a calculation in the
+FAFSA to determine student eligibility for financial aid; and
+(8) "TSAC" means the Tennessee student assistance corporation.
+(b) There is established the Tennessee student assistance program, which is
+administered by the Tennessee student assistance corporation.
+(c) To be eligible for a Tennessee student assistance award provided through
+the Tennessee assistance program, a student with financial need must:
+(1) Be a resident of this state;
+(2) Be enrolled or intend to enroll full-time or part-time in an eligible
+program of study at an eligible postsecondary institution; and
+(3) Submit an application, as required by TSAC.
+(d) Students who are citizens of the United States must receive priority in the
+making of Tennessee student assistance awards.
+SECTION 4. Tennessee Code Annotated, Section 49-4-302, is amended by deleting the
+section and substituting:
+(a) TSAC shall pay a Tennessee student assistance award on behalf of a
+student directly to the eligible postsecondary institution in which the student is enrolled
+or intends to enroll. The eligible postsecondary institution shall promptly credit the
+payments received from TSAC to individual student accounts, to be applied first to any
+educational expenses the student owes the institution. Any amount of the award
+remaining after payment of any educational expenses must be disbursed to the
+individual student up to the cost of attendance.
+(b) TSAC shall make payments of all Tennessee student assistance awards in
+approximately equal installments after the beginning of each academic term, upon:
+- 3 - 011327
+
+(1) Certification from the eligible postsecondary institution that each
+student is officially enrolled in an eligible program of study; and
+(2) TSAC's determination that the eligible postsecondary institution has
+complied with state statutory and regulatory financial aid requirements, including
+any requirements stipulated to in a TSAC compliance review.
+SECTION 5. Tennessee Code Annotated, Section 49-4-303, is amended by deleting the
+section and substituting:
+A Tennessee student assistance award must be based on the financial need of
+the student. If a student's financial need is less than one hundred dollars ($100), then
+the student is ineligible for an award pursuant to this part.
+SECTION 6. Tennessee Code Annotated, Section 49-4-304, is amended by deleting the
+section and substituting:
+TSAC shall renew an award only upon the student's application and upon
+verification that the applicant has satisfactorily completed the work in the immediately
+preceding academic year, that the applicant remains a resident of this state, and that the
+applicant's financial situation continues to warrant the award pursuant to this part and
+the policies and rules adopted or promulgated by TSAC.
+SECTION 7. Tennessee Code Annotated, Section 49-4-306, is amended by deleting the
+section and substituting:
+If the recipient of an award falsifies information on the application, then TSAC
+may, upon evidence, revoke the award. If a person's award is revoked pursuant to this
+section, then the person is prohibited from further payment or benefits of the award.
+SECTION 8. Tennessee Code Annotated, Section 49-4-705, is amended by deleting the
+section.
+- 4 - 011327
+
+SECTION 9. Tennessee Code Annotated, Section 49-4-903(b), is amended by deleting
+the subsection and substituting:
+(b) THEC shall provide assistance to the general assembly and to TSAC by
+researching and analyzing data concerning the scholarship and grant programs created
+under this part, including, but not limited to, student success and scholarship retention.
+THEC shall report its findings annually to the education committee of the senate and the
+committees of the house of representatives having jurisdiction over education.
+SECTION 10. Tennessee Code Annotated, Section 49-4-913(a), is amended by
+deleting the subsection and substituting:
+(a) Except as set forth in §§ 49-4-919, 49-4-930, 49-4-931, and 49-4-937, a
+student may receive a Tennessee HOPE scholarship until the first of the following
+events:
+(1) The student has earned a bachelor's degree unless the student
+maintains continuous enrollment toward an advanced degree;
+(2) The student has earned an advanced degree; or
+(3) Five (5) years have passed from the date of the student's initial
+enrollment at any postsecondary institution.
+SECTION 11. Tennessee Code Annotated, Section 49-4-919, is amended by deleting
+subsection (b) and substituting:
+(b) Except for approved medical or personal leaves of absence, a Tennessee
+HOPE scholarship student, including a part-time student, must maintain continuous
+enrollment as a student at an eligible postsecondary institution.
+SECTION 12. Tennessee Code Annotated, Section 49-4-933(d)(2), is amended by
+deleting the subdivision and substituting:
+(2) Until a terminating event under § 49-4-913 occurs.
+- 5 - 011327
+
+SECTION 13. Tennessee Code Annotated, Section 49-4-943(c)(1)(A), is amended by
+deleting the subdivision and substituting:
+(A) Maintain continuous enrollment in the eligible postsecondary program as
+defined by the eligible postsecondary institution; and
+SECTION 14. Tennessee Code Annotated, Section 49-7-112(e), is amended by
+deleting the subsection and substituting:
+(e) The commission shall annually provide a copy of the report to the education
+committee and the commerce and labor committee of the senate, the committees of the
+house of representatives having jurisdiction over education and commerce, and the
+governor. The commission shall send the report to the commissioners of economic and
+community development, labor and workforce development, and education. The
+commission shall also send the report to the board of regents, the University of
+Tennessee board of trustees, each of the state universities, and the Tennessee
+Independent Colleges and Universities Association. The commission shall work with the
+department of education to provide the report to the state's public school districts and
+private elementary, middle, and high schools. The report may be provided electronically.
+SECTION 15. Tennessee Code Annotated, Section 49-7-121, is amended by deleting
+the section.
+SECTION 16. Tennessee Code Annotated, Section 49-7-202(r), is amended by deleting
+the subsection and substituting:
+(r)
+(1) The commission shall require all state institutions of higher education
+to collaborate and develop a transfer pathway for at least the fifty (50)
+undergraduate majors for which the demand from students is the highest and in
+- 6 - 011327
+
+those fields of study for which the development of a transfer pathway is feasible
+based on the nature of the field of study.
+(2)
+(A) A transfer pathway shall consist of sixty (60) hours of
+instruction that a student can transfer and apply toward the requirements
+for a bachelor's degree at a public institution that offers the transfer
+pathway. The sixty (60) hours of instruction in a transfer pathway must
+consist of forty-one (41) hours of general education courses instruction
+and nineteen (19) hours of pre-major courses instruction, or elective
+courses instruction that count toward a major, as prescribed by the
+commission, which must consider the views of faculty, advisors, and chief
+academic officers of the respective campuses. Courses in a transfer
+pathway must transfer and apply toward the requirements for graduation
+with a bachelor's degree at all public universities.
+(B) A non-technical associate degree graduate from a Tennessee
+community college is deemed to have met all general education and
+university parallel core requirements for transfer to a four-year state
+institution of higher education as a junior. Notwithstanding this
+subdivision (r)(2)(B), admission into a particular program, school, or
+college within a university, or into the University of Tennessee, Knoxville,
+must remain competitive in accordance with generally applicable policies.
+(C) The forty-one-hour lower division general education core
+common to all state colleges and universities is fully transferable as a
+block to, and satisfies the general education core of, any public
+community college or university. A completed subject category, for
+- 7 - 011327
+
+example, natural sciences or mathematics, within the forty-one-hour
+general education core is also fully transferable and satisfies that subject
+category of the general education core at any public community college or
+university.
+(D) The nineteen-hour lower division area of emphasis articulated
+to a baccalaureate major is universally transferable as a block satisfying
+lower division major requirements to any public university offering that
+degree program major.
+(E) All new or existing transfer pathways must be reviewed on a
+rotating basis at least once every five (5) years. Any proposed pathway
+that exceeds the prescribed hours of instruction must be approved by the
+commission.
+(3)
+(A) A technical transfer pathway consists of approved coursework
+from a certificate, diploma, or associate of applied science program. The
+coursework articulated in a technical transfer pathway must be
+transferrable to an associate or bachelor's degree at a participating
+institution. The credit or clock hours in the pathway are determined by
+the degree, as prescribed by the commission, which must consider the
+views of faculty, advisors, and chief academic officers and faculty of the
+respective campuses.
+(B) All new or existing technical transfer pathways must require
+review on a rotating basis at least once every five (5) years.
+(4) It is the legislative intent that community college students who wish to
+earn baccalaureate degrees in this state's public higher education system be
+- 8 - 011327
+
+provided with clear and effective information and directions that specify curricular
+paths to a degree. To meet the intent of this section, the commission, in
+consultation with the governing boards of all state institutions of higher education,
+shall develop, and the governing boards of all state institutions of higher
+education shall implement, the following:
+(A) A common course numbering system, taking into
+consideration efforts already undertaken by the community colleges, to
+address the requirements of subdivision (r)(1);
+(B) Listings of course offerings that clearly identify courses that
+are not university parallel courses and are therefore not designed to be
+transferable under subdivision (r)(1); and
+(C) A dual admissions policy in which a person who satisfies the
+admissions requirements of a two-year institution governed by the board
+of regents and a public university while pursuing a degree program within
+a transfer pathway program of study is authorized to be admitted to both
+institutions.
+(5) The commission has the ongoing responsibility to update and revise
+the plans implemented pursuant to this subsection (r) and to report to the chairs
+of the education and finance, ways and means committees of the senate and the
+chairs of the committees of the house of representatives having jurisdiction over
+transfer pathways and financing higher education annually on the progress made
+toward full articulation between all public institutions.
+SECTION 17. Tennessee Code Annotated, Section 49-7-204(d), is amended by
+deleting the subsection and substituting instead:
+(d)
+- 9 - 011327
+
+(1) The governor shall call the commission's first meeting after all
+members have been appointed.
+(2) After the first meeting, the commission shall meet at least four (4)
+times each year.
+(3) Except as provided in subdivision (d)(4), meetings of the commission
+must be made available for viewing by the public over the internet by streaming
+video, accessible from the commission's website. Archived videos of the
+commission's meetings must also be made available to the public through the
+commission's website.
+(4) Notwithstanding another law to the contrary, the commission may
+conduct private meetings to discuss or deliberate on matters related to senior
+administration, personnel positions, and contracts; provided, that the commission
+shall not take action on matters related to senior administration, personnel
+positions, and contracts in a private meeting.
+SECTION 18. Tennessee Code Annotated, Section 49-7-210(e), is amended by
+deleting the subsection and substituting:
+(e) The fact book must be published annually as soon as practicable upon
+receipt of necessary student data from the systems and other sources. The fact book
+must be made available in web-based and printable formats.
+SECTION 19. Tennessee Code Annotated, Title 49, Chapter 7, Part 2, is amended by
+adding the following as a new section:
+The commission may designate public and private nonprofit institutions of higher
+education as transfer designation institutions that prioritize the success of students with
+transfer credit. Transfer designation institutions must be committed to improving student
+outcomes by recognizing and accepting both traditional and non-traditional credit,
+- 10 - 011327
+
+removing barriers, decreasing credit loss, and providing relevant support to students. An
+institution seeking designation as a transfer designation institution must apply by
+submitting a written request to the executive director of the commission.
+SECTION 20. Tennessee Code Annotated, Section 49-7-1310(c)(3), is amended by
+deleting the subdivision.
+SECTION 21. Tennessee Code Annotated, Section 49-7-2004(a), is amended by
+adding the following as a new subdivision:
+(13)
+(A) Education offered to an apprentice through a registered
+apprenticeship program approved by the department of labor and workforce
+development by or on behalf of a sponsor or employer associated with the
+registered apprenticeship program number.
+(B) Education offered to a person other than an apprentice is not exempt
+pursuant to this subdivision (a)(13).
+(C) As used in this subdivision (a)(13):
+(1) "Apprentice" means the same as the term is defined in § 50-
+11-102;
+(2) "Apprenticeship program" means the same as the term is
+defined in 29 .C.F.R. § 29.2;
+(3) "Employer" means the same as the term is defined in § 50-11-
+102; and
+(4) "Sponsor" means the same as the term is defined in § 50-11-
+102.
+SECTION 22. Tennessee Code Annotated, Section 49-7-2701, is amended by deleting
+subsection (c).
+- 11 - 011327
+
+SECTION 23. Tennessee Code Annotated, Section 49-8-1401, is amended by deleting
+subsection (c).
+SECTION 24. Tennessee Code Annotated, Section 49-9-301, is amended by deleting
+the section.
+SECTION 25. Sections 9, 14, 16, and 18 of this act take effect upon becoming a law,
+the public welfare requiring it. All other sections of this act take effect July 1, 2026, the public
+welfare requiring it.
+- 12 - 011327

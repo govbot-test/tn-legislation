@@ -1,0 +1,25 @@
+Title: 
+Official Title: 
+Source: versions - Current Version
+Media Type: application/pdf
+
+================================================================================
+
+HOUSE BILL 1622
+By Lafferty
+SENATE BILL 1535
+By Jackson
+AN ACT to amend Tennessee Code Annotated, Title 4,
+Chapter 29 and Title 40, Chapter 30, Part 2,
+relative to the post-conviction defender oversight
+commission.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 4-29-247(a), is amended by deleting
+subdivision (41).
+SECTION 2. Tennessee Code Annotated, Section 4-29-253(a), is amended by inserting
+the following as a new subdivision:
+( ) Post-conviction defender oversight commission, created by § 40-30-203;
+SECTION 3. This act takes effect upon becoming a law, the public welfare requiring it.
+SB1535
+010093
+- 1 -
