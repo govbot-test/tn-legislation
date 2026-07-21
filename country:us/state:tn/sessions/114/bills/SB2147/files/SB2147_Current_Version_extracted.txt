@@ -1,0 +1,24 @@
+Title: 
+Official Title: 
+Source: versions - Current Version
+Media Type: application/pdf
+
+================================================================================
+
+HOUSE BILL 2486
+By Haston
+SENATE BILL 2147
+By Pody
+AN ACT to amend Tennessee Code Annotated, Title 4,
+Chapter 14; Title 4, Chapter 31; Title 7; Title 13;
+Title 64; Title 66; Title 67 and Chapter 68 of the
+Private Acts of 2024, relative to development
+authorities.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 64-1-606, is amended by adding the
+following sentence to the end of the section:
+The annual report submitted pursuant to this section may be transmitted electronically.
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+SB2147
+011854
+- 1 -

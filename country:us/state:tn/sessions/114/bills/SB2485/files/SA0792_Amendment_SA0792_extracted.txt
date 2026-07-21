@@ -1,0 +1,42 @@
+Title: 
+Official Title: 
+Source: versions - Amendment SA0792
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate Education 1
+Amendment No. 1 to SB2485
+White
+Signature of Sponsor
+AMEND S e n ate Bill No. 2485* House Bill No. 2410
+by deleting subsection (b) in Section 1 and substituting:
+(b) An LEA or public charter school shall not use a video camera surveillance
+system to continuously monitor students, teachers, and staff in a special education
+classroom unless:
+(1) All teachers and staff that provide special education or related
+services in the special education classroom consent, in writing, to being
+continuously monitored using the system while they are providing special
+education or related services in the special education classroom; and
+(2) The parents of a majority of the students assigned to receive special
+education or related services in the special education classroom consent, in
+writing, to the parent's student being continuously monitored using the system
+while they are receiving special education or related services in the special
+education classroom.
+AND FURTHER AMEND by designating subsection (f) in Section 1 as subsection (g) and
+adding the following as a new subsection (f):
+SA0792
+016123
+- 1 -
+
+(f) If the parent of a student assigned to receive special education or related
+services in the special education classroom in which a video camera surveillance system
+has been installed does not consent, in writing, to the parent's student being
+continuously monitored using the system while the parent's student is receiving special
+education or related services in the special education classroom, then the LEA or public
+charter school shall not use, refer to, or rely on any photograph or recording made using
+the video camera surveillance system that features the nonconsenting parent's student
+for any purpose, including, but not limited to, the discipline, assignment, or placement of
+the nonconsenting parent's student.
+- 2 - 016123

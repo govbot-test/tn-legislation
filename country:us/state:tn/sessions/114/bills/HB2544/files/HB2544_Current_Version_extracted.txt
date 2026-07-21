@@ -1,0 +1,159 @@
+Title: 
+Official Title: 
+Source: versions - Current Version
+Media Type: application/pdf
+
+================================================================================
+
+SENATE BILL 1875
+By Johnson
+HOUSE BILL 2544
+By Lamberth
+AN ACT to amend Tennessee Code Annotated, Title 67,
+Chapter 1, Part 18; Title 67, Chapter 3, Part 11
+and Title 67, Chapter 6, relative to taxation.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 67-1-1801(b)(1), is amended by
+deleting the language "attached to the notice" and substituting instead the language "attached to
+the complaint".
+SECTION 2. Tennessee Code Annotated, Section 67-3-1103(a), is amended by
+deleting the subsection and substituting instead the following:
+(a) A person using a liquified gas propelled motor vehicle, including a motor
+vehicle equipped to use liquified gas interchangeably with another motor fuel, that is
+required to be licensed in this state for use on the public highways, shall pay the liquified
+gas tax on delivery of the liquified gas into the fuel supply tank of a motor vehicle.
+SECTION 3. Tennessee Code Annotated, Section 67-3-1104(c), is amended by
+deleting the last sentence of the subsection.
+SECTION 4. Tennessee Code Annotated, Section 67-3-1104(d), is amended by
+deleting the subsection and substituting instead the following:
+(d) A dealer permit authorizes a dealer to collect and remit taxes on liquified gas
+delivered into the fuel supply tanks of motor vehicles.
+SECTION 5. Tennessee Code Annotated, Section 67-3-1107(b), is amended by
+deleting the subsection and substituting instead the following:
+(b) A user permit must be issued upon proper application on a form prescribed
+by the commissioner and is permanent and valid so long as the permittee furnishes
+HB2544
+011264
+- 1 -
+
+timely reports and remits the taxes when due, or until surrendered by the holder or
+cancelled by the commissioner.
+SECTION 6. Tennessee Code Annotated, Section 67-3-1108, is amended by deleting
+the section and substituting instead the following:
+(a) A dealer who makes a sale or delivery of liquified gas into a fuel supply tank
+of a motor vehicle is liable to the state for the tax imposed and shall report and pay the
+tax in the manner required by this part.
+(b) A user who submits reports and pays the tax according to § 67-3-1110(b)
+and (c) may deduct the amount of tax paid to a dealer from the amount of tax due.
+SECTION 7. Tennessee Code Annotated, Section 67-3-1110(b), is amended by
+deleting the first sentence of the subsection and substituting instead the following:
+A permitted user operating a vehicle used for commercial purposes, who does
+not pay the liquified gas tax to a dealer, is required to submit a report on or before July
+25 of each year, for the previous July 1 through June 30 period, and shall remit the tax
+due.
+SECTION 8. Tennessee Code Annotated, Section 67-3-1110(c)(1), is amended by
+deleting the last sentence of the subdivision.
+SECTION 9. Tennessee Code Annotated, Section 67-3-1111, is amended by deleting
+the section and substituting instead the following:
+A user who submits reports and pays the tax according to § 67-3-1110(b) and (c)
+is entitled to a refund of liquified gas tax paid on each gallon of liquified gas used outside
+the state. On verification by the commissioner that the report was complete and timely
+filed, the refund must be paid if ten dollars ($10.00) or more is due to the user. No
+refund less than ten dollars ($10.00) shall be paid. A refund shall not be granted if the
+report is not timely filed.
+- 2 - 011264
+
+SECTION 10. Tennessee Code Annotated, Section 67-3-1112(b), is amended by
+deleting the subsection.
+SECTION 11. Tennessee Code Annotated, Section 67-3-1113(a), is amended by
+deleting the second sentence and substituting instead the following:
+For the purpose of determining the tax on compressed natural gas, a gallon equivalent
+factor of five and sixty-six one-hundredths pounds (5.66 lbs.) per gallon shall be used.
+For the purposes of determining the tax on hydrogen gas, a gallon equivalent factor of
+two and two-tenths pounds (2.2 lbs.) per gallon shall be used.
+SECTION 12. Tennessee Code Annotated, Section 67-3-1114, is amended by adding
+the language "or hydrogen gas" immediately after the language "compressed natural gas",
+wherever it appears.
+SECTION 13. Tennessee Code Annotated, Section 67-3-1119, is amended by adding
+the language "or hydrogen gas" immediately after the language "natural gas" wherever it
+appears.
+SECTION 14. Tennessee Code Annotated, Section 67-3-1120(b), is amended by
+deleting the subsection and substituting instead the following:
+(b) A natural gas or hydrogen gas dealer permit authorizes a dealer to collect
+and remit taxes on compressed natural gas or hydrogen gas delivered into the fuel
+supply tanks of motor vehicles by means of a qualified natural gas dispenser or
+hydrogen gas dispenser with meter capability. When compressed natural gas or
+hydrogen gas is delivered by a dealer to a customer's vehicle by means of a qualified
+natural gas dispenser or hydrogen gas dispenser, user permits under this part are not
+required.
+- 3 - 011264
+
+SECTION 15. Tennessee Code Annotated, Section 67-3-1120(d), is amended by
+adding the language "or hydrogen gas" immediately after the language "compressed natural
+gas", wherever it appears.
+SECTION 16. Tennessee Code Annotated, Section 67-3-1120(e), is amended by
+adding the language "or hydrogen gas" immediately after the language "compressed natural
+gas".
+SECTION 17. Tennessee Code Annotated, Section 67-3-1120(f), is amended by
+deleting the subsection and substituting instead the following:
+(f) Meters, qualified natural gas dispensers, and hydrogen gas dispensers are
+subject to inspection and verification by the department of agriculture's weights and
+measures in accordance with title 47, chapter 26, part 9, and such part's enforcement
+provisions.
+SECTION 18.
+(a) Tennessee Code Annotated, Section 67-6-102, is amended by adding the
+following as new, appropriately designated subdivisions:
+( ) "Air-to-ground radiotelephone service" means a radio service, as that
+term is defined in 47 CFR 22.99, in which common carriers are authorized to
+offer and provide radio telecommunications service for hire to subscribers in
+aircraft;
+( ) "Call-by-call basis" means any method of charging for
+telecommunications services where the price is measured by individual calls;
+( ) "Communications channel" means a physical or virtual path of
+communications over which signals are transmitted between or among customer
+channel termination points;
+- 4 - 011264
+
+( ) "Home service provider" has the same meaning as defined in 4 U.S.C.
+§ 124(5);
+( ) "Post-paid calling service":
+(A) Means the telecommunications service obtained by making a
+payment on a call-by-call basis either through the use of a credit card or
+payment mechanism such as a bank card, travel card, credit card, or
+debit card, or by charge made to a telephone number which is not
+associated with the origination or termination of the telecommunications
+service; and
+(B) Includes a telecommunications service that would be a
+prepaid calling service except it is not exclusively a telecommunication
+service;
+(b) The Tennessee Code Commission is requested to make appropriate updates
+to cross-references to § 67-6-102 found in §§ 57-5-103(d), 67-4-1503, 67-6-209(c) and
+(d), 67-6-318, and 67-6-406 to reflect new subdivision designations resulting from the
+addition of new, appropriately designated subdivisions in accordance this Section.
+SECTION 19. Tennessee Code Annotated, Section 67-6-102(7), is amended by
+deleting the language ". As used in this subdivision (7)" and substituting instead the language ",
+and for which".
+SECTION 20. Tennessee Code Annotated, Section 67-6-509, is amended by deleting
+the language "volunteer seller" wherever it appears and substituting instead the language "CSP-
+compensated seller"; and is further amended by deleting the language "voluntary sellers"
+wherever it appears and substituting instead the language "CSP-compensated sellers".
+SECTION 21. Tennessee Code Annotated, Section 67-6-905(a), is amended by
+deleting the subsection and substituting instead the following:
+- 5 - 011264
+
+(a) As used in this section, unless the context otherwise requires:
+(1) "Customer" means the person or entity that contracts with the seller of
+telecommunications services. If the end user of telecommunications services is
+not the contracting party, then the end user of the telecommunications service is
+the customer of the telecommunications service, but this provision only applies
+for the purpose of sourcing sales of telecommunications services under this
+section. "Customer" does not include a reseller of telecommunications service or
+for mobile telecommunications service of a serving carrier under an agreement to
+serve the customer outside the home service provider's licensed service area;
+(2) "Customer channel termination point" means the location where the
+customer either inputs or receives the communications; and
+(3) "End user" means the person who utilizes the telecommunications
+service. In the case of an entity, "end user" means the individual who utilizes the
+service on behalf of the entity.
+SECTION 22. This act takes effect upon becoming a law, the public welfare requiring it.
+- 6 - 011264

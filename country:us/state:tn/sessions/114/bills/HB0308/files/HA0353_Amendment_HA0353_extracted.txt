@@ -1,0 +1,24 @@
+Title: 
+Official Title: 
+Source: versions - Amendment HA0353
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House State & Local Government 1
+Amendment No. 1 to HB0308
+Crawford
+Signature of Sponsor
+AMEND S e n ate Bill No. 337 House Bill No. 308*
+by adding the following to the end of § 67-6-715(a) in the amendatory language of Section 1:
+The county shall furnish a certified copy of the adopted resolution to the department of
+revenue. The tax becomes effective on the first day of the calendar month occurring at
+least one hundred eighty (180) days after the department receives the certified copy.
+AND FURTHER AMEND by adding the following as a new subsection (c) in Section 1 and
+redesignating the existing subsection (c) accordingly:
+(c) A resolution levying a tax under this section does not become effective until
+approved in an election held pursuant to § 67-6-706.
+HA0353
+003787
+- 1 -

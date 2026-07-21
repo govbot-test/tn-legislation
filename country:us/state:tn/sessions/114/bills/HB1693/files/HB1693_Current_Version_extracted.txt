@@ -1,0 +1,21 @@
+Title: 
+Official Title: 
+Source: versions - Current Version
+Media Type: application/pdf
+
+================================================================================
+
+<BillNo> <Sponsor>
+HOUSE BILL 1693
+By Reneau
+AN ACT to amend Tennessee Code Annotated, Title 4,
+Chapter 58 and Title 49, relative to verifying the
+eligibility of an applicant for an entitlement.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 4-58-103(c), is amended by adding
+the following as a new subdivision:
+( ) A certificate of release or discharge from active duty (DD-214).
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+HB1693
+009325
+- 1 -

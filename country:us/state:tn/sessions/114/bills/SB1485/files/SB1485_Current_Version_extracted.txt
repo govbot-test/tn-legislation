@@ -1,0 +1,32 @@
+Title: 
+Official Title: 
+Source: versions - Current Version
+Media Type: application/pdf
+
+================================================================================
+
+<BillNo> <Sponsor>
+SENATE BILL 1485
+By Taylor
+AN ACT to amend Tennessee Code Annotated, Title 66,
+Chapter 24, relative to deeds.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 66-24-114, is amended by deleting
+the section and substituting:
+(a) No deed of conveyance of real property, except for a deed of trust or
+mortgage, shall be received for recording by any register of deeds unless there shall be
+included thereon the name and address of a property owner and the name and address
+of the person or entity responsible for the payment of the real property taxes.
+(b)
+(1) The name and address required pursuant to the receipt of a deed of
+conveyance of real property under subsection (a) may be used as the basis for
+obtaining service of process upon either party as an agent thereof, for failure to
+pay real property taxes.
+(2) As used in this subsection (b), "service of process" means the act of
+bringing or sending notice of the filing of a motion or petition to the attention of
+the opposing party by delivery of a copy of the motion or pleading to the
+opposing party.
+SECTION 2. This act takes effect July 1, 2026, the public welfare requiring it.
+SB1485
+009840
+- 1 -

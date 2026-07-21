@@ -1,0 +1,601 @@
+Title: 
+Official Title: 
+Source: versions - Amendment HA0698
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House Insurance 1
+Amendment No. 1 to HB1867
+Kumar
+Signature of Sponsor
+AMEND S e n ate Bill No. 1939* House Bill No. 1867
+by deleting all language after the enacting clause and substituting:
+SECTION 1. Tennessee Code Annotated, Title 71, Chapter 5, Part 20, is amended by
+deleting the part and substituting:
+71-5-2001. Short title.
+This part is known and may be cited as the "Annual Coverage Assessment Act of
+2026."
+71-5-2002. Part definitions.
+As used in this part:
+(1) "Annual coverage assessment" means the annual assessment
+imposed on covered hospitals as set forth in this part;
+(2) "Annual coverage assessment base" means the total net patient
+revenue minus the medicare net revenue, for all hospitals as shown in the
+hospital's medicare cost report for the fiscal year that ended during calendar year
+2021, on file with CMS as of September 30, 2023, subject to the following
+qualifications:
+(A) If a hospital does not have a full twelve-month medicare cost
+report for 2021 on file with CMS but has a full twelve-month cost report for
+a subsequent year, then the first full twelve-month medicare cost report
+for a year following 2021 on file with CMS is the hospital's portion of the
+annual coverage assessment base;
+HA0698
+013417
+- 1 -
+
+(B) If a hospital does not have a full twelve-month medicare cost
+report for 2021 on file with CMS and does not have a full twelve-month
+cost report for a subsequent year, but has a cost report for 2021 that
+covers at least nine (9) months of 2021, then the hospital's portion of the
+assessment base is calculated by annualizing the 2021 cost report data;
+(C) If a hospital was first licensed in 2021 or later and did not
+replace an existing hospital, and if the hospital has a medicare cost report
+on file with CMS, then the hospital's initial cost report on file with CMS is
+the hospital's portion of the annual coverage assessment base for the
+hospital assessment. If the hospital does not have an initial cost report
+on file with CMS but does have a complete twelve-month joint annual
+report (JAR) filed with the department of health, then the net patient
+revenue from the first twelve-month JAR is the hospital's portion of the
+annual coverage assessment base. If the hospital does not have a
+medicare cost report or a full twelve-month JAR filed with the department
+of health, then the hospital's portion of the annual coverage assessment
+base is the hospital's projected net patient revenue for its first full year of
+operation as shown in its certificate of need application with the health
+facilities commission;
+(D) If a hospital was first licensed in 2021 or later and replaced an
+existing hospital, then the hospital's portion of the annual coverage
+assessment base is the replacement hospital's initial medicare cost report
+on file with CMS. If the hospital does not have a medicare cost report on
+file with CMS, then the hospital's portion of the annual coverage
+assessment base is either the predecessor hospital's net patient revenue
+as shown in its medicare cost report for its fiscal year that ended during
+calendar year 2021, or, if the predecessor hospital does not have a 2021
+- 2 - 013417
+
+medicare cost report, then the cost report for the first fiscal year following
+2021 on file with CMS;
+(E) If a hospital is not required to file an annual medicare cost
+report with CMS, then the hospital's portion of the annual coverage
+assessment base is its net patient revenue for the fiscal year ending
+during calendar year 2021 or the first fiscal year that the hospital was in
+operation after 2021 as shown in the covered hospital's JAR filed with the
+department of health; and
+(F) If a hospital's fiscal year 2021 medicare cost report is not
+contained in a CMS healthcare cost report information system file, and if
+the hospital does not meet another qualification listed in subdivisions
+(2)(A)-(E), then the hospital must submit a copy of the hospital's 2021
+medicare cost report to the division in order to allow for the determination
+of the hospital's net patient revenue as its portion of the annual coverage
+assessment base;
+(3) "CMS" means the federal centers for medicare and medicaid
+services;
+(4) "Controlling person" means a person who, by ownership, contract, or
+otherwise, has the authority to control the business operations of a covered
+hospital. As used in this subdivision (4), "control" means indirect or direct
+ownership of ten percent (10%) or more of a covered hospital;
+(5) "Covered hospital":
+(A) Means a hospital licensed under title 33 or title 68, as of July
+1, 2026; and
+(B) Does not include an excluded hospital;
+(6) "Division" means the division of TennCare;
+(7) "Excluded hospital" means:
+- 3 - 013417
+
+(A) A hospital that has been designated by CMS as a critical
+access hospital as of July 1, 2026;
+(B) A mental health hospital owned by this state;
+(C) A hospital that:
+(1) Is not licensed as a mental health hospital; and
+(2) Does not operate an emergency department covered
+by the federal Emergency Medical Treatment and Active Labor
+Act (EMTALA) (42 U.S.C. § 1395dd);
+(D) A hospital that is determined by the division as eligible to
+certify public expenditures for the purpose of securing federal medical
+assistance percentage payments; and
+(E) A hospital that has been designated by CMS as a rural
+emergency hospital as of July 1, 2026;
+(8) "Hospital" means a facility licensed under title 33 or title 68 to provide
+inpatient hospital care;
+(9) "Medicare cost report" means CMS-2552-10 or a subsequent form
+adopted by CMS for medicare cost reporting, the cost report for electronic filing
+of hospitals, for the period applicable as set forth in this section; and
+(10) "Net patient revenue minus medicare net revenue" means the
+amount calculated in accordance with generally accepted accounting principles
+for hospitals that is reported on Worksheet G-3, Column 1, Line 3, of the 2021
+medicare cost report, excluding net medicare revenue, long-term care inpatient
+ancillary and other nonhospital revenues, or, in the case of a hospital that did not
+file a 2021 medicare cost report, comparable data from the first complete cost
+report filed after 2021 by the hospital.
+71-5-2003. Annual coverage assessment on covered hospitals.
+- 4 - 013417
+
+(a) There is imposed on covered hospitals an annual coverage assessment for
+fiscal year (FY) 2026-2027 as set forth in this part, such that the total assessment on all
+covered hospitals in the aggregate will be equal to six percent (6%) of the federally
+recognized annual coverage assessment base.
+(b) The annual coverage assessment imposed by this part is not effective and
+validly imposed until the division has provided the Tennessee Hospital Association with
+written notice that includes:
+(1) A determination from CMS that the annual coverage assessment is a
+permissible source of revenue that does not adversely affect the amount of
+federal financial participation in the division; and
+(2)
+(A) Approval from CMS for the distribution of the full amount of
+directed payments to hospitals for TennCare services as described in §
+71-5-2005(d)(2), as long as an assessment installment is not collected
+prior to the distribution of the installment of the directed payments; or
+(B) The rules promulgated by the division pursuant to § 71-5-
+2004(n)(2).
+(c) The general assembly intends that the proceeds of the annual coverage
+assessment are not to be used as a justification to reduce or eliminate state funding to
+the division. The annual coverage assessment is not effective and validly imposed if the
+coverage or the amount of revenue available for expenditure by the division in FY 2026-
+2027 is less than:
+(1) The governor's FY 2026-2027 recommended budget level; plus
+(2) Additional appropriations made by the general assembly to the
+division for FY 2026-2027, except to the extent new federal funding is available
+to replace funds that are appropriated as described in subdivision (c)(1) and that
+- 5 - 013417
+
+are above the amount that the state receives from CMS under the regular federal
+matching assistance percentage.
+(d)
+(1)
+(A) The general assembly intends that the proceeds of the annual
+coverage assessment are not to be used as justification for a division
+managed care organization to implement across-the-board rate
+reductions to negotiated rates with covered or excluded hospitals or
+physicians in existence on July 1, 2026. For those rates in effect on July
+1, 2026, the division shall include provisions in the managed care
+organizations' contractor risk agreements that prohibit the managed care
+organizations from implementing across-the-board rate reductions to
+covered or excluded network hospitals or physicians by specific service,
+category, or type of provider. The requirements of the preceding
+sentence also apply to services or settings of care that are ancillary to the
+primary license of a covered or excluded hospital or physician, but do not
+apply to reductions in benefits or reimbursement for the ancillary services
+if the reductions:
+(i) Are different from those items being funded in § 71-5-
+2005(d); and
+(ii) Have been communicated in advance of
+implementation to the general assembly and the Tennessee
+Hospital Association.
+(B) As used in this subsection (d):
+(i) "Physician" includes a physician licensed under title 63,
+chapter 6 or 9, and a group practice of physicians that holds a
+contract with a managed care organization;
+- 6 - 013417
+
+(ii) "Services or settings of care that are ancillary" includes
+ambulatory surgical facilities, free standing emergency
+departments, outpatient treatment clinics or imaging centers,
+dialysis centers, home health and related services, home infusion
+therapy services, outpatient rehabilitation, or skilled nursing
+services; and
+(iii) "Services or settings of care that are ancillary to the
+primary license of a covered or excluded hospital or physician"
+include services where the physician or covered or excluded
+hospital, including a wholly owned subsidiary or controlled affiliate
+of a covered or excluded hospital or hospital system, holds more
+than a fifty percent (50%) controlling interest in the ancillary
+services or settings of care, but does not include other ancillary
+services or settings of care. For across-the-board rate reductions
+to ancillary services or settings of care, the division shall include
+appropriate requirements for notice to providers in the managed
+care organizations' contractor risk agreements.
+(2) This subsection (d) does not preclude good faith negotiations
+between managed care organizations and covered or excluded hospitals,
+hospital systems, and between managed care organizations and physicians on
+an individualized, case-by-case basis. This subsection (d) does not serve as
+justification for managed care organizations, covered or excluded hospitals,
+hospital systems, or physicians to unreasonably deny a party the ability to enter
+into individualized, case-by-case good faith negotiations. Good faith negotiation
+necessarily implies mutual cooperation between the negotiating parties and may
+include, but is not limited to, the right to terminate contractual agreements; the
+ability to modify negotiated rates, pricing, or units of service; the ability to alter
+- 7 - 013417
+
+payment methodologies; and the ability to enforce existing managed care
+techniques or to implement new managed care techniques.
+(3) Notwithstanding this subsection (d), if CMS mandates a TennCare
+program change or a change is required by state or federal law that impacts
+rates, and that change is required to be implemented by the managed care
+organizations in accordance with their contracts, or if the annual coverage
+assessment becomes invalid, then this part does not prohibit the managed care
+organizations from implementing a rate change as may be mandated by the
+division or by state or federal law.
+(e) Notwithstanding this part, if the CMS determination, approvals, and
+confirmation set forth in subsection (b) have all been obtained, except for the rules
+described in subdivision (b)(1)(B), then the assessment authorized by this section is
+implemented and imposed as set forth in this part.
+71-5-2004. Amount of annual coverage assessment — Payment — Penalty —
+Suspension of payments — Civil action.
+(a) Except as provided in subsection (b), each covered hospital's annual
+assessment is a weighted portion of the annual coverage assessment base as
+determined under § 71-5-2002. The weight for each covered hospital must be
+determined in accordance with the hospital's classification based on its 2023 joint annual
+report as children's, tier 1, tier 2, tier 3, psychiatric, and safety net hospitals in the
+division's DSH program, or meet the out-of-state medicaid classification as described in
+this subsection (a). The high out-of-state medicaid classification means that a hospital's
+percentage of out-of-state medicaid visits is greater than fifteen percent (15%) of all
+medicaid visits, as determined from the hospital's 2023 joint annual report. If multiple
+hospitals operate under a single license and aggregate to a single medicare number,
+then the determination for the out-of-state medicaid classification must be determined
+based on combining total medicaid visits and out-of-state medicaid visits, as reported in
+- 8 - 013417
+
+the 2023 joint annual reports for all hospitals in the group in the same way as the
+medicare cost report. The weights for:
+(1) Children's hospitals are an inpatient weight of eight-tenths (0.8) and
+an outpatient weight of three-tenths (0.3);
+(2) Tier 1 hospitals are an inpatient weight of one (1.0) and an outpatient
+weight of five-tenths (0.5);
+(3) Tier 2 hospitals are an inpatient weight of seventy-five hundredths
+(0.75) and an outpatient weight of three-tenths (0.3);
+(4) Tier 3 hospitals are an inpatient weight of one-hundred fifty-one
+thousandths (0.151) and an outpatient weight of one hundred seventy-five
+thousandths (0.175);
+(5) Psychiatric hospitals are an inpatient weight of eleven hundredths
+(0.11) and an outpatient weight of five-tenths (0.5);
+(6) Safety net hospitals are an inpatient weight of one hundred thirty-
+three thousandths (0.133) and an outpatient weight of one hundred fifty-seven
+thousandths (0.157);
+(7) High out-of-state medicaid hospitals are an inpatient weight of one
+hundred fifty-one thousandths (0.151) and an outpatient weight of one-tenth
+(0.1); and
+(8) Any other hospitals eligible for the assessment have a weight of six
+percent (6%).
+(b) If CMS does not approve the structure of assessments set forth in subsection
+(a), then each hospital's assessment must be determined in accordance with this
+subsection (b), as approved by CMS on January 14, 2025. Under this alternative
+assessment structure, each covered hospital's annual assessment is a weighted portion
+of the annual coverage assessment base as determined under § 71-5-2002. The weight
+for each covered hospital must be determined in accordance with the hospital's
+- 9 - 013417
+
+classification based on its 2023 joint annual report as children's, tier 1, tier 2, tier 3,
+psychiatric, and safety net hospitals in the division's DSH program. The weights for:
+(1) Children's hospitals are an inpatient weight of eight-tenths (0.8) and
+an outpatient weight of three-tenths (0.3);
+(2) Tier 1 hospitals are an inpatient weight of one (1.0) and an outpatient
+weight of fifty-five hundredths (0.55);
+(3) Tier 2 hospitals are an inpatient weight of seventy-five hundredths
+(0.75) and an outpatient weight of three-tenths (0.3);
+(4) Tier 3 hospitals are an inpatient weight of fifteen hundredths (0.15)
+and an outpatient weight of one hundred seventy-five thousandths (0.175);
+(5) Psychiatric hospitals are an inpatient weight of eleven hundredths
+(0.11) and an outpatient weight of one (1.0);
+(6) Safety net hospitals are an inpatient weight of one hundred thirty-
+three thousandths (0.133) and an outpatient weight of one hundred fifty-seven
+thousandths (0.157); and
+(7) Any other hospitals eligible for the assessment have a weight of six
+percent (6%).
+(c) The weights determined pursuant to subsections (a) and (b) are not a rule as
+defined in § 4-5-102 and are not subject to rulemaking under title 4, chapter 5, part 2.
+The division shall implement this section in a manner that complies with federal
+requirements necessary to ensure that the assessment qualifies for federal matching
+funds.
+(d) The division may, in consultation with the Tennessee Hospital Association,
+modify the amount of the individual percentages set forth in this section if necessary to
+comply with 42 CFR 433.68 or to address additional state appropriations.
+(e) The annual coverage assessment must be paid in installments pursuant to
+this subsection (e) if the requirements of § 71-5-2003(b) have been satisfied. The
+- 10 - 013417
+
+division shall establish a schedule of installment payments spread as evenly as possible
+throughout FY 2026-2027 with each installment payment due fifteen (15) days after the
+FY 2026-2027 directed payments approved by CMS to offset unreimbursed division
+costs have been made to hospitals.
+(f) To facilitate collection of the annual coverage assessment, the division shall
+send each covered hospital, at least thirty (30) days in advance of each installment
+payment due date, a notice of payment along with a return form developed by the
+division. Failure of a covered hospital to receive a notice and return form, however,
+does not relieve a covered hospital from the obligation of timely payment. The division
+shall also post the return form on its website.
+(g) Failure of a covered hospital to pay an installment of the annual coverage
+assessment, when due, results in an imposition of a penalty of five hundred dollars
+($500) per day until the installment is paid in full. The division at its discretion may waive
+the penalty if the hospital establishes that it attempted to mail or electronically transfer
+payment to the state on or before the date the payment was due.
+(h) If a covered hospital ceases to operate or changes status to be an excluded
+hospital between July 1, 2026, and June 30, 2027, then the hospital's total annual
+coverage assessment is equal to its annual coverage assessment base multiplied by a
+fraction, the denominator of which is the number of calendar days from July 1, 2026,
+until July 1, 2027, and the numerator of which is the number of days from July 1, 2026,
+until the date the health facilities commission has recorded as the date that the hospital
+changed status or ceased operation.
+(i) If a covered hospital ceases operation prior to payment of its full annual
+coverage assessment, then the person controlling the hospital as of the date the hospital
+ceased operation is jointly and severally responsible for any remaining annual coverage
+assessment installments and unpaid penalties associated with previous late payments.
+- 11 - 013417
+
+(j) If a covered hospital is sold after July 1, 2026, and before July 1, 2027, then
+the seller is responsible for annual coverage assessment payments due for the period
+up to and including the date the sale is final. If the hospital continues to operate in this
+state and continues to meet the definition of a covered hospital in § 71-5-2002, then the
+new owner is responsible for paying all coverage assessment amounts due for the
+period beginning on the day after the date of the sale until July 1, 2027.
+(k) If the status of a hospital excluded under the definition in § 71-5-2002(7)(D)
+changes to meet the definition of a covered hospital, and if such hospital contributed an
+intergovernmental transfer, then the intergovernmental transfer and assessment
+obligations must be applied to such hospital proportionally based on the length of time
+the hospital met each of the respective definitions.
+(l) If a covered hospital fails to pay an installment of the annual coverage
+assessment within thirty (30) days of its due date, then the division must suspend the
+payments to the hospital required by § 71-5-2005(d)(2) until the installment is paid and
+report the failure to the department that licenses the covered hospital. Notwithstanding
+another law, failure of a covered hospital to pay an installment of the annual coverage
+assessment or a refund required by this part is considered a license deficiency and
+grounds for disciplinary action as set forth in the statutes and rules under which the
+covered hospital is licensed.
+(m) In addition to the action required by subsection (l), the division is authorized
+to file a civil action against a covered hospital and its controlling person or persons to
+collect delinquent annual coverage assessment installments, late penalties, and refund
+obligations established by this part. Exclusive jurisdiction and venue for a civil action
+authorized by this subsection (m) is in the chancery court for Davidson County.
+(n)
+(1) If a federal agency with jurisdiction over the annual coverage
+assessment determines that the annual coverage assessment is not a valid
+- 12 - 013417
+
+source of revenue or if there is a reduction of the coverage and funding of the
+division's program contrary to § 71-5-2003(c), or if the requirements of § 71-5-
+2003(b) are not fully satisfied, or if one (1) or more managed care organizations
+impose rate reductions contrary to § 71-5-2003(d), then:
+(A) Subsequent installments of the annual coverage assessment
+are not due and payable; and
+(B) Further payments must not be paid to hospitals pursuant to §
+71-5-2005(d)(2) after the date of the event.
+(2)
+(A) Notwithstanding this part, if CMS discontinues approval of or
+otherwise fails to approve the full amount of directed payments to
+hospitals for providing services to division enrollees as authorized under §
+71-5-2005(d), then the division must suspend payments from or to
+covered hospitals otherwise required by this part and must promulgate
+rules that:
+(i) Establish the methodology for determining the amounts,
+categories, and times of payments to hospitals, if any, instead of
+the payments that otherwise would have been paid under § 71-5-
+2005(d)(2) if approved by CMS;
+(ii) Prioritize payments to hospitals as set forth in § 71-5-
+2005(d)(2);
+(iii) Identify the benefits and services for which funds will
+be available in order to mitigate reductions or eliminations that
+otherwise would be imposed in the absence of the coverage
+assessment;
+- 13 - 013417
+
+(iv) Determine the amount and timing of payments for
+benefits and services identified under subdivisions (n)(2)(A)(ii) and
+(iii), as appropriate;
+(v) Reinstitute payments from or to covered hospitals as
+appropriate; and
+(vi) Otherwise achieve the goals of this subdivision (n)(2).
+(B) The rules adopted under this subdivision (n)(2) must, to the
+extent possible, achieve the goals of:
+(i) Maximizing the amount of federal matching funds
+available for the division's program; and
+(ii) Minimizing the variation between payments hospitals
+will receive under the rules as compared to payments hospitals
+would have received if CMS had approved the total payments
+described in § 71-5-2005(d).
+(C) Notwithstanding another law, the division is authorized to
+exercise emergency rulemaking authority to the extent necessary to meet
+the objectives of this subdivision (n)(2).
+(3) Upon occurrence of an event set forth in subdivision (n)(1) or (n)(2),
+the division then has authority to make necessary changes to the division's
+budget to account for the loss of annual coverage assessment revenue.
+(o) A covered hospital or an association representing covered hospitals, the
+membership of which includes thirty (30) or more covered hospitals, has the right to file a
+petition for declaratory order pursuant to § 4-5-223 to determine if there has been a
+failure to meet the requirements of this part. A covered hospital shall not increase
+charges or add a surcharge based on, or as a result of, the annual coverage
+assessment.
+- 14 - 013417
+
+71-5-2005. Deposits in maintenance of coverage trust fund — Expenditures —
+Quarterly reports.
+(a) The funds generated as a result of this part must be deposited in the
+maintenance of coverage trust fund created by § 71-5-160, the existence of which is
+continued as provided in subsection (b). The fund must not be used to replace monies
+otherwise appropriated to the division's program by the general assembly or to replace
+monies appropriated outside of the division's program.
+(b) The maintenance of coverage trust fund must continue without interruption
+and must be operated in accordance with § 71-5-160 and this section.
+(c) The maintenance of coverage trust fund consists of:
+(1) The balance of the trust fund remaining as of June 30, 2026;
+(2) All annual coverage assessments received by the division;
+(3) Investment earnings credited to the assets of the maintenance of
+coverage trust fund;
+(4) Penalties paid by covered hospitals for late payment of assessment
+installments imposed by this part or a prior statute authorizing an annual
+coverage assessment; and
+(5) Intergovernmental transfer of funds from hospitals determined by the
+division as eligible to certify public expenditures for the purpose of securing
+federal medical assistance percentage payments up to three hundred million
+dollars ($300,000,000). The intergovernmental transfer amount is determined on
+the proportion of a hospital's medicaid days and total outpatient payments as
+reported on the 2021 JAR.
+(d) Monies credited or deposited to the maintenance of coverage trust fund,
+together with all federal matching funds, must be available to and used by the division
+only for expenditures in the division's program and include the following purposes:
+- 15 - 013417
+
+(1) Expenditures for benefits and services under the division's program,
+including those that would have been subject to reduction or elimination from the
+division's funding for FY 2026-2027, except for the availability of one-time funding
+for that year only, as follows:
+(A) Replacement of across-the-board reductions in covered and
+excluded hospital and professional reimbursement rates described in the
+governor's recommended budgets since FY 2011, except for reductions
+that were included on a list for a given year but then funded in a
+subsequent year with recurring state dollars;
+(B) Funding virtual DSH payments, funding payments to hospitals
+for uncompensated care to charity patients, and funding payments to
+hospitals for quality incentive arrangements, with all of those payments
+being made in accordance with, and as those categories of payments are
+defined in, the division's 1115 demonstration waiver from the federal
+centers for medicare and medicaid services to the maximum amount
+permitted for each category under that waiver;
+(C) Maintenance of payments for graduate medical education of
+at least forty-eight million dollars ($48,000,000);
+(D) Avoidance of coverage limitations relative to the number of
+hospital inpatient days per year or the annual cost of hospital services for
+a division enrollee;
+(E) Avoidance of coverage limitations relative to the number of
+nonemergency outpatient visits per year for a division enrollee;
+(F) Avoidance of coverage limitations relative to the number of
+physician office visits per year for a division enrollee;
+- 16 - 013417
+
+(G) Avoidance of coverage limitations relative to the number of
+laboratory and diagnostic imaging encounters per year for a division
+enrollee;
+(H) Maintenance of coverage for occupational therapy, physical
+therapy, and speech therapy services;
+(I) In the total amount of six hundred twelve thousand seven
+dollars ($612,007) to maintain reimbursement at the same emergency
+care rate as in FY 2025-2026 for nonemergent care to children twelve
+(12) to twenty-four (24) months of age;
+(J) In the total amount of twenty-one million three hundred ninety-
+one thousand four hundred thirty-one dollars ($21,391,431) to the division
+to offset the elimination of the provision in the division's managed care
+contractor risk agreements for hospitals as follows: CRA 2.12.9.60-
+Specify in applicable provider agreements that all providers who
+participate in the federal 340B program give the division MCOs the
+benefit of 340B pricing;
+(K) In the total amount of one hundred seventy-five thousand
+dollars ($175,000) to offset a portion of the hospital cost of providing
+admissions, discharge, and transfer (ADT) messages to the division to
+support the division's Patient Centered Medical Home initiative;
+(L) In the total amount of one million four hundred twenty-six
+thousand seven hundred dollars ($1,426,700) to provide funding for
+stipends for physicians and other healthcare providers who commit to
+work in designated medically underserved areas in this state; and
+(M) In the amount of three million dollars ($3,000,000) to offset
+the unreimbursed cost of charity care for critical access hospitals to be
+funded from funds remaining in the trust fund as of June 30, 2026;
+- 17 - 013417
+
+(2)
+(A) Directed payments to hospitals for providing services to
+division patients and the uninsured, as approved by CMS, will be made
+based on claims paid with the division's utilization and encounter data
+from the managed care organizations during each quarter of FY 2026-
+2027. A directed payment must be in an amount set by the division in
+consultation with the Tennessee Hospital Association and dependent on
+funding available through this section. The directed payment must
+include a quality program designed and implemented with the partnership
+and cooperation of the division and the Tennessee Hospital Association;
+(B) If CMS does not approve directed payments to hospitals set
+forth in subdivision (d)(2)(A) but instead approves hospital supplemental
+pools in the division waiver, then payments must be made from the
+allocated pools to covered hospitals to offset losses incurred in providing
+services to division enrollees as first priority before any other
+supplemental payments authorized in the division waiver are distributed;
+(C) The division shall provide to the Tennessee Hospital
+Association a schedule showing the payments to each hospital under this
+subdivision (d)(2) at least seven (7) days in advance of the payments;
+(D) Payments required by this subdivision (d)(2) may be made by
+the division directly or by the division managed care organizations with
+the direction to make payments to hospitals, or by a designee approved
+by the division, as required by this subsection (d). The payments to a
+hospital pursuant to this subdivision (d)(2) are not part of the
+reimbursement a hospital is entitled to under its contract with a division
+managed care organization;
+- 18 - 013417
+
+(E) In addition to the items and expenditures set forth in
+subdivisions (d)(1) and (2), other programs and initiatives developed by
+the division, in consultation with the Tennessee Hospital Association, to
+offset the unreimbursed costs of providing services to division enrollees
+and the financial consequences of the public health emergency. The
+state portion of the funding for programs and initiatives developed under
+this subdivision (d)(2)(E) must be used to obtain federal matching funds
+to raise funds up to three hundred fifty million dollars ($350,000,000);
+(F) Refunds, in proportion to the amount paid in, to covered
+hospitals based on:
+(i) The payment of annual coverage assessments or
+penalties to the division through error, mistake, or a determination
+that the annual coverage assessment was invalidly imposed; or
+(ii) Circumstances where the division, in consultation with
+the Tennessee Hospital Association, has determined a lower
+coverage assessment would have been required to carry out the
+purposes of subdivisions (d)(1) and (2); and
+(G) Payments authorized under rules promulgated by the division
+pursuant to § 71-5-2004(n)(2);
+(3) Administrative funding to the division for six (6) full-time state
+employees to assist with implementation, operationalization, and ongoing
+management of hospital payment programs in the amount of three hundred
+eighty-two thousand four hundred dollars ($382,400) and funding for a program
+manager contract in the amount of one million six hundred thousand dollars
+($1,600,000); and
+(4) Funding from the trust fund or assessment to offset any public
+hospital funding shortfalls for state directed payments.
+- 19 - 013417
+
+(e) The division shall modify the contracts with the division's managed care
+organizations and otherwise take action necessary to assure the use and application of
+the assets of the maintenance of coverage trust fund, as described in subsection (d).
+(f) The division shall submit requests to CMS to modify the medicaid state plan,
+the contractor risk agreements, and an applicable Section 1115 demonstration project,
+as necessary, to implement this part.
+(g) At quarterly intervals beginning September 1, 2026, the division shall submit
+a report to the finance, ways and means committee of the senate and the committee of
+the house of representatives having jurisdiction over finance matters, health and welfare
+committee of the senate, committee of the house of representatives having jurisdiction
+over health matters, and the legislative librarian. The report must include:
+(1) The status, if applicable, of the determination and approval by CMS
+set forth in § 71-5-2003(b) of the annual coverage assessment;
+(2) The balance of funds in the maintenance of coverage trust fund; and
+(3) The extent to which the maintenance of coverage trust fund has been
+used to carry out this part.
+(h) Notwithstanding another law, no part of the maintenance of coverage trust
+fund must be diverted to the general fund or used for a purpose other than as set forth in
+this part.
+(i) Notwithstanding this section, if the assessment authorized by this part is
+implemented pursuant to § 71-5-2003(e), then the expenditures for directed payments to
+hospitals set forth in subdivision (d)(2) must be limited to either the same amount
+authorized for FY 2024, as established in chapter 232 of the Public Acts of 2023, or a
+greater amount as determined by the division in consultation with the Tennessee
+Hospital Association, up to the amount approved by CMS, until such time as the CMS
+determination, approvals, and confirmation outlined in § 71-5-2003(b) have been
+- 20 - 013417
+
+obtained and the division provides written notice to the Tennessee Hospital Association
+pursuant to § 71-5-2003(b).
+71-5-2006. Expiration of part — Survival of certain rights and obligations.
+This part expires on July 1, 2027. However, the following rights and obligations
+survive the expiration:
+(1) The authority of the division to impose late payment penalties and to
+collect unpaid annual coverage assessments and required refunds;
+(2) The rights of a covered hospital or an association of covered
+hospitals to file a petition for a declaratory order to determine compliance with
+this part; and
+(3) The existence of the maintenance of coverage trust fund and the
+obligation of the division to use and apply the assets of the maintenance of
+coverage trust fund.
+71-5-2007. Audit of expenditure of funds from maintenance of coverage trust
+fund.
+The comptroller of the treasury may audit the expenditure of funds pursuant to
+this part from the maintenance of coverage trust fund. At the discretion of the
+comptroller of the treasury, the audit may be prepared by a certified public accountant, a
+public accountant, or the department of audit. Notwithstanding § 71-5-2005, the division
+and the maintenance of coverage trust fund must bear the full costs of the audit.
+SECTION 2. Tennessee Code Annotated, Section 71-5-161, is amended by deleting the
+section.
+SECTION 3. This act takes effect July 1, 2026, the public welfare requiring it.
+- 21 - 013417

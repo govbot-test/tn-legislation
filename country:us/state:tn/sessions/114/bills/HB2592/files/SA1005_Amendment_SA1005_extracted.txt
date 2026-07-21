@@ -1,0 +1,115 @@
+Title: 
+Official Title: 
+Source: versions - Amendment SA1005
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate Commerce and Labor 1
+Amendment No. 1 to SB2102
+Bailey
+Signature of Sponsor
+AMEND S e n ate Bill No. 2102* House Bill No. 2592
+by deleting all language after the enacting clause and substituting:
+SECTION 1. Tennessee Code Annotated, Title 7, is amended by adding the following
+as a new chapter:
+7-70-101.
+As used in this chapter:
+(1) "Electric utility" means a utility that:
+(A) Provides only electric utility services to the public and is
+owned by a municipality; and
+(B) Serves not less than fifty thousand (50,000) retail electric
+customers located outside the county in which the municipality that owns
+the utility is located;
+(2) "Municipality" means an incorporated city or town or a county having
+a metropolitan form of government in this state;
+(3) "Outside county":
+(A) Means the county in which an outside locality is located; and
+(B) Does not include the county in which the municipality that
+owns the electric utility providing such services is located;
+(4) "Outside locality" means a political subdivision that:
+(A) Receives electric utility services from an electric utility; and
+(B) Is located outside of the municipal boundaries of the
+municipality that owns the electric utility providing such services;
+SA1005
+017159
+- 1 -
+
+(5) "Political subdivision" means an incorporated town or city, county,
+municipality, or metropolitan government of this state;
+(6) "Retail electric customer" means a customer receiving electric utility
+services for end-use consumption; and
+(7) "Utility board" or "board":
+(A) Means the governing body of an electric utility; and
+(B) Does not include the governing body of the municipality that
+owns the electric utility.
+7-70-102.
+(a) Notwithstanding another law to the contrary and except as provided under
+subsection (f), if an electric utility provides services to not less than three thousand five
+hundred (3,500) retail electric customers in an outside locality, then the municipality
+owning such electric utility must expand the electric utility's board to include one (1)
+additional voting board member on the utility's board for the outside county in which such
+outside locality is situated if the outside county chooses to appoint a person pursuant to
+subdivision (b)(1). This subsection (a):
+(1) Only requires one (1) additional board member per outside county,
+regardless of the number of outside localities located within the outside county;
+and
+(2) Does not permit a municipality to expand a board to include a board
+member from a county in another state.
+(b)
+(1) If an outside county that is entitled to appoint a board member
+pursuant to subsection (a) chooses to appoint a person, then the chief executive
+officer of the outside county for which an additional board position is added
+pursuant to subsection (a) shall appoint a person to fill the new position, subject
+- 2 - 017159
+
+to approval by a majority vote of the governing legislative body of the outside
+county.
+(2) The chief executive officer shall:
+(A) Appoint a person who is a resident of the outside county and
+a retail electric customer of the electric utility; and
+(B) Not appoint a person who is an employee or board member of
+another utility.
+(c)
+(1) If an electric utility's board is expanded pursuant to subsection (a),
+then the municipality owning the electric utility may, in consultation with the
+appointing chief executive officer, establish initial, staggered appointments of two
+(2) years to ensure consistent and experienced representation, followed by terms
+of four (4) years that begin on July 1 and end on June 30 of each applicable year;
+provided, that the first of such terms must be deemed to begin on July 1, 2026, or
+the July 1 following an electric utility's expansion of service into an outside
+locality.
+(2) A board member may be reappointed for successive terms.
+(3) A board member serves until their successor is selected and
+assumes office. In the event of a vacancy, the chief executive officer of the
+appointing county shall appoint a person in accordance with subdivisions (b)(1)
+and (2) to fill the vacancy for the remainder of the unexpired term.
+(4) A board member appointed pursuant to this section is subject to the
+same removal process used for other board members of the utility board;
+provided, that the chief executive officer who appointed the board member must
+be given written notice no less than ten (10) business days before removal
+proceedings occur.
+- 3 - 017159
+
+(d) A board member appointed pursuant to this section is not an employee of the
+municipality that owns or operates the electric utility and does not receive insurance or
+other benefits that are otherwise provided to employees of such political subdivision.
+(e) Notwithstanding subsection (a), a municipality is not required to expand
+board membership for an outside county or outside locality if the board has already
+established such a membership position; provided, that this subsection (e) does not
+exempt the electric utility from the requirements of subsection (a) for another outside
+county or outside locality for which a voting board member position does not exist.
+(f)
+(1) This section does not authorize an electric utility to create additional
+board positions in excess of the membership limits imposed by another state law
+or private act other than the new board positions required by this section.
+(2) This section does not require an outside county to appoint a person to
+a board member position or otherwise utilize the board member position to which
+the outside county is entitled under subsection (a).
+(g) If an electric utility is governed by a utility board on the effective date of this
+act, then the utility must continue to be governed by a utility board. The governance of
+an electric utility described in this subsection (g) must not be changed from a utility
+board to the governing body of the municipality after the effective date of this act.
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+- 4 - 017159

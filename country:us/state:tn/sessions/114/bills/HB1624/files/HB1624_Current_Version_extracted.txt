@@ -1,0 +1,31 @@
+Title: 
+Official Title: 
+Source: versions - Current Version
+Media Type: application/pdf
+
+================================================================================
+
+SENATE BILL 1717
+By Hensley
+HOUSE BILL 1624
+By Barrett
+AN ACT to amend Tennessee Code Annotated, Title 39
+and Title 40, relative to domestic abuse.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 39-13-113, is amended by deleting
+subdivision (i)(1) and substituting:
+(1) It is an offense to knowingly violate:
+(A) A no contact order, issued prior to a defendant's release on bond,
+following the defendant's arrest for any criminal offense defined in this chapter in
+which the alleged victim of the offense is a domestic abuse victim as defined in §
+36-3-601; or
+(B) A no contact order issued as part of a defendant's sentence or
+conditions of probation or parole following conviction for any criminal offense
+defined in this chapter in which the alleged victim of the offense is a domestic
+abuse victim as defined in § 36-3-601.
+SECTION 2. Tennessee Code Annotated, Section 39-13-113(i)(2), is amended by
+deleting "arrested" and substituting "arrested or convicted".
+SECTION 3. This act takes effect July 1, 2026, the public welfare requiring it.
+HB1624
+010602
+- 1 -

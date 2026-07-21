@@ -1,0 +1,63 @@
+Title: 
+Official Title: 
+Source: versions - Current Version
+Media Type: application/pdf
+
+================================================================================
+
+HOUSE BILL 2159
+By Wright
+SENATE BILL 2360
+By Massey
+AN ACT to amend Tennessee Code Annotated, Title 47;
+Title 55, Chapter 31 and Title 66, Chapter 19,
+relative to motor vehicles.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 55-31-205, is amended by adding
+the following as a new subsection:
+(c) A garagekeeper may store a motor vehicle without express written
+authorization for storage pursuant to subsection (a) if the garagekeeper makes a good
+faith attempt to acquire consent to repair in the manner provided in § 66-19-104(a)(2),
+and the garagekeeper sends notice of the intent to store by certified mail, return receipt
+requested, to the last known registered owner of the motor vehicle.
+SECTION 2. Tennessee Code Annotated, Section 66-19-103, is amended by adding
+the following as a new subsection:
+(f)
+(1) A garagekeeper's failure to obtain express written authorization to
+store a motor vehicle under § 55-31-205(a) does not abrogate the
+garagekeeper's right to a lien under this section if the garagekeeper makes the
+good faith attempt to acquire consent and provides notice to the owner under §
+55-31-205(c).
+(2) A garagekeeper may enforce a lien under this section after the
+expiration of thirty (30) days from the date of mailing of the notice unless a return
+receipt from the owner is received by the garagekeeper within the thirty-day
+SB2360
+011576
+- 1 -
+
+period, and in such case, the lien may be enforced after the expiration of thirty
+(30) days from the date of receipt of the notice shown on the return receipt.
+(3) To establish compliance with § 55-31-205(c), the garagekeeper shall
+submit to the department of revenue:
+(A) A written record of the name of the person whom the
+garagekeeper attempted to notify, the date and time of the attempt, and
+the signature of the person who made the attempted notification; and
+(B) A copy of the receipt issued by the post office with which the
+letter is certified, showing the name of the sender of the letter and the
+name and address of the person to whom the letter is addressed, and a
+copy of the return receipt, if received.
+SECTION 3. Tennessee Code Annotated, Section 55-31-207, is amended by deleting
+subsection (f) and substituting:
+(f)
+(1) Except as provided in subdivision (f)(2), subsections (a) and (d) do
+not apply to a motor vehicle that was towed or stored by a garagekeeper for the
+purpose of repairing the motor vehicle if the garagekeeper first obtained the
+authorization of the owner for the repairs and the owner of the motor vehicle has
+been notified that the repairs have been completed.
+(2) Subsections (a), (d), and (e) do not apply to a motor vehicle that was
+stored by a garagekeeper for the purpose of repairing the motor vehicle if, in the
+case of a garagekeeper who cannot obtain the authorization of the owner for the
+repairs, the garagekeeper complies with the good faith attempt to acquire
+consent and notice requirements of § 55-31-205(c).
+SECTION 4. This act takes effect upon becoming a law, the public welfare requiring it.
+- 2 - 011576
