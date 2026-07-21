@@ -1,0 +1,85 @@
+Title: 
+Official Title: 
+Source: versions - Current Version
+Media Type: application/pdf
+
+================================================================================
+
+SENATE BILL 1975
+By Akbari
+HOUSE BILL 1740
+By Glynn
+AN ACT to amend Tennessee Code Annotated, Title 49,
+relative to the Individualized Education Act.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 49-10-1402(3), is amended by
+deleting the subdivision and substituting:
+(3) "Eligible student" means a resident of this state who:
+(A)
+(i) Is a child with any of the following disabilities as defined by the
+state board of education pursuant to § 49-10-102:
+(a) Autism;
+(b) Deaf-blindness;
+(c) Hearing impairments;
+(d) Intellectual disability;
+(e) Orthopedic impairments;
+(f) Traumatic brain injury;
+(g) Visual impairments;
+(h) Developmental delay;
+(i) Multiple disabilities;
+(j) A specific learning disability; or
+(k) Deafness;
+(ii) Has an active individualized education program (IEP) in
+accordance with 34 C.F.R. § 300 et seq., § 49-10-102, and regulations of
+the state board of education with one (1) of the disabilities pursuant to
+HB1740
+011493
+- 1 -
+
+subdivision (3)(A)(i) as the primary or secondary disability in effect at the
+time the department receives the request for participation in the program;
+and
+(iii) Meets at least one (1) of the following requirements:
+(a) Was previously enrolled in and attended a Tennessee
+public school for the one (1) full school year immediately
+preceding the school year in which the student receives an
+individualized education account (IEA);
+(b) Is enrolling in a Tennessee school for the first time; or
+(c) Received an individualized education account (IEA) in
+the previous school year; or
+(B)
+(i) Is a child with a medical condition that inhibits the child from
+attending school in person, as determined by the state board of
+education; and
+(ii) Is entitled to attend a public school;
+SECTION 2. Tennessee Code Annotated, Section 49-10-1402(6), is amended by
+deleting the subdivision and substituting:
+(6) "Participating school" means:
+(A) A nonpublic school that meets the requirements established in this
+part and seeks to enroll eligible students; or
+(B) For an eligible student, as defined in subdivision (3)(B), a home
+school, as defined in § 49-6-3050(a)(1);
+SECTION 3. Tennessee Code Annotated, Section 49-10-1404, is amended by adding
+the following as a new subsection:
+- 2 - 011493
+
+(d) This section does not apply to an eligible student, as defined in § 49-10-
+1402(3)(B), or a participating school, as defined in § 49-10-1402(6)(B).
+SECTION 4. Tennessee Code Annotated, Section 49-10-1403(d), is amended by
+adding ", as defined in § 49-10-1402(6)(A)," after "A participating school".
+SECTION 5. Tennessee Code Annotated, Section 49-10-1405(a)(7), is amended by
+adding ", as defined in § 49-10-1402(6)(A)," after "of participating schools".
+SECTION 6. Tennessee Code Annotated, Title 49, Chapter 10, Part 14, is amended by
+adding the following as a new section:
+(a) A parent of an eligible student, as defined in § 49-10-1402(3)(B), shall ensure
+that funds in an IEA are used only for approved expenses listed in § 49-10-1403(b).
+(b) The department shall create and implement a process to ensure that funds in
+an IEA for an eligible student, as defined in § 49-10-1402(3)(B), are regularly monitored
+to ensure compliance with this section and § 49-10-1403(b).
+(c) The department may suspend or terminate an eligible student from
+participating in the program, if the department determines that the parent has failed to
+comply with the requirements of this section. If the department terminates an eligible
+student's participation in the program pursuant to this subsection (c), then the student is
+ineligible from participating in the program in the future.
+SECTION 7. This act takes effect July 1, 2026, the public welfare requiring it.
+- 3 - 011493

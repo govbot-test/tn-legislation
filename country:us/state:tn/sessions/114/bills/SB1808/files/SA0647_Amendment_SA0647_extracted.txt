@@ -1,0 +1,1065 @@
+Title: 
+Official Title: 
+Source: versions - Amendment SA0647
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate Transportation and Safety 1
+Amendment No. 1 to SB1808
+Massey
+Signature of Sponsor
+AMEND S e n ate Bill No. 1808 House Bill No. 1754*
+by deleting all language after the enacting clause and substituting instead:
+SECTION 1. Tennessee Code Annotated, Title 69, Chapter 9, is amended by adding
+the following as a new part:
+69-9-601. Short title.
+This part is known and may be cited as the "Tennessee Certificate of Title for
+Vessels Act."
+69-9-602. Part definitions.
+As used in this part:
+(1) "Barge" means a watercraft that is not self-propelled or fitted for
+propulsion by sail, paddle, oar, or similar device;
+(2) "Builder's certificate" means a certificate of the facts of build of a
+vessel described in 46 CFR 67.99;
+(3) "Cancel," with respect to a certificate of title, means to make the
+certificate ineffective;
+(4) "Certificate of origin":
+(A) Means a record created by a manufacturer or importer as the
+manufacturer's or importer's proof of identity of a vessel;
+(B) Includes a manufacturer's certificate or statement of origin
+and an importer's certificate or statement of origin; and
+(C) Does not include a builder's certificate;
+SA0647
+015533
+- 1 -
+
+(5) "Certificate of title" means a record, created by the agency that is
+designated as a certificate of title by the agency and is evidence of ownership of
+a vessel;
+(6) "Creditor," with respect to a vessel, means:
+(A) A creditor that has acquired a lien on the vessel by
+attachment, levy, or the like;
+(B) An assignee for the benefit of creditors from the time of
+assignment;
+(C) A trustee in bankruptcy from the date of the filing of the
+petition; or
+(D) A receiver in equity from the time of appointment;
+(7) "Dealer" means a person in the business of selling vessels, who:
+(A) Is registered with the department of revenue for sales and use
+tax purposes pursuant to title 67, chapter 6;
+(B) Has a business license from the applicable local
+governmental entity;
+(C) Has an established place of business specifically for the sale,
+trade, or display of such vessels; and
+(D) Sells or exchanges more than five (5) vessels a year;
+(8) "Documented vessel":
+(A) Means a vessel covered by a certificate of documentation
+issued pursuant to 46 U.S.C. § 12105; and
+(B) Does not include a foreign-documented vessel;
+(9) "Electronic" means relating to technology having electrical, digital,
+magnetic, wireless, optical, electromagnetic, or similar capabilities;
+(10) "Established place of business" means a definite place of business
+with telephone service and a sign posted in a conspicuous place on the premises
+- 2 - 015533
+
+at or near the outside entrance to the business identifying that the business
+offers vessels for sale;
+(11) "Foreign-documented vessel" means a vessel the ownership of
+which is recorded in a registry maintained by a country other than the United
+States which identifies each person that has an ownership interest in a vessel
+and includes a unique alphanumeric designation for the vessel;
+(12) "Hull damaged" means compromised with respect to the integrity of
+a vessel's hull by a collision, allision, lightning strike, fire, explosion, running
+aground, or similar occurrence, or the sinking of a vessel in a manner that
+creates a significant risk to the integrity of the vessel's hull;
+(13) "Hull identification number" means the alphanumeric designation
+assigned to a vessel pursuant to 33 CFR Part 181;
+(14) "Moor" means the act of making fast or securing a vessel with lines
+or anchors;
+(15) "Operate" means to navigate, be in physical control of, or otherwise
+use a vessel;
+(16) "Owner" means a person that has legal title to a vessel;
+(17) "Owner of record" means the owner indicated in the files of the
+agency or, if the files indicate more than one (1) owner, the owner first indicated;
+(18) "Purchase" means to take by sale, lease, mortgage, pledge,
+consensual lien, security interest, gift, or any other voluntary transaction that
+creates an interest in a vessel;
+(19) "Purchaser" means a person that takes by purchase;
+(20) "Record" means information that is inscribed on a tangible medium
+or that is stored in an electronic or other medium and is retrievable in perceivable
+form;
+- 3 - 015533
+
+(21) "Secured party", with respect to a vessel, means a person in whose
+favor a security interest is created or provided for under a security agreement,
+whether or not any obligation to be secured is outstanding;
+(22) "Secured party of record" means the secured party whose name is
+indicated as the name of the secured party in the files of the agency or, if the files
+indicate more than one (1) secured party, the secured party first indicated;
+(23) "Security interest" means an interest in a vessel that secures
+payment or performance of an obligation if the interest is created by contract;
+(24) "Sign" means, with present intent to authenticate or adopt a record,
+to:
+(A) Make or adopt a tangible symbol; or
+(B) Attach to or logically associate with the record an electronic
+symbol, sound, or process;
+(25) "Title brand" means a designation of previous damage, use, or
+condition that must be indicated on a certificate of title;
+(26) "Transfer of ownership" means a voluntary or involuntary
+conveyance of an interest in a vessel; and
+(27) "Vessel":
+(A) Means every description of watercraft used or capable of
+being used as a means of transportation on water that is subject to
+registration for use on the waters of Tennessee, including personal
+watercraft, as defined in § 69-9-501; and
+(B) Does not include:
+(i) Seaplanes on the water;
+(ii) Canoes;
+(iii) Kayaks;
+- 4 - 015533
+
+(iv) Nonmotorized vessels, other than canoes and kayaks,
+less than fourteen feet (14′) in length;
+(v) Barges;
+(vi) Vessels owned by the United States, this state, or a
+political subdivision thereof, unless the vessels are required to be
+registered under § 69-9-206; and
+(vii) Any other vessel that is not required to be registered
+under § 69-9-206.
+69-9-603. Vessels subject to titling.
+(a) Beginning July 1, 2027, each owner of a vessel principally used upon the
+waters of this state shall make application for a certificate of title for the vessel to any
+county clerk.
+(b) Application for title to a vessel that has been issued a registration prior to
+July 1, 2027, must be made no later than the registration's first renewal on or after July
+1, 2027.
+(c) By July 1, 2030, all vessels issued a registration as of July 1, 2027, must be
+titled pursuant to this part.
+(d) The county clerk shall accept the application and remit the application to the
+agency.
+(e) This part does not apply to a documented vessel or a foreign-documented
+vessel.
+69-9-604. Applications – Contents – Issuance.
+(a) The application for title must be upon the appropriate form prescribed or
+furnished by the agency and accompanied by a fee established in this part. Each
+application for a certificate of title must contain the following information:
+(1) The name of the owner, the street address of the owner's principal
+residence, and the owner's mailing address, if different than the street address;
+- 5 - 015533
+
+(2) A description of the vessel, including:
+(A) The manufacturer's name, make, model, year, color, vessel
+length, hull material, propulsion type, the engine drive type, if any, and the
+fuel type, if any;
+(B) The Tennessee registration number, or if none, an application
+for a registration number;
+(C) The manufacturer's hull identification number or, if none, an
+application for the issuance of a hull identification number for the vessel;
+(D) Any title brand and, if known, the state under whose law the
+title brand was issued; and
+(E) If the applicant knows that the vessel is hull damaged, a
+statement that the vessel is hull damaged;
+(3) If the vessel previously was registered or titled in another jurisdiction,
+a statement identifying each jurisdiction known to the applicant in which the
+vessel was registered or titled;
+(4) An email address of the owner, transferor, or secured party, if
+available;
+(5) The date of purchase by the applicant, the name and address of the
+person from whom the vessel was acquired, and the names and addresses of
+persons having a security interest in the vessel in the order of their priority; and
+(6) Evidence that sales or use tax at the rate specified in title 67, chapter
+6, part 2, and § 67-6-501 has been paid on the sales price of the vessel, unless
+the applicant shows proof that the vessel is exempt from applicable sales or use
+tax.
+(b) The application must bear the signature of the owner written with pen and ink
+or captured electronically using a method approved by the agency; provided, however,
+that in the case of a dealer only, in lieu of the signature, the application may be
+- 6 - 015533
+
+accompanied by a valid power of attorney executed by the owner on a form prescribed
+by the agency granting the dealer authority to sign the application on behalf of the
+owner.
+(c) The county clerk acts as the agent of the agency in receiving the application
+for certificate of title pursuant to this section.
+(d) The county clerk shall forward all applications for certificates of title received
+by the clerk, together with the appropriate fee, to the agency within five (5) business
+days from when the applications are filed with the clerk; provided, that an additional five
+(5) business days is allowed for a clerk that issues certificates of title for the agency
+under a delegation authorized pursuant to § 69-9-605. All applications, certificates,
+reports, and other forms, documents, or information required by this part to be forwarded
+to the agency may be electronically scanned and forwarded to the agency by electronic
+means.
+(e) The agency shall develop and implement a secure, electronic database or
+portal that is designed to enable the county clerks to transmit applications for certificates
+or title and registration to the agency or to otherwise search data or transmit to the
+agency any information or records related to a titling or registration transaction.
+(f) The director of the agency may require that an application or other document
+delivered to the agency pursuant to this part, including a fee that accompanies the
+document, be submitted electronically in a manner approved by the director. If an
+electronic filing requirement imposed pursuant to the authority granted in this subsection
+(f) creates a hardship upon an individual subject to the requirement, then the individual
+must be permitted to file the applicable document in paper form.
+(g) The agency shall, upon receipt of an application for a certificate of title, and
+after determining by an examination of its records that the applicant is entitled to a
+certificate of title, issue the certificate.
+69-9-605. Administration – Delegation of duties to county clerk.
+- 7 - 015533
+
+(a) The agency may delegate some or all of the duties in connection with
+services normally performed by the agency related to the issuance of titles, recordation
+of security interests, or issuance of replacement certificates of title to a county clerk.
+The delegation must be pursuant to a written agreement between a county clerk and the
+agency.
+(b) A county clerk may accept or reject the delegation. With respect to the
+delegation of duties and the resultant performance of services, the agency shall
+compensate the county clerk pursuant to a schedule of per transaction fees developed
+by the agency.
+69-9-606. Contents of certificate.
+(a) Each certificate of title issued by the agency must contain:
+(1) The date issued;
+(2) The name of the owner of record and, if not all owners are listed, an
+indication that there are additional owners indicated in the files of the agency;
+(3) The street address of the physical residence of the owner of record,
+and that owner's mailing address, if different than the street address;
+(4) The names and addresses of any secured parties in the order of
+priority as shown on the application, unless the application is based on a
+certificate of title, then as shown on the certificate, and if not all secured parties
+are listed, an indication that there are other security interests indicated in the files
+of the agency;
+(5) The title number assigned to the vessel;
+(6) The information listed in § 69-9-604(a)(2)(A), the Tennessee
+registration number, and the manufacturer's hull identification number;
+(7) Spaces for assignment of title by the owner or by the dealer and for
+warranting that the signer is the owner and that there are no security interests on
+the vessel except as are noted on the certificate of title. Spaces must also be
+- 8 - 015533
+
+provided on the certificate for application for title by a new owner subject to the
+security interests of any secured parties as are named and for the assignment or
+release of the security interest of a secured party;
+(8) Whether the vessel has been abandoned, reconstructed, salvaged, or
+deemed a total loss by an insurer, and whether the vessel is hull damaged;
+(9) All title brands indicated in the files of the agency covering the vessel,
+including brands indicated on a certificate created by a governmental agency of
+another jurisdiction and delivered to the agency. For each title brand indicated
+on a certificate of title, the certificate must identify the jurisdiction under whose
+law the title brand was created or the jurisdiction that created the certificate on
+which the title brand was indicated. If the meaning of a title brand is not easily
+ascertainable or cannot be accommodated on the certificate, the certificate may
+state: "Previously branded in (insert the jurisdiction under whose law the title
+brand was created or whose certificate of title previously indicated the title
+brand)";
+(10) An abbreviation designating all states that the agency has
+knowledge of where a vessel has been previously titled. The abbreviation must
+be the standard two-letter abbreviation used in addresses by the United States
+postal service; and
+(11) If the files of the agency indicate that a vessel previously was
+registered or titled in a foreign country, language on the certificate of title that the
+vessel was registered or titled in that country.
+(b) Joint ownership of a vessel by two (2) or more persons must be indicated on
+the certificate of title by the use of the word "and" or, if specified by the owners, the word
+"or" to indicate tenancy in common or survivorship rights.
+(c) A certificate of title issued by the agency:
+(1) Is prima facie evidence of the facts appearing on it; and
+- 9 - 015533
+
+(2) Must be orange or a different color scheme than the color scheme of
+a certificate of title or other ownership document issued by the department of
+revenue for vehicles pursuant to title 55, chapter 3.
+69-9-607. Title brand.
+(a) Unless subsection (c) applies, at or before the time the owner of record
+transfers an ownership interest in a hull-damaged vessel that is covered by a certificate
+of title created by the agency, if the damage occurred while that person was an owner of
+the vessel and the person has notice of the damage at the time of the transfer, the
+owner must:
+(1) Deliver to the agency an application for a new certificate that
+complies with § 69-9-604 and includes the title brand designation "Hull
+Damaged"; or
+(2) Indicate on the certificate in the place designated for that purpose that
+the vessel is hull damaged and deliver the certificate to the transferee.
+(b) After delivery to the agency of the application under subdivision (a)(1) or the
+certificate of title under subdivision (a)(2), the agency shall issue a new certificate that
+indicates that the vessel is branded "Hull Damaged".
+(c) Before an insurer transfers an ownership interest in a hull-damaged vessel
+that is covered by a certificate of title created by the agency, the insurer shall deliver to
+the agency an application for a new certificate that complies with § 69-9-604 and
+includes the title brand designation "Hull Damaged". After delivery of the application to
+the agency, the agency shall issue a new certificate that indicates that the vessel is
+branded "Hull Damaged".
+(d) An owner of record that fails to comply with subsection (a), a person that
+solicits or colludes in a failure by an owner of record to comply with subsection (a), or an
+insurer that fails to comply with subsection (c) commits a Class A misdemeanor,
+punishable only by a fine of one thousand dollars ($1,000).
+- 10 - 015533
+
+69-9-608. Delivery of certificate – Security interests – Electronic lien and title
+system.
+(a) The certificate of title must be delivered to the owner of record in the event
+no security interest appears on the certificate. Otherwise, the certificate of title must be
+delivered to the secured party of record upon the vessel as shown in the certificate and
+must be retained by the secured party of record until the security interest is discharged,
+at which time a notation must be made on the certificate of title, setting forth the fact that
+the security interest has been discharged, which must be signed by the secured party of
+record. If the certificate of title shows on its face one (1) or more security interests still
+outstanding, then the secured party of record must deliver the certificate of title to the
+next prior secured party. If there are no more security interests still outstanding, then the
+secured party of record must deliver the certificate of title to the owner within seven (7)
+business days from the discharge of the security interest. On the date the security
+interest is discharged, the secured party of record shall send notice of the discharge to
+the agency. If the agency is not notified within seventy-two (72) hours from the date of
+discharge, then the secured party of record is subject to the penalty described in § 69-9-
+624.
+(b) If a security interest that is subordinate to another outstanding security
+interest is discharged or released, then the holder of the subordinate security interest
+must immediately procure the certificate of title from the secured party in whose
+possession it is being held for the sole purpose of discharging the security interest as
+provided by subsection (a), and must return the certificate of title to the person from
+whom it was obtained, notifying the agency of the discharge of the security interest, or,
+in the alternative, the subordinate secured party may immediately forward to the agency
+a release setting forth the fact that the security interest has been discharged, which must
+be signed by the secured party, and the agency shall note the release of security interest
+- 11 - 015533
+
+upon the certificate of title when the certificate of title is next in the physical possession
+of the agency.
+(c) The agency may procure and implement an electronic lien and title system to
+be used throughout the state. As used in this subsection (c), "electronic lien and title
+system" means a program that allows the exchange of lien and title information with
+secured parties and is used to create, save, alter, and transfer titles to property.
+69-9-609. Non-dealer transfers.
+(a) On or after July 1, 2027, a person shall not sell or otherwise transfer
+ownership a vessel without delivering to the purchaser or transferee a certificate of title
+with the assignment as is necessary to show title in the purchaser or transferee.
+(b) On or after July 1, 2027, a person shall not purchase or otherwise acquire a
+vessel without applying for a certificate of title in the person's name within fifteen (15)
+days of the receipt of the vessel.
+(c) The owner, at the time of delivery of the vessel, shall execute the assignment
+and warranty of title to the transferee in the space provided on the certificate of title.
+(d) The transferee or purchaser, whether by operation of law or otherwise, shall
+obtain a new certificate of title by application to the county clerk accompanied by the
+required fee and upon the form or forms prescribed and furnished by the agency.
+66-9-610. Dealer transfers.
+(a) If the transferee of a vessel is a dealer who holds the same for resale, then
+the transferee is not required to obtain a new registration for the vessel or to obtain a
+new certificate of title. The dealer, upon transferring title or interest to another person,
+shall execute an assignment and warranty of title upon the certificate of title, if in the
+dealer's possession, or if in the possession of a secured party, the dealer shall execute a
+bill of sale and deliver the same to the person to whom the transfer is made, together
+with evidence of ownership. The application for title and registration must be signed by
+the owner, and the dealer shall, within thirty (30) business days, mail or deliver the
+- 12 - 015533
+
+application to the agency. The owner may execute a power of attorney to a dealer for
+the application for title and registration. Dealers shall maintain records of such
+transactions for not less than three (3) years from the date of such transactions.
+Records of transactions must be available for inspection by the agency.
+(b) If a dealer buys or acquires a used vessel for the purpose of resale, and the
+vessel has been issued a certificate of title, which is to be surrendered to the dealer by
+the owner or the secured party at the time of delivery of the vessel, then the dealer is not
+required to send the certificate to the agency at that time. Upon the dealer transferring
+the vessel to another person other than by creation of a security interest, the transferee
+shall, within fifteen (15) business days, execute the assignment and warranty of title by
+the dealer, showing the names and addresses of the transferee and of a secured party
+and the date of the secured party's security agreement, in the spaces provided on the
+certificate or as the agency prescribes, and mail or deliver the certificate to the agency
+with the transferee's application for a new certificate of title.
+69-9-611. Titling out-of-state vessels.
+If an application for certificate of title is made for a vessel last previously
+registered in another state or a country other than the United States, then the application
+must contain or be accompanied by:
+(1) A certificate of title issued by the other state or country other than the
+United States;
+(2) Any other information or documents the agency reasonably requires
+to establish the ownership of the vessel and the existence or non-existence of
+security interests in it; or
+(3) If the state or country other than the United States in which the vessel
+was last previously registered does not issue certificates of title, a proper bill of
+sale, certificate of origin, or sworn statement of ownership, or any evidence of
+ownership as may be required by the law of the state or country other than the
+- 13 - 015533
+
+United States from which the vessel was brought, plus any other information or
+documents the agency reasonably requires to establish the ownership of the
+vessel and the existence or non-existence of security interests in it.
+69-9-612. Recordkeeping.
+(a) The agency shall maintain a record of all certificates of title issued by it:
+(1) Under a distinctive title number assigned to a vessel;
+(2) Under the identification number awarded to a vessel in accordance
+with the registration and numbering law of the state in which it is registered;
+(3) Alphabetically, under the name of the owner of record; and
+(4) In the discretion of the agency, in any other method it determines to
+be appropriate.
+(b) Except as provided in § 10-7-504(a) and § 69-9-631, all records of the
+agency relating to the titling of vessels are public records open to public inspection
+during regular office hours.
+69-9-613. New vessels – Certificates of origin.
+(a) On or after July 1, 2027, a dealer shall not purchase or acquire a new vessel
+without obtaining from the seller a certificate of origin.
+(b) On or after July 1, 2027, a manufacturer, importer, dealer, or other person
+shall not sell or otherwise transfer a new vessel to a dealer for purposes of display and
+resale, without delivering to the dealer a certificate of origin.
+(c) On or after July 1, 2027, a private individual who manufactures vessels in this
+state for personal use or for another person, whether for sale or not, shall complete a
+builder's certificate.
+(d) The certificate of origin must contain:
+(1) A description of the vessel, including its trade name, if any,
+manufacturer's name, year, series or model, hull material, propulsion type, and
+manufacturer's hull identification number;
+- 14 - 015533
+
+(2) Certification of the date of manufacture of the vessel;
+(3) Certification of date of transfer of vessel and name and address of
+transferee;
+(4) Certification that this was a transfer of vessel in ordinary trade and
+commerce;
+(5) Signature and address of the transferor or a representative of the
+transferor; and
+(6) On the manufacturer's or importer's certificate there must appear an
+assignment form, including the name and address of the transferee, a
+certification that the vessel is new, and a warranty that the title at the time of
+delivery is subject only to the security interests that are set forth in the
+assignment.
+69-9-614. Termination of ownership – Involuntary transfers.
+(a) If the ownership of a vessel is terminated in accordance with the terms of a
+security agreement by a secured party named in the certificate of title, then the secured
+party must promptly mail or deliver to the agency the last certificate of title, an
+application for a new title accompanied by the required fee, and an affidavit by the
+secured party or an authorized representative, setting forth the facts entitling the secured
+party to possession and ownership of the vessel, together with a copy of the journal
+entry, court order, or instrument upon which the claim of possession and ownership is
+founded. If the secured party cannot produce proof of ownership, then the secured party
+may submit to the agency such evidence available with the application, and the agency
+may, if it finds the evidence to be satisfactory proof of ownership, issue a new certificate
+of title.
+(b) If a secured party succeeds to the interest of an owner in a vessel by
+operation of law and holds the vessel for resale, then the secured party is not required to
+secure a new certificate of title to the vessel; provided, that upon transfer to another
+- 15 - 015533
+
+person, the secured party shall, within fifteen (15) days, mail or deliver to the transferee
+or to the agency the certificate, affidavit, and any other documents the agency requires.
+69-9-615. Effect of certificate of title.
+(a) On or after July 1, 2027, a person receiving a vessel from another person
+does not acquire a right, title, claim, or interest in or to the vessel until the person has
+applied for a certificate of title to the vessel or receives a certificate of origin for the
+vessel.
+(b) A court must not recognize the right, title, claim, or interest of a person in or
+to a vessel sold, transferred, or encumbered on or after July 1, 2027, unless evidenced
+by:
+(1) A certificate of title or a certificate of origin; or
+(2) Admission in the pleadings or by stipulation of the parties.
+69-9-616. Security interests – Notation on certificate.
+(a) All security interests noted upon a certificate of title take priority according to
+the order of time in which they are noted on the certificate. These security interests are
+valid against the creditors of the owner of a vessel, subsequent purchasers of the
+vessel, and holders of subsequent security interests upon the vessel.
+(b) If a new security interest, other than a security interest dependent solely
+upon possession, or a security interest of the state for taxes established pursuant to title
+67, chapter 1, part 14, is placed on a vessel subject to titling under this part in a
+transaction not involving a change of ownership, then the owner must deliver the
+certificate of title, if in the owner's possession, to the secured party, who must forward
+the certificate of title, together with the required fee for noting the security interest on the
+certificate of title, with proof of the security interest required by the agency directly to the
+agency. The agency, when satisfied of the secured party's right to have the security
+interest noted on the certificate of title, shall note the security interest on the certificate of
+title and return the certificate of title to the secured party.
+- 16 - 015533
+
+(c) If the certificate of title is in the possession of a prior secured party, the new
+or subordinate secured party must forward to the agency the required fee for noting the
+security interest, together with proof of the security interest required by the agency, and
+the agency, when satisfied of the right of the secured party to have the security interest
+noted on the certificate of title, must:
+(1) Procure the certificate of title from the secured party in whose
+possession it is being held, for the sole purpose of noting the new security
+interest on the certificate of title;
+(2) Return the certificate of title to the secured party from whom it was
+obtained; and
+(3) Notify the new secured party of the fact that the security interest has
+been noted on the certificate of title.
+69-9-617. Assignments of security interests – Notation on certificate.
+(a) A secured party of a security interest, other than a security interest
+dependent solely upon possession, may assign title or interest in the vessel to a person
+other than the owner of record, without the consent and without affecting the interest of
+the owner of record. In this event, the person shall provide the owner of record written
+notice of the assignment, and deliver to the assignee an assignment of the security
+interest, which must be signed by the assignor. If the original certificate of title is in the
+assignor's possession, it must also be delivered to the assignee, who must forward the
+assignment, together with the certificate of title and proper fee for the notation of a
+security interest to the agency, who must note the new security interest on the certificate
+of title in place of the security interest shown in favor of the assignor and return the same
+to the assignee.
+(b) If the original certificate of title is not in the possession of the assignor, then
+the assignee must forward the assignment, together with the fee for noting a security
+interest on the certificate of title, to the agency, which must procure the certificate of title
+- 17 - 015533
+
+from the person in whose possession it is being held for the sole purpose of noting the
+new security interest in place of the security interest in favor of the assignor. The
+agency shall return the certificate of title to the person from whom it was obtained and
+notify the assignee of this security interest that the security interest has been noted on
+the certificate of title.
+(c) The assignee of a security interest is entitled to the same priority among the
+outstanding secured parties and has all the other property rights as had formerly been
+held by the assignor.
+(d) Notwithstanding this section to the contrary, in the case of a transaction, or
+series of related transactions, in which security interests are assigned on more than fifty
+(50) vessels, regardless of whether any of the vessels are owned by or registered to
+residents of this state or covered by certificates of title issued by this state, the assignor
+in the transaction or series of transactions may assign the security interest on the related
+vessel to a person other than the owner of record, without the consent and without
+affecting the interest of the owner of record. Such assignment must be made in the
+same manner as provided in § 55-3-124(c) for multiple vehicle lien assignments.
+69-9-618. Perfection of security interests – Constructive notice – Savings clause.
+(a) A security interest in a vessel of the type for which a certificate of title is
+required is perfected and valid against subsequent creditors of the owner, subsequent
+transferees, and the holders of security interests and liens on the vessel by compliance
+with this section.
+(b)
+(1) A security interest is perfected by delivery to the agency of the
+existing certificate of title, if any, title extension form, or certificate of origin and an
+application for a certificate of title containing the name and address of the holder
+of a security interest and the information listed in § 69-9-604 and the required
+fee.
+- 18 - 015533
+
+(2) The security interest is perfected as of the date of delivery to the
+agency. By receiving the application, the transfer of title and any security
+interests noted on the certificate are deemed perfected, subject only to the action
+of the agency in declining for good cause shown to issue the certificate to note
+the security interest on the certificate.
+(3)
+(A) Notwithstanding another law to the contrary, a second or
+other junior security interest in a vessel of the type for which a certificate
+of title is required is not perfected until the security interest is physically
+noted on the certificate of title for the vessel. In the case of a second or
+other junior security interest, there is no constructive notice of the second
+or other junior security interest unless that security interest is physically
+noted on the certificate of title.
+(B) Subdivision (b)(3)(A) does not have any effect on perfection
+and constructive notice concerning security interests held by secured
+parties of record.
+(c) If a security interest is perfected as provided for in this section, then it
+constitutes notice of all security interests against the vessel described in the security
+interest to creditors of the owner, to subsequent purchasers, and encumbrances, except
+security interests as may be authorized by law dependent upon possession.
+Constructive notice dates from the time of first delivery of the request for the notation of
+the security interest upon the certificate of title by the agency as shown by the
+endorsements of the date of delivery on the document.
+(d) The method provided in this section of obtaining a security interest upon a
+vessel subject to titling under this part is exclusive except as to security interests
+depending upon possession and the lien of the state for taxes established pursuant to
+title 67, chapter 1, part 14.
+- 19 - 015533
+
+(e) A secured party of record or the secured party of record's designee may file
+an application for a vessel temporary lien with the secretary of state in the same manner,
+and subject to the same fees, as motor vehicle temporary liens are filed pursuant to §
+55-4-126(f), except, that the manufacturer's hull identification number for the vessel must
+be provided on the application. As part of the review or audit of the office of the
+secretary of state, the comptroller of the treasury shall include the implementation and
+impact of this subsection (e) and report findings and recommendations regarding this
+subsection (e) in the review or audit of the office of secretary of state.
+(f)
+(1) The rights, duties, and interests flowing from a transaction, certificate
+of title, or record relating to a vessel that was validly entered into or created
+before July 1, 2027, and would be subject to this part if it had been entered into
+or created on or after the effective date of this act, remain valid on and after July
+1, 2027.
+(2) This part does not affect an action or proceeding commenced before
+July 1, 2027.
+(3) Except as otherwise provided in subdivision (f)(4), a security interest
+that is enforceable immediately before July 1, 2027, and would have priority over
+the rights of a person that becomes a creditor at that time is a perfected security
+interest under this part.
+(4) A security interest perfected immediately before July 1, 2027, remains
+perfected until the earlier of:
+(A) The time perfection would have ceased under the law under
+which the security interest was perfected; or
+(B) July 1, 2030.
+- 20 - 015533
+
+(5) This part does not affect the priority of a security interest in a vessel if
+immediately before July 1, 2027, the security interest is enforceable and
+perfected, and that priority is established.
+69-9-619. Replacement certificate of title.
+(a) If a certificate of title is lost, stolen, mutilated, destroyed, or becomes illegible,
+the secured party of record or, if there is not a secured party of record, then the owner of
+record or legal representative of the owner of record named in the certificate, as shown
+by the records of the agency, may obtain a replacement title by applying to the county
+clerk and furnishing the prescribed fee and information required by § 69-9-604 and the
+circumstances of its loss, theft, mutilation, destruction, or illegibility as required by the
+agency. The county clerk shall forward the application for replacement title to the
+agency.
+(b) Upon issuance of any replacement certificate of title, the previous certificate
+that was issued is deemed void.
+(c) A replacement title must have the word "duplicate" clearly marked on its face.
+69-9-620. Cancellation of certificate of title.
+If a vessel with a certificate of title is scrapped, dismantled, destroyed, or is
+changed in such manner that it loses its character as a vessel, or is changed in such
+manner that it is not the vessel described in the certificate of title, then the named owner
+of record in the last certificate of title shall, within seventy-two (72) hours, cause the
+certificate to be mailed or delivered to the agency. The agency shall, with the consent of
+any secured parties noted on the certificate, cancel the certificate.
+69-9-621. Stolen vessels.
+(a) A law enforcement officer having knowledge of a stolen vessel shall
+immediately furnish the agency with information concerning the theft.
+(b) The agency, whenever it receives a report of the theft of a vessel, shall make
+a distinctive record of the report, including the make of the stolen vessel and the
+- 21 - 015533
+
+manufacturer's hull identification number, and shall file the same in the numerical order
+of the manufacturer's hull identification number with the index records of the vessel's
+make. The agency shall prepare a report listing vessels stolen and recovered as
+disclosed by the reports submitted to it, to be distributed as it deems advisable.
+(c) In the event of the recovery of a stolen vessel, the owner or recovering entity
+shall immediately notify the agency, which shall remove the record of the theft from its
+files.
+69-9-622. Titling offenses.
+It is a Class C misdemeanor for a person to knowingly:
+(1) Operate or moor in this state a vessel for which a certificate of title is
+required, without having a certificate of title;
+(2) Operate or moor in this state a vessel for which a certificate of title is
+required, and the certificate of title has been canceled;
+(3) Sell, transfer, or otherwise dispose of a vessel without delivering to
+the purchaser or transferee a certificate of title, or a manufacturer's or importer's
+certificate, assigned to the purchaser or transferee as required by this part; or
+(4) Fail to surrender to the agency a certificate of title upon cancellation
+of the same by the agency for a valid reason set forth in this part.
+69-9-623. Secured party offenses.
+(a) It is a Class C misdemeanor for a secured party to fail or neglect upon the
+discharge of the security interest to properly discharge the security interest in the
+manner provided for in § 69-9-608 and, if the certificate of title is in the secured party's
+possession, to fail to deliver the certificate to the person entitled to the certificate.
+(b) It is a Class C misdemeanor for a secured party whose security interest has
+been discharged to fail to report the discharge to the agency within seventy-two (72)
+hours from the date of discharge.
+69-9-624. Forgery or falsification of certificate – Other offenses.
+- 22 - 015533
+
+(a) It is a Class B misdemeanor for a person to knowingly:
+(1) Alter or falsify an assignment of a certificate of title that has been
+canceled; or
+(2) Fail to surrender to the agency a certificate of title upon cancellation
+of the same by the agency for a valid reason set forth in this part.
+(b) It is a Class A misdemeanor for a person to knowingly:
+(1) Alter, forge, or counterfeit a certificate of title or certificate of origin to
+a vessel;
+(2) Alter or falsify an assignment of a certificate of title, or an assignment
+or cancellation of a security interest in a certificate of title to a vessel;
+(3) Hold or use a certificate of title to a vessel or to hold or use an
+assignment or cancellation of a security interest on a certificate of title to a vessel
+knowing it to have been altered, forged, counterfeited, or falsified;
+(4) Use a false or fictitious name or address, or make a material false
+statement, or conceal a material fact, in an application for a certificate of title or in
+a bill of sale or sworn statement of ownership;
+(5) Procure or attempt to procure a certificate of title to a vessel, or pass
+or attempt to pass a certificate of title or an assignment thereof to a vessel,
+knowing or having reason to believe that the vessel has been stolen;
+(6) Take possession of, buy, receive, sell or offer for sale, transfer, or
+otherwise dispose of in this state a vessel on which the manufacturer's hull
+identification number has been destroyed, removed, covered, altered, or
+defaced, knowing of such destruction, removal, covering, alteration, or
+defacement of such manufacturer's hull identification number; or
+(7) Destroy, remove, cover, alter, or deface the manufacturer's hull
+identification number on a vessel for the purpose of selling or otherwise
+disposing of the vessel.
+- 23 - 015533
+
+69-9-625. Suspension or revocation of certificate of title.
+(a) The agency may suspend or revoke a certificate of title to a vessel, upon
+reasonable notice and hearing, when authorized by law and if:
+(1) The certificate of title was fraudulently procured or erroneously
+issued; or
+(2) The vessel has been scrapped, dismantled, or destroyed.
+(b) Suspension or revocation of a certificate of title does not, in itself, affect the
+validity of a security interest noted on it.
+(c) If the agency suspends or revokes a certificate of title, then the owner or
+person in possession of it must, upon receiving notice of the suspension or revocation,
+mail or deliver the certificate to the agency.
+(d) The agency may seize and impound a certificate of title that has been
+suspended and revoked pursuant to subsection (a).
+69-9-626. Fees to agency pertaining to titling of vessels.
+(a) The following fees are payable to the agency:
+(1) For issuing a certificate of title to a vessel, the sum of twenty dollars
+($20.00) to be earmarked as follows:
+(A) Six dollars ($6.00) to be allocated to the local abandoned
+vessel prevention fund, established by § 69-9-703; and
+(B) Fourteen dollars ($14.00) to be allocated in accordance with §
+69-9-203;
+(2) For noting new security interests not originally entered on a title and
+for transferring security interests from one (1) secured party to the secured
+party's assignee upon a certificate of title when the transaction does not involve a
+change of ownership and where the certificate of title is submitted to the agency
+along with the application, the sum of eleven dollars ($11.00);
+- 24 - 015533
+
+(3) For noting on a certificate of title the extension of a chattel mortgage
+therein described and noted thereon, the sum of eleven dollars ($11.00); and
+(4) For issuing a duplicate certificate of title to replace a lost, stolen,
+mutilated, destroyed, or illegible certificate, the sum of five dollars and fifty cents
+($5.50).
+(b) The fish and wildlife commission may, by rule, adjust the fees in this part in
+such amount as may be necessary to administer this part; provided, that the percentage
+increase for any such fee adjustment must not exceed the percentage increase in the
+consumer price index (CPI) for all urban consumers published by the United States
+department of labor, bureau of labor statistics, since the last change in such fees.
+69-9-627. Fees to county clerks pertaining to titling of vessels.
+(a) The county clerks are entitled to the following fees from applicants for the
+following services:
+(1) For receiving and forwarding to the agency each application for a
+certificate of title, including all acknowledgements of signatures thereunder, the
+sum of five dollars ($5.00); provided, that three dollars ($3.00) of the fee must be
+earmarked for the provision of services related to titling and registering vessels in
+the discretion of the county clerk and must not revert to the county general fund
+at the end of a budget year if unexpended; and
+(2) For receiving and forwarding to the agency each application for a
+duplicate certificate of title to replace a lost or destroyed certificate, the sum of
+five dollars ($5.00); provided, that three dollars ($3.00) of the fee must be
+earmarked for the provision of services related to titling and registering vessels in
+the discretion of the county clerk and must not revert to the county general fund
+at the end of a budget year if unexpended.
+- 25 - 015533
+
+(b) The county clerk shall remit and report, not later than the tenth day of each
+month, to the agency all moneys collected by the clerk on behalf of the agency under
+this part during the calendar month preceding the date of the report.
+(c) It is a Class C misdemeanor for a county clerk to be more than two (2) days
+delinquent in forwarding the applications necessary under this part to the agency. It is a
+Class C misdemeanor for a county clerk to be more than ten (10) days delinquent in
+making the report required by subsection (b) to be made to the agency. Each day
+constitutes a separate offense.
+69-9-628. Refunds of fees.
+(a) If an application to the agency or a county clerk is accompanied by a fee as
+required by law, and the application is refused or rejected, then the fee must be returned
+to the applicant.
+(b) If the agency, or a county clerk, through error, collects a fee not required to
+be paid under this part, then the fee must be refunded to the person paying the fee upon
+application for refund made within six (6) months after the date of the payment.
+(c) If the agency declines to issue a certificate of title to a purchaser of a vessel,
+then the applicant may, at any time within five (5) days from receipt of formal notice that
+the application for a certificate of title has been rejected, surrender the application for a
+certificate of title issued for the vessel to the agency and be entitled to an immediate
+refund of all the fees paid by the applicant for the titling of the vessel.
+69-9-629. Allocation of vessel titling fee revenue.
+(a) Except as provided in § 69-9-626(a)(1)-(2), all fees collected by the agency
+must be retained by the agency for the administration and implementation of this part
+and must not revert to the state general fund nor the wildlife resources fund.
+(b) Except as provided in § 69-9-627, all fees required to be paid to county
+clerks must be retained by the clerk and handled in the same manner as all other fees
+collected by the clerk for the clerk's benefit.
+- 26 - 015533
+
+69-9-630. Fee exemption.
+A fee, charge, or other cost must not be charged or assessed against a person
+who acquires title to a vessel as a result of the death of the spouse of the person, if an
+application to transfer ownership and registration is made within one (1) year from the
+date of the spouse's death.
+69-9-631. Confidentiality of vessel records.
+(a) As used in this section:
+(1) "Disclose" means to engage in a practice or conduct to make
+available and make known personal information contained in a vessel record
+about a person to a person or entity, by any means of communication;
+(2) "Express consent" means consent in writing, including consent
+conveyed electronically that bears an electronic signature as defined in 15
+U.S.C. § 7006;
+(3) "Highly restricted personal information" means an individual's
+photograph or image, social security number, or medical or disability
+information;
+(4) "Individual record" is a vessel record containing personal
+information about a designated person who is the subject of the record as
+identified in a request;
+(5) "Person" means an individual or entity, but does not include the
+state or a department or agency of the state;
+(6) "Personal information":
+(A) Means information that identifies a person, including an
+individual's photograph or image; social security number; name; address,
+excluding the five-digit zip code; telephone number; and medical or
+disability information; and
+- 27 - 015533
+
+(B) Does not include information on boating accidents or boating-
+related violations under this title, vessel registration, or titling status;
+(7) "Record" includes all books, papers, photographs, photostats,
+cards, films, tapes, recordings, electronic data, printouts, or other
+documentary materials regardless of physical form or characteristics; and
+(8) "Vessel record" means any records that pertain to a vessel owner
+or operator's vessel registration or certificate of number, vessel title, or other
+document issued by the agency or a participating county clerk authorized to
+issue any of these forms of documents.
+(b) Notwithstanding another law to the contrary, except as provided in this
+section, the agency, and any officer, employee, agent, or contractor of the agency, shall
+not disclose personal information about a person obtained by the agency in connection
+with a vessel record.
+(c) Personal information referred to in subsection (b) may be disclosed to a
+requesting person, if the person demonstrates, in the form and manner the agency
+prescribes, that the person has obtained the express consent of the person who is the
+subject of the information.
+(d)
+(1) The agency, or an officer, employee, or contractor of the agency,
+shall not knowingly disclose or otherwise make available to a person:
+(A) Personal information about a person obtained by the agency
+in connection with a vessel record, except as provided in this subsection
+(d); or
+(B) Highly restricted personal information about a person
+obtained by the agency in connection with a vessel record without the
+express consent of the person to whom that information applies, except
+for uses permitted in subdivisions (d)(2)(A), (d)(2)(C), and (d)(2)(D).
+- 28 - 015533
+
+(2) Personal information referred to in subdivision (d)(1) must be
+disclosed for use in connection with vessel theft and, subject to subdivision
+(d)(1)(B), may be disclosed for use:
+(A) By a government agency, including a court or law
+enforcement agency, in carrying out its functions, or by a private person
+or entity acting on behalf of a federal, state, or local department or agency
+in carrying out its functions;
+(B) In the normal course of business by a legitimate business or
+agents, employees, or contractors of the business, but only:
+(i) To verify the accuracy of personal information
+submitted by the individual to the business or its agents,
+employees, or contractors; and
+(ii) If the information so submitted is not correct or is no
+longer correct, to obtain the correct information, but only for
+purposes of preventing fraud by, pursuing legal remedies against,
+or recovering on a debt or security interest against the individual;
+(C) In connection with a civil, criminal, administrative, or arbitral
+proceeding in a federal, state, or local court or department or agency or
+before a self-regulatory body, including the service of process,
+investigation in anticipation of litigation, and the execution or enforcement
+of judgments and orders, or pursuant to an order of a federal, state, or
+local court;
+(D) By an insurer or by a self-insured entity, or its agents,
+employees, or contractors, in connection with claims investigation
+activities, antifraud activities, rating, or underwriting;
+(E) By a person engaged in the business of towing vessels, or by
+a law enforcement agency or other local department or agency
+- 29 - 015533
+
+responsible for removing or recovering abandoned vessels, in connection
+with providing notice to the owners of towed or impounded vessels;
+(F) By a licensed private investigative agency or licensed security
+service for a purpose permitted under this subdivision (d)(2);
+(G) By a person operating a commercial boating facility, dock, or
+marina upon the waters of this state that stores or houses vessels for a
+purpose permitted under this subdivision (d)(2) or in connection with
+providing notice to the owners of vessels stored or housed at that facility,
+dock, or marina; and
+(H) By a requester, if the requester demonstrates it has obtained
+the express consent of the individual to whom the information pertains;
+(3) Vessel records, personal information, or highly restricted personal
+information must be disclosed to a person by the agency upon proof of the
+identity of the person requesting the record or information and representation by
+that person that the use of the personal information is strictly limited to one (1) or
+more of the permitted uses described in this subsection (d).
+(4) Before issuing vessel records, personal information, or highly
+restricted personal information, the agency may require a person, federal, state,
+or local governmental department or agency requesting that information, or each
+of the requesting entity's contractors, officers, or individuals in the employ of that
+person or governmental department or agency that will have access to the
+information, to execute a confidentiality agreement stating that the recipient, or
+the recipient's contractor, officer, or employee, comply with the confidentiality
+provisions of this subsection (d) and limit the use of the information to those uses
+specifically permissible under this subsection (d).
+(5) A person, governmental department or agency, or contractor, officer,
+or employee thereof who receives information under this subsection (d) must not
+- 30 - 015533
+
+disclose that information to a person other than the person to whom it relates,
+except as otherwise may be authorized by this subsection (d).
+(6) Prior to disclosure of personal information as permitted under
+subsection (d), the agency may require the requestor meet certain conditions in
+order to obtain reasonable assurance concerning the identity of the requestor,
+and, to the extent required, ensure that the use will be only as authorized, or that
+the express consent has been obtained from the person who is the subject of the
+information. These conditions may include the making and filing of a written
+application in a form that contains any information and certification required by
+the agency.
+(7) A person requesting the disclosure of personal information from
+agency records who misrepresents their identity or makes a false statement to
+the agency on an application required to be submitted pursuant to this subsection
+(d) commits a Class C misdemeanor, punishable only by a fine of one thousand
+dollars ($1,000).
+69-9-632. Inadequate documentation.
+(a) Notwithstanding this part to the contrary, a person may apply to the agency
+for a certificate of title to a vessel lacking proper documentation if the vessel has a fair
+market value of three thousand dollars ($3,000) or less and the person submits a
+certificate of ownership signed under penalty of perjury on a form prescribed by the
+agency. The certificate of ownership must be accompanied by such documentation as
+required by the agency.
+(b) Notwithstanding this part to the contrary, a person may apply to the agency
+for a certificate of title to a vessel lacking proper documentation if the vessel is at least
+thirty (30) years old, and the person submits a certificate of ownership signed under
+penalty of perjury on a form prescribed by the agency.
+- 31 - 015533
+
+(c) Upon submission of a complete certificate of ownership form with the
+required supporting documentation and payment of the appropriate fee, a certificate of
+title must be issued to the applicant upon acceptance by the agency of the submitted
+documents and payment of the appropriate fees.
+(d) A certificate of title issued pursuant to this section does not relieve the
+applicant of civil or criminal liability resulting from possession of the vessel as otherwise
+provided by law.
+(e) Issuance of a title under this section is solely dependent on the applicant's
+ability to provide satisfactory evidence of the applicant's legal right of ownership.
+69-9-633. Rulemaking.
+The fish and wildlife commission may adopt rules necessary for the
+administration of this part. The rules must be promulgated in accordance with the
+Uniform Administrative Procedures Act, compiled in title 4, chapter 5.
+SECTION 2. Tennessee Code Annotated, Title 69, Chapter 9, is amended by adding
+the following as a new part:
+69-9-701. Part definitions.
+As used in this part:
+(1) "Abandoned vessel":
+(A) Means a vessel intended as a means of transportation upon
+or under the water, regardless of whether it is still capable as a means of
+transportation, that:
+(i) Has remained unattended on the waters of Tennessee,
+or land adjacent to these waters, for more than thirty (30) days
+without the express consent of the owner or person in control of
+the property;
+(ii) Is adrift or submerged for more than thirty (30) days in
+or upon the waters of Tennessee;
+- 32 - 015533
+
+(iii) Is a vessel deemed to have no ownership, after notice
+by publication is given pursuant to rules of the agency;
+(iv) Is left unattended on public property without notice to
+the managing entity of the public property for more than thirty (30)
+days; or
+(v) Has remained on private property without the consent
+of the owner or person in control of the property or, parked or left
+in a garage, trailer park, or any type of storage or parking lot
+without consent of the managing entity for more than thirty (30)
+days; and
+(B) Includes a vessel in an obvious state of disrepair such as
+being burned throughout or inoperable under its own power; and
+(2) "Local government" means a municipality, county, or agency, board,
+commission, or authority created by law on behalf of a municipality or county.
+69-9-702. Local government grants.
+(a) The agency may award grants to local governments for the costs of removal
+or recovery of abandoned vessels from the waters of Tennessee and from private and
+public property in accordance with rules of the agency governing abandoned vessels
+and reasonable administrative expenses relative to the removal or recovery. The grants
+must be funded from the local abandoned vessel prevention fund established in § 69-9-
+703. Administrative expenses of a grantee must not exceed five percent (5%) of a grant
+awarded.
+(b) The agency shall develop procedures for local governments to submit a grant
+application and criteria for allocating available funds. The criteria must include, at a
+minimum, the following:
+(1) The number of abandoned vessels within the jurisdiction of the
+applicant;
+- 33 - 015533
+
+(2) The threat posed by such abandoned vessels to public health or
+safety, the environment, navigation, or the aesthetic condition of the general
+vicinity; and
+(3) The degree of commitment of the local government to maintain
+waters free of abandoned vessels.
+(c) In awarding grant funds, the agency shall give priority consideration to:
+(1) Unmet needs in counties having populations of one hundred
+thousand (100,000) or less, according to the 2020 federal census or any
+subsequent federal census; and
+(2) Unmet needs in counties having a high level of boating-related
+activities from individuals residing in other counties or in bordering states.
+(d) The amount of grant funds awarded annually to a local government must not
+exceed twenty-five thousand dollars ($25,000).
+(e) The fish and wildlife commission may adopt rules necessary for the
+administration of the grant program. The rules must be promulgated in accordance with
+the Uniform Administrative Procedures Act, compiled in title 4, chapter 5.
+69-9-703. Local abandoned vessel prevention fund.
+(a) There is established a special account in the state treasury to be known as
+the "local abandoned vessel prevention fund," hereinafter referred to as the "fund," to
+assist local governments with the costs of removal and recovery of abandoned vessels
+from the waters of Tennessee and private and public property and reasonable
+administrative expenses. The fund must be administered by the agency.
+(b) The fund consists of moneys derived from the portion of the fees collected for
+titling vessels pursuant to § 69-9-626(a)(1)(A). The agency may accept other funds,
+public or private, by way of gift or grant to the fund. Any such gift or grant must be
+deposited into the fund to be expended in accordance with this part.
+- 34 - 015533
+
+(c) Any unencumbered moneys and any unexpended balance of the fund
+remaining at the end of a fiscal year must not revert to the state general fund or another
+agency fund or account, but must be carried forward until expended in accordance with
+this part.
+(d) Moneys in the fund must be invested by the state treasurer pursuant to title
+9, chapter 4, part 6, for the benefit of the fund. Interest accruing on investments and
+deposits of the fund must be credited to the fund, be returned to the fund, and remain
+part of the fund.
+(e) Moneys in the fund must be used by the agency to administer and distribute
+grants to local governments authorized by § 69-9-702 and for education and community
+outreach efforts described in § 69-9-705.
+69-9-704. Report.
+The agency shall report to the chair of the energy, agriculture and natural
+resources committee of the senate, and the chair of the committee of the house of
+representatives having jurisdiction over boating, no later than December 31, 2026, and
+each December 31 thereafter, regarding the agency's administration of the fund. The
+report must include the obligated and unobligated balances of the fund as of June 30 of
+the reporting calendar year and the grants awarded from the fund in the immediately
+preceding fiscal year. Grant information must include the amount of the grant awarded
+and the recipient of the grant.
+69-9-705. Education and outreach.
+The agency may, in coordination with local governments and nonprofit
+organizations, establish education and community outreach programs that inform and
+incentivize the removal and recovery of abandoned vessels from the waters of
+Tennessee and private and public property, including information about abandoned
+vessel disposal programs and funding options for abandoned vessel removal and
+recovery efforts.
+- 35 - 015533
+
+69-9-706. Abandoned vessel offense.
+(a) A person shall not leave an abandoned vessel in or upon the waters of
+Tennessee or on public or private property.
+(b) A violation of subsection (a) is a Class A misdemeanor.
+(c)
+(1) It is not a violation of subsection (a) if the person leaves an
+abandoned vessel in or upon the waters of Tennessee or on public or private
+property solely as a result of:
+(A) A boating accident that is reported to the appropriate law
+enforcement agency;
+(B) An extreme weather event, such as a flood; or
+(C) Another sudden event outside of the person's control.
+(2) To qualify for the exception under subdivision (c)(1), the person shall
+provide documentation to a law enforcement officer evidencing the specific event
+in subdivision (c)(1) that led to the vessel becoming abandoned in or upon the
+waters of Tennessee or on private or public property.
+SECTION 3. Tennessee Code Annotated, Section 10-7-504, is amended by adding the
+following as a new subdivision:
+(35) Personal information contained in vessel records must be treated as
+confidential and is only open for inspection in accordance with § 69-9-631.
+SECTION 4. Tennessee Code Annotated, Section 69-9-207, is amended by adding the
+following at the end of subsection (c):
+A vessel of five (5) or more net tons owned by a U.S. citizen, used exclusively for
+pleasure, and principally used upon the waters of Tennessee that is issued a valid
+marine document by the U.S. coast guard must be numbered under this chapter, except
+that the identification number is not required to be displayed on the vessel and must be
+available for inspection when the vessel is in operation.
+- 36 - 015533
+
+SECTION 5.
+(a) The director of the wildlife resources agency may employ such personnel as
+necessary and appropriate for the agency to accomplish the purposes of Sections 1 and
+3. It is the legislative intent that, on July 1, 2026, funding for three (3) employment
+positions be allocated and appropriated to the agency for carrying out its responsibilities
+under Sections 1 and 3. The director has the discretion to determine how and whether
+to utilize any associated positions.
+(b) The wildlife resources agency may collect and compile de-identified data
+related to the use of personal boat trailers in this state, such as the quantity of trailers
+and the type of watercraft transported. The agency may develop a form for this purpose
+or may include a space for this purpose in any existing forms used by the agency.
+SECTION 6. The headings in this act are for reference purposes only and do not
+constitute a part of the law enacted by this act. However, the Tennessee Code Commission is
+requested to include the headings in any compilation or publication containing this act.
+SECTION 7.
+(a) For the purpose of promulgating rules and forms to effectuate Section 1 of
+this act, this act takes effect upon becoming a law, the public welfare requiring it.
+(b) Sections 1 and 3 of this act take effect July 1, 2027, the public welfare
+requiring it.
+(c) Section 69-9-706, created by Section 2 of this act, and Sections 4 and 5 of
+this act, take effect July 1, 2026, the public welfare requiring it.
+(d) For all other purposes, this act takes effect upon becoming a law, the public
+welfare requiring it.
+- 37 - 015533

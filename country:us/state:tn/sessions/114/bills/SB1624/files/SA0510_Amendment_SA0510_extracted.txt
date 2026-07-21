@@ -1,0 +1,24 @@
+Title: 
+Official Title: 
+Source: versions - Amendment SA0510
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate State and Local Government 1
+Amendment No. 1 to SB1624
+Briggs
+Signature of Sponsor
+AMEND S e n ate Bill No. 1624 House Bill No. 1513*
+by deleting subdivision (a)(6)(D) in Section 2 and substituting instead:
+(D) A person or entity that is a broadcaster, host, third-party producer, internet
+service provider or its affiliates or subsidiaries, search engine, or cloud service provider
+is not liable under this subdivision (a)(6) solely for providing access or connection to or
+from a website or other information or content on the internet or a facility, system, or
+network not under the control of the provider, including transmission, downloading,
+intermediate storage, or access software, to the extent such provider is not responsible
+for the creation of the deceptive and fraudulent deepfake.
+SA0510
+013560
+- 1 -

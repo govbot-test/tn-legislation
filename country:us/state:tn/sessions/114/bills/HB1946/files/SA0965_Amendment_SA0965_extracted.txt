@@ -1,0 +1,21 @@
+Title: 
+Official Title: 
+Source: versions - Amendment SA0965
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate State and Local Government 1
+Amendment No. 2 to SB1700
+Watson
+Signature of Sponsor
+AMEND S e n ate Bill No. 1700* House Bill No. 1946
+by deleting Section 2 and substituting:
+SECTION 2. TACIR shall publish a report of the study's findings and
+recommendations and shall deliver a copy of the report to the governor, the speaker of
+the senate, the speaker of the house of representatives, and the legislative librarian.
+The report may be delivered electronically.
+SA0965
+016715
+- 1 -
