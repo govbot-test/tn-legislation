@@ -1,0 +1,23 @@
+Title: 
+Official Title: 
+Source: versions - Current Version
+Media Type: application/pdf
+
+================================================================================
+
+<BillNo> <Sponsor>
+SENATE BILL 1634
+By Lamar
+AN ACT to amend Tennessee Code Annotated, Title 40,
+Chapter 29, relative to citizenship rights.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 40-29-103(f), is amended by deleting
+the subsection and substituting instead:
+(f) There is no cost to a petitioner for a proceeding under this section.
+SECTION 2. Tennessee Code Annotated, Section 40-29-107(c), is amended by
+deleting the subsection and substituting instead:
+(c) There is no cost to a petitioner for an application under this section.
+SECTION 3. This act takes effect July 1, 2026, the public welfare requiring it.
+SB1634
+009925
+- 1 -

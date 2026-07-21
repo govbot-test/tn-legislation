@@ -1,0 +1,280 @@
+Title: 
+Official Title: 
+Source: versions - Amendment HA0642
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House Transportation 1
+Amendment No. 1 to HB1690
+Howell
+Signature of Sponsor
+AMEND S e n ate Bill No. 1667* House Bill No. 1690
+by deleting all language after the enacting clause and substituting:
+SECTION 1. Tennessee Code Annotated, Title 55, Chapter 4, Part 1, is amended by
+adding the following as a new section:
+(a) The commissioner or a county clerk shall not process an application for initial
+issuance of registration of a motor vehicle unless the vehicle has met the requirements
+of this section and the Financial Responsibility Law of 1977, compiled in chapter 12, part
+1 of this title.
+(b) Submission of the following items constitutes satisfactory proof that a vehicle
+has met the requirements of the Financial Responsibility Law of 1977, as required by
+subsection (a):
+(1) Documentation, such as the declaration page of an insurance policy, an
+insurance binder, or an insurance card from an insurance company authorized to do
+business in this state, whether in paper or electronic format, stating that a policy of
+insurance meeting the requirements of the Financial Responsibility Law of 1977 has
+been issued and will be in force for a period of not less than thirty (30) days; or
+(2) A certificate, valid for one (1) year, issued by the commissioner of
+revenue, stating that:
+(A) A cash deposit or bond in the amount required by the Financial
+Responsibility Law of 1977 has been paid or filed with the commissioner of
+revenue; or
+(B) The driver has qualified as a self-insurer under § 55-12-111.
+HA0642
+015092
+- 1 -
+
+(c) For purposes of this section, acceptable electronic formats include display of
+electronic images on a cell phone or another type of portable electronic device.
+(d)
+(1) Every registration and renewal of registration must be accompanied
+by a notice stating vehicle owners and/or operators are required to carry proof of
+financial responsibility pursuant to the Financial Responsibility Law of 1977,
+compiled in chapter 12, part 1 of this title.
+(2) The notice required by subdivision (d)(1) may be incorporated into
+any other notice required by this part to accompany the registration and renewal
+of registration.
+(e) This section is repealed on June 30, 2029.
+SECTION 2. Tennessee Code Annotated, Section 55-12-211, is amended by adding
+the following new subsection:
+(d)
+(1) The department of revenue or a county clerk shall not process an
+application for renewal of registration of a motor vehicle after the motor vehicle's
+registration has been issued a notice pursuant to § 55-12-210(b)(1)(B) until the
+owner or lessee of the motor vehicle pays all fees owed pursuant to § 55-12-210
+and the owner or lessee provides documentation pursuant to subdivision (a)(3).
+(2) If the owner or lessee of the motor vehicle elects to use a policy of
+insurance and financial responsibility insurance certificate as proof of financial
+security under subdivision (a)(3)(A), then the documentation must state that the
+policy will be in force for a period of not less than thirty (30) days.
+SECTION 3. Tennessee Code Annotated, Section 55-12-210(a)(2), is amended by
+deleting "twenty-five-dollar coverage failure fee" and substituting instead "five-hundred-dollar
+coverage failure fee" and by deleting "The notice described in subdivision (a)(1)" and
+substituting instead "Subject to subsection (h), the notice described in subdivision (a)(1)".
+- 2 - 015092
+
+SECTION 4. Tennessee Code Annotated, Section 55-12-210(b)(1)(A), is amended by
+deleting the subdivision and substituting instead:
+(A) Impose on the owner or lessee of the motor vehicle a five-hundred-dollar
+coverage failure fee. Of this fee, two hundred dollars ($200) must be distributed to the
+county clerk of the county in which the motor vehicle is registered, fifty dollars ($50.00)
+must be distributed to the department of safety, and the remainder must be deposited
+into the uninsured motorist identification restricted fund created in § 55-12-213. Twenty
+percent (20%) of the revenue distributed to the county clerk must be earmarked for the
+county clerk's work in administration of the vehicle insurance verification program and for
+other usual and necessary insurance verification related expenses in the discretion of
+the county clerk. The clerk shall preserve these funds exclusively for these purposes,
+and these funds must not revert to the county general fund at the end of the budget year
+if unexpended. The remainder of the revenue distributed to the county clerk must be
+retained by the clerk and handled in the same manner as all other fees collected by the
+clerk for the clerk's benefit.
+SECTION 5. Tennessee Code Annotated, Section 55-12-210(b)(2), is amended by
+deleting the language "one hundred-dollar continued coverage failure fee" and substituting
+instead the language "one thousand-dollar continued coverage failure fee".
+SECTION 6. Tennessee Code Annotated, Section 55-12-210(c)(1), is amended by
+deleting the subdivision and substituting instead:
+(1) Shall impose on the owner or lessee of the motor vehicle a one-thousand-
+dollar continued coverage failure fee, which is in addition to the coverage failure fee
+imposed under subdivision (b)(1)(A). Of this continued coverage failure fee, four
+hundred dollars ($400) must be distributed to the county clerk of the county in which the
+motor vehicle is registered, one hundred dollars ($100) must be distributed to the
+department of safety, and the remainder must be deposited into the uninsured motorist
+identification restricted fund created in § 55-12-213. Twenty percent (20%) of the
+- 3 - 015092
+
+revenue distributed to the county clerk must be earmarked for the county clerk's work in
+administration of the vehicle insurance verification program and for other usual and
+necessary insurance verification related expenses in the discretion of the county clerk.
+The clerk shall preserve these funds exclusively for these purposes, and these funds
+must not revert to the county general fund at the end of the budget year if unexpended.
+The remainder of the revenue distributed to the county clerk must be retained by the
+clerk and handled in the same manner as all other fees collected by the clerk for the
+clerk's benefit.
+SECTION 7. Tennessee Code Annotated, Section 55-12-210, is amended by adding
+the following as a new subsection:
+(h)
+(1) If a motor vehicle is subject to issuance of a subsequent notice as
+described in subsection (a) within three (3) years from the date of the first notice
+the department issued to the owner or lessee of that motor vehicle under
+subsection (a), then the only fee imposed under this section is a one thousand
+five hundred-dollar repeated coverage failure fee. In lieu of the statement
+described in subdivision (a)(2), the notice described in subdivision (a)(1) must
+include a statement that if the owner or lessee of the motor vehicle fails to
+comply with the requirements set forth in the notice, the owner or lessee is
+subject to a one-thousand-five-hundred-dollar repeated coverage failure fee and
+suspension or revocation of the motor vehicle registration. The department shall
+not provide notices under subsections (b) and (c) to owners or lessees who
+become subject to such subsequent notices. The request for information under
+subdivision (a)(3), the notice described in subdivision (a)(1), which includes the
+statement described in this subdivision (h)(1), and the notice described in
+subdivision (h)(2)(C) are the only three (3) notices required to be provided.
+- 4 - 015092
+
+(2) If the owner or lessee of the motor vehicle fails to provide satisfactory
+proof or a statement as described in subsection (a), then the department of
+revenue:
+(A) Shall impose on the owner or lessee of the motor vehicle a
+one-thousand-five-hundred-dollar repeated coverage failure fee. Of this
+repeated coverage failure fee, six hundred dollars ($600) must be
+distributed to the county clerk of the county in which the motor vehicle is
+registered, one hundred fifty dollars ($150) must be distributed to the
+department of safety, and the remainder must be deposited into the
+uninsured motorist identification restricted fund created in § 55-12-213.
+Twenty percent (20%) of the revenue distributed to the county clerk must
+be earmarked for the county clerk's work in administration of the vehicle
+insurance verification program and for other usual and necessary
+insurance verification related expenses in the discretion of the county
+clerk. The clerk shall preserve these funds exclusively for these
+purposes, and these funds must not revert to the county general fund at
+the end of the budget year if unexpended. The remainder of the revenue
+distributed to the county clerk must be retained by the clerk and handled
+in the same manner as all other fees collected by the clerk for the clerk's
+benefit;
+(B) Shall suspend or revoke the motor vehicle registration; and
+(C)
+(i) Shall provide notice to the motor vehicle owner or
+lessee of the legal consequences of operating a motor vehicle
+with a suspended or revoked registration and without the owner's
+or lessee's proof of financial security as required by this chapter,
+- 5 - 015092
+
+and instructions on how to effect the reinstatement of the motor
+vehicle registration; or
+(ii) May direct a designated agent to provide the notice
+and instructions described in this subdivision (h)(2)(C).
+SECTION 8. The Department of Revenue shall publicize the changes made in
+SECTIONS 1 through 7.
+SECTION 9. Tennessee Code Annotated, Section 55-12-207, is amended by deleting
+the section and substituting instead:
+(a) Except as provided in §§ 55-12-209(f) and 55-12-206(7), each automobile
+liability insurer shall utilize the IICMVA model.
+(b) Each automobile liability insurer shall also provide to the department of
+revenue, or its designated agent, a full book of business on a weekly basis.
+(c) Subsection (b):
+(1) Does not preclude an automobile liability insurer from more frequent
+reporting, including daily; and
+(2) Does not apply if the policy covers a motor vehicle that is registered
+as a vehicle of a political subdivision or of this state, or as a vehicle registered
+pursuant to § 55-4-122 or § 55-4-502.
+(d)
+(1) The full book of business provided pursuant to subsection (b) must
+include:
+(A) The vehicle identification number of each insured motor
+vehicle; and
+(B) The automobile liability insurer's NAIC code, policy number,
+and effective date of each policy.
+(2) Each automobile liability insurer that is required to submit its full book
+of business as described in subsection (b) shall transmit the information by either
+- 6 - 015092
+
+electronic means or by another means of transmission acceptable to the
+department of revenue or its designated agent.
+SECTION 10. Tennessee Code Annotated, Section 55-12-205(3), is amended by
+deleting the subdivision and substituting instead:
+(3) In an effort to confirm the liability insurance status of a motor vehicle in
+instances where the program is unable to verify the liability insurance status, require
+automobile liability insurers that utilize the IICMVA model to:
+(A) Accept unknown carrier requests; or
+(B) Provide upon request a full book of business as described in § 55-12-
+207, current to the date of the request. The information in this subdivision (3)(B)
+must be requested no more frequently than weekly.
+SECTION 11. Tennessee Code Annotated, Section 55-12-208, is amended by deleting
+the section.
+SECTION 12. Tennessee Code Annotated, Section 55-12-203(4), is amended by
+deleting "§ 55-12-207(c)(1)" and substituting instead "§ 55-12-207(d)(1)".
+SECTION 13. Tennessee Code Annotated, Section 29-39-102, is amended by adding
+the following as a new subsection:
+(o)
+(1) Notwithstanding subsections (a)-(e), noneconomic damages awarded
+to a plaintiff in a civil action for injury or death arising out of the use or operation
+of a motor vehicle shall not exceed three hundred seventy-five thousand dollars
+($375,000) only if all of the following are established:
+(A) The plaintiff seeking noneconomic damages is the owner or
+lessee of the motor vehicle involved in the collision giving rise to the civil
+action;
+(B) The motor vehicle owned or leased by the plaintiff and
+involved in the collision was not covered or otherwise in compliance with
+- 7 - 015092
+
+the financial responsibility requirements of title 55, chapter 12, part 1, at
+the time of the collision; and
+(C) The department of revenue or county clerk issued not fewer
+than three (3) separate written notices of noncompliance to the owner or
+lessee of the specific motor vehicle described in subdivision (o)(1)(B)
+under § 55-12-210 within the three-year period preceding the collision
+advising that the specific motor vehicle was not covered or otherwise in
+compliance with the financial responsibility requirements of title 55,
+chapter 12, part 1.
+(2) The limitations described in this subsection (o) apply only to the
+owner or lessee of a motor vehicle involved in a collision and do not apply to:
+(A) An operator of a motor vehicle who is not the owner or lessee
+of the motor vehicle and who is operating the motor vehicle with the
+permission of the owner or lessee;
+(B) A passenger, other than the owner or lessee, in the motor
+vehicle;
+(C) A plaintiff whose alleged noncompliance with the financial
+responsibility requirements arises from the ownership or operation of a
+motor vehicle other than the motor vehicle involved in the collision giving
+rise to the civil action; or
+(D) A plaintiff whose claim does not arise from the operation of
+the motor vehicle described in subdivision (o)(1)(B).
+(3) If a catastrophic loss or injury exists, then the three-hundred-seventy-
+five-thousand-dollar limit in noneconomic damages under subdivision (o)(1) is
+increased to seven hundred fifty thousand dollars ($750,000).
+- 8 - 015092
+
+(4) In an action for wrongful death, this subsection (o) applies only if the
+decedent was the owner or lessee of the motor vehicle involved in the collision,
+and the conditions set forth in subdivisions (o)(1)(B) and (C) are met.
+(5) A defendant asserting the limitation provided in this subsection (o)
+must plead it as an affirmative defense and bears the burden of proving each
+statutory prerequisite.
+(6) This subsection (o) must be strictly construed and applies to civil
+actions filed on or after the effective date of this act.
+SECTION 14. Tennessee Code Annotated, Section 29-39-102, is amended by deleting
+"The limitation on the amount of noneconomic damages imposed by subdivision (a)(2) and
+subsections (b)-(e) shall not" in subsections (g) and (h) and substituting instead "The limitations
+on the amount of noneconomic damages imposed by subdivision (a)(2) and subsections (b)-(e)
+and (o) shall not".
+SECTION 15. Tennessee Code Annotated, Section 29-39-103, is amended by adding
+the following as a new subsection:
+(d) In a civil action for injury or death arising out of the use or operation of a
+motor vehicle, if the plaintiff claims that the plaintiff was in compliance with the financial
+responsibility requirements of title 55, chapter 12, part 1, at the time of the use or
+operation of the motor vehicle, and if there is a disputed issue of fact regarding whether
+the plaintiff was in such compliance, then the trier of fact must make a specific finding of
+fact, by special verdict, as to whether the plaintiff was in compliance with the financial
+responsibility requirements of title 55, chapter 12, part 1.
+SECTION 16. Tennessee Code Annotated, Title 56, Chapter 1, Part 1, is amended by
+adding the following as a new section:
+56-1-111.
+Beginning January 1, 2027, and ending December 31, 2028, the department
+shall issue a data call every six (6) months to each insurer authorized to write
+- 9 - 015092
+
+automobile liability insurance business in this state requesting aggregated data on
+automobile liability policies that were issued and subsequently cancelled within sixty (60)
+days of issuance either at the policyholder's request or due to failure to remit premium.
+SECTION 17. In consultation with the Departments of Safety and Revenue, the
+Department of Transportation is authorized to use the Department's existing permanent
+electronic overhead informational displays located on the interstate system to provide periodic
+messages to the motoring public as to the requirement of financial responsibility under
+Tennessee Code Annotated, Title 55, Chapter 12, Part 1 for all motor vehicles operated on
+public highways in this state. The Department may develop guidelines for the content, length,
+and frequency of any message to be placed on the displays.
+SECTION 18. Sections 1 through 15 take effect July 1, 2027, the public welfare
+requiring it. All remaining sections of this act take effect upon becoming a law, the public
+welfare requiring it.
+- 10 - 015092

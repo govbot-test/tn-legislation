@@ -1,0 +1,32 @@
+Title: 
+Official Title: 
+Source: versions - Current Version
+Media Type: application/pdf
+
+================================================================================
+
+SENATE BILL 1497
+By Jackson
+HOUSE BILL 1556
+By Lafferty
+AN ACT to amend Tennessee Code Annotated, Title 4,
+Chapter 29 and Title 63, Chapter 17, relative to
+the Audiology and Speech-Language Pathology
+Interstate Compact.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 4-29-247(a), is amended by deleting
+subdivision (2).
+SECTION 2. Tennessee Code Annotated, Title 4, Chapter 29, Part 2, is amended by
+adding the following as a new section:
+4-29-255.
+(a) The following governmental entities terminate on June 30, 2034:
+( ) Audiology and Speech-Language Pathology Interstate Compact,
+created by § 63-17-302;
+(b) Each department, commission, board, agency, or council of state
+government created during calendar year 2032 terminates on June 30, 2034.
+(c) Any governmental entity that has been terminated under this section may be
+continued, reestablished, or restructured in accordance with this chapter.
+SECTION 3. This act takes effect upon becoming a law, the public welfare requiring it.
+HB1556
+010054
+- 1 -

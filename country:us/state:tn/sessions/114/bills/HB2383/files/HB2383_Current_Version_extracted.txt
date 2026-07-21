@@ -1,0 +1,201 @@
+Title: 
+Official Title: 
+Source: versions - Current Version
+Media Type: application/pdf
+
+================================================================================
+
+SENATE BILL 2022
+By Reeves
+HOUSE BILL 2383
+By Vaughan
+AN ACT to amend Tennessee Code Annotated, Title 4 and
+Title 54, relative to utility relocation projects.
+WHEREAS, the Department of Transportation’s current Policy No. 340-07, "Utility
+Relocations from Public Highway Rights-of-Way Under T.C.A. § 54-5-804," already identifies
+"Water, Wastewater, Gas Distribution/Transmission, Electric Distribution/Transmission,
+Communication, CATV, Phone, Fiberoptic, Broadband, Street Lighting, Other" among the
+eligible utility categories for relocation reimbursement.
+WHEREAS, the proposed legislation’s revised definition of "utility" simply aligns the
+statute with the existing policy’s language and clarifies that modern digital, broadband and fiber-
+optic infrastructure are included – thereby reflecting current practice rather than expanding the
+scope of reimbursable entities;
+WHEREAS, because the Department already implements this policy and
+reimbursements have been made for these categories of utilities under the existing framework,
+the proposed legislation should not impose additional costs on the Department or require new
+budgetary appropriations beyond current practice;
+WHEREAS, the proposed legislation does not require the Department to increase
+reimbursement amounts above current levels but simply codifies the existing two million five
+hundred thousand dollars ($2,500,000) cap as a statutory minimum for relocation projects
+whose costs exceed that amount while allowing the Commissioner the discretion to authorize a
+higher reimbursement, thereby providing predictability for utilities without mandating increased
+costs to the state, as any reimbursement above the floor remains discretionary rather than
+automatic;
+HB2383
+012019
+- 1 -
+
+WHEREAS, by clearly articulating the factors the Commissioner must consider in
+authorizing higher amounts – including project scale, utility service impacts, ratepayer
+protection, environmental and right-of-way constraints, and schedule and design obligations
+imposed by the Department – the legislation promotes financial prudence, administrative
+transparency, and equitable treatment of utilities and their customers;
+WHEREAS, this legislation advances the public interest by reducing the risk of cost-
+shifting to utilities and ultimately to ratepayers, ensuring that essential utility service providers
+remain whole when required to relocate infrastructure in state highway rights-of-way, and by
+reinforcing the state’s commitment to modern infrastructure investment and broadband
+deployment; now, therefore,
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 54-5-802, is amended by deleting
+subdivision (8) and substituting instead:
+(8) "Utility" means a privately, publicly, or cooperatively owned line, facility, or
+system used, available for use, or formerly used to transmit or distribute electricity,
+liquids, steam, sewerage, water, fuel gas, natural gas, telephone or telegraph services,
+broadband internet or fiber optic services, telecommunication services, or other
+materials to the public.
+SECTION 2. Tennessee Code Annotated Section 54-5-803, is amended by deleting
+subsection (b) and substituting instead:
+(b) The obligations of the utility, as defined in § 54-5-802, shall be to make or
+suffer relocation required by the commissioner, and to relocate cooperatively and in the
+reasonable manner and time as prescribed or approved by the commissioner as set
+forth in § 54-5-804 and § 54-5-854, and pay all costs incurred in effecting relocation that
+the state is not authorized to pay under this part or otherwise by law. It shall not be
+- 2 - 012019
+
+grounds for delay in relocation that a dispute exists over the cost of relocation or the
+method of paying or sharing the cost.
+SECTION 3. Tennessee Code Annotated Section 54-5-804, is amended by deleting
+subsection (a) and substituting instead:
+(a) The commissioner shall reimburse a utility for the cost of relocation, including
+a utility performing its own relocation through its employees or a contractor, subject to
+the reimbursement requirements set forth in rules pursuant to subsection (f), and to
+include the cost as a highway construction project cost, where the cost of relocation
+arises from the relocation of a utility facility located on a public highway right-of-way and
+the highway construction project is undertaken by the department, subject to the
+following conditions:
+(1) The utility shall fully comply with § 54-5-854(b), including the
+preparation and submission to the department of the utility’s relocation plan, cost
+estimate and schedule of calendar days for completing the relocation, within the
+time period specified or within an additional time that may be allowed under § 54-
+5-854(b); and
+(2) In accordance with § 54-5-854, the utility shall either:
+(A) Enter into a written agreement with the commissioner to
+include the relocation as a part of, or in conjunction with, the department’s
+highway construction contract; provided, however, that the agreement
+may provide that the utility shall perform certain relocation work, and with
+its own union employees if required under a negotiated organized labor
+contract; but, in that case, the utility shall be required to reimburse the
+department for all relocation costs if it fails to timely perform its relocation
+work as provided in the agreement with the commissioner; or
+- 3 - 012019
+
+(B) Enter into a written agreement with the commissioner to
+remove all utility facilities that conflict with the highway construction, as
+determined by the department, prior to the letting of the department’s
+construction contract, and otherwise perform and complete the utility
+relocation in accordance with approved relocation plans and schedule of
+calendar days; provided, however, that the agreement shall provide that,
+in the event that the department does not undertake the highway
+construction project within a specified time, the utility shall be reimbursed
+for the relocation work it has timely performed in accordance with the
+approved plans and schedule.
+SECTION 4. Tennessee Code Annotated Section 54-5-804, is amended by adding the
+following as a new subsection:
+(f) The Commissioner shall establish rules and regulations governing
+reimbursement of relocation costs to a utility as duly promulgated rules in accordance
+with the Uniform Administrative Procedures Act, compiled in title l4, chapter 5, and
+subject to the following:
+(1) The reimbursement amount for relocation projects costing less than
+two million five hundred thousand dollars ($2,500,000) shall be the actual cost of
+the relocation to a utility.
+(2) The reimbursement amount for projects exceeding two million five
+hundred thousand dollars ($2,500,000) must be no less than two million five
+hundred thousand dollars ($2,500,000) per project and must allow the
+commissioner to authorize a higher amount.
+- 4 - 012019
+
+(3) In consideration of reimbursement amounts and any discretionary
+increased reimbursement authorizations, the commissioner shall consider the
+following factors:
+(A) The scope, scale, and complexity of the overall project
+necessitating utility relocation;
+(B) The nature, extent, and complexity of the utility relocation
+work required, including engineering, design, permitting, and construction
+components;
+(C) The financial, operational, and service impacts on the affected
+utility or utilities, including impacts on service reliability, infrastructure
+integrity, the continuity of utility operations.;
+(D) The effect of required relocation on the utility’s ratepayers,
+including potential cost burdens and the utility’s duty to maintain just and
+reasonable rates;
+(E) Any extraordinary or unforeseen conditions contributing to
+increased relocation costs, including geographic, environmental, geologic,
+or right-of-way constraints;
+(F) The extent to which the department’s project schedule, design
+requirements, or right-of-way acquisition timelines impact the cost and
+feasibility of the utility relocation;
+(G) The availability, adequacy, and cost of alternative relocation
+routes or methods; and
+(H) Any other factor the commissioner determines relevant to
+ensuring that utility relocation costs are reasonable, equitable, and do not
+impose undue financial hardship on utilities or their ratepayers.
+- 5 - 012019
+
+(4) The eligible reimbursement shall be the amount authorized, including
+any discretionary increase, under the rules and regulations in effect at the time
+the utility relocation contract is executed by all parties.
+SECTION 5. Tennessee Code Annotated Section 54-5-806, is amended by deleting
+subsection (a) and substituting instead:
+(a) The policy, principles and reimbursement provisions of this part shall apply
+equally to all utilities, whether public, private or cooperatively owned, that furnish utility
+service including, but not limited to, electricity, liquids, steam, sewerage, water, fuel gas,
+natural gas, telephone or telegraph services, broadband internet or fiber optic services,
+and telecommunication services through a system of pipes, conduits, cables, or wires
+devoted to public utility service.
+SECTION 6. Tennessee Code Annotated Section 54-5-854, is amended by deleting
+subsection (c) and substituting instead:
+(c)
+(1) After the owner has submitted its plan and schedule of calendar days,
+the department must approve them if reasonable. Plans submitted by the owner
+are considered reasonable if the proposal would effectuate the relocation at the
+lowest cost to the utility and ratepayers.
+(2) If the plans submitted are not reasonable as described in subdivision
+(c)(1), the department may otherwise reasonably direct the owner to install,
+relocate, or adjust its utility facilities in accordance with an approved plan and
+schedule of calendar days.
+(3) The department shall communicate approval or direction to the owner
+via certified mail.
+- 6 - 012019
+
+(4) The department shall establish the date on which the owner may
+begin the installation, relocation or adjustment of its utility facilities, and the
+owner shall be given reasonable advance notice of the date by certified mail via a
+notice to proceed. The owner shall be free to order the required materials
+associated with the proposed utility relocation or adjustment at this time. No
+owner shall be notified to begin installation, relocation or adjustment until all
+health, governmental, and environmental regulatory agencies have approved the
+submitted plan where applicable.
+(5) In the event the department and the owner fail to agree on a
+reasonable plan and schedule of calendar days to install, relocate or adjust the
+utility, the owner may proceed with the approved schedule under a reservation of
+rights notice to the department. The notice shall be filed within ten (10) days of
+the issuance of a notice to proceed by the department. The notice shall contain
+the owner’s objections to the relocation schedule and shall state the reasons for
+the objections. The reservation of rights shall become a part of the
+administrative record for any subsequent contested case. If any subsequent
+contested case results in a revised plan and schedule of calendar days, then any
+penalty under subsections (g) and (h), shall be determined on the basis of the
+revised schedule.
+SECTION 7. Tennessee Code Annotated Section 54-5-854(d), is amended by deleting
+subsection (d) and substituting instead the following:
+(d) After the owner has completed the installation, relocation or adjustment, or
+any part of the installation, relocation or adjustment, and the department requires any
+additional relocation or adjustment, the department shall reimburse the owner for the
+- 7 - 012019
+
+additional cost incurred in accordance with the rules and regulations promulgated
+pursuant to § 54-5-804(f).
+SECTION 8. For the purposes of promulgating rules, this act takes effect upon
+becoming a law, the public welfare requiring it. For all other purposes, this act takes effect July
+1, 2026, the public welfare requiring it.
+- 8 - 012019

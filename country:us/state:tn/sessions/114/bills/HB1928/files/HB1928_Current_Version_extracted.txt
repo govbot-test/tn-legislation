@@ -1,0 +1,30 @@
+Title: 
+Official Title: 
+Source: versions - Current Version
+Media Type: application/pdf
+
+================================================================================
+
+SENATE BILL 1892
+By Bowling
+HOUSE BILL 1928
+By Bricken
+AN ACT to amend Tennessee Code Annotated, Title 5;
+Title 6; Title 7; Title 13 and Title 68, Chapter 221,
+relative to permits.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 68-221-407, is amended by deleting
+the section and substituting:
+(a) The commissioner shall not approve a proposed subdivision until the plans
+for such subdivision have been approved by a local planning commission or other
+agency authorized to approve subdivisions.
+(b) The department shall update its website to allow persons whose proposed
+subdivision plans have been approved by a local planning commission or other agency
+authorized to approve subdivisions to upload official documentation from such local
+entities to evidence their approval of such plans.
+SECTION 2. This act takes effect July 1, 2026, the public welfare requiring it, and
+applies to all permit applications approved by local planning commissions or other agencies
+authorized to approve subdivision plans after such date.
+HB1928
+011074
+- 1 -

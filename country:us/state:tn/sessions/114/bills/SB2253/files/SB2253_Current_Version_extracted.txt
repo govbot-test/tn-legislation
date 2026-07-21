@@ -1,0 +1,56 @@
+Title: 
+Official Title: 
+Source: versions - Current Version
+Media Type: application/pdf
+
+================================================================================
+
+HOUSE BILL 2302
+By Freeman
+SENATE BILL 2253
+By Pody
+AN ACT to amend Tennessee Code Annotated, Title 55,
+Chapter 30 and Title 55, Chapter 8, relative to
+autonomous vehicles.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 55-8-202(b), is amended by adding
+the following as a new, appropriately designated subdivision:
+( ) "Autonomous vehicle" means a motor vehicle that uses autonomous
+technology to drive the vehicle without supervision by a human operator;
+SECTION 2. Tennessee Code Annotated, Section 55-8-202, is amended by adding the
+following as a new subsection (b) and redesignating the existing subsection (b) accordingly:
+(1) If a POST-certified or state-commissioned law enforcement officer makes a
+determination that a traffic offense under this chapter or chapter 9 or 10 of this title has
+been committed by an autonomous vehicle, then a notice of violation or a citation must
+be sent by first class mail to the registered owner of the vehicle. A notice of violation or
+citation mailed to the last known address of the registered owner constitutes valid
+service. A notice of violation or citation must be sent within twenty (20) business days
+after the occurrence of the violation, absent exigent circumstances arising from
+registration irregularities. All notices of violations or citations must have a Tennessee
+return address and all responses and payments must be made to an address in this
+state. A notice of violation or citation must allow for payment of the traffic violation or
+citation within thirty (30) days of the mailing of the notice. No additional penalty or other
+costs shall be assessed for nonpayment of a traffic violation or citation issued to a
+registered owner of an autonomous vehicle unless a second notice is sent by first class
+SB2253
+011931
+- 1 -
+
+mail to the owner and the second notice provides for an additional thirty (30) days for
+payment of the violation or citation.
+(2) The notice of violation or citation must state the amount of the fine that is
+being assessed for the alleged violation. The notice of violation or citation must state
+separately any additional fees or court costs that may be assessed if the fine is not paid
+timely or if the violation or citation is contested and the autonomous vehicle is found to
+have committed the traffic offense.
+(3) The registered owner may elect not to contest the charge and may, in lieu of
+appearance in court, submit the fine to the address provided on notice of violation or
+citation.
+(4) If the traffic citation is not paid within the time specified by subdivision (b)(1),
+then additional fees or court costs may be assessed.
+(5) If the traffic citation is not paid as provided in this section and the owner
+appears in court at the time specified, or such later date as may be fixed by the court,
+and the autonomous vehicle is found to have committed the traffic offense, then
+additional fees or court costs may be assessed.
+SECTION 3. This act takes effect upon becoming a law, the public welfare requiring it.
+- 2 - 011931
