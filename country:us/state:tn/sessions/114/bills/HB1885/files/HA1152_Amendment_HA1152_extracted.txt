@@ -1,0 +1,226 @@
+Title: 
+Official Title: 
+Source: versions - Amendment HA1152
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House Finance, Ways, and Means 1
+Amendment No. 2 to HB1885
+Hicks G
+Signature of Sponsor
+AMEND S e n ate Bill No. 2136 House Bill No. 1885*
+by deleting all language after the caption and substituting:
+WHEREAS, other forms of illegal gambling are becoming widespread, including
+gambling machines, slot machines, and other forms of internet-based and electronic gambling
+that are advertised as legal and legitimate; and
+WHEREAS, there exists a need to continue to protect Tennesseans from the potential
+risks of illegal gambling and to enact laws and regulations related to consumer protection and
+safety as it relates to illegal gaming; and
+WHEREAS, the Attorney General and Reporter should be empowered with the tools to
+properly investigate violations of law, including illegal gambling; now, therefore,
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Title 47, Chapter 18, is amended by adding
+the following new part:
+47-18-5901. Part definitions.
+As used in this part:
+(1) "Gambling" has the same meaning as defined in § 39-17-501;
+(2) "Gambling device" means a gambling device or record as defined in §
+39-17-501;
+(3) "Individual" means a natural person; and
+(4) "Person" means an individual, business entity, trust, or other
+organization or entity.
+47-18-5902. Prohibition.
+HA1152
+017234
+- 1 -
+
+(a) Gambling; the operation or possession of gambling devices; and the
+operation, conducting, or commercial promotion of online or app-based gambling are
+unlawful and are offenses against the public health, safety, and welfare of this state.
+(b) In addition to other penalties imposed by law, a person who commits one (1)
+or more of the following acts is subject to the remedies set forth in this part:
+(1) Offers wagers or entry fees for gambling to a person located within
+this state or accepts wagers or entry fees for gambling from a person located
+within this state;
+(2) Operates, conducts, or commercially promotes online or app-based
+gambling within this state;
+(3) Sells or distributes gambling devices within this state;
+(4) Permits gambling devices to be operated upon premises owned,
+leased, managed, or otherwise controlled by a person within this state; or
+(5) Supports, facilitates, or assists in the operation of gambling within this
+state.
+(c) This section does not make unlawful or otherwise restrict lawful games
+permitted under or by the Tennessee Sports Gaming Act or Fantasy Sports Act,
+compiled in title 4, chapter 49, Tennessee nonprofit gaming laws under title 3, chapter
+17, or the Tennessee education lottery corporation under title 4, chapter 51.
+47-18-5903. Penalties.
+(a) A violation of this part constitutes a violation of the Tennessee Consumer
+Protection Act of 1977, compiled in part 1 of this chapter, is deemed an unfair or
+deceptive act or practice affecting trade or commerce, and is subject to the penalties and
+remedies as provided in the Tennessee Consumer Protection Act of 1977.
+(b) Costs must not be taxed against the attorney general and reporter or this
+state for actions brought under this section.
+47-18-5904. Confidentiality of records.
+- 2 - 017234
+
+Information and documents received, created, or maintained by the attorney
+general and reporter as part of the administration and enforcement of this part are
+confidential and are not subject to disclosure pursuant to the Tennessee Public Records
+Act, compiled in title 10, chapter 7. Such confidentiality is not waived if the information
+and data is shared or has been shared with a state or federal agency or a law
+enforcement agency.
+SECTION 2. Tennessee Code Annotated, Section 47-18-104(b), is amended by adding
+the following new subdivision:
+( ) Violating § 47-18-5902.
+SECTION 3. Tennessee Code Annotated, Section 40-2-102(a), is amended by deleting
+the language ", except gaming, which shall be commenced within six (6) months".
+SECTION 4. Tennessee Code Annotated, Title 8, Chapter 6, Part 4, is amended by
+adding the following new section:
+8-6-409. Requests for information and documents.
+(a) If the attorney general and reporter has reason to believe that a person is
+engaging in, has engaged in, or is about to engage in an unlawful act or practice under
+state law that is a proper subject of inquiry by the attorney general and reporter, or has
+reason to believe it to be in the public interest to conduct an investigation to ascertain
+whether a person is engaging in, has engaged in, or is about to engage in such act or
+practice, the attorney general and reporter may:
+(1) Require a person with information relevant to the subject matter of the
+investigation to file a statement or report in writing, under oath or otherwise, as to
+all the facts and circumstances concerning the alleged violation and to furnish
+and make available for examination all documentary material and information
+relevant to the subject matter of the investigation;
+(2) Examine under oath a person with information relevant to the subject
+matter of the investigation; and
+- 3 - 017234
+
+(3) Examine or sample all merchandise deemed relevant to the subject
+matter of the investigation.
+(b) Prior to the return date specified in the attorney general and reporter's
+request for information pursuant to subsection (a), or within ten (10) days following
+notice of such a request, whichever is shorter, a person from whom information has
+been requested may petition the circuit or chancery court of the county containing the
+office from which the attorney general and reporter made the request pursuant to
+subsection (a), stating good cause, for a protective order to extend the return date for a
+reasonable time, or to modify or set aside the request. The attorney general and
+reporter must receive at least one (1) days' notice of such a petition and must be given
+an opportunity to respond.
+(c) If no protective order from the court is secured and the written request by the
+attorney general and reporter is not complied with by its return date, the attorney general
+and reporter, upon notice to the person requested to provide information, may apply to
+the circuit or chancery court of the county containing the office from which the attorney
+general and reporter made the request pursuant to subsection (a), for an order
+compelling compliance with the request made pursuant to subsection (a).
+(d) Upon a showing by the attorney general and reporter to the circuit or
+chancery court of the county containing the office from which the attorney general and
+reporter made or could have made the request pursuant to subsection (a) that the
+attorney general and reporter has reason to believe that a person is engaging in, has
+engaged in, or is about to engage in an unlawful act or practice under state law that is a
+proper subject of inquiry by the attorney general and reporter, or has reason to believe it
+to be in the public interest to conduct an investigation to ascertain whether a person is
+engaging in, has engaged in, or is about to engage in such act or practice; that the
+persons who are committing, have committed, or are about to commit such acts or
+practices or who possess the relevant documentary material have left this state or are
+- 4 - 017234
+
+about to leave this state; and that such an order is necessary for the enforcement of any
+state law that is a proper subject of inquiry by the attorney general and reporter, the
+court may order such persons to comply with subsection (a) regardless of whether the
+attorney general and reporter has made a prior request for information. The court may
+also, notwithstanding another law, immediately and without notice, forbid the removal
+from any place, concealment, withholding, destruction, mutilation, falsification, or
+alteration by any other means of documentary material in the possession, custody, or
+control of a person believed by the attorney general and reporter to be connected with
+acts or practices which violate state law that is a proper subject of inquiry by the attorney
+general and reporter.
+(e) A person who has received notice of a request for information pursuant to
+subsection (a), or of an order pursuant to subsection (c) or (d), and with the intent to
+avoid, evade, or prevent compliance, in whole or in part, with a civil investigation or
+order, removes from any place, conceals, withholds, destroys, mutilates, falsifies, or by
+any other means alters documentary material in the possession, custody, or control of a
+person subject to such notice, is subject to a civil penalty of not more than one thousand
+dollars ($1,000) per document, recoverable by this state in addition to any other
+appropriate sanction.
+(f) Documentary material or merchandise requested pursuant to this section
+must be produced for inspection and copying during normal business hours at the
+principal office or place of business of the person possessing such documentary material
+or merchandise, or at such other time and place as may be agreed upon by the
+possessor and the attorney general and reporter.
+(g)
+(1) All testimony, books, documents, or other writings, records, or
+tangible objects obtained by the attorney general and reporter pursuant to this
+section are confidential and must not be publicly divulged by the office of the
+- 5 - 017234
+
+attorney general and reporter except in the discharge of the duties of the office or
+in legal proceedings in which the state is a party.
+(2) All other documentary material, answers to written interrogatories,
+and transcripts of oral testimony that are voluntarily provided to the attorney
+general and reporter as part of an investigation under this part must be treated as
+if obtained pursuant to a request issued under this part if said materials were
+obtained pursuant to an investigative demand or similar process issued by
+another state or federal attorney general or law enforcement agency, obtained
+from a state or federal attorney general or law enforcement agency pursuant to a
+statutory obligation to produce, or provided by a person with information relevant
+to the subject matter of the investigation. In conducting an inquiry pursuant to
+this section, the attorney general and reporter, whenever such aid is determined
+to be necessary and desirable, may request the aid of an agency of this state;
+and such agency, as requested, shall give full aid, support, and cooperation to
+the attorney general and reporter in such investigation.
+(h) Service of a notice, order, or request for information by the attorney general
+and reporter may be made in compliance with the Tennessee Rules of Civil Procedure
+or by:
+(1) Delivering a duly executed copy of the notice, order, or request for
+information to the person to be served or to a partner or to an officer or agent
+authorized by appointment or by law to receive service of process on behalf of
+the person to be served;
+(2) Mailing by registered or certified mail a duly executed copy of the
+notice, order, or request for information addressed to the person, to be served at
+the person's principal place of business in this state, or if the person has no place
+of business within this state, to the person's principal office, place of business,
+home, or last known address; or
+- 6 - 017234
+
+(3) Personal service, pursuant to §§ 20-2-214 - 20-2-220.
+(i) This section does not apply to requests by the attorney general and reporter
+under the Tennessee Consumer Protection Act, compiled in title 47, chapter 18, or the
+Tennessee Human Rights Act, compiled in title 4, chapter 21.
+(j) No provision of this section shall be construed to limit, modify, or supersede
+the Tennessee Consumer Protection Act or the Tennessee Human Rights Act.
+SECTION 5. Tennessee Code Annotated, Section 4-49-204(a)(6), is amended by
+deleting the language "§§ 4-49-203, 4-49-204," and substituting "this section and §§ 4-49-203,
+4-49-205," and by adding the language "and other persons" after the word "licensees".
+SECTION 6. Tennessee Code Annotated, Section 4-49-206(b), is amended by deleting
+the subsection and substituting:
+(b) In addition to the authority of the sports wagering council to investigate
+violations of and enforce compliance with this part, the attorney general and reporter
+may investigate violations of § 4-49-205 in accordance with the Tennessee Consumer
+Protection Act of 1977, compiled in title 47, chapter 18. The attorney general and
+reporter may institute proceedings involving alleged violations of § 4-49-205 in
+Williamson County circuit or chancery court or another venue otherwise permitted by
+law.
+SECTION 7. Tennessee Code Annotated, Section 4-49-208, is amended by deleting
+subsection (a) and substituting:
+(a) The Uniform Administrative Procedures Act, compiled in chapter 5 of this
+title, governs all matters and procedures regarding the hearing and judicial review of any
+contested case arising under §§ 4-49-203 - 4-49-205 and 4-49-208 to which the sports
+wagering council is a party.
+SECTION 8. Tennessee Code Annotated, Section 4-49-208, is amended by deleting all
+language before the colon in subsection (b) and substituting:
+- 7 - 017234
+
+(b) The sports wagering council may investigate and conduct a hearing with
+respect to a licensee or any other person upon information that a licensee or other
+person has violated this part, or upon receipt of a credible complaint from a person that a
+licensee or other person has violated this part. If the sports wagering council determines
+that the licensee or other person has violated this part, the sports wagering council may
+do any of the following or both:
+SECTION 9. Tennessee Code Annotated, Title 4, Chapter 49, Part 2, is amended by
+deleting the language "sports wagering advisory council" wherever it may appear and
+substituting "sports wagering council".
+SECTION 10. If any provision of this act or its application to any person or circumstance
+is held invalid, then the invalidity does not affect other provisions or applications of the act that
+can be given effect without the invalid provision or application, and to that end, the provisions of
+this act are severable.
+SECTION 11. This act takes effect upon becoming a law, the public welfare requiring it.
+- 8 - 017234

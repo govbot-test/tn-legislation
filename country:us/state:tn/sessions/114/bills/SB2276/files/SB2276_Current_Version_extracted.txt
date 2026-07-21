@@ -1,0 +1,36 @@
+Title: 
+Official Title: 
+Source: versions - Current Version
+Media Type: application/pdf
+
+================================================================================
+
+HOUSE BILL 2160
+By Butler
+SENATE BILL 2276
+By Yager
+AN ACT to amend Tennessee Code Annotated, Title 5,
+relative to county legislative bodies.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 5-1-111(e), is amended by
+designating the existing language as subdivision (e)(1) and adding the following as a new
+subdivision (e)(2):
+(2) After the redistricting following the 2030 federal census, a county shall not
+have a district that encompasses the entire county, and a commissioner shall not be
+elected for an at-large district.
+SECTION 2. Tennessee Code Annotated, Section 5-1-210(4), is amended by deleting
+the subdivision and substituting instead:
+(4)
+(A) For the size, method of election, qualification for holding office,
+method of removal, and procedures of the county legislative body with such other
+provisions with respect to such body as are normally related to the organization,
+powers, and duties of governing bodies in counties;
+(B) Notwithstanding subdivision (4)(A), a member of the county
+legislative body shall not represent a district that encompasses the entire county.
+This subdivision (4)(B) is remedial in nature, and any county having an at-large
+district on the effective date of this act shall amend the charter to comply with this
+subdivision (4)(B) no later than the 2030 federal census.
+SECTION 3. This act takes effect upon becoming a law, the public welfare requiring it.
+SB2276
+011693
+- 1 -

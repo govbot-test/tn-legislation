@@ -1,0 +1,18 @@
+Title: 
+Official Title: 
+Source: versions - Amendment SA0505
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate Commerce and Labor 1
+Amendment No. 1 to SB2136
+Bailey
+Signature of Sponsor
+AMEND S e n ate Bill No. 2136 House Bill No. 1885*
+by deleting the language "a virtual-currency system" in Section 1(5)(B) and substituting "a
+virtual-currency, dual-currency, or multi-currency system".
+SA0505
+012959
+- 1 -

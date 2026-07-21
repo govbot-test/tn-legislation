@@ -1,0 +1,512 @@
+Title: 
+Official Title: 
+Source: versions - Current Version
+Media Type: application/pdf
+
+================================================================================
+
+<BillNo> <Sponsor>
+SENATE BILL 2302
+By Hensley
+AN ACT to amend Tennessee Code Annotated, Title 16;
+Title 36; Title 37; Title 38; Title 39; Title 40; Title
+49; Title 55 and Title 65, relative to firearms.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 36-3-626(a), is amended by deleting
+"as defined in § 39-17-1319" and substituting "as defined in § 39-11-106".
+SECTION 2. Tennessee Code Annotated, Section 37-1-131, is amended by deleting
+subdivision (a)(2)(B)(i)(v).
+SECTION 3. Tennessee Code Annotated, Section 37-1-131(a)(2)(B)(i)(w), is amended
+by deleting "Handgun possession" and substituting "Unlawful carrying of a firearm by a
+juvenile".
+SECTION 4. Tennessee Code Annotated, Section 39-11-106, is amended by deleting
+subdivision (a)(13) and substituting:
+(13) "Firearm" means any weapon that will or is designed to expel a projectile by
+the action of an explosive;
+SECTION 5. Tennessee Code Annotated, Section 39-11-602, is amended by deleting
+subdivision (2) and substituting:
+(2) "Deadly force" means the use of force that is intended by the defendant to
+cause, and is capable of causing, death or a substantial risk of death; and
+SECTION 6. Tennessee Code Annotated, Section 39-11-602, is amended by adding
+the following as a new subdivision:
+( ) "Violent crime" includes:
+(A) A criminal offense that involves intentionally or knowingly causing
+bodily injury or reasonable fear of bodily injury to another; and
+SB2302
+011691
+- 1 -
+
+(B) An offense of arson, intentional or knowing assault, burglary,
+carjacking, vandalism, intentional or knowing homicide, kidnapping, robbery,
+sexual battery, rape, and human trafficking;
+SECTION 7. Tennessee Code Annotated, Section 39-11-614(c), is amended by adding
+the following sentence at the end of the subsection:
+A threat to use deadly force is not considered use of deadly force for purposes of this
+section, § 39-11-615, or § 39-11-616.
+SECTION 8. Tennessee Code Annotated, Section 39-11-614, is amended by adding
+the following new subsection:
+(d)
+(1) A person who, in defense of real property the person lawfully owns,
+rents, or leases, threatens the use of deadly force, including by displaying a
+deadly weapon, against another who unlawfully entered the person's real
+property and refuses to leave upon being requested to do so, is presumed to
+have been justified in doing so and must not be charged for the display of a
+deadly weapon and must not have the person's weapon, including a firearm,
+confiscated.
+(2) Subdivision (d)(1) does not apply if:
+(A) The person knew or had reason to believe that the individual
+entering the property had a right to do so;
+(B) The individual entering the property immediately identifies
+themselves and states the lawful reason the individual is there, and,
+unless the individual has a right to be there, leaves upon being requested
+to do so;
+- 2 - 011691
+
+(C) The individual entering the real property did so accidentally or
+without the intent to trespass and immediately leaves upon being asked
+to do so;
+(D) The entering is brief and obviously innocent; or
+(E) The entering or remaining on the real property is otherwise
+justified.
+SECTION 9. Tennessee Code Annotated, Title 39, Chapter 11, Part 6, is amended by
+adding the following new section:
+39-11-617.
+(a) A person who uses force as permitted by §§ 39-11-611 – 39-11-616, § 39-
+11-620, § 39-11-621, or § 39-17-1322, or under any other applicable common law or
+statutory provisions addressing the justifiable use of force, is immune from criminal
+prosecution for the use of such force, unless:
+(1) The individual against whom force was used is a law enforcement
+officer acting in the scope of the officer's official duties and the person using force
+knew or reasonably should have known that the individual was a law
+enforcement officer; or
+(2) The force used by the person resulted in the death or injury of an
+innocent bystander or other individual against whom the force was not justified, in
+which case the immunity does not apply to a criminal prosecution related to the
+death or injury of the innocent bystander or other individual against whom force
+was not justified.
+(b) As used in this section, "defendant" means a person who uses or threatens
+to use force against another and asserts that the force used or threatened was justified,
+- 3 - 011691
+
+and includes any other person charged with, acting in concert with, or having criminal
+responsibility for a person who uses or threatens to use force.
+(c) A defendant may raise a justified use of force claim by submitting a written
+statement in a letter from the defendant or a person acting on behalf of the defendant.
+The letter must be addressed to one (1) or more of the investigating law enforcement
+officers, the office of the district attorney general for the jurisdiction, or the clerk for a
+court in which charges have been filed. The defendant is not required to include any
+declaration or statement other than a statement that the defendant asserts that the use
+of force was justified.
+(d) When a defendant raises a justification for the use of force or evidence of
+justification or self-defense is brought to the attention of or observed by law
+enforcement:
+(1) The appropriate law enforcement agency shall conduct a full
+investigation of the potential defense of justification;
+(2) All evidence of the investigation must be preserved;
+(3) At the conclusion of the investigation, the investigating officer shall
+generate a discoverable report of evidence relevant to the justification claim; and
+(4) The law enforcement agency shall not confiscate a person's weapon
+or charge or arrest the person for an offense based on the use of force unless
+the law enforcement agency has determined that there is probable cause to
+believe that the force used was unlawful and there is not probable cause to
+believe that the use of force was justified. If a law enforcement officer seeks to
+charge or arrest the person for an offense based on the use of force, then the
+officer must include as an affirmative element of the charging affidavit that the
+officer has complied with the requirements of this subsection (d) and that, based
+- 4 - 011691
+
+on the officer's investigation, there is not probable cause to believe that the
+defendant's use of force was justified.
+(e) A prosecutor shall not commence a criminal prosecution for a criminal
+offense based on an alleged unlawful use of force, including a charge of being an
+accessory, before determining whether there is probable cause to believe that the use of
+force was unlawful and whether there is probable cause to believe that, based on a
+consideration of all the facts and available testimony, the state can prevail in negating
+any defense of justification at trial.
+(f)
+(1) If a law enforcement agency obtains an arrest warrant prior to
+consulting with the district attorney general, then the district attorney general
+shall make the evaluations required by subsection (e) before proceeding with the
+prosecution.
+(2) If a law enforcement agency consults with the district attorney general
+before seeking an arrest warrant, then the district attorney general shall make the
+evaluations required by subsection (e) before the affidavit of complaint is
+submitted and the affidavit of complaint must comply with subdivision (d)(4).
+(3) In any instance in which a grand jury indictment is sought on a matter
+involving the alleged unlawful use of force, including a charge of being an
+accessory, the entity or individual presenting the matter to the grand jury shall:
+(A) Make the evaluations required by subsection (e) before
+presenting the matter to the grand jury;
+(B) Advise the grand jury that a claim of justification has been or
+may be raised; and
+- 5 - 011691
+
+(C) Present to the grand jury for its consideration any evidence or
+testimony that is at that time available to the entity or individual on the
+issue of justification.
+(g)
+(1) Prior to the commencement of a trial, the defendant may make a
+motion for a justified use of force hearing. Upon the defendant's motion, the trial
+court shall conduct a hearing to determine whether the force used by the
+defendant was justified under applicable law. The defendant must file a motion
+under this subdivision (g)(1) no less than ninety (90) days prior to trial.
+(2) If the defendant moves for a justified use of force hearing or upon the
+court's own motion, then the court shall expedite the hearing and issue a decision
+within forty (40) days of the motion. Either party may request additional time
+beyond the forty-day period to prepare, in which case the court shall order that
+the hearing be reset on the first docket following the time period granted for the
+continuance. The defendant is entitled to at least one (1) hearing after being
+charged and at least one (1) hearing following the conclusion of discovery.
+(3) The sole issue at the justified use of force hearing is whether the
+defendant used force or threatened the use of force in a manner that is justified
+by applicable law and is immune from criminal prosecution under this section.
+(4) The defendant may testify at the hearing. If the defendant chooses
+not to testify, then the defendant's silence cannot be used against the defendant
+in resolving the hearing. If the defendant chooses to testify, then the defendant's
+testimony cannot be used for any reason other than the consideration of the
+hearing or for impeachment at trial if the defendant testifies at trial.
+- 6 - 011691
+
+(5) If the defendant establishes a prima facie case that the use of force or
+threatened use of force was justified under applicable law, then the burden of
+proof shifts to the prosecution to demonstrate by clear and convincing evidence
+that the use of force or threatened use of force was not justified.
+(6) If, after a justified use of force hearing, the court concludes that the
+defendant has raised a prima facie case that the defendant's use of force was
+justified and the prosecution has failed to prove by clear and convincing evidence
+that the force was not justified, then the court shall enter an order finding the
+defendant immune from criminal prosecution and dismissing the criminal
+charges.
+(7) If the court does not rule in favor of the defendant following a justified
+use of force hearing, then the defendant is not precluded from asserting at any
+other point in the case that the use of force was justified. Once the issue of
+justification has been raised by the defendant, the state bears the burden of proof
+at trial to prove beyond a reasonable doubt all of the elements of the charged
+conduct and to negate the claim that the use of force was justified.
+(8) The prosecution shall not present evidence at trial that was not
+presented in a use of force hearing if such hearing was held.
+(h) If the court dismisses the criminal prosecution pursuant to subdivision (g)(6),
+then the court shall award the defendant attorney's fees, court costs, compensation for
+loss of income, and all expenses incurred by the defendant in the defense of the criminal
+prosecution.
+SECTION 10. Tennessee Code Annotated, Section 39-11-620, is amended by adding
+the following new subsection:
+- 7 - 011691
+
+(c) A law enforcement officer who uses or threatens to use force pursuant to this
+section may raise a defense of justification, pursuant to § 39-11-617.
+SECTION 11. Tennessee Code Annotated, Section 39-11-621, is amended by deleting
+"or threaten to use" and by adding the following at the end of the section:
+A threat to use deadly force, by itself, is not considered use of deadly force for purposes
+of this section. A private citizen shall not threaten to use deadly force unless the arrest
+is for a crime committed or threatened against the person making the arrest or a violent
+crime committed or threatened in the presence of the person making the arrest.
+SECTION 12. Tennessee Code Annotated, Section 39-17-1301, is amended by deleting
+subdivision (2).
+SECTION 13. Tennessee Code Annotated, Section 39-17-1301, is amended by adding
+the following as a new subdivision:
+( ) "Intent to go armed" means carrying or wearing a weapon with premeditation
+and forethought to commit an infamous crime and does not include inadvertent or
+unintentional intrusion into an area where such weapon is not permitted;
+SECTION 14. Tennessee Code Annotated, Section 39-17-1305(d)(1)(F), is amended by
+deleting "§ 39-17-1309(e)(11)(B), § 39-17-1315, § 38-8-116, § 38-8-123, or § 49-6-816(f)(1) and
+(i)" and substituting "§ 39-17-1315, § 38-8-116, or § 38-8-123".
+SECTION 15. Tennessee Code Annotated, Section 39-17-1306, is amended by deleting
+the section and substituting:
+(a)
+(1) A court may prohibit the carrying of firearms in a court building or
+courtroom by posting signage as required by subsection (b). As used in this
+section, "court building" means a courthouse or building designated for the
+regular holding of judicial proceedings, which is identifiable to the public by
+- 8 - 011691
+
+plainly visible signage at each public entrance designating the building as a
+courthouse or court building.
+(2) If a court building or courtroom has been posted in accordance with
+subsection (b), then it is an offense to carry a firearm in the court building or
+courtroom.
+(b)
+(1) If a court elects to prohibit the carrying of firearms in the court building
+or courtroom, then the court building or courtroom must be posted at all
+commonly used entrances with signs that include the phrase "NO FIREARMS
+ALLOWED", and the phrase must measure at least one inch (1") high and eight
+inches (8") wide. The sign must also include the phrase "As authorized by T.C.A.
+§ 39-17-1306" and a pictorial representation of the phrase "NO FIREARMS
+ALLOWED" that must include a circle with a diagonal line through the circle and
+an image of a firearm inside the circle under the diagonal line. The circle must
+be at least four inches (4") in diameter. The diagonal line must be at a forty-five
+degree (45°) angle from the upper left to the lower right side of the circle.
+(2) Signage installed prior to July 1, 2026, is not required to be updated
+pursuant to subdivision (b)(1) if the signage clearly indicates the prohibition of
+firearms in the building, is in English, is of sufficient size, contains a pictorial
+representation of a firearm in a circle with a diagonal line at a forty-five degree
+(45°) angle, and is plainly visible.
+(3) Signage not compliant with subdivision (b)(1) or (2) does not prohibit
+a court from prohibiting the possession of weapons by persons not listed in
+subsection (d), or from enforcement of such prohibition, except that a person
+- 9 - 011691
+
+violating this section does not commit a criminal offense pursuant to subsection
+(a) unless the person is made aware of the prohibition and refuses to comply.
+(c) A violation of subdivision (a)(2) is a Class A misdemeanor.
+(d) Subdivision (a)(2) does not apply to a person who:
+(1) Has been directed by a court to bring the firearm for purposes of
+providing evidence;
+(2) Is in the actual discharge of official duties as a law enforcement
+officer, or is employed in the army, air force, space force, navy, coast guard, or
+marine service of the United States or any member of the Tennessee national
+guard in the line of duty and pursuant to military regulations, or is in the actual
+discharge of official duties as a guard employed by a penal institution, or as a
+bailiff, marshal, or other court officer who has responsibility for protecting persons
+or property or providing security; or
+(3) Is not a defendant in a criminal case, or is not a party in a family law
+matter or child custody matter, and:
+(A) Is a law enforcement officer, as defined in § 39-17-1350;
+(B) Is vested with judicial powers under § 16-1-101;
+(C)
+(i) Is a district attorney general, an attorney licensed to
+practice law in the United States and in good standing, or other
+officer of the court; and
+(ii) Is authorized to carry a firearm pursuant to § 39-17-
+1351 or § 39-17-1366; or
+(D)
+- 10 - 011691
+
+(i) Is authorized to carry a handgun pursuant to § 39-17-
+1351 or § 39-17-1366;
+(ii) Keeps the handgun concealed at all times; and
+(iii) Is not in a room in which judicial proceedings are in
+progress.
+SECTION 16. Tennessee Code Annotated, Section 39-17-1307, is amended by deleting
+subsections (a), (e), and (g).
+SECTION 17. Tennessee Code Annotated, Section 39-17-1308(a), is amended by
+deleting subdivisions (8) and (9).
+SECTION 18. Tennessee Code Annotated, Section 39-17-1309, is amended by deleting
+the section and substituting:
+(a) As used in this section:
+(1) "Pocket knife" means a knife with one (1) or more blades that fold or
+collapse into the knife's attached handle and that can be carried inside a person's
+pocket when collapsed or folded; and
+(2) "Weapon of like kind" includes razors and razor blades, except those
+used solely for personal shaving, and any sharp-pointed or -edged instrument,
+except unaltered nail files and clips and tools used solely for preparation of food,
+instruction, and maintenance.
+(b)
+(1) If a public or private school bus or public or private school building is
+properly posted according to subsection (d), then it is an offense for a person to
+possess or carry, whether openly or concealed, with the intent to go armed, a
+firearm, explosive, explosive weapon, bowie knife, ice pick, dagger, slingshot,
+leaded cane, blackjack, knuckles, or any other weapon of like kind, not used
+- 11 - 011691
+
+solely for instructional or school-sanctioned purposes, while on a public or private
+school bus or inside of a public or private school building that offers any of the
+grades kindergarten through twelve (K-12).
+(2) A violation of subdivision (b)(1) is a Class A misdemeanor.
+(c)
+(1)
+(A) If a public or private school bus or public or private school
+building is properly posted according to subsection (d), then it is an
+offense for a person to possess or carry, whether openly or concealed,
+any firearm, not used solely for instructional or school-sanctioned
+purposes, on a public or private school bus or inside of a public or private
+school building that offers any of the grades kindergarten through twelve
+(K-12).
+(B) It is not an offense under this subsection (c) for an adult to
+possess a firearm, if the firearm is contained within a private vehicle
+operated by the adult and is not handled by the adult, or by any other
+person acting with the expressed or implied consent of the adult, while
+the vehicle is on school property.
+(2) A violation of subdivision (c)(1)(A) is a Class B misdemeanor.
+(d)
+(1)
+(A) Except as provided in subdivision (d)(3), each chief
+administrator of a public or private school shall display in prominent
+locations about the school building, including all entrances, a sign, at
+least six inches (6") high and fourteen inches (14") wide, stating: THE
+- 12 - 011691
+
+UNAUTHORIZED CARRYING OF WEAPONS ON A SCHOOL BUS OR
+INSIDE OF A SCHOOL BUILDING IS A CRIMINAL OFFENSE.
+(B) The sign must include a pictorial representation of a circle
+with a diagonal line through the circle and an image of a firearm, or
+firearm and knife, inside the circle. The entire pictorial representation
+must be at least four inches (4") high and four inches (4") wide. The
+diagonal line must be at a forty-five degree (45°) angle from the upper left
+to the lower right side of the circle.
+(C) Signs installed prior to July 1, 2026, pursuant to the version of
+this section in effect at that time, which contained the text: "FELONY.
+STATE LAW PRESCRIBES A MAXIMUM PENALTY OF SIX (6) YEARS
+IMPRISONMENT AND A FINE NOT TO EXCEED THREE THOUSAND
+DOLLARS ($3,000) FOR CARRYING WEAPONS ON SCHOOL
+PROPERTY" have the same effect as a sign compliant with subdivisions
+(d)(1)(A) and (d)(1)(B).
+(2) As used in this subsection (d), "prominent locations about a school"
+includes all entrances to the areas in which subsections (b) and (c) apply.
+(3) A school may choose not to post pursuant to subdivision (d)(1) or to
+instead post a warning to the public that armed personnel may be present on the
+school premises or that attackers will be met with force. If a school elects not to
+post pursuant to subdivision (d)(1) or elects to instead post a warning as
+described in this subdivision (d)(3), then the carrying of weapons on school
+property does not in and of itself constitute a criminal offense; however, the
+school may still restrict or prohibit carrying weapons on school property pursuant
+- 13 - 011691
+
+to school policy and is not prohibited from enforcing such policy, except as
+provided in this section or other state and federal laws.
+(e) Subsections (b) and (c) do not apply to the following persons:
+(1) Persons employed in the army, air force, space force, navy, coast
+guard, or marine service of the United States or any member of the Tennessee
+national guard when in discharge of their official duties;
+(2) Civil officers of the United States in the discharge of their official
+duties;
+(3) Officers and soldiers of the militia and the national guard when called
+into actual service;
+(4) Officers of any state, county, city, or town, charged with enforcement
+of the law;
+(5) Any pupils who are members of the reserve officers training corps or
+pupils enrolled in a course of instruction or members of a club or team, and who
+are required to carry arms or weapons in the discharge of their official class or
+team duties;
+(6) Any private police employed by the administration or board of
+trustees of any public or private educational institution;
+(7) Any registered security guard/officer who meets the requirements of
+the Private Protective Services Licensing and Regulatory Act, compiled in title
+62, chapter 35;
+(8) Persons within or on a public park, natural area, historic park, nature
+trail, campground, forest, greenway, waterway, or other similar public place, if the
+person is not otherwise prohibited from possessing or carrying the weapon
+possessed or carried by the person;
+- 14 - 011691
+
+(9) Nonstudent adults carrying a pocket knife, pepper spray, pepper gel,
+or mace while on school property for any lawful purpose; or
+(10) Persons authorized to carry a handgun pursuant to § 39-17-1351 or
+§ 39-17-1366, if the person keeps the handgun concealed at all times.
+(f) It is an affirmative defense to prosecution under subsection (b) or (c) that the
+person's behavior was in strict compliance with the requirements of one (1) of the
+following classifications:
+(1) A person hunting during the lawful hunting season on lands owned by
+any public or private educational institution and designated as open to hunting by
+the administrator of the educational institution;
+(2) A person possessing unloaded hunting weapons while traversing the
+grounds of any public or private educational institution for the purpose of gaining
+access to public or private lands open to hunting with the intent to hunt on the
+public or private lands unless the lands of the educational institution are posted
+prohibiting entry;
+(3) A person possessing guns or knives when conducting or attending
+gun and knife shows, and the program has been approved by the administrator
+of the educational institution; or
+(4) A person entering the property for the sole purpose of delivering or
+picking up passengers and who does not remove, utilize, or allow to be removed
+or utilized any weapon from the vehicle.
+(g) Subsections (b) and (c) do not apply to universities, college campuses, and
+other public or private non-kindergarten through grade twelve (non-K-12) educational
+institutions or property. The possession or carrying of a firearm by an adult who is not
+prohibited from possessing or carrying a firearm is not prohibited by this section on the
+- 15 - 011691
+
+property of any university, college campus, or other public or private non-kindergarten
+through grade twelve (non-K-12) educational institution.
+(h) This law does not prohibit, and a public or private school, university, or
+educational institution shall not prohibit, an adult student or other adult person permitted
+to be on campus or the school's or educational institution's property, from possessing
+mace, pepper spray, a pepper spray gun, pepper gel, a stun gun, or an electronic control
+device or other conductive energy device for purposes of self-defense.
+SECTION 19. Tennessee Code Annotated, Section 39-17-1310, is amended by deleting
+the section.
+SECTION 20. Tennessee Code Annotated, Section 39-17-1311, is amended by deleting
+the section and substituting:
+It is not an offense for a person authorized to carry a firearm pursuant to § 39-17-
+1351 or § 39-17-1366, or for any person who is not prohibited from possessing or
+carrying a firearm, to possess or carry a firearm in any state or local park, on a greenway
+or other recreational property, or, to the extent permitted by federal law, within or on
+property designated by the federal government as a national park, forest, preserve,
+historic park, military park, trail, or recreation area.
+SECTION 21. Tennessee Code Annotated, Section 39-17-1313(a), is amended by
+deleting "lawfully carries a handgun pursuant to § 39-17-1307(g)" and substituting "is not
+prohibited from possessing or carrying a firearm".
+SECTION 22. Tennessee Code Annotated, Section 39-17-1319, is amended by deleting
+subsection (b) and substituting:
+(b) Except as provided in this section, it is an offense for a juvenile to carry, with
+the intent to go armed, a firearm.
+- 16 - 011691
+
+SECTION 23. Tennessee Code Annotated, Section 39-17-1319(c)(1), is amended by
+deleting "Illegal possession of a handgun by a juvenile" and substituting "A violation of this
+section".
+SECTION 24. Tennessee Code Annotated, Section 39-17-1319(c)(3), is amended by
+deleting "handgun" and substituting "firearm".
+SECTION 25. Tennessee Code Annotated, Section 39-17-1319(d), is amended by
+deleting "handgun" wherever it appears and substituting "firearm".
+SECTION 26. Tennessee Code Annotated, Section 39-17-1319(e), is amended by
+deleting "handgun" and substituting "firearm".
+SECTION 27. Tennessee Code Annotated, Section 39-17-1321, is amended by deleting
+subsection (a) and substituting:
+(a) It is an offense for a person to possess a handgun in a public place while
+under the influence of alcohol or any controlled substance or controlled substance
+analogue. As used in this subsection (a), "under the influence of alcohol" means the
+alcohol concentration in the person's blood or breath is eight-hundredths of one percent
+(0.08%) or more.
+SECTION 28. Tennessee Code Annotated, Section 39-17-1350, is amended by deleting
+subsection (c) and substituting:
+(c) The authority conferred by this section does not exempt a law enforcement
+officer from the restrictions set forth in §§ 39-17-1306 and 39-17-1321.
+SECTION 29. Tennessee Code Annotated, Section 39-17-1350, is amended by deleting
+subsection (e) and by deleting the last sentence in subsection (g).
+SECTION 30. Tennessee Code Annotated, Section 39-17-1351(c)(13), is amended by
+deleting "and is not" and substituting "who is".
+- 17 - 011691
+
+SECTION 31. Tennessee Code Annotated, Section 39-17-1359, is amended by deleting
+the section and substituting:
+(a) Except as provided in subsection (b), an entity of local government or a
+permittee thereof is not authorized to enact or enforce a prohibition or restriction on the
+possession of a handgun by an enhanced handgun carry permit holder or concealed
+handgun carry permit holder on property owned or administered by the entity unless:
+(1) The following are provided at each public entrance to the property:
+(A) Metal detection devices; and
+(B) At least one (1) law enforcement or private security officer
+who has been adequately trained to conduct inspections of persons
+entering the property by use of metal detection devices; and
+(2) Each person who enters the property through the public entrance
+when the property is open to the public and any bag, package, and other
+container carried by the person is inspected by a law enforcement or private
+security officer described in subdivision (a)(1)(B) or an authorized representative
+with the authority to deny entry to the property.
+(b) Subsection (a) does not apply to:
+(1) Facilities that are licensed under title 33 or 37;
+(2) Property on which firearms are prohibited pursuant to § 39-17-1309;
+(3) Courtrooms and court buildings, which are governed by § 39-17-
+1306; or
+(4) Facilities that are licensed under title 41, correctional facilities,
+penitentiaries, or jails.
+SECTION 32. Tennessee Code Annotated, Section 49-6-815, is amended by deleting
+the section.
+- 18 - 011691
+
+SECTION 33. Tennessee Code Annotated, Section 49-6-816, is amended by deleting
+the section.
+SECTION 34. Tennessee Code Annotated, Section 49-6-3051, is amended by deleting
+subdivision (b)(2)(H).
+SECTION 35. Tennessee Code Annotated, Section 49-6-3051(b)(2)(I), is amended by
+deleting "Handgun possession" and substituting "Unlawful carrying of a firearm by a juvenile".
+SECTION 36. Tennessee Code Annotated, Section 49-7-161, is amended by deleting
+the section.
+SECTION 37. Tennessee Code Annotated, Section 49-50-803, is amended by deleting
+the section.
+SECTION 38. Tennessee Code Annotated, Section 38-8-116(c)(8), is amended by
+deleting the last sentence and substituting:
+At least ninety (90) days prior to the expiration of the retired officer's certification under
+this subsection (c), the retired officer shall submit a request for recertification to the
+Tennessee POST commission. Upon receipt of the request for recertification, the
+Tennessee POST commission shall request a criminal history record check of the retired
+officer by the TBI. Upon request of the Tennessee POST commission, the TBI shall
+conduct a criminal history record check using all computer searches available to the
+bureau based solely upon the retired officer's name, date of birth, and social security
+number and send the results to the Tennessee POST commission. The retired officer is
+not required to submit a new set of fingerprints for recertification.
+SECTION 39. Tennessee Code Annotated, Section 49-6-820, is amended by deleting
+subdivision (b)(7).
+SECTION 40. This act takes effect July 1, 2026, the public welfare requiring it.
+- 19 - 011691
