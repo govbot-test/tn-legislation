@@ -1,0 +1,24 @@
+Title: 
+Official Title: 
+Source: versions - Amendment HA0783
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House State & Local Government 1
+Amendment No. 1 to HB2659
+Crawford
+Signature of Sponsor
+AMEND S e n ate Bill No. 2723 House Bill No. 2659*
+by inserting the following new section immediately preceding the last section and renumbering
+the last section accordingly:
+SECTION __. Tennessee Code Annotated, Section 3-17-103(c), is amended by
+deleting the first sentence and substituting instead the following:
+Upon authorization by the general assembly, the clerk of the house last
+approving the authorization shall transmit electronically a copy of the authorization to the
+secretary and to the executive director of the Tennessee district attorney generals
+conference for distribution to each affected district attorney general.
+HA0783
+016281
+- 1 -

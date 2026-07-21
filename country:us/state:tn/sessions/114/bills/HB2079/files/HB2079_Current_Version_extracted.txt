@@ -1,0 +1,27 @@
+Title: 
+Official Title: 
+Source: versions - Current Version
+Media Type: application/pdf
+
+================================================================================
+
+SENATE BILL 1992
+By Haile
+HOUSE BILL 2079
+By Littleton
+AN ACT to amend Tennessee Code Annotated, Title 39,
+relative to criminal offenses against property.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Title 39, Chapter 14, Part 1, is amended by
+adding the following new section:
+(a) A person commits an offense who engages in conduct intended to influence
+the outcome of an event while the person or another is a party to a contract with a
+prediction-market by which the person will benefit, directly or indirectly, from the
+occurrence of the outcome.
+(b) A violation of subsection (a) is a Class E felony.
+(c) As used in this section, "prediction-market" means a platform on which
+individuals trade contracts based on the outcome of unknown future events.
+SECTION 2. This act takes effect July 1, 2026, the public welfare requiring it.
+HB2079
+011239
+- 1 -

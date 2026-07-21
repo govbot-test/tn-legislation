@@ -1,0 +1,22 @@
+Title: 
+Official Title: 
+Source: versions - Amendment SA0984
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Amendment No. 24 to SB0564
+Jackson
+Signature of Sponsor
+AMEND S e n ate Bill No. 564* House Bill No. 803
+by inserting the following as a new section at the end of Section 2:
+68-221-14__.
+This part does not apply in counties having a population, according to the 2020 federal
+census or any subsequent federal census, of:
+not less than: nor more than:
+50,400 50,500
+98,800 98,900
+SA0984
+017414
+- 1 -
