@@ -1,0 +1,50 @@
+Title: 
+Official Title: 
+Source: versions - Current Version
+Media Type: application/pdf
+
+================================================================================
+
+HOUSE BILL 1846
+By Butler
+SENATE BILL 1824
+By Lowe
+AN ACT to amend Tennessee Code Annotated, Section
+11-14-307; Section 11-14-406; Section 11-7-109;
+Title 66; Section 67-4-409; Title 67, Chapter 5,
+Part 10 and Section 67-5-2402, relative to rollback
+taxes.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 67-5-1008(d)(1), is amended by
+deleting the following language:
+(D) An owner fails to file an application as required by this part;
+(E) The land exceeds the acreage limitations of § 67-5-1003(3); or
+(F) The land is conveyed or transferred and the conveyance or transfer would
+render the status of the land exempt.
+and substituting instead the following:
+(D) An owner fails to file an application as required by this part; or
+(E) The land exceeds the acreage limitations of § 67-5-1003(3).
+SECTION 2. Tennessee Code Annotated, Section 67-5-1008(d)(3), is amended by
+deleting the language "personal responsibility of the current owner or seller of the land as
+provided in this part" and substituting instead the language "personal responsibility of the owner
+of the land as provided in this part".
+SECTION 3. Tennessee Code Annotated, Section 67-5-1008(e)(3), is amended by
+deleting the language ", and shall be subject to rollback taxes, only if the land is used for a non-
+green belt purpose or after such land is sold by the bank, savings and loan association or a
+holder of a deed of trust or mortgage and then only as provided in subsection (d)".
+SB1824
+009967
+- 1 -
+
+SECTION 4. Tennessee Code Annotated, Section 67-5-1008(f), is amended by deleting
+the subsection and substituting instead the following:
+(f) The sale of agricultural, forest, or open space land will result in the property
+being disqualified as agricultural, forest, or open space land. A buyer of property
+classified as agricultural, forest, or open space land must submit a new application in
+accordance with this part to renew the property's classification as agricultural, forest, or
+open space land. There is no liability for rollback taxes resulting from the sale and
+subsequent disqualification of property as agricultural, forest, or open space land,
+regardless of whether the greenbelt classification is renewed by the buyer.
+SECTION 5. This act takes effect July 1, 2026, the public welfare requiring it, and
+applies to property sold, conveyed, or transferred on or after that date.
+- 2 - 009967

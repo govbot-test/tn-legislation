@@ -1,0 +1,49 @@
+Title: 
+Official Title: 
+Source: versions - Amendment HA0597
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House Judiciary 1
+Amendment No. 1 to HB2284
+Farmer
+Signature of Sponsor
+AMEND S e n ate Bill No. 2471* House Bill No. 2284
+by deleting all language after the enacting clause and substituting:
+SECTION 1. Tennessee Code Annotated, Section 39-14-405, is amended by deleting
+subsection (d) and substituting:
+(d) As used in this section, "enter" means:
+(1) Intrusion of the entire body;
+(2) When a person causes an unmanned aircraft to enter that portion of
+the airspace above the owner's land not regulated as navigable airspace by the
+federal aviation administration; or
+(3) Intrusion by driving, parking, or otherwise operating a motorized
+vehicle or bicycle. As used in this subdivision (d)(3), "motorized vehicle or
+bicycle" includes, but is not limited to, all-terrain vehicles, utility task vehicles,
+side-by-sides, electric bicycles, motorcycles, and motorscooters.
+SECTION 2. Tennessee Code Annotated, Section 39-14-405, is amended by deleting
+subsection (g) and substituting:
+(g)
+(1) Except as provided in subdivision (g)(2), criminal trespass is a Class
+C misdemeanor.
+(2) Criminal trespass is a Class A misdemeanor if the violation involved
+the use or operation of a motorized vehicle or bicycle and is punishable only by a
+mandatory fine in the amount of two thousand five hundred dollars ($2,500), and
+the sentence must include an order of restitution for all damages to the property
+HA0597
+012956
+- 1 -
+
+resulting from the violation. Upon a second or subsequent violation involving the
+use or operation of a motorized vehicle or bicycle, the motorized vehicle or
+bicycle is, upon conviction of the offense, subject to seizure and forfeiture as
+provided in title 40, chapter 33, part 1.
+SECTION 3. Tennessee Code Annotated, Section 40-33-101(a), is amended by adding
+the following as a new subdivision:
+(5) A violation of § 39-14-405 involving the use or operation of a motorized
+vehicle or bicycle.
+SECTION 4. This act takes effect July 1, 2026, the public welfare requiring it, and
+applies to acts committed on or after that date.
+- 2 - 012956

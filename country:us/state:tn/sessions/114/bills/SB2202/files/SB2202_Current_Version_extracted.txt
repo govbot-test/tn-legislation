@@ -1,0 +1,20 @@
+Title: 
+Official Title: 
+Source: versions - Current Version
+Media Type: application/pdf
+
+================================================================================
+
+HOUSE BILL 2055
+By Reeves
+SENATE BILL 2202
+By Johnson
+AN ACT to amend Tennessee Code Annotated, Title 8,
+relative to health insurance.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 8-27-303(g), is amended by deleting
+"thirty (30) days" and substituting "forty (40) days".
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+SB2202
+012238
+- 1 -

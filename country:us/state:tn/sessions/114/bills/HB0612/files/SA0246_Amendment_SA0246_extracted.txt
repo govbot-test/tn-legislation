@@ -1,0 +1,26 @@
+Title: 
+Official Title: 
+Source: versions - Amendment SA0246
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate Energy, Ag., and Nat. Resources 1
+Amendment No. 1 to SB0664
+Reeves
+Signature of Sponsor
+AMEND S e n ate Bill No. 664 House Bill No. 612*
+by deleting all language after the enacting clause and substituting:
+SECTION 1. Tennessee Code Annotated, Section 69-3-141(c), is amended by deleting
+the subsection and substituting the following:
+(c) If the only factor that disqualifies an applicant for an aquatic resource
+alteration permit (ARAP) from having the activities for which a permit is sought covered
+under a general permit is the acreage of wetland impacts or the length of stream
+impacts, then the department shall exempt from compensatory mitigation the acreage of
+wetland or length of stream for which mitigation would not be required if the permit
+applicant qualified for coverage under a general permit.
+SECTION 2. This act takes effect July 1, 2025, the public welfare requiring it.
+SA0246
+005569
+- 1 -

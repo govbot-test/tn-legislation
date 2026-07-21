@@ -1,0 +1,21 @@
+Title: 
+Official Title: 
+Source: versions - Amendment HA1188
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House Finance, Ways, and Means 1
+Amendment No. 2 to HB1946
+Hicks G
+Signature of Sponsor
+AMEND S e n ate Bill No. 1700* House Bill No. 1946
+by deleting Section 2 and substituting:
+SECTION 2. TACIR shall publish a report of the study's findings and
+recommendations and shall deliver a copy of the report to the governor, the speaker of
+the senate, the speaker of the house of representatives, and the legislative librarian.
+The report may be delivered electronically.
+HA1188
+016715
+- 1 -

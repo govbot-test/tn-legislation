@@ -1,0 +1,126 @@
+Title: 
+Official Title: 
+Source: versions - Current Version
+Media Type: application/pdf
+
+================================================================================
+
+SENATE BILL 1664
+By Rose
+HOUSE BILL 1665
+By Maberry
+AN ACT to amend Tennessee Code Annotated, Title 4;
+Title 33; Title 47; Title 56; Title 63; Title 68 and
+Title 71, relative to the protection of minors in
+healthcare settings.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 47-18-104(b), is amended by adding
+the following as a new subdivision:
+( ) Violating § 56-7-1022;
+SECTION 2. Tennessee Code Annotated, Title 56, Chapter 7, Part 10, is amended by
+adding the following as a new section:
+56-7-1022. Prohibition on insurance-driven questionnaires.
+(a) A health insurance issuer, managed care organization, or any entity
+providing reimbursement for healthcare services shall not require a healthcare provider
+or facility to ask the prohibited questions, as described in § 63-1-1003, as a condition of
+payment, credentialing, quality scoring, compliance, or participation.
+(b) An insurer shall not deny or reduce payment, impose penalties, or otherwise
+disadvantage a provider for failing to ask such questions.
+(c) A violation of this section constitutes an unfair or deceptive act or practice
+affecting trade or commerce and is subject to the penalties and remedies provided in the
+Tennessee Consumer Protection Act of 1977 in addition to any other penalties and
+remedies.
+SECTION 3. Tennessee Code Annotated, Title 63, Chapter 1, is amended by adding
+the following as a new part:
+63-1-1001. Legislative findings.
+HB1665
+010303
+- 1 -
+
+The general assembly finds and declares that:
+(1) A parent has the right to make all physical and mental healthcare
+decisions for the parent's minor child and consent to all physical and mental
+health care on the child's behalf, as described in § 63-1-176;
+(2) Minors are increasingly being asked questions by healthcare
+providers regarding gender identity, perceived gender normalcy, or whether the
+minor identifies as the minor's true or right gender without parental knowledge or
+consent;
+(3) Some healthcare providers and facilities have reported that insurance
+companies or third-party payors require the inclusion of such questions for data
+collection or reimbursement;
+(4) Such questions may introduce confusion, influence minors, or conflict
+with the values and beliefs of families in this state; and
+(5) This state has a compelling interest in ensuring that healthcare
+providers do not solicit sensitive information from a minor that is unrelated to
+legitimate medical purposes and that a parent remain fully informed.
+63-1-1002. Definitions.
+As used in this part:
+(1) "Healthcare provider" means a healthcare professional, healthcare
+establishment, or healthcare facility licensed, registered, certified, or permitted
+pursuant to this title, title 33, or title 68 or regulated under the authority of either
+the department of health or an agency, board, council, or committee attached to
+the department of health or by the department of mental health and substance
+abuse services, and that is authorized to provide health or medical care or
+mental health services in this state;
+- 2 - 010303
+
+(2) "Minor":
+(A) Means a person who has not attained eighteen (18) years of
+age; and
+(B) Does not include a person who:
+(i) Is emancipated pursuant to title 29, chapter 31;
+(ii) Needs emergency treatment pursuant to § 63-6-222;
+(iii) Is or was previously a member of the armed forces of
+the United States or a member of a reserve or national guard unit;
+or
+(iv) Is the parent of a minor child and has full custody of
+that minor child; and
+(3) "Parent" means as biological, legal, or adoptive parent or an
+individual who has been granted medical decision-making authority over the child
+under state law.
+63-1-1003. Prohibited conduct.
+(a) Except as provided in subsection (b), a healthcare provider shall not ask a
+minor a verbal or written question on the following:
+(1) Whether the minor feels normal in the minor's body;
+(2) Whether the minor believes the minor is the correct gender;
+(3) Whether the minor identifies as a gender different from the minor's
+sex; or
+(4) An inquiry intended to elicit statements about gender identity, gender
+confusion, or gender dysphoria.
+(b) A healthcare provider may ask a question listed in subsection (a) if:
+- 3 - 010303
+
+(1) The parent is physically present and fully informed and gives written
+consent to a question listed in subsection (a); and
+(2) Such question is directly related to the diagnosis or treatment of a
+specific medical or psychological condition currently being evaluated.
+(c) A healthcare provider shall not include gender identity questions on written
+intake forms, electronic tablets, or questionnaires directed to a minor unless the
+requirements of this section are satisfied.
+63-1-1004. Parental rights and notification.
+(a) A parent shall have full access to all written forms, questionnaires, or
+electronic assessments presented to the parent's minor child in a healthcare setting.
+(b) A healthcare provider shall not conduct private interviews with a minor about
+gender identity, sexual orientation, or any other gender-related topic unless the
+healthcare provider, using reasonable medical judgment, based upon the facts known to
+the healthcare provider at the time, performs a screening of a minor who the healthcare
+provider reasonably believes is a trafficked person or a victim of brutality, abuse, or
+neglect in order to determine whether the healthcare provider must make a report
+pursuant to § 37-1-403 or § 37-1-605.
+63-1-1005. Enforcement and penalties.
+A violation of § 63-1-1003 by a healthcare provider constitutes unprofessional
+conduct subject to discipline by the relevant licensing board.
+63-1-1006. Construction.
+This act shall not be construed to:
+(1) Limit mandated reporting obligations for child abuse or neglect
+pursuant to § 37-1-402 or § 37-1-605;
+(2) Restrict emergency medical care, as described in § 63-6-222; or
+- 4 - 010303
+
+(3) Prevent a minor from voluntarily reporting concerns of abuse,
+exploitation, or danger to the minor's self or others.
+SECTION 4. The headings in this act are for reference purposes only and do not
+constitute a part of the law enacted by this act. However, the Tennessee Code Commission is
+requested to include the headings in any compilation or publication containing this act.
+SECTION 5. This act takes effect July 1, 2026, the public welfare requiring it.
+- 5 - 010303
