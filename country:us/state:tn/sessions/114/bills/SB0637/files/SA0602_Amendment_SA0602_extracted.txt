@@ -1,0 +1,27 @@
+Title: 
+Official Title: 
+Source: versions - Amendment SA0602
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate Education 1
+Amendment No. 1 to SB0637
+White
+Signature of Sponsor
+AMEND S e n ate Bill No. 637 House Bill No. 226*
+by deleting all language after the enacting clause and substituting:
+SECTION 1. Tennessee Code Annotated, Section 49-3-105(b), is amended by
+designating subdivision (5) as subdivision (6) and adding the following as a new subdivision (5):
+(5) The weighted allocation for a student who resides in an LEA with a
+membership between one thousand one (1,001) and one thousand five hundred (1,500),
+both inclusive, is two percent (2%); and
+SECTION 2. Tennessee Code Annotated, Section 49-3-105(b)(3), is amended by
+deleting the subdivision and substituting:
+(3) The weighted allocation for a student who resides in a small district is six
+percent (6%);
+SECTION 3. This act takes effect July 1, 2026, the public welfare requiring it.
+SA0602
+014437
+- 1 -

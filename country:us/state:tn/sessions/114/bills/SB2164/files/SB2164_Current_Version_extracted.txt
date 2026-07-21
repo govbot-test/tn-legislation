@@ -1,0 +1,56 @@
+Title: 
+Official Title: 
+Source: versions - Current Version
+Media Type: application/pdf
+
+================================================================================
+
+HOUSE BILL 2568
+By Kumar
+SENATE BILL 2164
+By Briggs
+AN ACT to amend Tennessee Code Annotated, Title 2 and
+Title 49, relative to elections.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. This act is known and may be cited as the "Election Integrity Act of 2026."
+SECTION 2. Tennessee Code Annotated, Section 2-8-105, is amended by designating
+the existing language as subsection (a) and adding the following as a new subsection (b):
+(b) A local election, as defined in SECTION 3, must not be certified if a
+challenge has been filed pursuant to SECTION 3 until the challenge process is
+complete. Only the election being challenged is affected by this subsection (b). Any
+other elections on the ballot may be certified.
+SECTION 3. Tennessee Code Annotated, Title 2, Chapter 17, is amended by adding
+the following as a new section:
+(a) As used in this section, "local election" means a general election for a public
+office of a county or city, including elections for members of local boards of education.
+(b) A candidate in a local election may file a challenge to the election results if
+the candidate has reason to believe errors were made in the administration of the
+election.
+(c) A candidate challenging local election results must file the challenge in
+writing with the county election commission that administered the election within ten (10)
+business days of the election.
+(d) Upon receiving a challenge under subsection (c), the county election
+commission shall investigate the claims made by the candidate in the challenge. The
+county election commission shall conclude the investigation no later than fifteen (15)
+SB2164
+010974
+- 1 -
+
+days after receiving the challenge. The county election commission shall send all
+evidence gathered as part of the investigation to the state election commission.
+(e) Within twenty-one (21) business days of receiving evidence pursuant to
+subsection (d), the state election commission shall decide the challenge of the local
+election based on the evidence provided by the county election commission. If the state
+election commission finds:
+(1) That the claims of the candidate do not have merit or the claims have
+merit but the errors in administration would not change the outcome of the
+election, then the state election commission shall provide an explanation of their
+decision to the candidate who made the challenge and notify the county election
+commission to proceed with certifying the election under § 2-8-105; or
+(2) That the claims of the candidate have merit and the errors may
+change the outcome of the election, then the state election commission shall
+direct the county election commission to order a special election.
+(f) A candidate who challenges an election result under this section is not
+precluded from contesting the election under this chapter.
+SECTION 4. This act takes effect upon becoming a law, the public welfare requiring it.
+- 2 - 010974

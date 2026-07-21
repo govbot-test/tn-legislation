@@ -1,0 +1,35 @@
+Title: 
+Official Title: 
+Source: versions - Amendment HA0773
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House Judiciary 1
+Amendment No. 1 to HB2184
+Farmer
+Signature of Sponsor
+AMEND S e n ate Bill No. 1858* House Bill No. 2184
+by deleting all language after the enacting clause and substituting:
+SECTION 1. Tennessee Code Annotated, Section 20-18-101, is amended by deleting
+subdivisions (b)(1) and (2) and substituting instead:
+(1) When an action described in subsection (a) is filed, the person or entity filing
+the action shall provide notice of the complaint to the presiding judge of the judicial
+district, who shall notify the supreme court. The supreme court shall select three (3) trial
+court judges of courts of record to sit as a three-judge panel to hear and decide the civil
+action.
+(2) To ensure that members of the three-judge panel are drawn from different
+regions of the state, the supreme court shall select one (1) judge from each grand
+division of the state.
+SECTION 2. Tennessee Code Annotated, Section 20-18-102, is amended by deleting
+the section and substituting:
+Notwithstanding § 4-4-104 and any other law to the contrary, venue for a civil
+action described in § 20-18-101(a) is in any county in this state.
+SECTION 3. Tennessee Code Annotated, Section 20-18-105(a), is amended by
+deleting the language "fifteen (15) calendar days" and substituting instead "ninety (90) calendar
+days".
+SECTION 4. This act takes effect July 1, 2026, the public welfare requiring it.
+HA0773
+013729
+- 1 -
