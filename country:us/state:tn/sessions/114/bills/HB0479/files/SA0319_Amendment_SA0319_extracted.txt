@@ -1,0 +1,25 @@
+Title: 
+Official Title: 
+Source: versions - Amendment SA0319
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate State and Local Government 1
+Amendment No. 1 to SB0530
+Briggs
+Signature of Sponsor
+AMEND S e n ate Bill No. 530 House Bill No. 479*
+by deleting subsection (c) in the amendatory language of Section 1 and substituting instead the
+following:
+(c) As used in this section, unless the context otherwise requires, "eligible
+recipient" means an individual who is:
+(1) A member of the Tennessee national guard;
+(2) Eligible for TRICARE reserve select or TRICARE dental program
+coverage; and
+(3) Not receiving health or dental insurance coverage through a civilian
+employer.
+SA0319
+005129
+- 1 -

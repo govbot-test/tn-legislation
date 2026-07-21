@@ -1,0 +1,20 @@
+Title: 
+Official Title: 
+Source: versions - Amendment HA1190
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House Finance, Ways, and Means 1
+Amendment No. 1 to HB0388
+Hicks G
+Signature of Sponsor
+AMEND S e n ate Bill No. 145* House Bill No. 388
+by deleting all language after the enacting clause and substituting:
+SECTION 1. Tennessee Code Annotated, Section 67-6-103(h)(2), is amended by
+deleting the language "June 30, 2028" and substituting "June 30, 2038".
+SECTION 2. This act takes effect upon becoming a law, the public welfare requiring it.
+HA1190
+014271
+- 1 -

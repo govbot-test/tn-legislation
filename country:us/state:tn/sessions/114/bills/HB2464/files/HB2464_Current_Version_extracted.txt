@@ -1,0 +1,128 @@
+Title: 
+Official Title: 
+Source: versions - Current Version
+Media Type: application/pdf
+
+================================================================================
+
+SENATE BILL 2680
+By Kyle
+HOUSE BILL 2464
+By Pearson
+AN ACT to amend Tennessee Code Annotated, Title 4;
+Title 7; Title 8; Title 47, Chapter 18; Title 65 and
+Title 68, relative to products connected to foreign
+adversaries.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Title 8, Chapter 4, is amended by adding the
+following as a new part:
+8-4-801. Part definitions.
+As used in this part:
+(1) "Artificial intelligence" or "AI" means models and systems capable of
+performing functions generally associated with human intelligence, including
+reasoning and learning;
+(2) "Electric utility" means:
+(A) An entity subject to the jurisdiction of the Tennessee board of
+utility regulation in accordance with § 7-82-701 that transmits or
+distributes electricity to the public;
+(B) A county-owned or municipal-owned utility that transmits or
+distributes electricity to the public;
+(C) A public utility, as defined in § 65-4-101, that transmits or
+distributes electricity to the public; and
+(D) A cooperative, as defined in § 65-25-102, that transmits or
+distributes electricity to the public;
+(3) "Foreign adversary" means a nation specified in 15 CFR 791.4; and
+HB2464
+011045
+- 1 -
+
+(4) "High performance computing (HPC) facility" means a facility, other
+than a facility owned or operated by a federal, state, or local governmental entity,
+that houses or operates a supercomputer, data center, artificial intelligence data
+center, AI factory, AI-optimized computing facility, HPC or AI cluster or
+supercluster, or exascale computing system in this state that utilizes, on average,
+more than fifty megawatts (50 MW) per month for its operation and maintenance.
+8-4-802. Prohibited use of products sourced from foreign adversaries by electric
+utilities - Required reporting - Required posting.
+(a) Each electric utility in this state shall not use transformers, parts, or
+equipment manufactured or sold by entities owned or controlled by foreign adversaries
+to support any part of the electrical grid operating in this state.
+(b) Each electric utility in this state shall annually report no later than January 31,
+the source of its transformers, parts, or equipment that support any part of the electrical
+grid operating in this state to the comptroller of the treasury.
+(c) Each electric utility in this state shall annually conduct no later than January
+31, an internal audit on its compliance with this section, and upon request by the
+comptroller of the treasury, permit such a compliance audit by the comptroller of the
+treasury or a third party retained by the comptroller of the treasury. If the electric utility
+conducts the audit, then the electric utility shall submit the audit findings to the
+comptroller of the treasury no later than March 1 of each year.
+(d) The comptroller shall post the annual reports and audit findings prominently
+on its website no later than October 1 of each year.
+8-4-803. Prohibited use of products sourced from foreign adversaries by HPC
+facilities - Required reporting - Required posting.
+- 2 - 011045
+
+(a) An HPC facility in this state shall not use transformers, parts, or equipment
+manufactured or sold by entities owned or controlled by foreign adversaries to support
+any of its facility operations, including the construction and maintenance of the facility.
+(b) Each HPC facility in this state shall annually report no later than January 31,
+the source of its transformers, parts, or equipment that support any part of its facility
+operations to the comptroller of the treasury.
+(c) Each HPC facility utility in this state shall annually conduct no later than
+January 31, an internal audit on its compliance with this section, and upon request by
+the comptroller of the treasury, permit such a compliance audit by the comptroller of the
+treasury or a third party retained by the comptroller of the treasury. If the facility
+conducts the audit, then the facility shall submit the audit findings to the comptroller of
+the treasury no later than March 1 of each year.
+(d) The comptroller of the treasury shall post the annual reports and audit
+findings prominently on its website no later than October 1 of each year.
+8-4-804. Violations - Notice.
+(a) If an electric utility or HPC facility violates this section, then the comptroller of
+the treasury shall provide written notice to the utility or facility of noncompliance and that
+the utility or facility has thirty (30) days to comply with this section.
+(b) If the utility or facility is not in compliance at the end of the thirty-day period,
+then the comptroller of the treasury shall provide notice to each local government in
+which the utility or facility is located or operates and to the attorney general and reporter.
+(c) The comptroller of the treasury shall provide notice to each applicable local
+government and to the attorney general and reporter upon subsequent compliance.
+- 3 - 011045
+
+(d) The comptroller of the treasury shall post any utility or facility that fails to
+comply with this section prominently on its website and shall update such posting if the
+utility or facility subsequently complies with this section.
+8-4-805. Loss of license or permit during noncompliance.
+If a local government receives notice pursuant to § 8-4-104, then the local
+government must suspend any applicable operating license or permit of the utility or
+facility and prohibit issuance of any new license or permit to the utility or facility, pending
+notification of compliance from the comptroller of the treasury.
+8-4-806. Action by attorney general and reporter - Penalties.
+(a) If the attorney general and reporter receives notice pursuant to § 8-4-104,
+then the attorney general and reporter may bring an action for a violation of this section
+seeking the following:
+(1) A civil penalty of not more than twenty-five thousand dollars ($25,000)
+per violation;
+(2) Injunctive or declaratory relief; and
+(3) Reasonable court costs and attorneys' fees.
+(b) For purposes of determining the number of violations pursuant to subdivision
+(a)(1), each separate transformer, part, or equipment used in violation of this section
+constitutes a separate violation. Failure to report, and to subsequently comply by
+reporting, also constitute separate violations.
+8-4-807. Civil action.
+A resident of this state, who is aggrieved by a violation of this section, may bring
+a civil cause of action seeking:
+(1) Actual damages;
+(2) Punitive damages;
+- 4 - 011045
+
+(3) Injunctive or declaratory relief;
+(4) Reasonable court costs and attorneys' fees; and
+(5) Any other relief the court deems proper.
+SECTION 2. If any provision of this act or the application of any provision of this act to
+any person or circumstance is held invalid, the invalidity does not affect other provisions or
+applications of the act that can be given effect without the invalid provision or application, and to
+that end, the provisions of this act are severable.
+SECTION 3. The headings in this act are for reference purposes only and do not
+constitute a part of the law enacted by this act. However, the Tennessee Code Commission is
+requested to include the headings in any compilation or publication containing this act.
+SECTION 4. This act takes effect July 1, 2026, the public welfare requiring it.
+- 5 - 011045
