@@ -1,0 +1,36 @@
+Title: 
+Official Title: 
+Source: versions - Amendment SA0560
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate Judiciary 1
+Amendment No. 1 to SB1938
+Gardenhire
+Signature of Sponsor
+AMEND S e n ate Bill No. 1938 House Bill No. 1765*
+by deleting all language after the enacting clause and substituting:
+SECTION 1. Tennessee Code Annotated, Section 39-13-113(g), is amended by
+deleting "A violation of subsection (a)" and substituting "Except as provided in subdivision (g)(2),
+a violation of subsection (a)".
+SECTION 2. Tennessee Code Annotated, Section 39-13-113(g), is amended by
+designating the current language as subdivision (g)(1) and adding the following subdivision
+(g)(2):
+(2)
+(A) A violation of subsection (a) is a Class E felony if:
+(i) The offender knowingly violated a lifetime order of protection
+issued pursuant to § 36-3-627; and
+(ii) The conviction on which the lifetime order of protection is
+based was for an offense involving the use of force against a victim.
+(B) Any sentence of incarceration imposed must be served consecutively
+to the sentence for any other offense that is based in whole or in part on the
+same factual allegations. However, the sentencing judge may specifically order
+the sentences for offenses arising out of the same facts to be served
+concurrently.
+SECTION 3. This act takes effect July 1, 2026, the public welfare requiring it, and
+applies to acts committed on or after that date.
+SA0560
+012700
+- 1 -

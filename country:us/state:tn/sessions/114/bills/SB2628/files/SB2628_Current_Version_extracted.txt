@@ -1,0 +1,62 @@
+Title: 
+Official Title: 
+Source: versions - Current Version
+Media Type: application/pdf
+
+================================================================================
+
+HOUSE BILL 2346
+By Harris
+SENATE BILL 2628
+By Kyle
+AN ACT to amend Tennessee Code Annotated, Title 37;
+Title 38; Title 39; Title 40; Title 47; Title 50; Title
+62; Title 66 and Title 71, relative to the Fair
+Background Check and Due Process Act.
+WHEREAS, the General Assembly finds that:
+(1) Thousands of Tennesseans are subjected to employment, housing, and
+licensing denials based solely on criminal charges that have not resulted in a conviction;
+(2) Many cases remain pending for years due to court backlogs, prosecutorial
+delays, or administrative issues;
+(3) Punishing individuals for unproven allegations violates fundamental
+principles of due process and fairness;
+(4) Preventing individuals from working before they have been proven guilty
+beyond a reasonable doubt increases poverty, homelessness, and recidivism; and
+(5) Employers have a legitimate interest in protecting their businesses from
+financial and safety risks related to theft, fraud, and job-related offenses; now, therefore,
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. This act is known and may be cited as the "Fair Background Check and
+Due Process Act."
+SECTION 2. Tennessee Code Annotated, Title 38, Chapter 6, Part 1, is amended by
+adding the following as a new section:
+(a) As used in this section:
+(1) "Consumer reporting agency" means any organization or entity that
+provides or conducts criminal history background checks or criminal history
+SB2628
+011527
+- 1 -
+
+background reports for purposes of employment, housing, or licensing, but does
+not include a law enforcement agency;
+(2) "Excluded offense" means an offense involving:
+(A) Theft;
+(B) Fraud;
+(C) Financial crimes;
+(D) Embezzlement;
+(E) Forgery;
+(F) Murder or attempted murder;
+(G) Aggravated homicide-related offenses; or
+(H) Violent conduct directly related to job safety; and
+(3) "Non-conviction record" means any arrest, charge, indictment, or
+criminal case that has not resulted in a conviction, and includes cases or charges
+that are pending, dismissed, diverted, or for which a nolle prosequi was entered.
+(b) A consumer reporting agency shall not report a non-conviction record to an
+employer, landlord, or licensing agency unless the charge is an excluded offense. A
+consumer reporting agency may only report charges resulting in a guilty verdict or a plea
+of guilty.
+(c) This section does not prohibit an employer from:
+(1) Conducting interviews of job candidates;
+(2) Asking prospective employees about relevant job-related conduct; or
+(3) Requiring licensing background checks as required by federal law.
+SECTION 3. This act takes effect upon becoming a law, the public welfare requiring it.
+- 2 - 011527

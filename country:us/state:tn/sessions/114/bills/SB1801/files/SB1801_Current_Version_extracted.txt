@@ -1,0 +1,82 @@
+Title: 
+Official Title: 
+Source: versions - Current Version
+Media Type: application/pdf
+
+================================================================================
+
+HOUSE BILL 1745
+By Freeman
+SENATE BILL 1801
+By Lamar
+AN ACT to amend Tennessee Code Annotated, Title 2 and
+Title 40, relative to voting rights.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 2-2-102, is amended by deleting
+subsection (a) and substituting instead:
+(a) A citizen of the United States eighteen (18) years of age or older who is a
+resident of this state is a qualified voter unless the citizen is:
+(1) Disqualified under this title; or
+(2) Currently imprisoned in a penal institution, on probation, or on parole
+for a judgment of infamy pursuant to § 40-20-112.
+SECTION 2. Tennessee Code Annotated, Section 2-2-139(a), is amended by adding
+the following new subdivision:
+(4) The person's right of suffrage has been restored due to the expiration of the
+sentence imposed for the infamous crime.
+SECTION 3. Tennessee Code Annotated, Section 2-19-143(a), is amended by deleting
+the subsection and substituting instead:
+(a) The following provisions govern the exercise of the right of suffrage for those
+persons convicted of an infamous crime:
+(1) A person who has been convicted of an infamous crime, as defined
+by § 40-20-112, in this state shall not register to vote or vote at any election
+unless:
+(A) The person has been pardoned by the governor. However,
+the governor may attach to any such pardon a special condition that such
+SB1801
+011424
+- 1 -
+
+person shall not have the right of suffrage until a date certain in the future,
+or until the expiration of the pardoned sentence, whichever period of time
+is less;
+(B) The person's full rights of citizenship have been restored as
+prescribed by law; or
+(C) The person's right of suffrage has been restored due to the
+expiration of the sentence imposed for the infamous crime;
+(2) A person who has been convicted in federal court of a crime or
+offense that would constitute an infamous crime under the laws of this state,
+regardless of the sentence imposed, shall not register to vote or vote at any
+election unless:
+(A) The person has been pardoned or the person's full rights of
+citizenship have been restored by the president of the United States;
+(B) The person's full rights of citizenship have otherwise been
+restored in accordance with federal law or the law of this state; or
+(C) The person's right of suffrage has been restored due to the
+expiration of the sentence imposed for the infamous crime; and
+(3) A person who has been convicted in another state of a crime or
+offense that would constitute an infamous crime under the laws of this state,
+regardless of the sentence imposed, shall not register to vote or vote at any
+election in this state unless:
+(A) The person has been pardoned or the person's full rights of
+citizenship have been restored by the governor or other appropriate
+authority of such other state;
+- 2 - 011424
+
+(B) The person's full rights of citizenship have otherwise been
+restored in accordance with the laws of such other state, or the law of this
+state; or
+(C) The person's right of suffrage has been restored due to the
+expiration of the sentence imposed for the infamous crime.
+SECTION 4. Tennessee Code Annotated, Section 40-29-102, is amended by adding
+the following as a new subsection:
+(d) Notwithstanding subsection (a), and except as provided in subsections (b)
+and (c), a person's right of suffrage is automatically restored upon the person's
+discharge from custody by reason of service or expiration of the maximum sentence
+imposed by the court for the infamous crime. A county election commission shall accept
+the person's discharge documentation as proof of the restoration of the right of suffrage.
+SECTION 5. Tennessee Code Annotated, Section 40-29-103, is amended by deleting
+subsection (g) and subdivisions (a)(4), (e)(1)(A), (e)(2)(A)(ii), and (e)(2)(B).
+SECTION 6. This act takes effect upon becoming a law, the public welfare requiring it,
+and applies to sentences completed or expired, or crimes that have been pardoned, after such
+date.
+- 3 - 011424

@@ -1,0 +1,48 @@
+Title: 
+Official Title: 
+Source: versions - Amendment HA0721
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+House Health 1
+Amendment No. 1 to HB1770
+Terry
+Signature of Sponsor
+AMEND S e n ate Bill No. 1753* House Bill No. 1770
+by deleting all language after the enacting clause and substituting:
+SECTION 1. Tennessee Code Annotated, Section 63-6-204(m)(1), is amended by
+adding the following as new subdivisions:
+(SS) "Clinical informatics";
+(TT) "Lifestyle medicine"; or
+(UU) "Medical virtualist";
+SECTION 2. Tennessee Code Annotated, Section 63-6-204(a)(1), is amended by
+deleting the period at the end of the subdivision and substituting:
+, or who, using clinical judgment, determines whether a treatment or procedure is
+clinically appropriate for the symptoms and diagnosis of such condition. This subdivision
+(a)(1) does not create a private right of action. This subdivision (a)(1) does not apply to
+a nonclinical ministerial or administrative task related to a determination of clinical
+appropriateness or to a decision made by a state employee acting in an official capacity
+during a contested case procedure conducted pursuant to title 4, chapter 5, part 3.
+SECTION 3. Tennessee Code Annotated, Section 63-6-204, is amended by adding the
+following language as a new subsection (n):
+(n) This chapter does not prohibit a person from practicing dentistry, nursing,
+optometry, podiatry, psychology, or any other of the healing arts under this title in
+accordance with the laws of this state.
+SECTION 4. Tennessee Code Annotated, Section 63-9-106(a), is amended by adding
+the following immediately after the period at the end of the subsection:
+HA0721
+014388
+- 1 -
+
+The practice of osteopathic medicine also includes determining, using clinical judgment,
+whether a treatment or procedure is clinically appropriate for the symptoms and
+diagnosis of another person's medical condition. This subsection (a) does not create a
+private right of action. This subsection (a) does not apply to a nonclinical ministerial or
+administrative task related to a determination of clinical appropriateness or to a decision
+made by a state employee acting in an official capacity during a contested case
+procedure conducted pursuant to title 4, chapter 5, part 3.
+SECTION 5. This act takes effect upon becoming a law, the public welfare requiring it,
+and applies to actions occurring on or after the effective date of this act.
+- 2 - 014388

@@ -1,0 +1,61 @@
+Title: 
+Official Title: 
+Source: versions - Current Version
+Media Type: application/pdf
+
+================================================================================
+
+SENATE BILL 2191
+By Taylor
+HOUSE BILL 2386
+By Vaughan
+AN ACT to amend Tennessee Code Annotated, Title 5;
+Title 6; Title 7; Title 13; Title 65 and Title 68,
+relative to infrastructure development.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Title 7, Chapter 51, is amended by adding
+the following as a new part:
+7-51-2801. Definitions.
+As used in this part:
+(1) "Developer" means a developer of real property seeking approval
+from a political subdivision to construct a private development within the
+jurisdiction of the political subdivision;
+(2) "Development" means a private construction project involving the
+improvement of real property;
+(3) "Offsite public infrastructure improvement" means a public
+infrastructure improvement or utility extension beyond the boundary of real
+property being developed by a developer;
+(4) "Political subdivision" means a county, municipality, or metropolitan
+government; and
+(5) "Public infrastructure" means roads, streets, traffic signals, turn lanes,
+sidewalks, lighting, stormwater improvements, and utilities, including water,
+wastewater, electric, gas, and broadband, that will be dedicated to one (1) or
+more public entities.
+7-51-2802. Cost-sharing agreements for public infrastructure.
+HB2386
+012035
+- 1 -
+
+(a) If a political subdivision of this state determines that an offsite public
+infrastructure improvement is necessary as part of a development project to service
+future development, then the political subdivision may require the developer to construct
+or pay for the construction of such offsite public infrastructure improvements subject to a
+cost-sharing arrangement between the developer and the political subdivision. Such
+cost-sharing arrangement must be based upon the proportionate utilization or impact the
+development for which approval is sought from the political subdivision has on public
+infrastructure.
+(b) A political subdivision has sixty (60) days from the date on which the
+approval is requested from the political subdivision by which to make a determination
+under subsection (a).
+(c) If the developer and the political subdivision are unable to agree upon the
+amount of a cost-sharing arrangement as described under subsection (a), then the
+owner may request the Tennessee board of utility regulation, created pursuant to § 7-82-
+701, to determine the cost-sharing amount.
+(d) The political subdivision's share of the offsite public infrastructure
+improvement costs may be provided through impact fees collected from other
+developments, bond proceeds, or unencumbered tax revenues.
+SECTION 2. The headings in this act are for reference purposes only and do not
+constitute a part of the law enacted by this act. However, the Tennessee Code Commission is
+requested to include the headings in any compilation or publication containing this act.
+SECTION 3. This act takes effect upon becoming a law, the public welfare requiring it.
+- 2 - 012035

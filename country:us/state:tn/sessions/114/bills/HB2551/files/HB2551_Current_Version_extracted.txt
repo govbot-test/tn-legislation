@@ -1,0 +1,36 @@
+Title: 
+Official Title: 
+Source: versions - Current Version
+Media Type: application/pdf
+
+================================================================================
+
+SENATE BILL 2236
+By Johnson
+HOUSE BILL 2551
+By Lamberth
+AN ACT to amend Tennessee Code Annotated, Title 68,
+Chapter 120, relative to building codes.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 68-120-101(a)(12), is amended by
+deleting the subdivision and substituting:
+(A) Shall allow a local government to amend adopted building codes after
+consulting with a registered architect or engineer in the jurisdiction to include up to six
+(6) family dwellings outside the scope of the adopted building codes for one- and two-
+family dwellings by establishing minimum prescriptive requirements to address the
+design and construction of dwellings that conform as follows:
+(i) A separate means of egress is provided for each dwelling;
+(ii) Dwellings are separated from each other by wall and floor assemblies
+having not less than a two-hour fire resistance rating; and
+(iii) The entire structure does not exceed three (3) stories above grade
+plane;
+(B) In amending the rules pursuant to this subdivision (a)(12), the state fire
+marshal shall not mandate automatic fire sprinkler systems for up to six-family dwellings;
+and
+(C) Notwithstanding this subdivision (a)(12), local governments may adopt
+mandatory sprinkler requirements and may permit the use of the National Fire Protection
+Association (NFPA) 13D standard for up to six-family dwellings.
+SECTION 2. This act takes effect July 1, 2026, the public welfare requiring it.
+HB2551
+012409
+- 1 -
