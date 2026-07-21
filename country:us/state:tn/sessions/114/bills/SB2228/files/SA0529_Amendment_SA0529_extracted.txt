@@ -1,0 +1,74 @@
+Title: 
+Official Title: 
+Source: versions - Amendment SA0529
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate Government Operations 1
+Amendment No. 1 to SB2228
+Jackson
+Signature of Sponsor
+AMEND S e n ate Bill No. 2228* House Bill No. 2533
+by deleting Section 11 and substituting instead the following:
+SECTION 11. Tennessee Code Annotated, Section 49-6-3004(i), is amended by
+deleting "An LEA" wherever it appears in the subsection and substituting "An LEA or public
+charter school", by deleting "an LEA" wherever it appears in the subsection and substituting "an
+LEA or public charter school", and by deleting "the LEA" wherever it appears in the subsection
+and substituting "the LEA or public charter school".
+AND FURTHER AMEND by deleting Section 39 and substituting the following:
+SECTION 39. Tennessee Code Annotated, Section 49-6-2302(a), is amended by
+deleting "school board" in subdivisions (a)(1) and (2) and substituting "local board of education
+or public charter school governing body".
+AND FURTHER AMEND by deleting Section 59 and substituting the following:
+SECTION 59. Tennessee Code Annotated, Section 49-16-213, is amended by deleting
+subsection (b) and substituting:
+(b) In addition to the intervention options available under § 49-1-602, if a virtual
+school is identified as a priority school pursuant to § 49-1-602, then the LEA must not
+exceed its enrollment cap specified in § 49-16-211(b) and the virtual school identified as
+a priority school must not exceed its enrollment for the prior year. The enrollment cap
+takes effect for the school year immediately following the identification and does not
+affect students enrolled in the virtual school at the time of the identification.
+(c)
+SA0529
+013860
+- 1 -
+
+(1) If a virtual school is identified as a priority school pursuant to § 49-1-
+602 for two (2) consecutive cycles, then the LEA must close the virtual school for
+the school year immediately following the identification.
+(2) Notwithstanding chapter 3, part 1 of this title, if a virtual school is
+closed pursuant to this subsection (c), then the Tennessee investment in student
+achievement formula (TISA) payments for the LEA that established the virtual
+school must exclude a student who was a member in the virtual school in the
+prior school year who did not remain a member in the LEA.
+(3) If a virtual school is closed pursuant to this subsection (c), then:
+(A) Within one (1) calendar week of the closure decision, the
+virtual school must notify in writing the parents or legal guardians of all
+students enrolled in the virtual school of the closure decision;
+(B) Within thirty (30) days of the closure decision, the department
+of education must communicate to the parents or legal guardians of all
+students enrolled in the virtual school of other schools or educational
+options in which the student is eligible to enroll;
+(C) The virtual school must not enroll any new students; and
+(D) A contracted nonprofit or for-profit provider of the virtual
+school must not withhold student records from the LEA or the school to
+which a virtual school student transfers.
+AND FURTHER AMEND by adding a new section immediately preceding the antepenultimate
+section and renumbering the subsequent sections accordingly:
+SECTION __. Tennessee Code Annotated, Section 49-16-214, is amended by deleting
+the section and substituting:
+(a) An establisher may contract for services with nonprofit and for-profit
+providers for the operation and management of a virtual school.
+- 2 - 013860
+
+(b) The department of education shall maintain and publish on the department's
+website a list of providers that operated or managed a virtual school pursuant to
+subsection (a) that was closed pursuant to § 49-16-213(c)(1).
+AND FURTHER AMEND by deleting "rules promulgated by the state board of education" in
+subdivision (b)(2)(B) in the amendatory language of Section 67 and substituting "chapter 6, part
+45 of this title".
+AND FURTHER AMEND by deleting Sections 60 through 63 and Section 69 and renumbering
+remaining sections accordingly.
+- 3 - 013860

@@ -1,0 +1,76 @@
+Title: 
+Official Title: 
+Source: versions - Current Version
+Media Type: application/pdf
+
+================================================================================
+
+SENATE BILL 2380
+By Akbari
+HOUSE BILL 2232
+By Dixie
+AN ACT to amend Tennessee Code Annotated, Title 39
+and Title 40, relative to criminal history records.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Title 40, Chapter 32, is amended by adding
+the following as a new part:
+40-32-201.
+(a) A person may petition the court in which the person was convicted of a
+criminal offense to seal the person's criminal history records for the offenses listed in §
+40-32-203. At the time of filing a petition, the person must pay a fee of five hundred
+dollars ($500) to be used by the clerk to offset the cost of sealing records.
+(b) Upon determining that the person is eligible under § 40-32-202 to have the
+person's criminal history records sealed, the court shall enter an order sealing the
+records from all public records requests. The sealed records may continue to be used
+for the following purposes:
+(1) By the Tennessee bureau of investigation or the federal bureau of
+investigation, in determining whether to approve a firearms transaction, pursuant
+to § 39-17-1316, or a handgun carry permit application, pursuant to § 39-17-1351
+or § 39-17-1366;
+(2) By the department of health in maintaining a registry of persons who
+have abused, neglected, or misappropriated the property of vulnerable
+individuals, pursuant to title 68, chapter 11, part 10; and
+(3) By the Tennessee peace officer standards and training commission in
+determining, pursuant to § 38-8-104(g), whether a person has any recorded
+HB2232
+012051
+- 1 -
+
+convictions in this state and meets the minimum qualifications for law
+enforcement officers as provided in § 38-8-106.
+40-32-202.
+A person is an eligible petitioner under this part if the person:
+(1) Has fulfilled the requirements of the sentence imposed by the court in
+which the person was convicted of the offense, including:
+(A) Payment of all fines, restitution, court costs, and other
+assessments;
+(B) Completion of any term of imprisonment or probation;
+(C) Meeting all conditions of supervised or unsupervised release;
+and
+(D) If so required by the conditions of the sentence imposed,
+remaining free from dependency on or abuse of alcohol or a controlled
+substance or other prohibited substance for a period of no less than one
+(1) year;
+(2) Is not subject to any pending criminal charges; and
+(3) Has not been convicted of a criminal offense for at least five (5)
+years, beginning after the completion of any term of imprisonment, supervised or
+unsupervised release, or probation.
+40-32-203.
+(a) Except as provided in subsection (b), criminal history records related to a
+conviction for any misdemeanor offense and any offense committed prior to November
+1, 1989, that would constitute a misdemeanor offense if committed under current law are
+eligible to be sealed under this part.
+(b) The following offenses are ineligible to be sealed under this part:
+- 2 - 012051
+
+(1) Domestic assault, under § 39-13-111; and
+(2) Driving under the influence, under § 55-10-401.
+40-32-204.
+If, after the person's records have been sealed, the person is charged with a new
+offense other than a moving or nonmoving traffic offense, then the court that ordered the
+records to be sealed shall rescind the order pending the disposition of the new charge.
+If the person is convicted of the new offense, then the court shall order the records to be
+unsealed. If the new charges result in any other final disposition, then the court shall
+reinstate the order sealing the person's records.
+SECTION 2. This act takes effect July 1, 2026, the public welfare requiring it.
+- 3 - 012051

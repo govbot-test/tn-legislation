@@ -1,0 +1,126 @@
+Title: 
+Official Title: 
+Source: versions - Current Version
+Media Type: application/pdf
+
+================================================================================
+
+HOUSE BILL 1848
+By Butler
+SENATE BILL 2575
+By Harshbarger
+AN ACT to amend Tennessee Code Annotated, Title 56,
+relative to medicare supplement policies.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 56-7-1501, is amended by adding
+the following as a new, appropriately designated subdivision:
+( ) "Non-age eligible person" means a person who is:
+(A) Under sixty-five (65) years of age; and
+(B) Eligible for medicare by reason of disability or end stage renal
+disease;
+SECTION 2. Tennessee Code Annotated, Section 56-7-1503(b), is amended by
+deleting "Notwithstanding any other law to the contrary" and substituting "Except as provided in
+subdivision (h)(3)(C)".
+SECTION 3. Tennessee Code Annotated, Section 56-7-1503(g)(1)(A), is amended by
+deleting the subdivision and substituting:
+(A) Insurers offering medicare supplement policies and certificates in this state
+to persons sixty-five (65) years of age or older shall also offer medicare supplement
+policies to a non-age eligible person who is enrolled in medicare. Except as otherwise
+provided in this section, all benefits, protections, policies, and procedures that apply to
+persons sixty-five (65) years of age or older also apply to a non-age eligible person who
+is enrolled in medicare.
+SECTION 4. Tennessee Code Annotated, Section 56-7-1503(g)(1)(B), is amended by
+deleting "Individuals who are under sixty-five (65) years of age and eligible for medicare by
+SB2575
+010290
+- 1 -
+
+reason of disability or end stage renal disease" and substituting "Except as provided in
+subsection (h), a non-age eligible person".
+SECTION 5. Tennessee Code Annotated, Section 56-7-1503(g)(1)(C), is amended by
+deleting the subdivision and substituting:
+(C) Insurers shall utilize the weighted average aged premium rate, as described
+in subsection (i), for medicare supplement policies and certificates issued to non-age
+eligible persons pursuant to this section.
+SECTION 6. Tennessee Code Annotated, Section 56-7-1503, is amended by adding
+the following as new subsections:
+(h)
+(1) Except as provided in subdivision (h)(3)(A), an insurer shall not deny,
+condition the issuance or effectiveness of, or discriminate in the pricing of a
+medicare supplement policy available for sale in this state because of the health
+status, claims experience, receipt of health care, or medical condition of an
+applicant if the applicant:
+(A) Submits an application for the policy prior to or during the six-
+month period beginning on the first day of the first month in which the
+applicant is both:
+(i) Sixty-five (65) years of age or older; and
+(ii) Timely enrolled for benefits under medicare part B
+without penalty under federal law;
+(B) Is a non-age eligible person and:
+(i) Submits an application for the policy prior to or during
+the six-month period beginning on the first day of the first month in
+- 2 - 010290
+
+which the non-age eligible person is enrolled for benefits under
+medicare part B;
+(ii) Has enrolled for benefits under medicare part B prior to
+January 1, 2027; and
+(a) The applicant submits an application for the
+policy during the six-month period beginning on January 1,
+2027; or
+(b) If an application is not available for the
+applicant to submit under subdivision (h)(1)(B)(ii)(a) on or
+before January 1, 2027, the applicant makes a request for
+an application for the policy during the six-month period
+beginning on January 1, 2027; or
+(C) Satisfies all of the following requirements:
+(i) At the time the application is submitted, the applicant is
+insured under a medicare supplement policy; and
+(ii) The applicant submits the application for the policy:
+(a) To an insurer that is different than the insurer
+that issued the applicant's current medicare supplement
+policy;
+(b) Within sixty (60) days of the applicant's birthday
+and
+(c) The applicant seeks to maintain the same
+medicare supplement plan.
+- 3 - 010290
+
+(2) Any medicare supplement policy available for sale in this state must
+be made available to a non-age eligible applicant who satisfies the requirements
+in subdivision (h)(1)(B).
+(3)
+(A) A non-age eligible person shall not be charged more than the
+weighted average aged premium rate, as described in subsection (i), for
+the policy.
+(B) An insurer shall:
+(i) Not charge a non-age eligible person more than the
+weighted average aged premium rate, as described in subsection
+(i), for the policy; and
+(ii) Provide proof of compliance with subdivision
+(h)(3)(B)(i).
+(C) The policy for the non-age eligible person shall not contain
+any waiting period or preexisting condition limitation or exclusion.
+(i) The weighted average aged premium rate shall be calculated as follows:
+(1) Multiply the premium rate for each age band, sixty-five (65) years of
+age and over, by the number of individuals in this state insured in-force in that
+age band to arrive at the total premium for each age band sixty-five (65) years of
+age and over;
+(2) Calculate the sum of the premium for all age bands sixty-five (65)
+years of age and over to arrive at the total premium for all age bands sixty-five
+(65) years of age and over;
+- 4 - 010290
+
+(3) Calculate the sum of the insureds in-force for all age bands sixty-five
+(65) years of age and over to arrive at the total number of insureds in-force for all
+age bands sixty-five (65) years of age and over; and
+(4) Divide the total determined under subdivision (i)(2) by the total
+determined under subdivision (i)(3).
+(j) The commissioner shall promulgate rules to determine the age-bands utilized
+to calculate the weighted average aged premium rate, as described in subsection (i).
+SECTION 7. Tennessee Code Annotated, Section 56-7-1503(g)(2), is amended by
+deleting the subdivision.
+SECTION 8. This act takes effect January 1, 2027, the public welfare requiring it, and
+applies to policies, plans, and contracts entered into, renewed, amended, or modified on or after
+that date.
+- 5 - 010290
