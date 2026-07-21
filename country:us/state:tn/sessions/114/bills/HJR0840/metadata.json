@@ -133,16 +133,6 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:05:14Z"
       }
-    },
-    {
-      "description": "Action Def. in s/c  Criminal Justice Subcommittee to 4/7/2026",
-      "date": "2026-04-07",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-13T06:05:14Z"
-      }
     }
   ],
   "sponsorships": [
@@ -185,7 +175,7 @@
     "division_id": "ocd-division/country:us/state:tn"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:05:14Z",
+    "logs_latest_update": "2026-07-21T07:52:24Z",
     "text_extraction_latest_update": "2026-07-13T13:38:22.247933Z"
   }
 }

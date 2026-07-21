@@ -210,18 +210,6 @@
       }
     },
     {
-      "description": "Rec for pass if am by s/c ref. to Judiciary Committee",
-      "date": "2026-04-07",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "referral-committee"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-13T06:05:29Z"
-      }
-    },
-    {
       "description": "Placed on cal. Calendar & Rules Committee for 4/9/2026",
       "date": "2026-04-08",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -335,7 +323,7 @@
     "division_id": "ocd-division/country:us/state:tn"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:05:29Z",
+    "logs_latest_update": "2026-07-21T07:52:24Z",
     "text_extraction_latest_update": "2026-07-13T13:15:59.119578Z"
   }
 }

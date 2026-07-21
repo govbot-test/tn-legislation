@@ -98,16 +98,6 @@
       }
     },
     {
-      "description": "Placed on cal. Education Committee for 3/10/2026",
-      "date": "2026-03-05",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-13T06:05:30Z"
-      }
-    },
-    {
       "description": "Action def. in Education Committee to 3/17/2026",
       "date": "2026-03-10",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -334,7 +324,7 @@
     "division_id": "ocd-division/country:us/state:tn"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:05:30Z",
+    "logs_latest_update": "2026-07-21T07:52:24Z",
     "text_extraction_latest_update": "2026-07-13T16:07:24.530079Z"
   }
 }
