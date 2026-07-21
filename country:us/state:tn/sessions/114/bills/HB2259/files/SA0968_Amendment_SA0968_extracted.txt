@@ -1,0 +1,86 @@
+Title: 
+Official Title: 
+Source: versions - Amendment SA0968
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate Health and Welfare 1
+Amendment No. 1 to SB2413
+Crowe
+Signature of Sponsor
+AMEND S e n ate Bill No. 2413* House Bill No. 2259
+by deleting all language after the enacting clause and substituting:
+SECTION 1. Tennessee Code Annotated, Section 68-11-272(b), is amended by adding
+the following as new, appropriately designated subdivisions:
+( ) "Adverse healthcare incident" means an objective and definable outcome
+arising from or related to patient care that results in the death or injury of a patient;
+( ) "Open discussion":
+(A) Means any communication that is made under this section and
+includes memoranda, work product, documents, and other materials that are
+prepared for, or submitted in the course of or in connection with, communications
+under this section; and
+(B) Does not include any communications, memoranda, work product,
+documents, or other materials that are otherwise subject to discovery and that
+were not prepared specifically for use pursuant to this subdivision (b)( );
+SECTION 2. Tennessee Code Annotated, Section 68-11-272(c), is amended by adding
+the following as new subdivisions:
+(4) A good faith disclosure of information related to an activity of a QIC made by
+a healthcare provider or healthcare organization to a patient or family member of a
+patient in an open discussion is not a waiver of the privilege and confidentiality
+protections provided under this section. Such disclosures are considered separate and
+apart from a QIC proceeding and do not affect the privilege attributed to the QIC
+documentation.
+SA0968
+015993
+- 1 -
+
+(5)
+(A) A healthcare provider and healthcare organization are not required to
+disclose findings, determinations, or conclusions of a QIC during a legal,
+administrative, or other proceeding.
+(B) The outcomes from the QIC review must remain confidential and
+privileged unless otherwise provided by state or federal law, in which case, the
+disclosure of any QIC proceeding materials, findings, or conclusions made solely
+to comply with state or federal law does not waive the confidentiality, privilege, or
+the restricted use of QIC materials, findings, or conclusions as prohibited in this
+section.
+(6)
+(A) A healthcare provider or healthcare organization may voluntarily
+engage in an open discussion. Any communications during an open discussion
+are not an admission of liability and are protected from discovery, as described in
+subdivision (c)(1).
+(B) A healthcare provider or healthcare organization may engage in
+voluntary communications, as described in subdivision (c)(6)(A), and is immune
+from liability as a result of the open discussion as long as the communication is
+undertaken in good faith and in compliance with subdivision (c)(7).
+(7)
+(A) If an adverse healthcare incident occurs, then a healthcare provider
+or healthcare organization may elect to engage in an open discussion with a
+patient or invite a patient to participate in the open discussion with the purpose of
+addressing the incident and proposing resolutions. In a situation where the
+patient is incapacitated or deceased, a healthcare provider or a healthcare
+organization may engage in an open discussion with a patient's family member or
+- 2 - 015993
+
+legal representative. For a minor patient, the open discussion must include the
+patient's guardian.
+(B) The following conditions apply to an open discussion pursuant to
+subdivision (c)(7)(A):
+(i) Any communication made during the open discussion process
+is:
+(a) Privileged and confidential; and
+(b) Not subject to discovery, subpoena, or use as
+evidence in any judicial, administrative, or arbitration proceeding;
+(ii) An individual with whom a healthcare provider or healthcare
+organization engages in the open discussion process following an
+adverse healthcare incident, including a patient and any other affected
+person, must sign a written acknowledgment after an adverse healthcare
+incident occurs before an open discussion takes place; and
+(iii) Unless otherwise agreed upon by the patient, only a party
+involved in the adverse healthcare incident and the party's
+representatives, including legal counsel, may participate in the open
+discussion process.
+SECTION 3. This act takes effect upon becoming a law, the public welfare requiring it.
+- 3 - 015993

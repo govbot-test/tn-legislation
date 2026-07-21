@@ -1,0 +1,139 @@
+Title: 
+Official Title: 
+Source: versions - Current Version
+Media Type: application/pdf
+
+================================================================================
+
+SENATE BILL 2304
+By Pody
+HOUSE BILL 2471
+By Lynn
+AN ACT to amend Tennessee Code Annotated, Title 47,
+Chapter 18; Title 53 and Title 68, Chapter 221,
+relative to fluoride.
+WHEREAS, the Tennessee General Assembly finds that the addition of fluoride to public
+drinking water is a matter of public health concern and individual choice; and
+WHEREAS, the Tennessee General Assembly also finds that consumers have limited
+ability to avoid fluoride exposure when it is added to municipal water supplies or bottled water
+sold in retail outlets; and
+WHEREAS, the Tennessee General Assembly further finds that this State has a
+compelling interest in protecting the health and autonomy of its residents by ensuring access to
+fluoride-free drinking water; now, therefore:
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. This act is known and may be cited as the "Tennessee Fluoride-Free
+Water Act."
+SECTION 2. Tennessee Code Annotated, Section 68-221-711, is amended by adding
+the following as a new subdivision:
+( )
+(A) The adding of fluoride or a fluoride-containing compound to drinking
+water that is intended for human consumption and delivered to consumers
+through a public water system located in this state by the owner or operator of
+the public water system.
+(B) The prohibition in subdivision ( )(A) applies to:
+(i) All forms of fluoride, including, but not limited to:
+HB2471
+009225
+- 1 -
+
+(a) Sodium fluoride;
+(b) Fluorosilicic acid; and
+(c) Sodium fluorosilicate; and
+(ii) All compounds intended to raise fluoride levels in water.
+SECTION 3. Tennessee Code Annotated, Section 68-221-708(c), is amended by
+deleting the subsection.
+SECTION 4. Tennessee Code Annotated, Section 68-221-709, is amended by deleting
+the section and substituting the following:
+(a) If the quarterly analysis of a water sample from a public water system by a
+certified laboratory confirms that the level of naturally occurring fluoride in the sample
+exceeds the maximum contaminant level goal (MCLG) for fluoride established by the
+U.S. environmental protection agency (EPA), the public water system from which the
+sample was taken must:
+(1) Obtain laboratory analysis of water samples monthly for fluoride
+levels;
+(2) Take corrective action to reduce the level of naturally occurring
+fluoride to a level at or below the MCLG for fluoride established by the EPA; and
+(3) Notify all of its customers that a water sample tested exceeded the
+MCLG for fluoride established by the EPA in a manner established by the
+department.
+(b) Once the monthly analysis of water samples for fluoride conducted pursuant
+to subdivision (a)(1) confirms that the fluoride level in samples is less than the MCLG for
+fluoride established by the EPA for three (3) consecutive months, the public water
+system may resume quarterly laboratory analysis for fluoride.
+- 2 - 009225
+
+SECTION 5. Tennessee Code Annotated, Section 68-221-713(a)(1), is amended by
+deleting the subdivision and substituting the following:
+(1)
+(A) Except as provided in subdivision (a)(1)(B), a person who violates or
+fails to comply with this part, an order of the commissioner or the board issued
+pursuant to this part, or a rule, regulation, or standard adopted pursuant to this
+part is subject to a civil penalty of not less than fifty dollars ($50.00) nor more
+than five thousand dollars ($5,000) per day for each day of violation.
+(B) A person who violates or fails to comply with Section 2 or 4 of this
+act, an order of the commissioner or the board issued pursuant to Section 2 or 4
+of this act, or a rule, regulation, or standard adopted pursuant to Section 2 or 4 of
+this act is subject to a civil penalty of not less than one thousand dollars ($1,000)
+nor more than five thousand dollars ($5,000) per day for each day of violation.
+SECTION 6. Tennessee Code Annotated, Title 53, is amended by adding the following
+as a new chapter:
+53-16-101.
+(a) It is a violation of this chapter for a person to sell, offer for sale, or distribute
+or dispense for consideration bottled water containing added fluoride within this state.
+(b) The prohibition in subsection (a) applies to:
+(1) All forms of fluoride, including, but not limited to:
+(A) Sodium fluoride;
+(B) Fluorosilicic acid; and
+(C) Sodium fluorosilicate; and
+(2) All compounds intended to raise fluoride levels in water.
+53-16-102.
+- 3 - 009225
+
+(a) Bottled water containing naturally occurring fluoride that is sold, offered for
+sale, or distributed or dispensed for consideration in this state must be clearly labeled
+with the fluoride concentration.
+(b) If the concentration level of naturally occurring fluoride in bottled water that is
+sold, offered for sale, or distributed or dispensed for consideration in this state exceeds
+seven-tenths of a milligram per liter (0.7 mg/L), the bottle must be clearly labeled with
+the following warning:
+WARNING: This product contains fluoride at levels exceeding the recommended
+limit for optimal health.
+53-16-103.
+(a) An agent of the commissioner of agriculture who has probable cause to
+believe that bottled water is being sold, offered for sale, or distributed or dispensed for
+consideration in violation of § 53-16-101 or § 53-16-102 shall mark the article as
+"detained" or "embargoed" and petition a judge for an order of condemnation pursuant to
+§ 53-1-201.
+(b) A violation of § 53-16-101 or § 53-16-102 is punishable by a civil penalty of
+five hundred dollars ($500). Each bottle of water that is sold, offered for sale, or
+distributed or dispensed for consideration in violation of § 53-16-101 or § 53-16-102 is a
+separate violation.
+(c)
+(1) The commissioner of agriculture or the commissioner's designee shall
+establish a process by which violations of this chapter may be reported.
+(2) The attorney general and reporter may bring an action against a
+person who violates this chapter to enjoin further violations and to recover a civil
+penalty of five hundred dollars ($500) per violation.
+- 4 - 009225
+
+(3) A civil penalty collected pursuant to this section must be paid into the
+general fund of this state.
+(4) The prevailing party in an action brought under subdivision (c)(2) is
+entitled to reasonable attorney's fees, court costs, and expenses, but court costs
+must not be taxed against the attorney general and reporter or this state in
+actions commenced under this section.
+(5) Jurisdiction for an action brought pursuant to this section is in the
+chancery court of Davidson County or the chancery court in the county where the
+person against whom the action is brought is located.
+53-16-104.
+The department of agriculture shall promulgate rules to effectuate this chapter.
+The rules must be promulgated in accordance with the Uniform Administrative
+Procedures Act, compiled in title 4, chapter 5.
+SECTION 7. If any provision of this act or its application to any person or circumstance
+is held invalid, then the invalidity does not affect other provisions or applications of the act that
+can be given effect without the invalid provision or application, and to that end, the provisions of
+this act are severable.
+SECTION 8. This act takes effect upon becoming a law for the purpose of promulgating
+rules, the public welfare requiring it. For all other purposes, this act takes effect July 1, 2026,
+the public welfare requiring it.
+- 5 - 009225

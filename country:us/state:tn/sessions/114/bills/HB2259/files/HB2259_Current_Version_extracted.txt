@@ -1,0 +1,108 @@
+Title: 
+Official Title: 
+Source: versions - Current Version
+Media Type: application/pdf
+
+================================================================================
+
+SENATE BILL 2413
+By Watson
+HOUSE BILL 2259
+By Helton-Haynes
+AN ACT to amend Tennessee Code Annotated, Title 68,
+Chapter 11, relative to quality improvement
+committees.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 68-11-272(b), is amended by adding
+the following as new, appropriately designated subdivisions:
+( ) "Adverse healthcare incident" means an objective and definable outcome
+arising from or related to patient care that results in the death or physical injury of a
+patient;
+( ) "Open discussion":
+(A) Means any communication that is made under this section and
+includes memoranda, work product, documents, and other materials that are
+prepared for, or submitted in the course of or in connection with, communications
+under this section; and
+(B) Does not include any communications, memoranda, work product,
+documents, or other materials that are otherwise subject to discovery and that
+were not prepared specifically for use pursuant to this subdivision (b)( );
+SECTION 2. Tennessee Code Annotated, Section 68-11-272(c), is amended by adding
+the following as new subdivisions:
+(4) A good faith disclosure of information related to an activity of a QIC made by
+a healthcare provider or healthcare organization to a patient or family member of a
+patient is not a waiver of the privilege and confidentiality protections provided under this
+HB2259
+012689
+- 1 -
+
+section. Such disclosures are considered separate from a QIC proceeding and do not
+affect the privilege attributed to the QIC documentation.
+(5) A healthcare provider and healthcare organization are not required to
+disclose findings, determinations, or conclusions of a QIC during a legal, administrative,
+or other proceeding. Participation in or the outcomes from the QIC review must remain
+confidential and privileged unless otherwise mandated by federal law.
+(6)
+(1) A healthcare provider or healthcare organization may voluntarily
+engage in open, post-adverse healthcare incident communications with a patient
+or the patient's family regarding the incident. Such communications are not an
+admission of liability and are protected from discovery, as described in
+subdivision (c)(1).
+(2) A healthcare provider or healthcare organization engaging in
+voluntary communications as described in subdivision (c)(6), is immune from
+liability for the contents of the communication, as long as the communication is
+undertaken in good faith.
+(7)
+(A) If an adverse healthcare incident occurs, then a healthcare provider
+or healthcare organization may elect to engage in an open discussion with a
+patient or invite a patient to participate in the open discussion with the purpose of
+addressing the incident and proposing resolutions. In a situation where the
+patient is incapacitated or deceased, a healthcare provider or a healthcare
+organization may engage in an open discussion with a patient's family member or
+legal representative. For a minor patient, the open discussion must include the
+patient's guardian.
+- 2 - 012689
+
+(B) The following conditions apply to an open discussion pursuant to
+subdivision (c)(7)(A):
+(i) Any communication made during the open discussion process
+is:
+(a) Privileged and confidential;
+(b) Not subject to discovery, subpoena, or use as
+evidence in any judicial, administrative, or arbitration proceeding;
+and
+(c) Encouraged to include offers of settlement or
+corrective actions without implying fault or liability;
+(ii) An individual with whom a healthcare provider or healthcare
+organization engages in the open discussion process following an
+adverse healthcare incident, including a patient and any other affected
+person, must be advised of the patient's right to legal counsel before
+participating in the open discussion;
+(iii) The healthcare provider or healthcare organization shall notify
+an individual with whom such provider or organization attempts to engage
+in an open discussion with in writing that participation in an open
+discussion does not extend a statute of limitation for filing a lawsuit unless
+agreed to in writing by each party; and
+(iv) Unless otherwise agreed upon by the patient, only a party
+involved in the adverse healthcare incident and the party's
+representatives, including legal counsel, may participate in the open
+discussion process.
+(8)
+- 3 - 012689
+
+(A) A party wishing to waive confidentiality on open discussion materials
+must provide an express waiver in writing. The waiver must clearly identify the
+materials involved and specify the scope of the waiver.
+(B) The waiver must include:
+(i) A list of the specific materials covered by the waiver;
+(ii) A statement of the purpose for waiving confidentiality;
+(iii) An acknowledgment of the waiver's implications; and
+(iv) The duration of the waiver, if applicable.
+(C) The waiver must be signed and dated by an authorized
+representative. An authorized representative may utilize an electronic signature.
+(D) The waiver may be revoked at any time through written notice, and
+such revocation becomes effective upon receipt, except where the waiver has
+been relied upon for a material action.
+(E) This requirement does not apply when disclosures are mandated by
+law or court order.
+SECTION 3. This act takes effect upon becoming a law, the public welfare requiring it.
+- 4 - 012689

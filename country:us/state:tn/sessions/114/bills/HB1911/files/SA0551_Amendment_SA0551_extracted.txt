@@ -1,0 +1,31 @@
+Title: 
+Official Title: 
+Source: versions - Amendment SA0551
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+Senate State and Local Government 1
+Amendment No. 1 to SB1970
+Briggs
+Signature of Sponsor
+AMEND S e n ate Bill No. 1970* House Bill No. 1911
+by deleting all language after the enacting clause and substituting:
+SECTION 1. Tennessee Code Annotated, Section 10-7-503, is amended by adding the
+following as a new subsection:
+(i)
+(1) An individual who is not a citizen of this state is entitled to inspect or receive
+a copy of any law enforcement record or report pertaining solely to that individual,
+including, but not limited to, an arrest report, incident report, crash report, or citation, if
+the individual submits:
+(A) A written request identifying the specific record sought;
+(B) A copy of a valid government-issued photo identification; and
+(C) A signed affidavit affirming that the record requested pertains solely
+to the individual requester.
+(2) This subsection (i) does not authorize the release of a record that is
+otherwise confidential by law.
+SECTION 2. This act takes effect July 1, 2026, the public welfare requiring it.
+SA0551
+013856
+- 1 -

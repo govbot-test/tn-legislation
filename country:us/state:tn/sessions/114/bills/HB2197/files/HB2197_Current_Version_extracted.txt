@@ -1,0 +1,35 @@
+Title: 
+Official Title: 
+Source: versions - Current Version
+Media Type: application/pdf
+
+================================================================================
+
+SENATE BILL 2555
+By Reeves
+HOUSE BILL 2197
+By Gant
+AN ACT to amend Tennessee Code Annotated, Title 63
+and Title 68, relative to health care.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
+SECTION 1. Tennessee Code Annotated, Section 63-1-130(b), is amended by deleting
+subdivision (3) and substituting:
+(3) Prior to submitting the application necessary to obtain a license, certification,
+or registration, an individual may request in writing or electronically a notice from the
+licensing authority from which the individual seeks to obtain a license, certification, or
+registration concerning the individual's qualification to obtain the license, certificate, or
+registration, based on the individual's criminal history. If the licensing authority
+determines that an individual is disqualified due to the individual's criminal history, the
+licensing authority must provide the individual with a written notification that sets forth
+the reasons for its determination and its justification in accordance with subdivision
+(b)(4)(A). The notice as to the individual's qualifications to obtain a license, certificate, or
+registration must be limited to the individual's criminal history and should not be
+construed as prohibiting the licensing authority from denying an application on other
+grounds. This determination applies exclusively to the individual and is not an advisory
+or formal opinion of the licensing authority.
+SECTION 2. Tennessee Code Annotated, Section 63-1-130(c), is amended by deleting
+"written" and substituting "written or electronic".
+SECTION 3. This act takes effect upon becoming a law, the public welfare requiring it.
+HB2197
+012236
+- 1 -
