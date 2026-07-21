@@ -150,16 +150,6 @@
       }
     },
     {
-      "description": "Placed on cal. Education Committee for 3/10/2026",
-      "date": "2026-03-05",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-13T06:05:17Z"
-      }
-    },
-    {
       "description": "Action def. in Education Committee to 3/17/2026",
       "date": "2026-03-10",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -300,11 +290,11 @@
       }
     },
     {
-      "description": "Sponsor(s) Added.",
+      "description": "Passed H., as am., Ayes 92, Nays 0, PNV 0",
       "date": "2026-04-13",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
-        "sponsorship"
+        "passage"
       ],
       "related_entities": [],
       "_processing": {
@@ -312,11 +302,11 @@
       }
     },
     {
-      "description": "Passed H., as am., Ayes 92, Nays 0, PNV 0",
+      "description": "Sponsor(s) Added.",
       "date": "2026-04-13",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
-        "passage"
+        "sponsorship"
       ],
       "related_entities": [],
       "_processing": {
@@ -553,7 +543,7 @@
     "division_id": "ocd-division/country:us/state:tn"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:05:17Z",
+    "logs_latest_update": "2026-07-21T07:57:15Z",
     "text_extraction_latest_update": "2026-07-13T20:34:06.155590Z"
   }
 }
